@@ -1,0 +1,3076 @@
+id: 30th-century-comics
+name: 30th Century Comics
+description: Comics shop in Putney.
+address: 18 Lower Richmond Road, SW15 1JP
+locales: Putney, SW15
+website: http://www.thirtiethcentury.free-online.co.uk/
+lat: 51.467219
+long: -0.21823445
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: 56a-infoshop
+name: 56a Infoshop
+address: 56 Crampton Street, SE17 3AE
+locales: Elephant and Castle, Walworth, SE17
+rgl: http://london.randomness.org.uk/wiki.cgi?56a_Infoshop,_SE17_3AE
+lat: 51.490349
+long: -0.100036
+new: unknown
+secondhand: unknown
+checked: July 2008
+charity: no
+open: yes
+---
+id: al-saqi-books-westbourne-grove
+name: Al Saqi Books
+address: 26 Westbourne Grove, W2 5RH
+locales: Bayswater, W2, Westbourne Green, Westbourne Grove
+description: They claim on their website to be the UK's largest Middle Eastern bookseller.
+website: http://www.alsaqibookshop.com/
+londonist: http://londonist.com/2009/06/biblio-text_al_saqi_bookshop.php
+photo: http://www.flickr.com/photos/55935853@N00/3990677801/
+lat: 51.515648
+long: -0.190136
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: any-amount-of-books
+name: Any Amount of Books
+address: 56 Charing Cross Road
+website: http://www.anyamountofbooks.com/
+rgl: http://london.randomness.org.uk/wiki.cgi?Any_Amount_Of_Books
+photo: http://www.flickr.com/photos/ruudboy/1269876498/
+new: no
+secondhand: yes
+lat: 51.512268
+long: -0.128467
+checked: April 2008
+charity: no
+open: yes
+---
+id: a-place-in-space-croydon
+name: A Place In Space
+address: 101 Church Street, CR0 1RN
+description: Comics and graphic novels.
+website: http://stores.ebay.co.uk/A-PLACE-IN-SPACE
+photo: http://www.flickr.com/photos/kake_pugh/6883401397/
+other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?A_Place_In_Space,_101_Church_Street">Completists' Guide to Croydon</a></li>
+lat: 51.3738119426855
+long: -0.104830649245554
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: archive-bookstore
+name: Archive Bookstore
+address: 83 Bell Street, NW1 6TB
+description: Secondhand books and sheet music.
+website: http://www.archivebookstore.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/3685228953/
+lat: 51.521667
+long: -0.167102
+new: no
+secondhand: yes
+charity: no
+open: yes
+checked: November 2012
+---
+id: arthur-probsthain
+name: Arthur Probsthain
+address: 41 Great Russell Street, WC1B 3PE
+description: Oriental and African books.
+website: http://www.oriental-african-books.com/
+lat: 51.517921
+long: -0.126815
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: artwords
+name: Artwords
+address: 65a Rivington Street, EC2A 3QQ
+website: http://www.artwords.co.uk/aboutus/
+londonist: http://londonist.com/2009/09/biblio-text_artwords.php
+lat: 51.526207
+long: -0.080917
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: atlantis-bookshop
+name: Atlantis Bookshop
+address: 49a Museum Street, WC1A 1LY
+description: Allegedly London's oldest independent occult booksellers.
+website: http://www.theatlantisbookshop.com/
+londonist: http://londonist.com/2009/07/biblio-text_atlantis_bookshop.php
+photo: http://www.flickr.com/photos/rjw1/8512079743/
+lat: 51.517597
+long: -0.125227
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: February 2013
+---
+id: bargain-bookshop
+name: Bargain Bookshop
+address: 135 Station Road, E4 6AG
+website: http://www.bookservice.biz/
+lat: 51.632790
+long: 0.008497
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: barnes-bookshop
+name: Barnes Bookshop
+address: 60 Church Road, SW13 0DQ
+photo: http://flickr.com/photos/kake_pugh/2977997334/
+lat: 51.474792
+long: -0.240583
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: October 2008
+---
+id: barrie-marks
+name: Barrie Marks
+address: 24 Church Vale, N2 9PA
+description: Not much about this on the interweb - not sure it still exists.  Antiquarian, I think.
+lat: 51.593163
+long: -0.159473
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: beaumont-travel-books
+name: Beaumont Travel Books
+address: 33 Couthurst Road, SE3 8TN
+website: http://www.abebooks.com/beaumont-travel-books-aba-ilab-london/10321/sf
+other_links: <li><a href="http://www.sheila-markham.com/Archives/gbeau.htm">Interview with the owner</a></li>
+lat: 51.478619
+long: 0.026414
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: beckenham-bookshop
+name: Beckenham Bookshop
+address: 42 High Street, BR3 1AY
+website: http://www.bookshopbeckenham.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/6318029673/
+lat: 51.409573
+long: -0.025320
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: October 2011
+---
+id: becketts-bookshops
+name: Beckett's Bookshop
+address: 6 Bellevue Road, SW17 7EG
+description: Sister bookshop to Dulwich Village Books.  Beckett's Bookshop was the name of a different bookshop which used to be on this site some years ago — not sure if the new one is keeping the name for good.
+lat: 51.445621
+long: -0.165932
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: belgravia-books
+name: Belgravia Books
+address: 59 Ebury Street, SW1W 0NZ
+website: http://www.belgraviabooks.com/
+twitter: BelgraviaB
+reading_matters: http://kimbofo.typepad.com/readingmatters/2012/02/a-visit-to-belgravia-books-london.html
+lat: 51.495122
+long: -0.14798900
+new: yes
+secondhand: no
+checked: February 2012
+charity: no
+open: yes
+---
+id: bertram-rota
+name: Bertram Rota
+address: 31 Long Acre, WC2E 9LT
+description: Modern first editions, architecture and the applied arts, private press books.
+website: http://www.bertramrota.co.uk/
+lat: 51.512634
+long: -0.124980
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: big-green-bookshop
+name: Big Green Bookshop
+address: Unit 1, Brampton Park Road, Wood Green, N22 6BG
+website: http://www.biggreenbookshop.com/
+blog: http://woodgreenbookshop.blogspot.com/
+twitter: BigGreenBooks
+phone: 020 8881 6767
+photo: http://flickr.com/photos/kake_pugh/2570192318/
+rgl: http://london.randomness.org.uk/wiki.cgi?Big_Green_Bookshop
+lat: 51.592432
+long: -0.10657851
+new: yes
+secondhand: unknown
+checked: December 2012
+charity: no
+open: yes
+---
+id: black-gull-books-camden
+name: Black Gull Books (Camden)
+address: 70-71 Camden Lock Place, Camden Lock Market, NW1 8AF
+website: http://www.camdenlockmarket.com/unit.php?id=61
+lat: 51.541279
+long: -0.146556
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: black-gull-books-east-finchley
+name: Black Gull Books (East Finchley)
+address: 121 High Road, N2 8AG
+rgl: http://london.randomness.org.uk/wiki.cgi?Black_Gull_Books,_N2_8AG
+photo: http://www.flickr.com/photos/kake_pugh/3346261843/
+lat: 51.590736
+long: -0.164945
+new: no
+secondhand: yes
+charity: no
+open: yes
+checked: March 2009
+---
+id: blackwells-charing-cross-road
+name: Blackwell's at Charing Cross Road
+address: 100 Charing Cross Road, WC2H 0JG
+website: http://bookshop.blackwell.co.uk/jsp/editorial/shops/index.jsp?selectShop=editorial%2Fshops%2FSHOP36.jsp
+lat: 51.514137
+long: -0.129486
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: blackwells-wellcome
+name: Blackwell's at the Wellcome Collection
+address: 183 Euston Road, NW1 2BE
+website: http://bookshop.blackwell.co.uk/jsp/editorial/shops/index.jsp?selectShop=editorial%2Fshops%2FSHOP95.jsp
+lat: 51.526007
+long: -0.13402918
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: blenheim-books
+name: Blenheim Books (incorporating Garden Books)
+address: 11 Blenheim Crescent, W11 2EE
+website: http://www.blenheimbooks.co.uk/
+londonist: http://londonist.com/2009/04/biblio-text_blenheim_books.php
+lat: 51.515694
+long: -0.205275
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: bolingbroke-bookshop
+name: Bolingbroke Bookshop
+address: 147 Northcote Road, SW11 6QB
+lat: 51.455383
+long: -0.164559
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: book-and-comic-exchange
+name: Book and Comic Exchange
+address: 14 Pembridge Road, W11 3HL
+website: http://www.mveshops.co.uk/
+other_links: <li><a href="http://www.thetopfloorflat.com/2009/03/book-and-comic-exchange-in-notting-hill/">Top Floor Flat review</a></li>
+photo: http://www.flickr.com/photos/kake_pugh/2726935398/
+lat: 51.509609
+long: -0.197024
+new: unknown
+secondhand: unknown
+checked: August 2008
+charity: no
+open: yes
+---
+id: bookartbookshop
+name: Bookartbookshop
+address: 17 Pitfield Street, N1 6HB
+website: http://www.bookartbookshop.com/
+lat: 51.527184
+long: -0.083835
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: book-box
+name: Book Box
+address: 53 Chatsworth Road, E5 0LH
+website: http://bookboxonline.tbpcontrol.co.uk/tbp.direct/customeraccesscontrol/home.aspx?d=bookboxonline&amp;s=C&amp;r=10000788&amp;ui=0&amp;bc=0
+photo: http://www.flickr.com/photos/55935853@N00/3445053887/
+londonist: http://londonist.com/2010/10/biblio-text_the_bookbox.php
+lat: 51.553326
+long: -0.044889
+new: unknown
+secondhand: unknown
+checked: March 2009
+charity: no
+open: yes
+---
+id: bookcase
+name: Bookcase
+address: 268 Chiswick High Road, W4 1PD
+rgl: http://london.randomness.org.uk/wiki.cgi?Bookcase,_W4_1PD
+photo: http://www.flickr.com/photos/kake_pugh/2493193263/
+lat: 51.492725
+long: -0.257857
+new: unknown
+secondhand: unknown
+checked: November 2008
+charity: no
+open: yes
+---
+id: bookends
+name: Bookends
+address: 108 Charing Cross Road, WC2H 0JN
+lat: 51.514393
+long: -0.129583
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: book-haus
+name: Book Haus
+address: 70 Cadogan Place, SW1X 9AH
+website: http://www.hauspublishing.com/
+photo: http://www.flickr.com/photos/55935853@N00/3990676509/
+lat: 51.494617
+long: -0.156657
+new: unknown
+secondhand: unknown
+checked: August 2009
+charity: no
+open: yes
+---
+id: bookmarks
+name: Bookmarks
+address: 1 Bloomsbury Street, WC1B 3QE
+website: http://www.bookmarksbookshop.co.uk/cgi/store/bookmark.cgi
+twitter: Bookmarks_books
+rgl: http://london.randomness.org.uk/wiki.cgi?Bookmarks,_WC1B_3QE
+lat: 51.517155
+long: -0.127351
+new: unknown
+secondhand: unknown
+checked: October 2009
+charity: no
+open: yes
+---
+id: books4less
+name: Books4Less
+address: Unit 11, InShops Centre, 35-43 High Street, HA3 7AE
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1509
+lat: 51.594256
+long: -0.334770
+new: yes
+secondhand: yes
+charity: no
+open: yes
+---
+id: books-and-bygones
+name: Books and Bygones
+address: 52 Hayes Street, BR2 7LD
+description: May be more of an antique shop?
+lat: 51.379040
+long: 0.017660
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: books-bought-and-sold
+name: Books Bought and Sold
+address: 68 Walton Road, KT8 0DL
+website: http://www.booksinstore.co.uk/
+description: Previously a bricks-and-mortar store in East Molesey, it <a href="http://www.getsurrey.co.uk/business/s/2128018_independent_rare_bookshop_moves_entirely_online">went online only</a> in early 2013, though they still sell at book fairs, and stock can be viewed by appointment.
+lat: 51.399555
+long: -0.353773
+new: unknown
+secondhand: unknown
+charity: no
+open: no
+---
+id: bookseller-crow-on-the-hill
+name: Bookseller Crow On The Hill
+address: 50 Westow Street, SE19 3AF
+website: http://www.booksellercrow.com/
+londonist: http://londonist.com/2009/05/biblio-text_bookseller_crow_on_the_1.php
+photo: http://www.flickr.com/photos/kake_pugh/8252068163/
+phone: 020 8771 8831
+blog: http://booksellercrow.typepad.com/the_bedside_crow/
+twitter: booksellercrow
+description: Independent family-run bookshop in Crystal Palace.
+rgl: http://london.randomness.org.uk/wiki.cgi?Bookseller_Crow_On_The_Hill,_SE19_3AF
+lat: 51.417435
+long: -0.082054
+new: yes
+secondhand: no
+charity: no
+open: yes
+checked: December 2012
+---
+id: books-for-amnesty
+name: Books For Amnesty
+address: 139b King Street, W6 9JG
+description: Second hand bookshop, profits go to Amnesty International.
+website: http://www.amnesty.org.uk/content.asp?CategoryID=11019
+rgl: http://london.randomness.org.uk/wiki.cgi?Books_For_Amnesty,_W6_9JG
+photo: http://www.flickr.com/photos/kake_pugh/3649058402/
+lat: 51.492393
+long: -0.230455
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+checked: June 2009
+---
+id: books-for-cooks
+name: Books For Cooks
+address: 4 Blenheim Crescent, W11 1NN
+website: http://www.booksforcooks.com/
+rgl: http://london.randomness.org.uk/wiki.cgi?Books_For_Cooks,_W11_1NN
+lat: 51.515827
+long: -0.205650
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: bookshop-loughton
+name: The Bookshop
+address: 150 High Road, IG10 4BE
+lat: 51.645866
+long: 0.053172
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: bookshop-hampton
+name: The Book Shop
+address: Hampton Railway Station, Ashley Road, TW12 2HU
+other_links: <li><a href="http://www.richmondandtwickenhamtimes.co.uk/news/868906.struggling_to_keep_up_the_good_work/">Local newspaper article</a></li>
+lat: 51.416004
+long: -0.372033
+new: unknown
+secondhand: unknown
+open: unknown
+charity: no
+open: yes
+---
+id: bookshop-hackney
+name: The Book Shop
+address: 58 Clarence Road, E5 8HB
+description: <a href="http://www.hackneycitizen.co.uk/">Hackney Citizen</a> says it's a second-hand bookshop with an emphasis on black and children's literature.
+lat: 51.550953
+long: -0.055382
+new: no
+secondhand: yes
+charity: no
+open: yes
+---
+id: bookshop-on-the-heath
+name: Bookshop on the Heath
+address: 74 Tranquil Vale, SE3 0BW
+website: http://www.bookshopontheheath.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/5694008238/
+rgl: http://london.randomness.org.uk/wiki.cgi?Bookshop_On_The_Heath
+lat: 51.466827
+long: 0.007274
+new: no
+secondhand: yes
+charity: no
+open: yes
+checked: May 2011
+---
+id: books-ink
+name: Books Ink
+address: 143 Walthamstow High Street, E17 7JS
+description: Remaindered and discount books from the people behind the Stoke Newington Bookshop.
+website: http://www.stokenewingtonbookshop.co.uk/
+lat: 51.582630
+long: -0.029569
+new: no
+secondhand: yes
+charity: no
+open: yes
+---
+id: bookstop
+name: Bookstop
+address: 375 Upper Richmond Road, SW14 7NX
+long: -0.267835
+lat: 51.464409
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: bookthrift
+name: Bookthrift
+address: 22 Thurloe Street, SW7 2LT
+long: -0.173829
+lat: 51.494305
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: book-warehouse-waterloo
+name: Book Warehouse (Waterloo)
+address: 158 Waterloo Road, SE1 8SB
+rgl: http://london.randomness.org.uk/wiki.cgi?Book_Warehouse,_SE1_8SB
+photo: http://flickr.com/photos/kake_pugh/2669855002/
+checked: July 2008
+website: http://www.thebookwarehouse.co.uk/
+lat: 51.502159
+long: -0.110335
+new: yes
+secondhand: no
+charity: no
+open: yes
+---
+id: book-warehouse-holborn
+name: Book Warehouse (Holborn)
+address: 120 Southampton Row, WC1B 5AB
+photo: http://www.flickr.com/photos/kake_pugh/8278081938/
+website: http://www.thebookwarehouse.co.uk/
+lat: 51.520667
+long: -0.12290606
+new: yes
+secondhand: no
+charity: no
+open: yes
+checked: December 2012
+---
+id: book-warehouse-notting-hill
+name: Book Warehouse (Notting Hill)
+address: 72-74 Notting Hill Gate, W11 3HT
+phone: 020 7727 4149
+photo: http://www.flickr.com/photos/kake_pugh/2727113392/
+checked: August 2008
+website: http://www.thebookwarehouse.co.uk/
+lat: 51.509227
+long: -0.19620010
+new: yes
+secondhand: no
+charity: no
+open: yes
+---
+id: bookworm-carshalton
+name: Bookworm
+address: 23 West Street, SM5 2PT
+rgl: http://london.randomness.org.uk/wiki.cgi?Bookworm,_SM5_2PT
+photo: http://www.flickr.com/photos/kake_pugh/7976510658/
+lat: 51.3666308
+long: -0.16724527
+new: no
+secondhand: yes
+charity: no
+open: yes
+checked: September 2012
+---
+id: british-heart-foundation-streatham
+name: British Heart Foundation Books & Music Shop
+address: 94 Streatham High Road, SW16 1BS
+website: http://www.bhf.org.uk/shop_with_bhf/our_shops/shopping/books_and_music.aspx
+lat: 51.435162
+long: -0.128531
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+---
+id: british-red-cross-palmers-green
+name: British Red Cross Bookshop
+address: 385 Green Lanes, N13 4JG
+qype: http://www.qype.co.uk/place/76224#reviews
+lat: 51.619297
+long: -0.107503
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+---
+id: brixton-bookmongers
+name: Brixton Bookmongers
+address: 439 Coldharbour Lane, SW9 8LN.
+rgl: http://london.randomness.org.uk/wiki.cgi?Brixton_Book_Mongers
+photo: http://www.flickr.com/photos/kake_pugh/2809290205/
+lat: 51.461426
+long: -0.113833
+new: no
+secondhand: yes
+charity: no
+open: yes
+---
+id: broadway-bookshop-hackney
+name: Broadway Bookshop
+address: 6 Broadway Market, E8 4QJ
+website: http://www.broadwaybookshophackney.com/
+tol: http://www.tiredoflondontiredoflife.com/2010/07/search-for-paperbacks-at-broadway.html
+long: -0.061433
+lat: 51.536835
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: calder-bookshop-southwark
+name: Calder Bookshop
+address: 51 The Cut, SE1 8LF
+description: Holds regular events, including readings in their back room "theatre".
+website: http://www.calderbookshop.com/
+twitter: CalderBookshop
+lat: 51.502998
+long: -0.106838
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: camden-lock-books-old-street
+name: Camden Lock Books
+address: 4 St Agnes Well, Old Street Station, EC1Y 1BE
+website: http://www.camdenlockbooks.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/3423596467/
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1529
+lat: 51.525593
+long: -0.087569
+new: yes
+secondhand: yes
+charity: no
+open: yes
+checked: April 2009
+---
+id: childrens-bookshop-hornsey-road
+name: Children's Bookshop
+address: 435 Hornsey Road, N19 4DX
+lat: 51.567264
+long: -0.12229881
+other_links: <li><a href="http://thehornseyroad.blogspot.co.uk/2012/06/seven-things-i-found-about-new-bookshop.html">The Hornsey Road article</a>
+new: unknown
+secondhand: unknown
+checked: June 2012
+charity: no
+open: yes
+---
+id: church-street-bookshop-stoke-newington
+name: Church Street Bookshop
+address: 142 Stoke Newington Church Street, N16 0JU
+rgl: http://london.randomness.org.uk/wiki.cgi?Church_Street_Bookshop
+photo: http://www.flickr.com/photos/55935853@N00/1351799987/
+lat: 51.561974
+long: -0.081153
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: cecil-court-bookshops
+name: Cecil Court (multiple shops)
+address: Cecil Court, WC2N
+description: Small lane running between Charing Cross Road and St Martin's Lane, with several rare/antiquarian bookshops.
+other_links: '<li>Londonist articles: <a href="http://londonist.com/2009/06/biblio-text_special_cecil_court_1.php">1</a>, <a href="http://londonist.com/2009/06/biblio-text_marchpane_goldsboro_boo.php">2</a>, <a href="http://londonist.com/2009/07/biblio-text_pleasures_of_past_times.php">3</a>, <a href="http://londonist.com/2009/07/biblio-text_travis_and_emery_watkin.php">4</a>, <a href="http://londonist.com/2009/07/biblio-text_motor_books.php">5</a></li> <li><a href="http://londonrobstuff.blogspot.com/2009/12/cecil-court-wc2.html">London Stuff article</a></li>'
+website: http://cecilcourt.co.uk/
+long: -0.127587
+lat: 51.510612
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: centerprise-trust-bookshop-kingsland-road
+name: Centerprise Trust Bookshop
+address: 136-138 Kingsland Road, E8 2NS
+description: Self-described as "one of East London’s oldest and most famous community bookshops" and "the home of Black cultural books and literature for East London".  It was <a href="http://hackneycitizen.co.uk/2012/11/04/centerprise-bookshop-seized-hackney-council/">forced to close</a> in autumn 2012.
+website: http://www.centerprisetrust.org.uk/literature/
+lat: 51.549349
+long: -0.075016
+new: unknown
+secondhand: unknown
+charity: no
+open: no
+---
+id: chener-books-lordship-lane
+name: Chener Books
+address: 14 Lordship Lane, SE22 8HN
+rgl: http://london.randomness.org.uk/wiki.cgi?Chener_Books,_SE22_8HN
+photo: http://www.flickr.com/photos/rjw1/5089865536/
+lat: 51.460117
+long: -0.075467
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: October 2010
+---
+id: chesham-bookshop
+name: Chesham Bookshop
+address: 71 The Broadway, High Street, HP5 1BX
+rgl: http://london.randomness.org.uk/wiki.cgi?Chesham_Bookshop
+photo: http://www.flickr.com/photos/kake_pugh/3975044917/
+lat: 51.706158
+long: -0.612080
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: October 2009
+---
+id: chess-and-bridge
+name: Chess & Bridge
+address: 44 Baker Street, W1U 7RT
+description: Games shop specialising in chess, bridge, and poker, with a large selection of books.
+rgl: http://london.randomness.org.uk/wiki.cgi?Chess_And_Bridge,_W1U_7RT
+photo: http://www.flickr.com/photos/kake_pugh/4440281829/
+lat: 51.517923
+long: -0.153919
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: October 2009
+---
+id: childrens-bookshop-muswell-hill
+name: Children's Bookshop
+address: 29 Fortis Green Road, N10 3HP
+lat: 51.590057
+long: -0.146813
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: chorleywood-bookshop
+name: Chorleywood Bookshop
+address: 4 New Parade, WD3 5AA
+website: http://www.chorleywoodbookshop.co.uk/
+long: -0.519533
+lat: 51.651630
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: clapham-books
+name: Clapham Books
+address: 120 Clapham High Street, SW4 7UH
+website: http://www.claphambooks.com/
+twitter: ClaphamBooks
+londonist: http://londonist.com/2009/09/biblio-text_clapham_books.php
+photo: http://www.flickr.com/photos/kake_pugh/3551895419/
+long: -0.135634
+lat: 51.462872
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: May 2009
+---
+id: classic-library
+name: Classic Library
+address: 533 King's Road, SW10 0TZ
+long: -0.185330
+lat: 51.480328
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: clerkenwell-tales
+name: Clerkenwell Tales
+address: 30 Exmouth Market, EC1R 4QE
+website: http://www.clerkenwell-tales.co.uk/
+tol: http://www.tiredoflondontiredoflife.com/2013/05/buy-books-at-clerkenwell-tales.html
+twitter: booksellerpete
+long: -0.109059
+lat: 51.525841
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: collinge-and-clark
+name: Collinge and Clark
+address: 13 Leigh Street, WC1H 9EW
+description: Private press books, books about typography.
+photo: http://www.flickr.com/photos/55935853@N00/3445878406/
+long: -0.125045
+lat: 51.526455
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: copperfields
+name: Copperfield's
+address: 37 Hartfield Road, SW19 3SG
+yelp: http://www.yelp.co.uk/biz/copperfield-bookshop-london
+photo: http://www.flickr.com/photos/kake_pugh/3676830134/
+long: -0.205586
+lat: 51.419537
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: June 2009
+---
+id: croydon-bookshop
+name: Croydon Bookshop
+address: 304 Carshalton Road, SM5 3QB
+long: -0.173378
+lat: 51.362991
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: ct-pocket
+name: CT Pocket
+address: 152 Deptford High Street, SE8 3PQ
+description: Mini arts bookshop in the Bearspace art gallery, opened in September 2009.
+other_links: <li><a href="http://deptforddame.blogspot.com/2009/08/new-art-bookshop-at-bearspace.html">Deptford Dame post</a></li>
+long: -0.025894
+lat: 51.479225
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: daunt-books-marylebone
+name: Daunt Books (Marylebone)
+address: 83 Marylebone High Street, W1U 4QW
+description: Specialist travel bookshop, part of a small chain.
+website: http://www.dauntbooks.co.uk/
+twitter: DauntBooks
+rgl: http://london.randomness.org.uk/wiki.cgi?Daunt_Books%2C_W1U_4QW
+long: -0.152017
+lat: 51.520393
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: daunt-books-hampstead
+name: Daunt Books (Hampstead)
+address: 51 South End Road, NW3 2QB
+description: Specialist travel bookshop, part of a small chain.
+website: http://www.dauntbooks.co.uk/
+twitter: DauntBooks
+rgl: http://london.randomness.org.uk/wiki.cgi?Daunt_Books,_NW3_2QB
+long: -0.166726
+lat: 51.555542
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: daunt-books-cheapside
+name: Daunt Books (Cheapside)
+address: 61 Cheapside, EC2V 6AX
+description: Specialist travel bookshop, part of a small chain.
+website: http://www.dauntbooks.co.uk/
+twitter: DauntBooks
+rgl: http://london.randomness.org.uk/wiki.cgi?Daunt_Books,_EC2V_6AX
+long: -0.093065
+lat: 51.513916
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: daunt-books-belsize-park
+name: Daunt Books (Belsize Park)
+address: 193 Haverstock Hill, NW3 4QL
+description: Specialist travel bookshop, part of a small chain.
+website: http://www.dauntbooks.co.uk/
+twitter: DauntBooks
+long: -0.165439
+lat: 51.550484
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: daunt-books-holland-park
+name: Daunt Books (Holland Park)
+address: 112-114 Holland Park Avenue, W11 4UA
+description: Specialist travel bookshop, part of a small chain.
+website: http://www.dauntbooks.co.uk/
+twitter: DauntBooks
+long: -0.207539
+lat: 51.506767
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: daunt-books-chelsea
+name: Daunt Books (Chelsea)
+address: 158-164 Fulham Road, SW10 9PR
+description: Specialist travel bookshop, part of a small chain.
+website: http://www.dauntbooks.co.uk/
+twitter: DauntBooks
+long: -0.179903
+lat: 51.486608
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: dulwich-books
+name: Dulwich Books
+address: 6 Croxted Road, SE21 8SW
+website: http://www.dulwichbooks.co.uk/
+twitter: DulwichBooks
+long: -0.090444
+lat: 51.436676
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: dulwich-village-books
+name: Dulwich Village Books
+address: 1d Calton Avenue, SE21 7DE
+description: The interweb is unsure of its exact name...
+long: -0.084522
+lat: 51.451534
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: ealing-books
+name: Ealing Books
+address: 20 South Ealing Road, W5 4QA.
+website: http://www.ealingbooks.co.uk/
+other_links: <li><a href="http://www.ealinggazette.co.uk/lifestyle-ealing/my-ealing/2011/11/18/ealing-bookseller-defies-trend-towards-e-readers-64767-29801787/">Ealing Gazette article</a></li>
+long: -0.306957
+lat: 51.503548
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: earlsfield-bookshop
+name: Earlsfield Bookshop
+address: 513 Garratt Lane, SW18 4SW
+yelp: http://www.yelp.co.uk/biz/the-earlsfield-book-shop-london
+photo: http://www.flickr.com/photos/55935853@N00/3991431104/
+long: -0.188355
+lat: 51.442478
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: brick-lane-bookshop
+name: Brick Lane Bookshop
+address: 166 Brick Lane, E1 6RU
+website: http://www.bricklanebookshop.org/
+twitter: BrickLaneBooks
+londonist: http://londonist.com/2009/06/biblio-text_eastside_books.php
+description: Previously known as Eastside Books (<a href="http://flickr.com/photos/kake_pugh/2476108271/">photo</a>).
+long: -0.071497
+lat: 51.521683
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: epping-bookshop
+name: Epping Bookshop
+address: 71 High Street, CM16 4BA
+website: http://epping-bookshop.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Epping_Bookshop
+photo: http://www.flickr.com/photos/kake_pugh/2904726201/
+long: 0.107481
+lat: 51.696609
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: September 2008
+---
+id: european-bookshop-warwick-street
+name: European Bookshop
+address: 5 Warwick Street, W1B 5LU
+website: http://www.europeanbookshop.com/
+long: -0.137544
+lat: 51.510838
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: falconwood-transport-and-military-bookshop
+name: Falconwood Transport and Military Bookshop
+address: 5 Falconwood Parade, The Green, DA16 2PL
+long: 0.094414
+lat: 51.456776
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: fisher-and-sperr
+name: Fisher and Sperr
+address: 46 Highgate High Street, N6 5JB
+photo: http://www.flickr.com/photos/55935853@N00/8026334691/
+other_links: <li><a href="http://www.londontown.com/LondonInformation/Shopping/Fisher__Sperr/b71b/">LondonTown entry</a></li> <li><a href="http://www.dalemcgowan.com/samples/bookcrawling.html">Amusing essay</a></li>
+description: <a href="http://library-keeper.livejournal.com/9021.html">Closed in early 2010</a>.
+long: -0.147350
+lat: 51.570816
+new: unknown
+secondhand: unknown
+charity: no
+open: no
+---
+id: forbidden-planet-croydon
+name: Forbidden Planet (Croydon)
+address:  43 Church Street, CR0 1RH
+description: Comics and graphic novels.  Previously located at 175 North End, CR0 1TP, but moved to Church Street in late 2011.
+website: http://www.forbiddenplanet.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/7616724606/
+other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?Forbidden_Planet,_43_Church_Street">Completists' Guide to Croydon</a></li>
+lat: 51.3733010355549
+long: -0.10271086892913
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: forbidden-planet-shaftesbury-avenue
+name: Forbidden Planet (Shaftesbury Avenue)
+address: 179 Shaftesbury Avenue, WC2H 8JR
+website: http://forbiddenplanet.com/WhereWeAre.html
+long: -0.127265
+lat: 51.515205
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: fosters-bookshop-chiswick
+name: Fosters Bookshop
+address: 183 Chiswick High Road, W4 2DR.
+description: Second-hand and antiquarian.
+twitter: fostersbookshop
+rgl: http://london.randomness.org.uk/wiki.cgi?Fosters_Bookshop,_W4_2DR
+photo: http://www.flickr.com/photos/kake_pugh/2493085533/
+long: -0.257106
+lat: 51.492378
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: foyles-charing-cross-road
+name: Foyles at Charing Cross Road
+address: 113-119 Charing Cross Road, WC2H 0EB
+website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1011
+twitter: Foyles
+other_links: <li><a href="http://londonrobstuff.blogspot.com/2009/12/foyles-charing-cross-road-wc2.html">London Stuff review</a></li>
+long: -0.129980
+lat: 51.514671
+new: yes
+secondhand: no
+charity: no
+open: yes
+---
+id: foyles-pancras-road
+name: Foyles at St Pancras International
+address: Unit 8A, St Pancras Station, N1C 4QL
+website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1000
+photo: http://www.flickr.com/photos/rjw1/8269863312/
+twitter: Foyles
+phone: 020 3206 2650
+long: -0.125334
+lat: 51.530453
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: foyles-southbank
+name: Foyles at Royal Festival Hall
+address: Southbank Centre, SE1 8XX
+website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1010
+photo: http://www.flickr.com/photos/kake_pugh/2672916162/
+twitter: Foyles
+phone: 020 7440 3212
+long: -0.117309
+lat: 51.505882
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: foyles-westfield
+name: Foyles at Westfield White City
+address: Unit 2054, Westfield White City, W12 7GE
+website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1012
+twitter: Foyles
+phone: 020 3206 2656
+long: -0.221658
+lat: 51.507446
+new: yes
+secondhand: no
+charity: no
+open: yes
+---
+id: foyles-westfield-stratford
+name: Foyles at Westfield Stratford City
+address: 74-75 Lower Ground Floor, The Arcade, Westfield Stratford City, E20 1EH
+website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1016
+twitter: Foyles
+phone: 020 3206 2671
+long: -0.0054387153
+lat: 51.543943
+new: yes
+secondhand: no
+charity: no
+open: yes
+---
+id: foyles-one-new-change
+name: Foyles at One New Change
+address: One New Change, 25 Upper Cheapside Passage, EC2V 6AG
+website: http://www.foyles.co.uk/
+twitter: Foyles
+description: A branch of Foyles in the One New Change shopping centre; it <a href="http://www.thebookseller.com/news/foyles-close-one-new-change-today.html">closed for good</a> in November 2011.
+londonist: http://londonist.com/2010/11/biblio-text_foyles_one_new_change.php
+long: -0.096640
+lat: 51.514397
+new: unknown
+secondhand: unknown
+charity: no
+open: no
+---
+id: freedom-bookshop-whitechapel
+name: Freedom Bookshop
+address: 84b Whitechapel High Street, E1 7QX
+website: http://www.freedompress.org.uk/
+twitter: Freedom_Paper
+description: 'Note: The Freedom Bookshop <a href="https://twitter.com/Freedom_Paper/status/297332447039856640">was firebombed</a> on the night of 31 January 2013.  As of mid-February, they are back open again at the same address with a temporary <a href="http://www.freedompress.org.uk/news/2013/02/12/rainbow-shop-opens-2/">rainbow bookshop</a>.'
+long: -0.070424
+lat: 51.515953
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: french-bookshop
+name: French Bookshop
+address: 28 Bute Street, SW7 3EX
+website: http://www.frenchbookshop.com/
+lat: 51.493839
+long: -0.17648761
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: gays-the-word
+name: Gay's The Word
+address: 66 Marchmont Street, WC1N 1AB
+website: http://www.gaystheword.co.uk/
+twitter: gaystheword
+rgl: http://london.randomness.org.uk/wiki.cgi?Gay%27s_The_Word
+qype: http://www.qype.co.uk/place/73149#reviews
+photo: http://flickr.com/photos/kake_pugh/2849462045/
+long: -0.125077
+lat: 51.525154
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: September 2008
+---
+id: g-heywood-hill
+name: G Heywood Hill Ltd
+address: 10 Curzon Street, W1J 5HH
+website: http://www.heywoodhill.com/
+londonist: http://londonist.com/2009/06/biblio-text_heywood_hill.php
+other_links: <li><a href="http://ashrarebooks.wordpress.com/2013/01/10/rummage-in-curzon-street/">Laurence Worms' article</a> (scroll down)</li>
+long: -0.146567
+lat: 51.506985
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: gosh
+name: Gosh
+address: 1 Berwick Street, W1F 0DR
+description: Moved to Berwick Street on 6 Aug 2011, previously at 39 Great Russell Street, WC1B 3NZ.
+website: http://goshlondon.blogspot.com/
+long: -0.134239
+lat: 51.512836
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: grant-and-cutler
+name: Grant and Cutler
+address: First Floor, Foyles, 113-119 Charing Cross Road, WC2H 0EB
+description: Foreign-language books.  Previously at 55-57 Great Marlborough Street, W1F 7AY (<a href="http://flickr.com/photos/kake_pugh/2693976892/">photo</a>), but moved to the first floor of Foyles at Charing Cross Road in March 2011.
+website: http://www.grantandcutler.com/
+photo: 
+londonist: http://londonist.com/2009/07/biblio-text_grant_and_cutler.php
+long: -0.129980
+lat: 51.514671
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: greenwich-book-place
+name: Greenwich Book Place
+address: 258 Creek Road, SE10 9SW
+description: Closed at one point — <a href="http://www.thegreenwichphantom.co.uk/2011/06/random-things-noted/">Greenwich Phantom report</a> — but now <a href="http://www.thegreenwichphantom.co.uk/2011/06/8168/">open again</a>.
+other_links: <li><a href="http://www.thegreenwichphantom.co.uk/2009/11/greenwich-book-place.html">Greenwich Phantom article</a></li>
+long: -0.013261
+lat: 51.481331
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: guanghwa-books
+name: Guanghwa Books
+address: 7 Newport Place, WC2H 7JR
+description: Books in both Chinese and English.
+website: http://www.guanghwabooks.co.uk/
+long: -0.129679
+lat: 51.511929
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: halcyon-books-greenwich
+name: Halcyon Books
+address: 1 Greenwich South Street, SE10 8NW
+website: http://www.halcyonbooks.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Halcyon_Books
+long: -0.011823
+lat: 51.477840
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: hatchards-piccadilly
+name: Hatchards
+address: 187 Piccadilly, W1J 9LE
+website: http://www.hatchards.co.uk/
+twitter: Hatchards
+other_links: <li><a href="http://kimbofo.typepad.com/readingmatters/2009/01/a-visit-to-the-oldest-bookshop-in-london.html">Reading Matters review</a></li> <li><a href="http://londonrobstuff.blogspot.com/2010/09/hatchards-piccadilly-w1.html">London Stuff article</a></li>
+londonist: http://londonist.com/2009/09/biblio-text_hatchards.php
+tol: http://www.tiredoflondontiredoflife.com/2009/10/browse-at-hatchards-britains-oldest.html
+long: -0.137984
+lat: 51.508549
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: hellenic-bookservice
+name: Hellenic Bookservice
+address: 49-51 Fortess Road, NW5 1AG
+description: Greek and Latin books.
+website: http://www.hellenicbookservice.com/
+long: -0.140204
+lat: 51.554649
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: henry-pordes-books-charing-cross-road
+name: Henry Pordes Books
+address: 58-60 Charing Cross Road.
+description: Second-hand, antiquarian, and out-of-print books.
+website: http://www.henrypordesbooks.com/
+photo: http://www.flickr.com/photos/kake_pugh/2445597342/
+long: -0.128531
+lat: 51.512348
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: henry-stokes-and-co
+name: Henry Stokes and Co
+address: 58 Elizabeth Street, SW1W 9PB
+description: "a carefully chosen selection of the best new titles in biography and fiction [...] Books as presents are also very important at Stokes and all the most interesting recently published decorating, gardening, cookery and wine, and travel books are stocked."
+website: http://www.henrystokes.co.uk/
+long: -0.151320
+lat: 51.494038
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: herne-hill-books
+name: Herne Hill Books
+address: 289 Railton Road, SE24 0NQ
+twitter: HerneHillBooks
+long: -0.101650
+lat: 51.452518
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: highgate-bookshop
+name: Highgate Bookshop
+address: 9 Highgate High Street, N6 5JR
+long: -0.146127
+lat: 51.570267
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: high-stakes-bookshop
+name: High Stakes Bookshop
+address: 21 Great Ormond Street, WC1N 3JB
+description: Used to sell gambling books, but now online only.  As of December 2012 the Great Ormond Street premises are occupied by a shop called Volte Face (<a href="http://www.flickr.com/photos/kake_pugh/8277022061/">photo</a>).
+website: http://www.highstakes.co.uk/shop/
+long: -0.119219
+lat: 51.522121
+new: unknown
+secondhand: unknown
+charity: no
+open: no
+---
+id: holborn-books
+name: Holborn Books
+address: 17 Sicilian Avenue, WC1A 2QH
+description: Computer bookshop.  Not sure when it was in operation, but it's now closed; as of December 2012 the premises are occupied by Brooks & Brooks hairdressers (<a href="http://www.flickr.com/photos/kake_pugh/8276788017/">photo</a>).
+long: -0.121365
+lat: 51.518372
+new: unknown
+secondhand: unknown
+charity: no
+open: no
+---
+id: housmans-booksellers
+name: Housmans Booksellers
+address: 5 Caledonian Road, N1 9DX
+description: Radical/far left bookshop.  Socialism, communism, anarchism.  Downstairs is Woburn Books & Porcupine Bookcellar.
+rgl: http://london.randomness.org.uk/wiki.cgi?Housmans_Booksellers
+website: http://www.housmans.com/
+long: -0.120957
+lat: 51.531319
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: hurlingham-books-fulham
+name: Hurlingham Books
+address: 91 Fulham High Street, SW6 3JS
+website: http://www.hurlinghambooks.com/
+photo: http://www.flickr.com/photos/kake_pugh/3842267881/
+long: -0.210092
+lat: 51.468086
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: August 2009
+---
+id: ian-allan-bookshop-lower-marsh
+name: Ian Allan Bookshop
+address: 45-46 Lower Marsh, SE1 7RG.
+description: Specialists in transport and military — books, DVDs, models, etc.
+website: http://www.ianallanpublishing.com/our-shops.htm
+photo: http://flickr.com/photos/kake_pugh/2680352153/
+long: -0.111923
+lat: 51.501049
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: ibis-bookshop
+name: Ibis Bookshop
+address: 109 High Street, SM7 2NJ
+photo: http://www.flickr.com/photos/rjw1/6783815645/
+long: -0.199513
+lat: 51.323265
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: idler-academy
+name: Idler Academy
+address: 81 Westbourne Park Road, W2 5QH
+website: http://idler.co.uk/
+timeout: http://www.timeout.com/london/restaurants/venue/2:29641/idler-academy
+long: -0.195297
+lat: 51.519218
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: ica-bookshop
+name: Institute of Contemporary Arts
+address: The Mall, SW1Y 5AH
+description: Not precisely a bookshop per se, but their shop sells books.
+twitter: ICALondon
+rgl: http://london.randomness.org.uk/wiki.cgi?Institute_Of_Contemporary_Arts
+long: -0.130849
+lat: 51.505951
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: jambala
+name: Jambala
+address: 247 Globe Road, E2 0JD
+website: http://www.jambala-bookshop.blogspot.com/
+long: -0.051273
+lat: 51.528324
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: jane-gibberd-lower-marsh
+name: Jane Gibberd Secondhand Books
+address: 20 Lower Marsh, SE1 7RJ.
+rgl: http://london.randomness.org.uk/wiki.cgi?Jane_Gibberd_Secondhand_Books
+photo: http://flickr.com/photos/kake_pugh/2680395581/
+checked: July 2008
+long: -0.113232
+lat: 51.500397
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: jarndyce
+name: Jarndyce
+address: 46 Great Russell Street, WC1B 3PA
+description: 18th and 19th century English literature and history.
+website: http://www.jarndyce.co.uk/
+long: -0.126386
+lat: 51.518070
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: jonathan-potter
+name: Jonathan Potter Ltd
+address: 52a George Street, W1U 7EA
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=892
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: john-sandoe-books
+name: John Sandoe Books
+address: 10 Blacklands Terrace, SW3 2SP
+website: http://www.johnsandoe.com/
+rgl: http://london.randomness.org.uk/wiki.cgi?John_Sandoe_Books
+long: -0.160954
+lat: 51.491364
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: john-trotter-books
+name: John Trotter Books
+address: 80 East End Road, N3 2SY
+description: Jewish and Middle Eastern specialist.
+other_links: <li><a href="http://www.bookbase.com/john-trotter-books.htm">Bookbase page</a></li>
+long: -0.189214
+lat: 51.595509
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: josephs-bookstore
+name: Joseph's Bookstore
+address: 1257 Finchley Road, NW11 0AD
+website: http://www.josephsbookstore.com/
+londonist: http://londonist.com/2009/06/biblio-text_josephs_bookstore.php
+photo: http://www.flickr.com/photos/55935853@N00/3991435476/
+long: -0.200200
+lat: 51.586334
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: judd-books
+name: Judd Books
+address: 82 Marchmont Street, WC1N 1AG.
+website: http://www.juddbooks.com/
+rgl: http://london.randomness.org.uk/wiki.cgi?Judd_Books
+photo: http://flickr.com/photos/kake_pugh/2850285322/
+checked: September 2008
+long: -0.125499
+lat: 51.525970
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: junk-shop-greenwich
+name: Junk Shop
+address: 9 Greenwich South Street, SE10 8NW
+description: Stuff from house clearances including books.
+thebookguide: http://www.inprint.co.uk/thebookguide//shops/london/south_east.shtml#junk
+other_links: <li><a href="http://www.thegreenwichphantom.co.uk/2013/01/junk-shop-tea-rooms/">Greenwich Phantom</a></li>
+long: -0.012038
+lat: 51.477554
+new: no
+secondhand: yes
+charity: no
+open: yes
+---
+id: karnac-books-finchley-road
+name: Karnac Books
+address: 118 Finchley Road, NW3 5HT
+website: http://www.karnacbooks.com/
+long: -0.179021
+lat: 51.546631
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: keith-fawkes-hampstead
+name: Keith Fawkes
+address: 1-3 Flask Walk, NW3 1HJ
+rgl: http://london.randomness.org.uk/wiki.cgi?Keith_Fawkes%2C_NW3_1HJ
+photo: http://www.flickr.com/photos/55935853@N00/2624817957/
+long: -0.177562
+lat: 51.556583
+new: no
+secondhand: yes
+charity: no
+open: yes
+---
+id: kennington-bookshop
+name: Kennington Bookshop
+address: 306-308 Kennington Road, SE11 4LD
+rgl: http://london.randomness.org.uk/wiki.cgi?Kennington_Bookshop
+photo: http://flickr.com/photos/kake_pugh/2327287163/
+website: http://www.thekbookshop.com/
+long: -0.111794
+lat: 51.486713
+new: yes
+secondhand: no
+charity: no
+open: yes
+---
+id: kew-bookshop
+name: Kew Bookshop
+address: 1-2 Station Approach, TW9 3QB
+photo: http://flickr.com/photos/kake_pugh/2704390880/
+long: -0.285687
+lat: 51.477455
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: kirkdale-bookshop-sydenham
+name: Kirkdale Bookshop
+address: 272 Kirkdale, SE26 4RS
+rgl: http://london.randomness.org.uk/wiki.cgi?Kirkdale_Bookshop
+website: http://www.kirkdalebookshop.com/
+photo: http://flickr.com/photos/kake_pugh/2282119502/
+long: -0.055575
+lat: 51.426628
+new: yes
+secondhand: yes
+charity: no
+open: yes
+---
+id: koenig-books-charing-cross-road
+name: Koenig Books (Charing Cross Road)
+address: 80 Charing Cross Road.
+website: http://www.koenigbooks.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/2445616864/
+long: -0.128757
+lat: 51.512714
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: koenig-books-serpentine
+name: Koenig Books (Serpentine Gallery)
+address: Serpentine Gallery, Kensington Gardens, W2 3XA
+website: http://www.serpentinegallery.org/bookshop.html
+lat: 51.504718
+long: -0.17497578
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: lamb-bookshop
+name: Lamb Bookshop
+address: 40 Lamb's Conduit Street, WC1N 3LJ
+website: http://www.thelambbookshop.co.uk/
+photo: http://flickr.com/photos/kake_pugh/2852000214/
+long: -0.118039
+lat: 51.521454
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: langtons-bookshop-twickenham
+name: Langton's Bookshop
+address: 44-45 Church Street, TW1 3NT
+description: Closed for good at the end of June 2012.
+photo: http://www.flickr.com/photos/kake_pugh/5761263431/
+rgl: http://london.randomness.org.uk/wiki.cgi?Langton%27s_Bookshop
+long: -0.326757
+lat: 51.446774
+new: yes
+secondhand: no
+charity: no
+open: no
+---
+id: lcl-international-booksellers
+name: LCL International Booksellers Ltd
+description: Now online only via <a href="https://www.bebc.co.uk/">BEBC</a>.  As of December 2012 the Judd Street premises are vacant and boarded up (<a href="http://www.flickr.com/photos/rjw1/8268802739/ photo</a>).
+address: 104 Judd Street, WC1H 9PU
+website: http://www.lclib.com/
+photo: http://www.flickr.com/photos/kake_pugh/4620182072/
+qype: http://www.qype.co.uk/place/358188#reviews
+long: -0.124969
+lat: 51.527931
+new: unknown
+secondhand: unknown
+charity: no
+open: no
+---
+id: librairie-la-page
+name: Librairie La Page
+address: 7 Harrington Road, SW7 3ES
+description: French-language books.
+website: http://www.librairielapage.com/
+lat: 51.494011
+long: -0.17524575
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: lion-and-unicorn-bookshop
+name: Lion & Unicorn Bookshop
+address: 19 King Street, TW9 1ND
+description: Children's books.
+website: http://www.lionunicornbooks.co.uk/
+londonist: http://londonist.com/2009/04/biblio-text_the_lion_unicorn_booksh.php
+long: -0.306909
+lat: 51.460083
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: lloyds-of-kew
+name: Lloyd's of Kew
+address: 9 Mortlake Terrace, Kew, TW9 3DT
+photo: http://flickr.com/photos/kake_pugh/2704615672/
+long: -0.286426
+lat: 51.482605
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: london-review-of-books
+name: London Review Bookshop
+address: 14 Bury Place, WC1A 2JL
+photo: http://www.flickr.com/photos/kake_pugh/2724084824/
+website: http://www.lrbshop.co.uk/
+twitter: lrbshop
+londonist: http://londonist.com/2009/05/biblio-text_london_review_bookshop.php
+other_links: '<li>Reviews of the attached cafe/cake shop: <a href="http://www.londonelicious.com/dining/2009/02/the-london-review-of-books-cakeshop.html">Londonelicious</a>, <a href="http://bellaphon.blogspot.com/2009/04/london-review-cake-shop.html">Bellaphon</a>, <a href="http://eatandbemerryfortomorrowwediet.blogspot.com/2010/12/london-review-cake-shop-england-by.html">Eat And Be Merry</a>, <a href="http://londonrobstuff.blogspot.com/2009/09/london-review-bookshop-cafe.html">London Stuff</a></li>'
+long: -0.124062
+lat: 51.518509
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: lovejoys-charing-cross-road
+name: Lovejoys
+address: 99a Charing Cross Road, WC2H 0DP
+description: Bookshop with a sex shop in the basement.
+yelp: http://www.yelp.co.uk/biz/lovejoys-london-2
+long: -0.129561
+lat: 51.513771
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: lucky-seven-stoke-newington
+name: Lucky Seven
+address: 127 Stoke Newington Church Street, N16 0UH
+rgl: http://london.randomness.org.uk/wiki.cgi?Lucky_Seven,_Stoke_Newington
+description: Mostly records, but some secondhand books too.  Previously known as Ocean Books.  Ocean Books <a href="http://www.stereostokey.com/2009/08/ocean-books-stoke-newington-closed/">closed in August 2009</a> and the site is now occupied by Lucky Seven.
+photo: http://www.flickr.com/photos/55935853@N00/8281035314/
+long: -0.081035
+lat: 51.561733
+new: no
+secondhand: yes
+charity: no
+open: yes
+checked: December 2012
+---
+id: lutyens-and-rubenstein
+name: Lutyens and Rubenstein
+address: 21 Kensington Park Road, W11 2EU
+website: http://www.lutyensrubinstein.co.uk/bookshop-homepage/
+twitter: LandRBookshop
+other_links: <li><a href="http://www.vogue.co.uk/blogs/the-vogue-blog/articles/091026-lutyens-and-rubinstein-book-shop.aspx">Vogue article</a></li>
+tol: http://www.tiredoflondontiredoflife.com/2010/06/browse-for-books-at-lutyens-and.html
+long: -0.205640
+lat: 51.515060
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: magma-clerkenwell-road
+name: Magma (Clerkenwell Road)
+address: 117-119 Clerkenwell Road, EC1R 5BY
+website: http://www.magmabooks.com/
+long: -0.111580
+lat: 51.521763
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: magma-covent-garden
+name: Magma (Covent Garden)
+address: 8 Earlham Street, WC2H 9RY
+website: http://www.magmabooks.com/
+long: -0.128424
+lat: 51.513489
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: marchmont-bookshop
+name: Marchmont Bookshop
+address: 39 Burton Street, WC1H 9AL
+description: All secondhand.  Specialises in Middle-Eastern and African subjects, but also has some general stock.
+qype: http://www.qype.co.uk/place/94514#reviews
+other_links: <li><a href="http://bibliophilicblogger.blogspot.com/2009/04/londons-second-hand-bookshops-no-2.html">Bibliophilic Blogger review</a>
+photo: http://www.flickr.com/photos/rjw1/8268822289/
+long: -0.128231
+lat: 51.526836
+new: no
+secondhand: yes
+charity: no
+open: yes
+checked: December 2012
+---
+id: marcus-campbell-art-books
+name: Marcus Campbell Art Books
+address: 43 Holland Street, SE1 9JR
+website: http://www.marcuscampbell.co.uk/
+description: New, out-of-print, second-hand, and rare books on 20th century and contemporary art.
+lat: 51.507719
+long: -0.10186587
+new: yes
+secondhand: yes
+charity: no
+open: yes
+---
+id: metropolitan-books
+name: Metropolitan Books
+address: 49 Exmouth Market, EC1R 4QL
+website: http://www.metropolitanbooks.co.uk/
+long: -0.108941
+lat: 51.526062
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: morden-hall-park-bookshop
+name: Morden Hall Park Bookshop
+address: Morden Hall Park, Morden Hall Road, SM4 5JD
+website: http://www.nationaltrust.org.uk/morden-hall-park/
+tol: http://www.tiredoflondontiredoflife.com/2012/01/browse-bookshop-at-morden-hall-park.html
+lat: 51.402331
+long: -0.18809715
+new: no
+secondhand: yes
+charity: no
+open: yes
+---
+id: museum-of-london-docklands-bookshop
+name: Museum of London Docklands Bookshop
+address: West India Quay, E14 4AL
+website: http://www.museumindocklands.org.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Museum_Of_London_Docklands
+photo: http://www.flickr.com/photos/kake_pugh/4247950011/
+long: -0.0238793298405246
+lat: 51.5075097888407
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: January 2010
+---
+id: muswell-hill-bookshop
+name: Muswell Hill Bookshop
+address: 72 Fortis Green Road, N10 3HN
+website: http://www.muswellhillbookshop.com/
+twitter: muswellhillbks
+londonist: http://londonist.com/2009/02/biblio-text_muswell_hill_bookshop.php
+long: -0.146041
+lat: 51.590096
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: my-back-pages-balham
+name: My Back Pages
+address: 8-10 Station Road, SW12 9SG
+tol: http://www.tiredoflondontiredoflife.com/2012/03/buy-books-at-my-back-pages.html
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/london/south_west.shtml
+long: -0.151899
+lat: 51.443283
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: new-beacon-books
+name: New Beacon Books
+address: 76 Stroud Green Road, N4 3EN
+website: http://www.newbeaconbooks.co.uk/
+long: -0.109885
+lat: 51.568359
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: naval-maritime-books-greenwich
+name: Naval and Maritime Books
+address: 66 Royal Hill, SE10 8RT
+website: http://www.navalandmaritimebooks.com/
+tol: http://www.tiredoflondontiredoflife.com/2010/05/shop-for-nautical-novels-at-maritime.html
+long: -0.009634
+lat: 51.476498
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: newham-bookshop
+name: Newham Bookshop
+address: 747 Barking Road, E13 9ER
+website: http://www.newhambooks.co.uk/
+twitter: NewhamBookshop
+photo: http://www.flickr.com/photos/kake_pugh/3766346809/
+long: 0.037251
+lat: 51.530334
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2009
+---
+id: nicholas-salter-chingford
+name: Nicholas Salter
+address: Chingford Station, Station Road, E4 6AL
+description: Antique shop with one room dedicated to books.
+long: 0.009356
+lat: 51.633121
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: nomad-books-fulham
+name: Nomad Books
+address: 781 Fulham Road, SW6 5HA
+twitter: NomadBooks
+yelp: http://www.yelp.co.uk/biz/nomad-books-london
+qype: http://www.qype.co.uk/place/98580#reviews
+long: -0.203891
+lat: 51.476494
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: notting-hill-books
+name: Notting Hill Books
+address: 132 Palace Gardens Terrace, W8 4RT
+long: -0.193870
+lat: 51.509075
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: old-bookshop-enfield
+name: The Old Bookshop
+address: 36 Gordon Road, EN2 0PZ
+website: http://www.fjwarnes.co.uk/
+description: Open by appointment only.
+long: -0.082709
+lat: 51.660278
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: old-operating-theatre-bookshops
+name: The Old Operating Theatre Bookshop
+address: 9a St. Thomas's Street, SE1 9RY
+description: Small bookshop attached to the Old Operating Theatre Museum.
+website: http://www.thegarret.org.uk/shop.htm
+lat: 51.504969
+long: -0.088619784
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: open-book-richmond
+name: Open Book
+address: 10 King Street, TW9 1ND
+qype: http://www.qype.co.uk/place/164241
+yelp: http://www.yelp.co.uk/biz/open-book-richmond
+long: -0.306823
+lat: 51.459888
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: osterley-bookshop
+name: Osterley Bookshop
+address: Old Railway Station, 168a Thornbury Road, TW7 4QE
+qype: http://www.qype.co.uk/place/171157
+other_links: <li><a href="http://www.penpushermagazine.co.uk/magazine/extracts/article/90/">Pen Pusher article</a></li>
+long: -0.348108
+lat: 51.483120
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: owl-and-pussycat
+name: The Owl and the Pussycat
+address: 106 Northfield Avenue, W13 9RT
+description: Children's books.
+website: http://www.owlandpussycat.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/3668178596/
+long: -0.316941
+lat: 51.502945
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: June 2009
+---
+id: owl-bookshop
+name: Owl Bookshop
+address: 209 Kentish Town Road, NW5 2JU
+twitter: OwlBookshop
+long: -0.141900
+lat: 51.547215
+photo: http://www.flickr.com/photos/kake_pugh/8200332731/
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: November 2012
+---
+id: oxfam-books-and-music-kentish-town
+name: Oxfam Books and Music (Kentish Town Road)
+address: 166 Kentish Town Road, NW5 2AG.
+long: -0.141470
+lat: 51.547001
+photo: http://www.flickr.com/photos/kake_pugh/8200329747/
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+checked: November 2012
+---
+id: oxfam-books-and-music-gloucester-road
+name: Oxfam Books and Music (Gloucester Road)
+address: 46 Gloucester Road, SW7 4QT
+photo: http://www.flickr.com/photos/kake_pugh/3735230610/
+long: -0.183849
+lat: 51.498123
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+checked: July 2009
+---
+id: oxfam-books-and-music-marylebone
+name: Oxfam Books and Music (Marylebone)
+address: 91 Marylebone High Street, W1U 4RB
+website: http://www.oxfammarylebone.co.uk/
+long: -0.151920
+lat: 51.520054
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+---
+id: oxfam-bookshop-ealing
+name: Oxfam Bookshop (Ealing)
+address: 1 The Green, W5 5DA
+long: -0.305192
+lat: 51.511040
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+---
+id: oxfam-bookshop-bloomsbury
+name: Oxfam Bookshop (Bloomsbury)
+address: 12 Bloomsbury Street, WC1B 3QA
+website: http://oxfambloomsburybooks.wordpress.com/
+long: -0.127394
+lat: 51.517605
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+---
+id: oxfam-bookshop-portobello-road
+name: Oxfam Bookshop (Portobello Road)
+address: 170 Portobello Road, W11 2EB
+long: -0.204642
+lat: 51.515553
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+---
+id: oxfam-bookshop-turnham-green
+name: Oxfam Bookshop (Turnham Green)
+address: 90 Turnham Green Terrace, W4 1QN
+long: -0.255228
+lat: 51.494476
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+---
+id: oxfam-bookshop-westminster
+name: Oxfam Bookshop (Westminster)
+address: 34 Strutton Ground, SW1P 2HR
+long: -0.133885
+lat: 51.496887
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+---
+id: oxfam-bookshop-highgate
+name: Oxfam Bookshop (Highgate)
+address: 47 Highgate High Street, N6 5JX
+long: -0.149024
+lat: 51.570934
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+---
+id: oxfam-bookshop-kingston
+name: Oxfam Bookshop (Kingston)
+address: Old London Road, KT2 6QF
+long: -0.299013
+lat: 51.410625
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+---
+id: oxfam-bookshop-epsom
+name: Oxfam Bookshop (Epsom)
+address: 41 Upper High Street, KT17 4RA
+long: -0.261247
+lat: 51.334568
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+---
+id: oxfam-bookshop-blackheath
+name: Oxfam Bookshop (Blackheath)
+address: 68 Tranquil Vale, SE3 0BN
+long: 0.007060
+lat: 51.467121
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+---
+id: pages-of-fun-westminster
+name: Pages of Fun
+address: 2 Victoria Arcade, SW1E 5ND
+long: -0.143927
+lat: 51.496319
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: pages-of-hackney
+name: Pages of Hackney
+address: 70 Lower Clapton Road, E5 0RN
+website: http://www.pagesofhackney.co.uk/
+twitter: pagesofhackney
+photo: http://www.flickr.com/photos/55935853@N00/3991430102/
+tol: http://www.tiredoflondontiredoflife.com/2010/10/buy-books-at-pages-of-hackney.html
+long: -0.052571
+lat: 51.552620
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: paper-and-cup-bow
+name: Paper & Cup (Bow)
+description: Second branch of the coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  This one opened in early 2013.  The <a href="http://londonbookshops.org/shops/paper-and-cup-shoreditch.html">original branch</a> is in Shoreditch.
+address: 83 St Paul's Way, E3 4AJ
+website: http://www.paperandcup.co.uk/
+twitter: PaperAndCup
+lat: 51.518015
+long: -0.026976
+new: unknown
+secondhand: unknown
+charity: unknown
+open: yes
+---
+id: paper-and-cup-shoreditch
+name: Paper & Cup (Shoreditch)
+description: Coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  There's also <a href="http://londonbookshops.org/shops/paper-and-cup-bow.html">another branch</a> in Bow.
+address: 18 Calvert Avenue, E2 7JP
+website: http://www.paperandcup.co.uk/
+twitter: PaperAndCup
+lat: 51.526171
+long: -0.0763295
+new: unknown
+secondhand: unknown
+charity: unknown
+open: yes
+---
+id: pathfinder-books
+name: Pathfinder Books
+address: First Floor, 120 Bethnal Green Road, E2 6DG
+description: Despite the address, the entrance is on Brick Lane.  This is a volunteer-run bookshop with no set opening hours, and it's best to phone ahead of time to check when they'll be open.
+phone: 020 7613 2466
+rgl: http://london.randomness.org.uk/wiki.cgi?Pathfinder_Books,_E2_6DG
+website: http://www.pathfinderpress.com/s.nl/sc.9/category.249/.f
+photo: http://www.flickr.com/photos/kake_pugh/5606612947/
+long: -0.071588
+lat: 51.524830
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: October 2012
+---
+id: persephone-bookshop-bloomsbury
+name: Persephone Bookshop (Bloomsbury)
+address: 59 Lamb's Conduit Street, WC1N 3NB
+website: http://www.persephonebooks.co.uk/
+other_links: <li><a href="http://newyorkerinlondon.blogspot.com/2009/04/new-bookstore-find-persephone-bookshop.html">New Yorker In London review</a></li><li><a href="http://kimbofo.typepad.com/readingmatters/2007/07/bookish-treats.html">Reading Matters review</a>
+londonist: http://londonist.com/2009/02/persephone.php
+photo: http://www.flickr.com/photos/kake_pugh/2849499717/
+long: -0.118760
+lat: 51.521938
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: persephone-bookshop-kensington
+name: Persephone Bookshop (Kensington)
+address: 109 Kensington Church Street, W8 7LN
+website: http://www.persephonebooks.co.uk/
+other_links: <li><a href="http://foodiefoodie.wordpress.com/2008/08/25/good-things-in-england/">Foodie London blog post</a></li>
+long: -0.194771
+lat: 51.506607
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: photo-books-international
+name: Photo Books International
+address: 99 Judd Street, WC1H 9NE
+website: http://www.pbi-books.com/
+photo: http://www.flickr.com/photos/kake_pugh/4620238904/
+long: -0.125034
+lat: 51.527557
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: pitshanger-bookshop-ealing
+name: Pitshanger Bookshop
+address: 141 Pitshanger Lane, W5 1RH
+website: http://www.pitshangerbooks.co.uk/
+long: -0.314720
+lat: 51.525742
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: primrose-hill-books
+name: Primrose Hill Books
+address: 134 Regent's Park Road, NW1 8XL
+website: http://www.primrosehillbooks.com/
+twitter: PHBookshop
+rgl: http://london.randomness.org.uk/wiki.cgi?Primrose_Hill_Books
+photo: http://flickr.com/photos/kake_pugh/2870489170/
+long: -0.157263
+lat: 51.540691
+new: yes
+secondhand: yes
+charity: no
+open: yes
+checked: October 2012
+---
+id: queens-park-books
+name: Queens Park Books
+address: 87 Salusbury Road, NW6 6NH
+website: http://queensparkbooks.co.uk/intro.html
+twitter: QueensParkBooks
+long: -0.205318
+lat: 51.535824
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: quinto-charing-cross-road
+name: Quinto
+address: 72 Charing Cross Road, WC2H 0BB
+website: http://quintobookshop.co.uk/
+twitter: QuintoBookshop
+description: It used to be at 48A Charing Cross Road (<a href="http://www.flickr.com/photos/kake_pugh/2391466584/">photo</a>), but moved to number 72 on 23 March 2010.  The building also houses a branch of <a href="http://www.francisedwards.co.uk/">Francis Edwards</a>.
+long: -0.128671
+lat: 51.512608
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: r-a-gekoski
+name: R A Gekoski
+address: 15a Bloomsbury Square, WC1A 2LP
+description: Rare books and manuscripts.
+website: http://www.gekoski.com/
+long: -0.123403
+lat: 51.518623
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: regency-bookshop
+name: Regency Bookshop
+address: 45 Victoria Road, KT6 4JL
+long: -0.308819
+lat: 51.391468
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: review-books-peckham
+name: Review Books
+address: 131 Bellenden Road, SE15 4QY
+website: http://www.reviewbookshop.co.uk/
+twitter: reviewbookshop
+londonist: http://londonist.com/2009/05/biblio-text_review_bookshop.php
+photo: http://flickr.com/photos/55935853@N00/2879797042/
+long: -0.072248
+lat: 51.467964
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: ripping-yarn
+name: Ripping Yarns
+address: 355 Archway Road, N6 4EJ
+website: http://www.rippingyarns.co.uk/
+long: -0.148144
+lat: 51.577885
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: riverside-bookshop
+name: Riverside Bookshop
+address: 18-19 Hay's Galleria, Counter Street, SE1 2HD
+rgl: http://london.randomness.org.uk/wiki.cgi?Riverside_Bookshop,_SE1_2HD
+photo: http://flickr.com/photos/kake_pugh/2474855655/
+checked: May 2008
+long: -0.083513
+lat: 51.505871
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: rye-books-east-dulwich
+name: Rye Books
+address: 45 Upland Road, SE22 9EF
+website: http://www.ryebooks.co.uk/
+other_links: <li><a href="http://www.eastdulwichforum.co.uk/forum/read.php?30,807277,807277">East Dulwich forum</a></li> <li><a href="http://southeastcentral.co.uk/threads/rye-books-new-bookstore-at-45-upland-road-east-dulwich-se22-9ef.1491/">South East Central</a></li>
+long: -0.068092838
+lat: 51.457228
+new: yes
+secondhand: yes
+charity: no
+open: yes
+---
+id: school-of-life-bloomsbury
+name: School Of Life
+address: 70 Marchmont Street, WC1N 1AB.
+website: http://www.theschooloflife.com/
+photo: http://www.flickr.com/photos/rjw1/8269889752/
+other_links: <li><a href="http://newyorkerinlondon.blogspot.com/2009/02/new-bookstore-find-school-of-life.html">New Yorker In London review</a></li>
+long: -0.125248
+lat: 51.525539
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: shepherds-mayfair
+name: Shepherds (Mayfair)
+address: 46 Curzon Street, W1J 7UH
+website: http://www.bookbinding.co.uk/Mayfair.htm
+description: Specialises in fine bindings.
+other_links: <li><a href="http://ashrarebooks.wordpress.com/2013/01/10/rummage-in-curzon-street/">Laurence Worms' article</a></li>
+long: -0.14650682
+lat: 51.506803
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+---
+id: shepherds-victoria
+name: Shepherds (Victoria)
+address: 76 Rochester Row, SW1P 1JU
+website: http://www.bookbinding.co.uk/Shepherds%20contacts.htm
+description: Specialises in fine bindings.
+long: -0.13695051
+lat: 51.494105
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+---
+id: skoob-bloomsbury
+name: Skoob
+address: 66 The Brunswick Centre, Marchmont Street, WC1N 1AE
+website: http://www.skoob.com/
+photo: http://www.flickr.com/photos/rjw1/8269893404/
+tol: http://www.tiredoflondontiredoflife.com/2011/06/buy-books-at-skoob.html">Tired Of London entry
+long: -0.123903
+lat: 51.524128
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: slightly-foxed-gloucester-road
+name: Slightly Foxed
+address: 123 Gloucester Road, SW7 4TE
+description: Formerly the Gloucester Road Bookshop, taken over by Slightly Foxed in autumn 2009.
+website: http://www.foxedbooks.com/
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/london/south_west.shtml#glos
+qype: http://www.qype.co.uk/place/77707
+yelp: http://www.yelp.co.uk/biz/gloucester-road-bookshop-london
+long: -0.181575
+lat: 51.493176
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: soas-bookshop
+name: SOAS Bookshop
+address: Thornhaugh Street, WC1H 0XG
+description: The bookshop of the School of Oriental and African Studies in Bloomsbury (though it's open to the public), run by Arthur Probsthain Oriental and African Bookshop.
+photo: http://www.flickr.com/photos/kake_pugh/4684461261/
+website: http://www.soas.ac.uk/visitors/bookshop/
+long: -0.129304
+lat: 51.522377
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: November 2009
+---
+id: society-club
+name: The Society Club
+address: 12 Ingestre Place, W1F 0JF
+phone: 020 7437 1433
+website: https://thesocietyclubsoho.wordpress.com/
+twitter: SocietyClubSoho
+description: Bookshop, gallery, teashop, and bar.
+other_links: '<li><a href="http://howtospendit.ft.com/personal-luxuries/6785-the-society-club">Financial Times article</a></li><li><a href="http://thefoodiebugle.com/article/eating-out/the-society-club">The Foodie Bugle article</a></li><li><a href="http://blog.lauraashley.com/go-see/the-society-club/">Laura Ashley article</a></li><li><a href="http://thepandorian.com/2012/09/the-society-club/">The Pandorian article</a></li>'
+lat: 51.513108
+long: -0.13563757
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+---
+id: sohos-original-bookshop-liverpool-street
+name: Soho's Original Bookshop
+address: 124 Middlesex Street, E1 7HY
+photo: http://www.flickr.com/photos/kake_pugh/3750386544/
+yelp: http://www.yelp.co.uk/biz/soho-original-bookshop-london
+long: -0.079136
+lat: 51.518185
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2009
+---
+id: sophie-schneideman-rare-books
+name: Sophie Schneideman Rare Books
+address: 331 Portobello Road, W10 5SA
+website: http://www.ssrbooks.com/
+long: -0.210494
+lat: 51.521423
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: spink-and-sons-southampton-row
+name: Spink and Sons
+address: 69 Southampton Row, WC1B 4ET
+description: Basically a coin dealer, but they also sell books about coins and stuff.
+website: http://www.spink.com/departments.aspx?id=1210
+photo: http://www.flickr.com/photos/kake_pugh/8278086074/
+long: -0.122920
+lat: 51.520294
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: stanfords-covent-garden
+name: Stanfords
+address: 12-14 Long Acre, WC2E 9LP
+rgl: http://london.randomness.org.uk/wiki.cgi?Stanfords,_Covent_Garden
+photo: http://flickr.com/photos/55935853@N00/3229310783/
+website: http://www.stanfords.co.uk/
+long: -0.126117
+lat: 51.512127
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: stephen-foster-bookshop
+name: Stephen Foster Bookshop
+address: 95 Bell Street, NW1 6TL.
+website: http://www.95bellstreet.com/
+photo: http://www.flickr.com/photos/kake_pugh/3685320785/
+long: -0.165696
+lat: 51.522190
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2009
+---
+id: stoke-newington-bargain-bookshop
+name: Stoke Newington Bargain Bookshop
+address: 153 Stoke Newington High Street, N16 0NY
+description: Remaindered and discount books from the people behind the Stoke Newington Bookshop at number 159.
+website: http://www.stokenewingtonbookshop.co.uk/
+long: -0.074179
+lat: 51.561012
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: stoke-newington-bookshop
+name: Stoke Newington Bookshop
+address: 159 Stoke Newington High Street, N16 0NY
+website: http://www.stokenewingtonbookshop.co.uk/
+twitter: StokeyBookshop
+londonist: http://londonist.com/2009/10/biblio-text_stoke_newington_booksho.php
+photo: http://flickr.com/photos/55935853@N00/2980818542/
+long: -0.074222
+lat: 51.561306
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: December 2012
+---
+id: swan-books-upminster
+name: Swan Books
+address: 27 Corbets Tey Road, RM14 2AR
+website: http://www.swanbooks.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Swan_Books
+photo: http://www.flickr.com/photos/kake_pugh/3638325988/
+long: 0.248780
+lat: 51.554955
+new: yes
+secondhand: no
+charity: no
+open: yes
+checked: June 2009
+---
+id: swedenborg-society-bookshop
+name: Swedenborg Society Bookshop
+address: 20-21 Bloomsbury Way, WC1A 2TH
+website: http://www.swedenborg.org.uk/
+photo: http://www.flickr.com/photos/rjw1/8513109700/
+long: -0.123103
+lat: 51.518066
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: February 2013
+---
+id: tales-on-moon-lane
+name: Tales on Moon Lane
+address: 25 Half Moon Lane, SE24 9JU
+description: Children's books.
+website: http://talesonmoonlane.co.uk/
+twitter: talesonmoonlane
+long: -0.100400
+lat: 51.452972
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: taschen
+name: Taschen
+address: 12 Duke Of York Square, SW3 4LY
+website: http://www.taschen.com/pages/en/stores/19915.store_london.1.htm
+lat: 51.491451
+long: -0.15940450
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: tate-modern-bookshop
+name: Tate Modern Bookshop
+address: Bankside, SE1 9TG
+website: http://www.tate.org.uk/modern/
+lat: 51.5077055553573
+long: -0.0993807479910569
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: travel-bookshop-notting-hill
+name: Travel Bookshop
+address: 13-15 Blenheim Crescent, W11 2EE
+twitter: TravelBookshop
+description: Closed in 2011; see <a href="http://www.thebookseller.com/news/travel-bookshop-close-two-weeks.html">The Bookseller article</a> and <a href="http://londonist.com/2011/08/notting-hills-travel-bookshop-about-to-close.php">Londonist article</a>.
+londonist: http://londonist.com/2009/03/biblio-text_the_travel_bookshop.php
+long: -0.205457
+lat: 51.515659
+new: unknown
+secondhand: unknown
+charity: no
+open: no
+---
+id: treadwells-offstage-books
+name: Treadwells (and Offstage Books)
+address: 33 Store Street, WC1E 7BS
+description: '"Cultural history and esoteric belief".  Previously on Tavistock Street (<a href="http://www.flickr.com/photos/kake_pugh/4448330523/">photo</a>).'
+website: http://www.treadwells-london.com/">Website
+long: -0.131181
+lat: 51.519928
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: trinity-hospice-bookshop
+name: Trinity Hospice Bookshop
+address: 31 Kensington Church Street, W8 4LL
+long: -0.191976
+lat: 51.503586
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: two-jays-bookshop-edgware
+name: Two Jays Bookshop
+address: 119 High Street, HA8 7DB.
+rgl: http://london.randomness.org.uk/wiki.cgi?Two_Jays_Bookshop
+photo: http://flickr.com/photos/kake_pugh/2910907296/
+long: -0.280538
+lat: 51.611553
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: October 2011
+---
+id: v-and-a-reading-rooms
+name: V & A Reading Rooms
+address: 8 Exhibition Road, SW7 2HF
+website: http://www.vandareadingrooms.co.uk/
+tol: http://www.tiredoflondontiredoflife.com/2011/05/browse-victoria-and-albert-reading.html
+description: Self-described as a "pop-up bookshop and wine bar", this has now closed.
+long: -0.173292
+lat: 51.494999
+new: unknown
+secondhand: unknown
+charity: no
+open: no
+---
+id: village-bookshop-woodford-green
+name: Village Bookshop
+address: 475 High Road, IG8 0XE
+website: http://www.thevillagebookshop.co.uk/1.html
+rgl: http://london.randomness.org.uk/wiki.cgi?Village_Bookshop
+photo: http://flickr.com/photos/kake_pugh/2829413494/
+long: 0.021715
+lat: 51.610104
+new: yes
+secondhand: no
+charity: no
+open: yes
+checked: September 2008
+---
+id: w-and-a-houben
+name: W & A Houben
+address: 2 Church Court, TW9 1JL
+qype: http://www.qype.co.uk/place/354896
+long: -0.304152
+lat: 51.460533
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: walden-books
+name: Walden Books
+address: 38 Harmood Street, NW1 8DP
+other_links: <li><a href="http://www.abebooks.com/walden-books-london/504559/sf">AbeBooks entry</a></li> <li><a href="http://bibliophilicblogger.blogspot.com/2009/04/londons-second-hand-book-shops-no-1.html">Bibliophilic Blogger review</a></li>
+long: -0.147028
+lat: 51.544292
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: watermark-books-kings-cross
+name: Watermark Books
+address: King's Cross Station
+twitter: Watermark_Books
+tol: http://www.tiredoflondontiredoflife.com/2012/06/buy-books-at-watermark.html
+other_links: <li><a href="http://www.thebookseller.com/news/watermark-lands-kings-cross.html">The Bookseller article on its opening</a></li>
+lat: 51.532104
+long: -0.123719
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: waterstones-piccadilly
+name: Waterstones (Piccadilly)
+address: 203-206 Piccadilly, W1J 9LE
+website: http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200003
+photo: http://www.flickr.com/photos/kake_pugh/3687662346/
+lat: 51.509197
+long: -0.136117
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2009
+---
+id: waterstones-gower-street
+name: Waterstones (Gower Street)
+address: 82 Gower Street, WC1E 6EQ
+website: http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200006
+lat: 51.522376
+long: -0.13244131
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: waterstones-kensington-high-street
+name: Waterstones (Kensington High Street)
+address: 193 Kensington High Street, W8 6SH
+website: http://www.waterstones.com/
+lat: 51.499950
+long: -0.19522570
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: waterstones-notting-hill
+name: Waterstones (Notting Hill)
+address: 39-41 Notting Hill Gate, W11 3JQ
+website: http://www.waterstones.com/
+lat: 51.509003
+long: -0.19542763
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: waterstones-jubilee-place
+name: Waterstones (Jubilee Place, Canary Wharf)
+address: 45 Bank Street, E14 5NY
+website: http://www.waterstones.com/
+lat: 51.503029
+long: -0.018589586
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: waterstones-cabot-place
+name: Waterstones (Cabot Place, Canary Wharf)
+address: Cabot Place East, E14 4QT
+website: http://www.waterstones.com/
+lat: 51.505192
+long: -0.021671779
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: waterstones-chesham
+name: Waterstones (Chesham)
+address: 54 The Broadway, High Street, HP5 1EG
+photo: http://www.flickr.com/photos/kake_pugh/3975852316/
+lat: 51.705853
+long: -0.612434
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: October 2009
+---
+id: waterstones-london-wall
+name: Waterstones (London Wall)
+address: 54-55 London Wall, EC2M 5RA
+website: http://www.waterstones.com/
+photo: http://www.flickr.com/photos/kake_pugh/3749233569/
+lat: 51.516975
+long: -0.087461
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2009
+---
+id: waterstones-croydon
+name: Waterstones (Croydon)
+address: Unit 63-64, Trinity Court, Whitgift Centre, CR0 1UX
+twitter: WaterstonesCroy
+website: http://www.waterstones.com/
+other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?Waterstones,_63-64_Whitgift_Centre">Completists' Guide to Croydon</a></li>
+lat: 51.3760807665271
+long: -0.0994493523210564
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2012
+---
+id: wellington-arch-bookshop
+name: Wellington Arch Bookshop
+address: Wellington Arch, Hyde Park Corner
+new: yes
+ianvisits: http://www.ianvisits.co.uk/blog/2012/05/10/a-bookshop-has-opened-inside-hyde-park-corners-wellington-arch/
+secondhand: unknown
+charity: no
+open: yes
+lat: 51.502545
+long: -0.15079835
+---
+id: wellspring-bookshop
+name: Wellspring Bookshop
+address: 5 New Oxford Street, WC1A 1BA
+website: http://www.wellspringbookshop.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/6447218629/
+long: -0.123674
+lat: 51.517178
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: February 2013
+---
+id: west-end-lane-books
+name: West End Lane Books
+address: 277 West End Lane, NW6 1QS
+website: http://www.welbooks.co.uk/intro.html
+londonist: http://londonist.com/2009/03/biblio-text_west_end_lane_books.php
+tol: http://www.tiredoflondontiredoflife.com/2011/09/buy-books-at-west-end-lane-books.html
+long: -0.191724
+lat: 51.550564
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: whsmiths-croydon
+name: WHSmiths (Croydon)
+address: 34 North End, CR0 1UB
+website: http://www.whsmith.co.uk/Support/StoreDetail.aspx?StoreID=2566
+photo: http://www.flickr.com/photos/kake_pugh/7147931631/
+other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?WHSmith,_34_North_End">Completists' Guide to Croydon</a></li>
+lat: 51.3747698985094
+long: -0.100667160692658
+new: yes
+secondhand: no
+charity: no
+open: yes
+checked: July 2012
+---
+id: whsmith-victoria-station
+name: WHSmith (Victoria Station)
+address: Victoria Station, SW1V 1JT
+website: http://www.whsmith.co.uk/Support/StoreDetail.aspx?StoreID=7207
+photo: http://www.flickr.com/photos/kake_pugh/8277876635/
+lat: 51.495747
+long: -0.14475308
+new: yes
+secondhand: no
+charity: no
+open: yes
+checked: December 2012
+---
+id: wildy-and-sons
+name: Wildy & Sons Ltd
+address: Lincoln's Inn Archway, Carey Street, WC2A 2JD
+description: Law books.
+website: http://www.wildy.com/
+long: -0.112824
+lat: 51.515179
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: willesden-bookshop
+name: Willesden Bookshop
+address: c/o 9 Highgate High Street, N6 5JR
+description: Multicultural children's books.  Previously at the Willesden Green Library Centre, 95 High Road, NW10 4QU.
+lat: 51.570242
+long: -0.146111
+website: http://willesdenbookshop.co.uk/
+tol: http://www.tiredoflondontiredoflife.com/2011/12/buy-books-at-willesden-bookshop.html 
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: wimbledon-books-and-music
+name: Wimbledon Books and Music
+address: 40 High Street, SW19 5AU
+website: http://www.wimbledonbooksandmusic.co.uk/
+twitter: WimbledonBooks
+yelp: http://www.yelp.co.uk/biz/wimbledon-books-and-music-london
+photo: http://www.flickr.com/photos/kake_pugh/3685041786/
+long: -0.220370
+lat: 51.425385
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: June 2009
+---
+id: woolfson-and-tay-bankside
+name: Woolfson & Tay
+address: 39 Bear Lane, Bankside, London, SE1 0UH
+website: http://www.woolfsonandtay.com/
+twitter: woolfsonandtay
+other_links: <li><a href="http://diamondgeezer.blogspot.co.uk/2013/04/woolfson-tay.html">diamond geezer article</a></li><li><a href="http://www.london-se1.co.uk/news/view/4799">LondonSE1 report</a></li> <li><a href="http://www.london-se1.co.uk/forum/read/1/131326">LondonSE1 forum thread</a></li>
+londonist: http://londonist.com/2010/09/biblio-text_woolfson_tay.php
+description: Previously at Bermondsey Square (<a href="http://www.flickr.com/photos/rjw1/8360423241/">photo</a>), it <a href="http://www.woolfsonandtay.com/1/post/2013/01/another-chapter-begins.html">relocated to Bankside</a> in April 2013.
+long: -0.10195264
+lat: 51.504893
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: April 2013
+---
+id: works-croydon
+name: The Works (Croydon)
+address: Unit 1105, Upper Mall, Whitgift Centre, CR0 1UY
+description: Discount books.
+website: http://www.theworks.co.uk/store/croydon
+other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?The_Works,_1105_Whitgift_Centre">Completists' Guide to Croydon</a></li>
+lat: 51.3762967235963
+long: -0.10057523338028
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2012
+---
+id: worlds-end-bookshop-chelsea
+name: World's End Bookshop
+address: 357 Kings Road, SW3 5ES
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/london/south_west.shtml#world
+long: -0.176682
+lat: 51.483883
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: amwell-book-company
+name: Amwell Book Company
+address: 53 Amwell Street, EC1R 1UR
+description: Previously at 53 Amwell Street, EC1R 1UR, this bookshop <a href="http://www.islingtontribune.com/news/2011/sep/amwell-bookshop-loses-battle-survive-hectic-age-online-browsers">closed to drop-in visitors</a> at the beginning of October 2011 and now trades online only.
+website: http://www.amwellbookcompany.co.uk/
+long: -0.110614
+lat: 51.529465
+open: no
+---
+id: eastcote-bookshop
+name: Eastcote Bookshop
+address: 156-160 Field End Road HA5 1RH 
+description: Now closed.
+rgl: http://london.randomness.org.uk/wiki.cgi?Eastcote_Bookshop
+photo: http://www.flickr.com/photos/kake_pugh/3532427672/
+long: -0.399499
+lat: 51.578201
+open: no
+---
+id: kilburn-bookshop
+name: Kilburn Bookshop
+address: 8 Kilburn Bridge, NW6 6HT
+description: <a href="http://www.bookbrunch.co.uk/index.php?option=com_content&amp;view=article&amp;id=4800:after-30-years-the-kilburn-bookshop-is-forced-to-close&amp;catid=927:bookselling&amp;Itemid=117">Closed at the end of March 2010</a>.
+qype: http://www.qype.co.uk/place/93743
+long: -0.192862
+lat: 51.537113
+open: no
+---
+id: prosperos-books
+name: Prospero's Books
+address: 32 The Broadway, N8 9SU.
+description: <a href="http://www.thebookseller.com/news/141121-page.html">Closed for good</a> in December 2010.
+long: -0.123425
+lat: 51.579285
+open: no
+---
+id: tree-of-life-tottenham
+name: Tree of Life Books
+address: 677 Tottenham High Road, N17 8AD
+description: <a href="http://www.brucecastlenews.com/2012/09/tree-of-life-books-tottenham-high-road.html">Opened in late 2012</a>.
+open: yes
+---
+id: new-leaf-bookshop-pinner
+name: New Leaf Bookshop
+address: 1 Red Lion Parade, HA5 3JD
+description: Incorporating The Children's Bookshop.
+lat: 51.594322
+long: -0.38253585
+website: http://www.thenewleafbookshop.com/
+new: yes
+second-hand: unknown
+charity: no
+open: yes
+---
