@@ -1,3 +1,15 @@
 This is the YAML data file for http://londonbookshops.org/
 
 Pull requests welcome!
+
+Charity shops are included only if they specialise in books (or in
+e.g. books and music).
+
+Photos need to be on Flickr and under a Creative Commons licence.  You
+just need to give the URL of the photo page and everything else
+(licence, copyright owner, date taken) will be worked out automagically.
+
+The code doesn't use all the fields yet.  In particular, the locales
+field is not yet in use, but please feel free to populate it anyway.
+
+Any other questions, email me at kake@earth.li
