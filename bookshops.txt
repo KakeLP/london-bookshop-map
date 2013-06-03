@@ -180,18 +180,6 @@ charity: no
 open: yes
 checked: October 2011
 ---
-id: becketts-bookshops
-name: Village Books
-address: 6 Bellevue Road, SW17 7EG
-website: https://www.facebook.com/villagebooksdulwich
-description: Sister bookshop to Dulwich Village Books. Formerly called Beckett's Booskhop.
-lat: 51.445621
-long: -0.165932
-new: yes
-secondhand: no
-charity: no
-open: yes
----
 id: belgravia-books
 name: Belgravia Books
 address: 59 Ebury Street, SW1W 0NZ
@@ -2733,6 +2721,18 @@ secondhand: no
 charity: no
 open: yes
 checked: September 2008
+---
+id: village-books-wandsworth-common
+name: Village Books (Wandsworth Common)
+address: 6 Bellevue Road, SW17 7EG
+website: https://www.facebook.com/villagebooksdulwich
+description: Sister bookshop to <a href="/shops/dulwich-village-books.html">Dulwich Village Books</a>. Formerly called Beckett's Bookshop.
+lat: 51.445621
+long: -0.165932
+new: yes
+secondhand: no
+charity: no
+open: yes
 ---
 id: w-and-a-houben
 name: W & A Houben
