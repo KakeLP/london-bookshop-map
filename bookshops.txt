@@ -181,13 +181,14 @@ open: yes
 checked: October 2011
 ---
 id: becketts-bookshops
-name: Beckett's Bookshop
+name: Village Books
 address: 6 Bellevue Road, SW17 7EG
-description: Sister bookshop to Dulwich Village Books.  Beckett's Bookshop was the name of a different bookshop which used to be on this site some years ago — not sure if the new one is keeping the name for good.
+website: https://www.facebook.com/villagebooksdulwich
+description: Sister bookshop to Dulwich Village Books. Formerly called Beckett's Booskhop.
 lat: 51.445621
 long: -0.165932
-new: unknown
-secondhand: unknown
+new: yes
+secondhand: no
 charity: no
 open: yes
 ---
