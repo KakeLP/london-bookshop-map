@@ -6,7 +6,9 @@ locales: Putney, SW15
 website: http://www.thirtiethcentury.free-online.co.uk/
 lat: 51.467219
 long: -0.21823445
-new: unknown
+photo: http://www.flickr.com/photos/rjw1/8936452165/
+checked: June 2013
+new: yes
 secondhand: unknown
 charity: no
 open: yes
