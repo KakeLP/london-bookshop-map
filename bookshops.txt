@@ -2378,7 +2378,7 @@ name: Riverside Bookshop
 address: 18-19 Hay's Galleria, Counter Street, SE1 2HD
 rgl: http://london.randomness.org.uk/wiki.cgi?Riverside_Bookshop,_SE1_2HD
 photo: http://flickr.com/photos/kake_pugh/2474855655/
-checked: May 2008
+checked: June 2013
 long: -0.083513
 lat: 51.505871
 new: unknown
