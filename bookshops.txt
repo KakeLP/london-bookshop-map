@@ -172,7 +172,7 @@ open: yes
 id: beckenham-bookshop
 name: Beckenham Bookshop
 address: 42 High Street, BR3 1AY
-website: http://www.bookshopbeckenham.co.uk/
+website: http://www.beckenhambooks.com/
 photo: http://www.flickr.com/photos/kake_pugh/6318029673/
 lat: 51.409573
 long: -0.025320
@@ -181,6 +181,8 @@ secondhand: unknown
 charity: no
 open: yes
 checked: October 2011
+twitter: beckenhambooks
+phone: 020 8650 9744
 ---
 id: belgravia-books
 name: Belgravia Books
