@@ -176,7 +176,7 @@ website: http://www.beckenhambooks.com/
 photo: http://www.flickr.com/photos/kake_pugh/6318029673/
 lat: 51.409573
 long: -0.025320
-new: unknown
+new: yes
 secondhand: unknown
 charity: no
 open: yes
