@@ -288,12 +288,13 @@ open: yes
 id: bolingbroke-bookshop
 name: Bolingbroke Bookshop
 address: 147 Northcote Road, SW11 6QB
+description: Closed in spring 2013.
 lat: 51.455383
 long: -0.164559
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: book-and-comic-exchange
 name: Book and Comic Exchange
