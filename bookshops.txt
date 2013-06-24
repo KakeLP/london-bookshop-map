@@ -2873,13 +2873,14 @@ address: Unit 63-64, Trinity Court, Whitgift Centre, CR0 1UX
 twitter: WaterstonesCroy
 website: http://www.waterstones.com/
 other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?Waterstones,_63-64_Whitgift_Centre">Completists' Guide to Croydon</a></li>
+photo: http://www.flickr.com/photos/kake_pugh/9104940879/
 lat: 51.3760807665271
 long: -0.0994493523210564
 new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: July 2012
+checked: June 2013
 ---
 id: wellington-arch-bookshop
 name: Wellington Arch Bookshop
@@ -3007,13 +3008,14 @@ address: Unit 1105, Upper Mall, Whitgift Centre, CR0 1UY
 description: Discount books.
 website: http://www.theworks.co.uk/store/croydon
 other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?The_Works,_1105_Whitgift_Centre">Completists' Guide to Croydon</a></li>
+photo: http://www.flickr.com/photos/kake_pugh/9107759359/
 lat: 51.3762967235963
 long: -0.10057523338028
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
-checked: July 2012
+checked: June 2013
 ---
 id: worlds-end-bookshop-chelsea
 name: World's End Bookshop
