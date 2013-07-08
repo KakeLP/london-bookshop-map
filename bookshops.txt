@@ -1101,6 +1101,7 @@ open: yes
 id: foyles-charing-cross-road
 name: Foyles at Charing Cross Road
 address: 113-119 Charing Cross Road, WC2H 0EB
+description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store. It has five floors and stocks more than 200,000 book titles plus gifts, stationery, magazines, printed music, classical music CDs, and classic/world DVDs. The building also houses Ray’s Jazz Music and Books, Grant & Cutler Foreign Languages, a cafe (with free wifi), a gallery, and an events space. There’s step-free access to all areas; lifts to all floors, and a ramp from the first floor level to the cafe.<br><br>In 2014 it will be moving next door to the former Central St Martins building at 107 Charing Cross Road.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1011
 twitter: Foyles
 other_links: <li><a href="http://londonrobstuff.blogspot.com/2009/12/foyles-charing-cross-road-wc2.html">London Stuff review</a></li>
@@ -1110,10 +1111,12 @@ new: yes
 secondhand: no
 charity: no
 open: yes
+checked: July 2013
 ---
 id: foyles-pancras-road
 name: Foyles at St Pancras International
-address: Unit 8A, St Pancras Station, N1C 4QL
+address: Unit 8A, St Pancras Station, Euston Road, N1C 4QL
+description: A branch of Foyles inside St Pancras International itself. Stocks fiction and non-fiction including children’s books, travel guides, and business titles, as well as a small selection of French-language books. Also sells gifts and stationery. There’s step-free access to all areas of the shop.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1000
 photo: http://www.flickr.com/photos/rjw1/8269863312/
 twitter: Foyles
@@ -1124,25 +1127,29 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: December 2012
+checked: July 2013
 ---
 id: foyles-southbank
 name: Foyles at Royal Festival Hall
 address: Southbank Centre, SE1 8XX
+description: Opened in June 2005. This branch of Foyles is right next to the river, and in the summer there are deckchairs outside for a river view. It sells fiction, children’s books, and non-fiction including travel, biography, philosophy, and cookery, as well as magazines, gifts, and DVDs. There’s step-free access to all areas of the shop.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1010
 photo: http://www.flickr.com/photos/kake_pugh/2672916162/
 twitter: Foyles
 phone: 020 7440 3212
 long: -0.117309
 lat: 51.505882
+qype: http://www.qype.co.uk/place/250898#reviews
 new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: July 2013
 ---
 id: foyles-westfield
 name: Foyles at Westfield White City
 address: Unit 2054, Westfield White City, W12 7GE
+description: The Westfield White City branch of Foyles. Sells fiction including children’s books and bestsellers, and non-fiction including biography, travel, history, business, sport, cookery, art, and fashion. Also stocks audiobooks, book tokens, gifts, stationery, cards, and wrapping paper. There’s step-free access to all areas of the shop.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1012
 twitter: Foyles
 phone: 020 3206 2656
@@ -1152,10 +1159,12 @@ new: yes
 secondhand: no
 charity: no
 open: yes
+checked: July 2013
 ---
 id: foyles-westfield-stratford
 name: Foyles at Westfield Stratford City
 address: 74-75 Lower Ground Floor, The Arcade, Westfield Stratford City, E20 1EH
+description: The Westfield Stratford City branch of Foyles. It includes a children’s area, and there’s step-free access to all areas of the shop.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1016
 twitter: Foyles
 phone: 020 3206 2671
@@ -1165,6 +1174,7 @@ new: yes
 secondhand: no
 charity: no
 open: yes
+checked: July 2013
 ---
 id: foyles-one-new-change
 name: Foyles at One New Change
