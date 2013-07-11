@@ -1737,6 +1737,7 @@ id: lloyds-of-kew
 name: Lloyd's of Kew
 address: 9 Mortlake Terrace, Kew, TW9 3DT
 photo: http://flickr.com/photos/kake_pugh/2704615672/
+other_links: '<li><a href="http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/">Rob Around Books article</a></li><li><a href="http://www.flickr.com/photos/53264755@N00/sets/72157594520880134/">Flickr photoset by the owner</a></li>'
 long: -0.286426
 lat: 51.482605
 new: unknown
