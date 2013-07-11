@@ -3002,16 +3002,17 @@ name: Woolfson & Tay
 address: 39 Bear Lane, Bankside, London, SE1 0UH
 website: http://www.woolfsonandtay.com/
 twitter: woolfsonandtay
+photo: http://www.flickr.com/photos/kake_pugh/9260633677/
 other_links: <li><a href="http://diamondgeezer.blogspot.co.uk/2013/04/woolfson-tay.html">diamond geezer article</a></li><li><a href="http://www.london-se1.co.uk/news/view/4799">LondonSE1 report</a></li> <li><a href="http://www.london-se1.co.uk/forum/read/1/131326">LondonSE1 forum thread</a></li>
 londonist: http://londonist.com/2010/09/biblio-text_woolfson_tay.php
-description: Previously at Bermondsey Square (<a href="http://www.flickr.com/photos/rjw1/8360423241/">photo</a>), it <a href="http://www.woolfsonandtay.com/1/post/2013/01/another-chapter-begins.html">relocated to Bankside</a> in April 2013.
+description: 'Previously at Bermondsey Square (<a href="http://www.flickr.com/photos/rjw1/8360423241/">photo</a>), it <a href="http://www.woolfsonandtay.com/1/post/2013/01/another-chapter-begins.html">relocated to Bankside</a> in April 2013.  It also has a cafe area.  Accessibility: step-free throughout.'
 long: -0.10195264
 lat: 51.504893
 new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: April 2013
+checked: July 2013
 ---
 id: works-croydon
 name: The Works (Croydon)
