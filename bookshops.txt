@@ -137,14 +137,16 @@ open: yes
 id: barnes-bookshop
 name: Barnes Bookshop
 address: 60 Church Road, SW13 0DQ
+phone: 020 8741 0786
 photo: http://flickr.com/photos/kake_pugh/2977997334/
+description: Run by the same people as the <a href="http://londonbookshops.org/shops/kew-bookshop.html">Kew Bookshop</a> and the <a href="http://londonbookshops.org/shops/sheen-bookshop.html">Sheen Bookshop</a>.
 lat: 51.474792
 long: -0.240583
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
-checked: October 2008
+checked: July 2013
 ---
 id: barrie-marks
 name: Barrie Marks
@@ -1624,7 +1626,9 @@ open: yes
 id: kew-bookshop
 name: Kew Bookshop
 address: 1-2 Station Approach, TW9 3QB
+phone: 020 8940 0030
 photo: http://flickr.com/photos/kake_pugh/2704390880/
+description: Run by the same people as the <a href="http://londonbookshops.org/shops/barnes-bookshop.html">Barnes Bookshop</a> and the <a href="http://londonbookshops.org/shops/sheen-bookshop.html">Sheen Bookshop</a>.
 rgl: http://london.randomness.org.uk/wiki.cgi?Kew_Bookshop
 long: -0.285687
 lat: 51.477455
@@ -2427,6 +2431,18 @@ secondhand: unknown
 charity: no
 open: yes
 checked: December 2012
+---
+id: sheen-bookshop
+name: Sheen Bookshop
+address: 375 Upper Richmond Road West, SW14 7NX
+description: Run by the same people as the <a href="http://londonbookshops.org/shops/barnes-bookshop.html">Barnes Bookshop</a> and the <a href="http://londonbookshops.org/shops/kew-bookshop.html">Kew Bookshop</a>.
+lat: 51.464470
+long: -0.26731525
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2013
 ---
 id: shepherds-mayfair
 name: Shepherds (Mayfair)
