@@ -1625,12 +1625,14 @@ id: kew-bookshop
 name: Kew Bookshop
 address: 1-2 Station Approach, TW9 3QB
 photo: http://flickr.com/photos/kake_pugh/2704390880/
+rgl: http://london.randomness.org.uk/wiki.cgi?Kew_Bookshop
 long: -0.285687
 lat: 51.477455
-new: unknown
-secondhand: unknown
+new: yes
+secondhand: no
 charity: no
 open: yes
+checked: July 2013
 ---
 id: kirkdale-bookshop-sydenham
 name: Kirkdale Bookshop
