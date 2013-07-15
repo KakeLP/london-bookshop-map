@@ -917,6 +917,7 @@ name: Daunt Books (Belsize Park)
 address: 193 Haverstock Hill, NW3 4QL
 description: Specialist travel bookshop, part of a small chain.
 website: http://www.dauntbooks.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/9295393346/
 twitter: DauntBooks
 long: -0.165439
 lat: 51.550484
@@ -924,6 +925,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: July 2013
 ---
 id: daunt-books-holland-park
 name: Daunt Books (Holland Park)
