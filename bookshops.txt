@@ -41,6 +41,20 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: animal-aid-highbury
+name: Animal Aid & Advice
+address: 203 Blackstock Road, N5 9LL
+description: Charity bookshop.
+website: http://www.animalaidandadvice.org/Our-Shops.html
+photo: http://www.flickr.com/photos/kake_pugh/9335713442/
+lat: 51.560064
+long: -0.09847
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+checked: July 2013
+---
 id: any-amount-of-books
 name: Any Amount of Books
 address: 56 Charing Cross Road
@@ -1404,6 +1418,20 @@ new: unknown
 secondhand: unknown
 charity: no
 open: no
+---
+id: house-of-hodge
+name: House Of Hodge
+address: 174 Blackstock Road, N5 1HA
+description: Charity bookshop.  The frontage has no sign except for an old one reading 'A Wilsher & Son'.
+other_links: <li><a href="http://www.andrewwhitehead.net/1/post/2012/09/charity-begins-at-the-bookshop.html">Andrew Whitehead's review</a></li>
+photo: http://www.flickr.com/photos/kake_pugh/9335707588/
+lat: 51.560016
+long: -0.09872
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+checked: July 2013
 ---
 id: housmans-booksellers
 name: Housmans Booksellers
