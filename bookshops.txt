@@ -1316,6 +1316,7 @@ name: Halcyon Books
 address: 1 Greenwich South Street, SE10 8NW
 website: http://www.halcyonbooks.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Halcyon_Books
+photo: http://www.flickr.com/photos/kake_pugh/2582563692/
 long: -0.011823
 lat: 51.477840
 new: unknown
