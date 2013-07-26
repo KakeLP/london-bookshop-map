@@ -946,6 +946,7 @@ name: Daunt Books (Holland Park)
 address: 112-114 Holland Park Avenue, W11 4UA
 description: Specialist travel bookshop, part of a small chain.
 website: http://www.dauntbooks.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/9351995567/
 twitter: DauntBooks
 long: -0.207539
 lat: 51.506767
@@ -953,6 +954,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: July 2013
 ---
 id: daunt-books-chelsea
 name: Daunt Books (Chelsea)
@@ -1341,15 +1343,16 @@ open: yes
 ---
 id: hellenic-bookservice
 name: Hellenic Bookservice
-address: 49-51 Fortess Road, NW5 1AG
-description: Greek and Latin books.
+address: 89 Fortess Road, NW5 1AG
+description: Greek and Latin books.  Previously at number 49-51, now at number 89.
 website: http://www.hellenicbookservice.com/
-long: -0.140204
-lat: 51.554649
+lat: 51.554713
+long: -0.140129
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: July 2013
 ---
 id: henry-pordes-books-charing-cross-road
 name: Henry Pordes Books
@@ -2355,7 +2358,7 @@ checked: October 2012
 id: queens-park-books
 name: Queens Park Books
 address: 87 Salusbury Road, NW6 6NH
-website: http://queensparkbooks.co.uk/intro.html
+website: http://queensparkbooks.co.uk/
 twitter: QueensParkBooks
 long: -0.205318
 lat: 51.535824
