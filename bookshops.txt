@@ -1294,6 +1294,9 @@ name: Greenwich Book Place
 address: 258 Creek Road, SE10 9SW
 description: Closed at one point — <a href="http://www.thegreenwichphantom.co.uk/2011/06/random-things-noted/">Greenwich Phantom report</a> — but now <a href="http://www.thegreenwichphantom.co.uk/2011/06/8168/">open again</a>.
 other_links: <li><a href="http://www.thegreenwichphantom.co.uk/2009/11/greenwich-book-place.html">Greenwich Phantom article</a></li>
+photo: http://www.flickr.com/photos/kake_pugh/9365939641/
+twitter: booksnpictures
+website: http://ukbookworld.com/members/Greenspace
 long: -0.013261
 lat: 51.481331
 new: unknown
@@ -2860,6 +2863,19 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
+---
+id: waterstones-greenwich
+name: Waterstones (Greenwich)
+address: 51 Greenwich Church Street, SE10 9BL
+website: http://www.waterstones.com/
+photo: http://www.flickr.com/photos/kake_pugh/9368722246/
+lat: 51.481779
+long: -0.0102617
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2013
 ---
 id: waterstones-kensington-high-street
 name: Waterstones (Kensington High Street)
