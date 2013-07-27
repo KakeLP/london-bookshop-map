@@ -2363,12 +2363,14 @@ name: Queens Park Books
 address: 87 Salusbury Road, NW6 6NH
 website: http://queensparkbooks.co.uk/
 twitter: QueensParkBooks
+photo: http://www.flickr.com/photos/kake_pugh/9377409826/
 long: -0.205318
 lat: 51.535824
-new: unknown
+new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: July 2013
 ---
 id: quinto-charing-cross-road
 name: Quinto
