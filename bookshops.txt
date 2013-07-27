@@ -1349,6 +1349,7 @@ name: Hellenic Bookservice
 address: 89 Fortess Road, NW5 1AG
 description: Greek and Latin books.  Previously at number 49-51, now at number 89.
 website: http://www.hellenicbookservice.com/
+photo: http://www.flickr.com/photos/kake_pugh/9377586063/
 lat: 51.554713
 long: -0.140129
 new: unknown
