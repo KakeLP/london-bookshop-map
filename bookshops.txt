@@ -789,10 +789,10 @@ open: yes
 ---
 id: chorleywood-bookshop
 name: Chorleywood Bookshop
-address: 4 New Parade, WD3 5AA
+address: 4 New Parade, WD3 5NJ
 website: http://www.chorleywoodbookshop.co.uk/
-long: -0.519533
-lat: 51.651630
+lat: 51.65512
+long: -0.52173
 new: unknown
 secondhand: unknown
 charity: no
