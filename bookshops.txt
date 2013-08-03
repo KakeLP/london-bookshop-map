@@ -1794,7 +1794,7 @@ name: London Review Bookshop
 address: 14 Bury Place, WC1A 2JL
 photo: http://www.flickr.com/photos/kake_pugh/2724084824/
 website: http://www.lrbshop.co.uk/
-twitter: lrbshop
+twitter: LRBbookshop
 londonist: http://londonist.com/2009/05/biblio-text_london_review_bookshop.php
 other_links: '<li>Reviews of the attached cafe/cake shop: <a href="http://www.londonelicious.com/dining/2009/02/the-london-review-of-books-cakeshop.html">Londonelicious</a>, <a href="http://bellaphon.blogspot.com/2009/04/london-review-cake-shop.html">Bellaphon</a>, <a href="http://eatandbemerryfortomorrowwediet.blogspot.com/2010/12/london-review-cake-shop-england-by.html">Eat And Be Merry</a>, <a href="http://londonrobstuff.blogspot.com/2009/09/london-review-bookshop-cafe.html">London Stuff</a></li>'
 long: -0.124062
