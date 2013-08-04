@@ -791,12 +791,14 @@ id: chorleywood-bookshop
 name: Chorleywood Bookshop
 address: 4 New Parade, WD3 5NJ
 website: http://www.chorleywoodbookshop.co.uk/
+photo: http://www.flickr.com/photos/kake_pugh/9439748984/
 lat: 51.65512
 long: -0.52173
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: August 2013
 ---
 id: clapham-books
 name: Clapham Books
