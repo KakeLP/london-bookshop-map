@@ -3164,7 +3164,7 @@ lat: 51.594322
 long: -0.38253585
 website: http://www.thenewleafbookshop.com/
 new: yes
-second-hand: unknown
+secondhand: unknown
 charity: no
 open: yes
 ---
