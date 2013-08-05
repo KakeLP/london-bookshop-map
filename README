@@ -12,4 +12,6 @@ just need to give the URL of the photo page and everything else
 The code doesn't use all the fields yet.  In particular, the locales
 field is not yet in use, but please feel free to populate it anyway.
 
+Possible fields documented in fields.txt.
+
 Any other questions, email me at kake@earth.li
