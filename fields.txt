@@ -12,14 +12,14 @@ website:
 twitter:
 blog:
 photo:
-# last verified
+# last verified (e.g. July 2013)
 checked:
-# is it open
+# is it open (yes/no)
 open:
-# types of book
+# types of book (yes/no)
 new:
 secondhand:
-# is it a charity shop
+# is it a charity shop (yes/no)
 charity:
 # links
 ianvisits:
@@ -29,6 +29,6 @@ reading_matters:
 rgl:
 thebookguide:
 timeout:
-tol: # tiredoflifetiredoflondon
+tol: # tiredoflondontiredoflife
 yelp:
 other_links: # formatted html
