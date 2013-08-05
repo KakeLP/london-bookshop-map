@@ -1,0 +1,34 @@
+# possible fields in bookshops.txt
+---
+id:
+name:
+description:
+address:
+locales:
+lat:
+long:
+phone:
+website:
+twitter:
+blog:
+photo:
+# last verified
+checked:
+# is it open
+open:
+# types of book
+new:
+secondhand:
+# is it a charity shop
+charity:
+# links
+ianvisits:
+londonist:
+qype:
+reading_matters:
+rgl:
+thebookguide:
+timeout:
+tol: # tiredoflifetiredoflondon
+yelp:
+other_links: # formatted html
