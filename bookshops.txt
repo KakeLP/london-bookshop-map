@@ -531,8 +531,6 @@ checked: May 2011
 id: books-ink
 name: Books Ink
 address: 143 Walthamstow High Street, E17 7JS
-description: Remaindered and discount books from the people behind the Stoke Newington Bookshop.
-website: http://www.stokenewingtonbookshop.co.uk/
 lat: 51.582630
 long: -0.029569
 new: no
