@@ -482,17 +482,18 @@ charity: no
 open: yes
 ---
 id: bookshop-loughton
-name: The Bookshop
+name: The Book Shop (Loughton)
 address: 150 High Road, IG10 4BE
 lat: 51.645866
 long: 0.053172
+photo: http://www.flickr.com/photos/kake_pugh/9442525157/
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
 ---
 id: bookshop-hampton
-name: The Book Shop
+name: The Book Shop (Hampton)
 address: Hampton Railway Station, Ashley Road, TW12 2HU
 other_links: <li><a href="http://www.richmondandtwickenhamtimes.co.uk/news/868906.struggling_to_keep_up_the_good_work/">Local newspaper article</a></li>
 lat: 51.416004
@@ -504,7 +505,7 @@ charity: no
 open: yes
 ---
 id: bookshop-hackney
-name: The Book Shop
+name: The Book Shop (Hackney)
 address: 58 Clarence Road, E5 8HB
 description: <a href="http://www.hackneycitizen.co.uk/">Hackney Citizen</a> says it's a second-hand bookshop with an emphasis on black and children's literature.
 lat: 51.550953
