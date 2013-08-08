@@ -162,17 +162,6 @@ charity: no
 open: yes
 checked: July 2013
 ---
-id: barrie-marks
-name: Barrie Marks
-address: 24 Church Vale, N2 9PA
-description: Not much about this on the interweb - not sure it still exists.  Antiquarian, I think.
-lat: 51.593163
-long: -0.159473
-new: unknown
-secondhand: unknown
-charity: no
-open: yes
----
 id: beaumont-travel-books
 name: Beaumont Travel Books
 address: 33 Couthurst Road, SE3 8TN
@@ -258,14 +247,14 @@ id: black-gull-books-east-finchley
 name: Black Gull Books (East Finchley)
 address: 121 High Road, N2 8AG
 rgl: http://london.randomness.org.uk/wiki.cgi?Black_Gull_Books,_N2_8AG
-photo: http://www.flickr.com/photos/kake_pugh/3346261843/
+photo: http://www.flickr.com/photos/kake_pugh/9458010537/
 lat: 51.590736
 long: -0.164945
 new: no
 secondhand: yes
 charity: no
 open: yes
-checked: March 2009
+checked: August 2013
 ---
 id: blackwells-charing-cross-road
 name: Blackwell's at Charing Cross Road
@@ -779,12 +768,14 @@ checked: October 2009
 id: childrens-bookshop-muswell-hill
 name: Children's Bookshop
 address: 29 Fortis Green Road, N10 3HP
+photo: http://www.flickr.com/photos/kake_pugh/9457988181/
 lat: 51.590057
 long: -0.146813
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: August 2013
 ---
 id: chorleywood-bookshop
 name: Chorleywood Bookshop
@@ -1428,6 +1419,17 @@ secondhand: unknown
 charity: no
 open: no
 ---
+id: house-of-books
+name: House Of Books
+address: 39 The Broadway, N8 8DT
+lat: 51.579580
+long: -0.12390652
+locales: Crouch End, N8
+photo: http://www.flickr.com/photos/kake_pugh/9461843016/
+other_links: <li><a href="http://www.hamhigh.co.uk/news/new_chapter_for_crouch_end_book_store_1_630698">Ham & High article</a>
+open: yes
+checked: August 2013
+---
 id: house-of-hodge
 name: House Of Hodge
 address: 174 Blackstock Road, N5 1HA
@@ -1575,16 +1577,19 @@ charity: no
 open: yes
 ---
 id: john-trotter-books
-name: John Trotter Books
+name: Manor House Books/John Trotter Books
 address: 80 East End Road, N3 2SY
-description: Jewish and Middle Eastern specialist.
+description: Jewish and Middle Eastern specialist.  Based inside the Sternberg Centre for Judaism; visitors must sign in at the lodge.
+photo: http://www.flickr.com/photos/kake_pugh/9458020785/
+website: http://www.manorhousebooks.co.uk/
 other_links: <li><a href="http://www.bookbase.com/john-trotter-books.htm">Bookbase page</a></li>
 long: -0.189214
 lat: 51.595509
-new: unknown
-secondhand: unknown
+new: yes
+secondhand: yes
 charity: no
 open: yes
+checked: August 2013
 ---
 id: josephs-bookstore
 name: Joseph's Bookstore
@@ -1938,12 +1943,14 @@ address: 72 Fortis Green Road, N10 3HN
 website: http://www.muswellhillbookshop.com/
 twitter: muswellhillbks
 londonist: http://londonist.com/2009/02/biblio-text_muswell_hill_bookshop.php
+photo: http://www.flickr.com/photos/kake_pugh/9460767036/
 long: -0.146041
 lat: 51.590096
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: August 2013
 ---
 id: my-back-pages-balham
 name: My Back Pages
@@ -2115,6 +2122,19 @@ charity: yes
 open: yes
 checked: November 2012
 ---
+id: oxfam-books-and-music-crouch-end
+name: Oxfam Books and Music (Crouch End)
+address: 22 Park Road, Crouch End, London, N8 8TD
+phone: 020 8347 7942
+photo: http://www.flickr.com/photos/kake_pugh/9459072973/
+lat: 51.58077
+long: -0.12467
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+checked: August 2013
+---
 id: oxfam-books-and-music-gloucester-road
 name: Oxfam Books and Music (Gloucester Road)
 address: 46 Gloucester Road, SW7 4QT
@@ -2228,6 +2248,20 @@ new: unknown
 secondhand: unknown
 charity: yes
 open: yes
+---
+id: oxfam-bookshop-muswell-hill
+name: Oxfam Bookshop (Muswell Hill)
+address: 378 Muswell Hill Broadway, N10 1DJ
+phone: 0208 8835171
+lat: 51.5915
+long: -0.14255
+website: http://www.oxfam.org.uk/shop/local-shops/oxfam-bookshop-muswell-hill
+photo: http://www.flickr.com/photos/kake_pugh/9460759018/
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+checked: August 2013
 ---
 id: pages-of-fun-westminster
 name: Pages of Fun
