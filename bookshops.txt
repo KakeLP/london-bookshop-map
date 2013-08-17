@@ -520,13 +520,14 @@ checked: May 2011
 ---
 id: books-ink
 name: Books Ink
-address: 143 Walthamstow High Street, E17 7JS
+address: 134 Walthamstow High Street, E17 7JS
+description: "No longer open.  As of August 2013 the premises are occupied by a branch of Albemarle Bond (<a href=\"http://www.flickr.com/photos/kake_pugh/9517315977/\">photo</a>)."
 lat: 51.582630
 long: -0.029569
 new: no
 secondhand: yes
 charity: no
-open: yes
+open: no
 ---
 id: bookstop
 name: Bookstop
