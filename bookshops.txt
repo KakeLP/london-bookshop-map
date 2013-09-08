@@ -417,6 +417,7 @@ name: Books Bought and Sold
 address: 68 Walton Road, KT8 0DL
 website: http://www.booksinstore.co.uk/
 description: Previously a bricks-and-mortar store in East Molesey, it <a href="http://www.getsurrey.co.uk/business/s/2128018_independent_rare_bookshop_moves_entirely_online">went online only</a> in early 2013, though they still sell at book fairs, and stock can be viewed by appointment.
+photo: http://www.flickr.com/photos/kake_pugh/9704120654/
 lat: 51.399555
 long: -0.353773
 new: unknown
