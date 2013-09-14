@@ -719,6 +719,7 @@ id: centerprise-trust-bookshop-kingsland-road
 name: Centerprise Trust Bookshop
 address: 136-138 Kingsland Road, E8 2NS
 description: Self-described as "one of East London’s oldest and most famous community bookshops" and "the home of Black cultural books and literature for East London".  It was <a href="http://hackneycitizen.co.uk/2012/11/04/centerprise-bookshop-seized-hackney-council/">forced to close</a> in autumn 2012.
+other_links: '<li><a href="http://hackneycitizen.co.uk/2013/09/12/centerprise-history/">Hackney Citizen article</a></li>'
 website: http://www.centerprisetrust.org.uk/literature/
 lat: 51.549349
 long: -0.075016
