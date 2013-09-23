@@ -33,13 +33,14 @@ locales: Bayswater, W2, Westbourne Green, Westbourne Grove
 description: They claim on their website to be the UK's largest Middle Eastern bookseller.
 website: http://www.alsaqibookshop.com/
 londonist: http://londonist.com/2009/06/biblio-text_al_saqi_bookshop.php
-photo: http://www.flickr.com/photos/55935853@N00/3990677801/
+photo: http://www.flickr.com/photos/kake_pugh/9892381683/
 lat: 51.515648
 long: -0.190136
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2013
 ---
 id: animal-aid-highbury
 name: Animal Aid & Advice
@@ -306,12 +307,12 @@ name: Book and Comic Exchange
 address: 14 Pembridge Road, W11 3HL
 website: http://www.mveshops.co.uk/
 other_links: <li><a href="http://www.thetopfloorflat.com/2009/03/book-and-comic-exchange-in-notting-hill/">Top Floor Flat review</a></li>
-photo: http://www.flickr.com/photos/kake_pugh/2726935398/
+photo: http://www.flickr.com/photos/kake_pugh/9892234965/
 lat: 51.509609
 long: -0.197024
 new: unknown
 secondhand: unknown
-checked: August 2008
+checked: September 2013
 charity: no
 open: yes
 ---
@@ -2933,13 +2934,16 @@ open: yes
 id: waterstones-notting-hill
 name: Waterstones (Notting Hill)
 address: 39-41 Notting Hill Gate, W11 3JQ
+description: The entrance is actually on Kensington Church Street.
 website: http://www.waterstones.com/
 lat: 51.509003
 long: -0.19542763
+photo: http://www.flickr.com/photos/kake_pugh/9892218735/
 new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2013
 ---
 id: waterstones-jubilee-place
 name: Waterstones (Jubilee Place, Canary Wharf)
