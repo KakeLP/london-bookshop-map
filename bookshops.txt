@@ -1019,12 +1019,14 @@ website: http://www.bricklanebookshop.org/
 twitter: BrickLaneBooks
 londonist: http://londonist.com/2009/06/biblio-text_eastside_books.php
 description: Previously known as Eastside Books (<a href="http://flickr.com/photos/kake_pugh/2476108271/">photo</a>).
+photo: http://www.flickr.com/photos/kake_pugh/9977950445/
 long: -0.071497
 lat: 51.521683
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2013
 ---
 id: epping-bookshop
 name: Epping Bookshop
@@ -2760,6 +2762,20 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
+---
+id: this-shop-rocks
+name: This Shop Rocks
+address: 131 Brick Lane, E1 6SE
+photo: http://www.flickr.com/photos/kake_pugh/9977936895/
+description: Second-hand and vintage shop, with a second-hand bookshop in the basement.
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1921
+lat: 51.523689
+long: -0.071484491
+new: no
+secondhand: yes
+charity: no
+open: yes
+checked: September 2013
 ---
 id: travel-bookshop-notting-hill
 name: Travel Bookshop
