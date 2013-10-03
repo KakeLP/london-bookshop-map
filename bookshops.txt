@@ -2456,6 +2456,7 @@ address: 131 Bellenden Road, SE15 4QY
 website: http://www.reviewbookshop.co.uk/
 twitter: reviewbookshop
 londonist: http://londonist.com/2009/05/biblio-text_review_bookshop.php
+tol: http://www.tiredoflondontiredoflife.com/2013/10/shop-at-review-bookshop.html
 photo: http://flickr.com/photos/55935853@N00/2879797042/
 long: -0.072248
 lat: 51.467964
@@ -2556,7 +2557,7 @@ name: Skoob
 address: 66 The Brunswick Centre, Marchmont Street, WC1N 1AE
 website: http://www.skoob.com/
 photo: http://www.flickr.com/photos/rjw1/8269893404/
-tol: http://www.tiredoflondontiredoflife.com/2011/06/buy-books-at-skoob.html">Tired Of London entry
+tol: http://www.tiredoflondontiredoflife.com/2011/06/buy-books-at-skoob.html
 long: -0.123903
 lat: 51.524128
 new: unknown
