@@ -885,6 +885,7 @@ name: Daunt Books (Marylebone)
 address: 83 Marylebone High Street, W1U 4QW
 description: Specialist travel bookshop, part of a small chain.
 website: http://www.dauntbooks.co.uk/
+photo: http://www.flickr.com/photos/55935853@N00/2417477044/
 twitter: DauntBooks
 rgl: http://london.randomness.org.uk/wiki.cgi?Daunt_Books%2C_W1U_4QW
 long: -0.152017
@@ -913,6 +914,7 @@ name: Daunt Books (Cheapside)
 address: 61 Cheapside, EC2V 6AX
 description: Specialist travel bookshop, part of a small chain.
 website: http://www.dauntbooks.co.uk/
+photo: http://www.flickr.com/photos/90117465@N00/10158112925/
 twitter: DauntBooks
 rgl: http://london.randomness.org.uk/wiki.cgi?Daunt_Books,_EC2V_6AX
 long: -0.093065
@@ -921,6 +923,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: October 2013
 ---
 id: daunt-books-belsize-park
 name: Daunt Books (Belsize Park)
