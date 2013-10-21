@@ -3098,10 +3098,11 @@ description: Law books.
 website: http://www.wildy.com/
 long: -0.112824
 lat: 51.515179
-new: unknown
+new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: October 2013
 ---
 id: willesden-bookshop
 name: Willesden Bookshop
