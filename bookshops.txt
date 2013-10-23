@@ -186,7 +186,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: October 2011
+checked: October 2013
 twitter: beckenhambooks
 phone: 020 8650 9744
 ---
