@@ -2903,18 +2903,43 @@ secondhand: unknown
 charity: no
 open: yes
 ---
-id: waterstones-piccadilly
-name: Waterstones (Piccadilly)
-address: 203-206 Piccadilly, W1J 9LE
-website: http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200003
-photo: http://www.flickr.com/photos/kake_pugh/3687662346/
-lat: 51.509197
-long: -0.136117
+id: waterstones-cabot-place
+name: Waterstones (Cabot Place, Canary Wharf)
+address: Cabot Place East, E14 4QT
+website: http://www.waterstones.com/
+lat: 51.505192
+long: -0.021671779
 new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: July 2009
+---
+id: waterstones-chesham
+name: Waterstones (Chesham)
+address: 54 The Broadway, High Street, HP5 1EG
+photo: http://www.flickr.com/photos/kake_pugh/3975852316/
+lat: 51.705853
+long: -0.612434
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: October 2009
+---
+id: waterstones-croydon
+name: Waterstones (Croydon)
+address: Unit 63-64, Trinity Court, Whitgift Centre, CR0 1UX
+twitter: WaterstonesCroy
+website: http://www.waterstones.com/
+other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?Waterstones,_63-64_Whitgift_Centre">Completists' Guide to Croydon</a></li>
+photo: http://www.flickr.com/photos/kake_pugh/9104940879/
+lat: 51.3760807665271
+long: -0.0994493523210564
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: June 2013
 ---
 id: waterstones-gower-street
 name: Waterstones (Gower Street)
@@ -2940,6 +2965,17 @@ charity: no
 open: yes
 checked: July 2013
 ---
+id: waterstones-jubilee-place
+name: Waterstones (Jubilee Place, Canary Wharf)
+address: 45 Bank Street, E14 5NY
+website: http://www.waterstones.com/
+lat: 51.503029
+long: -0.018589586
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
 id: waterstones-kensington-high-street
 name: Waterstones (Kensington High Street)
 address: 193 Kensington High Street, W8 6SH
@@ -2950,6 +2986,19 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
+---
+id: waterstones-london-wall
+name: Waterstones (London Wall)
+address: 54-55 London Wall, EC2M 5RA
+website: http://www.waterstones.com/
+photo: http://www.flickr.com/photos/kake_pugh/3749233569/
+lat: 51.516975
+long: -0.087461
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2009
 ---
 id: waterstones-notting-hill
 name: Waterstones (Notting Hill)
@@ -2965,67 +3014,18 @@ charity: no
 open: yes
 checked: September 2013
 ---
-id: waterstones-jubilee-place
-name: Waterstones (Jubilee Place, Canary Wharf)
-address: 45 Bank Street, E14 5NY
-website: http://www.waterstones.com/
-lat: 51.503029
-long: -0.018589586
+id: waterstones-piccadilly
+name: Waterstones (Piccadilly)
+address: 203-206 Piccadilly, W1J 9LE
+website: http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200003
+photo: http://www.flickr.com/photos/kake_pugh/3687662346/
+lat: 51.509197
+long: -0.136117
 new: yes
-secondhand: unknown
-charity: no
-open: yes
----
-id: waterstones-cabot-place
-name: Waterstones (Cabot Place, Canary Wharf)
-address: Cabot Place East, E14 4QT
-website: http://www.waterstones.com/
-lat: 51.505192
-long: -0.021671779
-new: yes
-secondhand: unknown
-charity: no
-open: yes
----
-id: waterstones-chesham
-name: Waterstones (Chesham)
-address: 54 The Broadway, High Street, HP5 1EG
-photo: http://www.flickr.com/photos/kake_pugh/3975852316/
-lat: 51.705853
-long: -0.612434
-new: yes
-secondhand: unknown
-charity: no
-open: yes
-checked: October 2009
----
-id: waterstones-london-wall
-name: Waterstones (London Wall)
-address: 54-55 London Wall, EC2M 5RA
-website: http://www.waterstones.com/
-photo: http://www.flickr.com/photos/kake_pugh/3749233569/
-lat: 51.516975
-long: -0.087461
-new: unknown
 secondhand: unknown
 charity: no
 open: yes
 checked: July 2009
----
-id: waterstones-croydon
-name: Waterstones (Croydon)
-address: Unit 63-64, Trinity Court, Whitgift Centre, CR0 1UX
-twitter: WaterstonesCroy
-website: http://www.waterstones.com/
-other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?Waterstones,_63-64_Whitgift_Centre">Completists' Guide to Croydon</a></li>
-photo: http://www.flickr.com/photos/kake_pugh/9104940879/
-lat: 51.3760807665271
-long: -0.0994493523210564
-new: yes
-secondhand: unknown
-charity: no
-open: yes
-checked: June 2013
 ---
 id: wellington-arch-bookshop
 name: Wellington Arch Bookshop
