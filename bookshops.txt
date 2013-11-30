@@ -3027,6 +3027,20 @@ charity: no
 open: yes
 checked: July 2009
 ---
+id: waterstones-romford
+name: Waterstones (Romford)
+address: Lockwood Walk, Liberty Shopping Centre, Romford, RM1 3RJ
+phone: 01708 747482
+website: http://www.waterstones.com/
+photo: http://www.flickr.com/photos/kake_pugh/11119298945/
+lat: 51.577211
+long: 0.18341522
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: November 2013
+---
 id: wellington-arch-bookshop
 name: Wellington Arch Bookshop
 address: Wellington Arch, Hyde Park Corner
