@@ -206,15 +206,15 @@ open: yes
 ---
 id: bertram-rota
 name: Bertram Rota
-address: 31 Long Acre, WC2E 9LT
-description: Modern first editions, architecture and the applied arts, private press books.
+address: 31 Long Acre, Covent Garden, WC2E 9LT
+description: Previously in Covent Garden, it closed its London premises in 2013 and moved all its operations to Kintbury in Berkshire.  Modern first editions, architecture and the applied arts, private press books.
 website: http://www.bertramrota.co.uk/
 lat: 51.512634
 long: -0.124980
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: big-green-bookshop
 name: Big Green Bookshop
@@ -2443,6 +2443,19 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: red-cross-palmers-green
+name: Red Cross Bookshop
+address: 385 Green Lanes, Palmers Green, N13 4JG
+website: http://www.redcross.org.uk/Where-we-work/In-the-UK/Southern-England/London/LocalServices/Shop?dpid=e7206e66-fd85-4f3c-93ff-431174225402
+lat: 51.619625
+long: -0.10709
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/town.php?findstring=PALMERS%20GREEN%20%20London
+yelp: http://www.yelp.co.uk/biz/british-red-cross-bookshop-london
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+---
 id: regency-bookshop
 name: Regency Bookshop
 address: 45 Victoria Road, KT6 4JL
@@ -2818,15 +2831,16 @@ open: yes
 ---
 id: two-jays-bookshop-edgware
 name: Two Jays Bookshop
-address: 119 High Street, HA8 7DB.
+address: 119 High Street, Edgware, HA8 7DB
 rgl: http://london.randomness.org.uk/wiki.cgi?Two_Jays_Bookshop
 photo: http://flickr.com/photos/kake_pugh/2910907296/
 long: -0.280538
 lat: 51.611553
+description: According to <a href="http://www.inprint.co.uk/thebookguide/shops/news.php">thebookguide</a>, Two Jays closed in late 2013 after 37 and a half years in business.
 new: unknown
-secondhand: unknown
+secondhand: yes
 charity: no
-open: yes
+open: no
 checked: October 2011
 ---
 id: v-and-a-reading-rooms
