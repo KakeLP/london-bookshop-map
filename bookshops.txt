@@ -821,16 +821,17 @@ open: yes
 ---
 id: clerkenwell-tales
 name: Clerkenwell Tales
+description: closed on 15/02/2014. 
 address: 30 Exmouth Market, EC1R 4QE
 website: http://www.clerkenwell-tales.co.uk/
 tol: http://www.tiredoflondontiredoflife.com/2013/05/buy-books-at-clerkenwell-tales.html
-twitter: booksellerpete
+twitter: ClerkenwellTale
 long: -0.109059
 lat: 51.525841
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: collinge-and-clark
 name: Collinge and Clark
