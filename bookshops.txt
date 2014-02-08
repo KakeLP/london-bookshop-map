@@ -823,14 +823,17 @@ id: clerkenwell-tales
 name: Clerkenwell Tales
 address: 30 Exmouth Market, EC1R 4QE
 website: http://www.clerkenwell-tales.co.uk/
+photo: http://www.flickr.com/photos/90117465@N00/12381138873/
 tol: http://www.tiredoflondontiredoflife.com/2013/05/buy-books-at-clerkenwell-tales.html
-twitter: booksellerpete
+description: Due to <a href="https://twitter.com/ClerkenwellTale/status/426690622372581376">relocate to Toronto</a> from 15 February 2014.
+twitter: ClerkenwellTale
 long: -0.109059
 lat: 51.525841
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: February 2014
 ---
 id: collinge-and-clark
 name: Collinge and Clark
