@@ -2994,7 +2994,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: July 2013
+checked: February 2014
 ---
 id: waterstones-jubilee-place
 name: Waterstones (Jubilee Place, Canary Wharf)
