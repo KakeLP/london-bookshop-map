@@ -1170,6 +1170,21 @@ charity: no
 open: yes
 checked: July 2013
 ---
+id: foyles-waterloo
+name: Foyles at Waterloo Station
+address: Unit 22, Lower Concourse, London Waterloo Station, SE1 8SW
+description: A small Foyles branch in Waterloo Station. Most of the fiction is on the mezzanine level, and there is no lift.
+website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1019
+twitter: Foyles
+phone: 020 3206 2680
+lat: 51.50316
+long: -0.11273
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: February 2014
+---
 id: foyles-westfield
 name: Foyles at Westfield White City
 address: Unit 2054, Westfield White City, W12 7GE
