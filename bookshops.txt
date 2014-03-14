@@ -2290,6 +2290,20 @@ charity: yes
 open: yes
 checked: August 2013
 ---
+id: oxfam-bookshop-greenwich
+name: Oxfam Bookshop (Greenwich)
+address: 2 College Approach, Greenwich, SE10 9HY
+phone: 020 8305 1656
+lat: 51.481775
+long: -0.0097440630
+website: http://www.oxfam.org.uk/shop/local-shops/oxfam-bookshop-greenwich
+photo: http://www.flickr.com/photos/kake_pugh/13143992413/
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+checked: March 2014
+---
 id: pages-of-fun-westminster
 name: Pages of Fun
 address: 2 Victoria Arcade, SW1E 5ND
