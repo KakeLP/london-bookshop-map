@@ -609,12 +609,14 @@ id: british-heart-foundation-streatham
 name: British Heart Foundation Books & Music Shop
 address: 94 Streatham High Road, SW16 1BS
 website: http://www.bhf.org.uk/shop_with_bhf/our_shops/shopping/books_and_music.aspx
+photo: http://www.flickr.com/photos/kake_pugh/13283821763/
 lat: 51.435162
 long: -0.128531
 new: unknown
 secondhand: yes
 charity: yes
 open: yes
+checked: March 2014
 ---
 id: british-red-cross-palmers-green
 name: British Red Cross Bookshop
@@ -1340,13 +1342,14 @@ name: Halcyon Books
 address: 1 Greenwich South Street, SE10 8NW
 website: http://www.halcyonbooks.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Halcyon_Books
-photo: http://www.flickr.com/photos/kake_pugh/2582563692/
+photo: http://www.flickr.com/photos/kake_pugh/13215687483/
 long: -0.011823
 lat: 51.477840
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: March 2014
 ---
 id: hatchards-piccadilly
 name: Hatchards
