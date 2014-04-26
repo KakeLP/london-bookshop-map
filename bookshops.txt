@@ -1984,15 +1984,17 @@ checked: August 2013
 ---
 id: my-back-pages-balham
 name: My Back Pages
+description: "Now closed; was a second-hand bookshop in Balham.  As of April 2014 the premises are vacant and stripped out (pictured)."
 address: 8-10 Station Road, SW12 9SG
 tol: http://www.tiredoflondontiredoflife.com/2012/03/buy-books-at-my-back-pages.html
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/london/south_west.shtml
+photo: https://www.flickr.com/photos/rjw1/13971452212/
 long: -0.151899
 lat: 51.443283
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: new-beacon-books
 name: New Beacon Books
