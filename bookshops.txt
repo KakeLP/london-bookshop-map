@@ -3161,6 +3161,7 @@ name: Wildy & Sons Ltd
 address: Lincoln's Inn Archway, Carey Street, WC2A 2JD
 description: Law books.
 website: http://www.wildy.com/
+photo: https://www.flickr.com/photos/rjw1/13971393041/
 long: -0.112824
 lat: 51.515179
 new: yes
