@@ -568,7 +568,7 @@ open: yes
 id: book-warehouse-holborn
 name: Book Warehouse (Holborn)
 address: 120 Southampton Row, WC1B 5AB
-photo: http://www.flickr.com/photos/kake_pugh/8278081938/
+photo: https://www.flickr.com/photos/kake_pugh/14016457691/
 website: http://www.thebookwarehouse.co.uk/
 lat: 51.520667
 long: -0.12290606
@@ -576,7 +576,7 @@ new: yes
 secondhand: no
 charity: no
 open: yes
-checked: December 2012
+checked: April 2014
 ---
 id: book-warehouse-notting-hill
 name: Book Warehouse (Notting Hill)
