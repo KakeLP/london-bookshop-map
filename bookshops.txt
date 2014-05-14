@@ -3201,7 +3201,7 @@ checked: June 2009
 id: woolfson-and-tay-bankside
 name: Woolfson & Tay
 address: 39 Bear Lane, Bankside, London, SE1 0UH
-website: http://www.woolfsonandtay.com/
+website: http://woolfsonandtaybookshop.weebly.com/
 twitter: woolfsonandtay
 photo: http://www.flickr.com/photos/kake_pugh/9260633677/
 other_links: <li><a href="http://diamondgeezer.blogspot.co.uk/2013/04/woolfson-tay.html">diamond geezer article</a></li><li><a href="http://www.london-se1.co.uk/news/view/4799">LondonSE1 report</a></li> <li><a href="http://www.london-se1.co.uk/forum/read/1/131326">LondonSE1 forum thread</a></li>
