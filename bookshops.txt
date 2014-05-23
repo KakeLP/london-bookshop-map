@@ -2933,6 +2933,7 @@ open: yes
 id: walden-books
 name: Walden Books
 address: 38 Harmood Street, NW1 8DP
+tol: http://www.tiredoflondontiredoflife.com/2014/05/browse-at-walden-books.html
 other_links: <li><a href="http://www.abebooks.com/walden-books-london/504559/sf">AbeBooks entry</a></li> <li><a href="http://bibliophilicblogger.blogspot.com/2009/04/londons-second-hand-book-shops-no-1.html">Bibliophilic Blogger review</a></li>
 long: -0.147028
 lat: 51.544292
