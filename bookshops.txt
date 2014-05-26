@@ -1275,14 +1275,17 @@ id: g-heywood-hill
 name: G Heywood Hill Ltd
 address: 10 Curzon Street, W1J 5HH
 website: http://www.heywoodhill.com/
+twitter: HeywoodHill
 londonist: http://londonist.com/2009/06/biblio-text_heywood_hill.php
 other_links: <li><a href="http://ashrarebooks.wordpress.com/2013/01/10/rummage-in-curzon-street/">Laurence Worms' article</a> (scroll down)</li>
+photo: https://www.flickr.com/photos/rjw1/14070633977/
 long: -0.146567
 lat: 51.506985
-new: unknown
-secondhand: unknown
+new: yes
+secondhand: yes
 charity: no
 open: yes
+checked: May 2014
 ---
 id: gosh
 name: Gosh
