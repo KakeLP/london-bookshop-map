@@ -1125,18 +1125,17 @@ open: yes
 ---
 id: foyles-charing-cross-road
 name: Foyles at Charing Cross Road
-address: 113-119 Charing Cross Road, WC2H 0EB
-description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store. It has five floors and stocks more than 200,000 book titles plus gifts, stationery, magazines, printed music, classical music CDs, and classic/world DVDs. The building also houses Ray’s Jazz Music and Books, Grant & Cutler Foreign Languages, a cafe (with free wifi), a gallery, and an events space. There’s step-free access to all areas; lifts to all floors, and a ramp from the first floor level to the cafe.<br><br>In 2014 it will be moving next door to the former Central St Martins building at 107 Charing Cross Road.
+address: 107 Charing Cross Road, WC2H 0DT
+description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from here to number 107.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1011
 twitter: Foyles
-other_links: <li><a href="http://londonrobstuff.blogspot.com/2009/12/foyles-charing-cross-road-wc2.html">London Stuff review</a></li>
-long: -0.129980
-lat: 51.514671
+other_links: <li><a href="http://diamondgeezer.blogspot.co.uk/2014/05/foyles-113.html">diamond geezer article</a></li>
+lat: 51.514280
+long: -0.12977023
 new: yes
 secondhand: no
 charity: no
 open: yes
-checked: July 2013
 ---
 id: foyles-pancras-road
 name: Foyles at St Pancras International
