@@ -3187,8 +3187,9 @@ charity: no
 open: yes
 ---
 id: wimbledon-books-and-music
-name: Wimbledon Books and Music
+name: Wimbledon Books
 address: 40 High Street, SW19 5AU
+description: Formerly known as Wimbledon Books and Music.
 website: http://www.wimbledonbooksandmusic.co.uk/
 twitter: WimbledonBooks
 yelp: http://www.yelp.co.uk/biz/wimbledon-books-and-music-london
