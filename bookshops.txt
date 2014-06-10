@@ -3187,19 +3187,20 @@ charity: no
 open: yes
 ---
 id: wimbledon-books-and-music
-name: Wimbledon Books and Music
+name: Wimbledon Books
 address: 40 High Street, SW19 5AU
+description: Formerly known as Wimbledon Books and Music.
 website: http://www.wimbledonbooksandmusic.co.uk/
 twitter: WimbledonBooks
 yelp: http://www.yelp.co.uk/biz/wimbledon-books-and-music-london
-photo: http://www.flickr.com/photos/kake_pugh/3685041786/
+photo: https://www.flickr.com/photos/rjw1/14194802098/
 long: -0.220370
 lat: 51.425385
-new: unknown
-secondhand: unknown
+new: yes
+secondhand: no
 charity: no
 open: yes
-checked: June 2009
+checked: June 2014
 ---
 id: wood-street-bookshop
 name: Wood Street Non-Fiction Secondhand Book Shop
