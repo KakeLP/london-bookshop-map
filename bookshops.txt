@@ -2626,6 +2626,8 @@ name: Sims Reed
 address: 43a Duke Street, SW1Y 6DD
 website: http://books.simsreed.com/
 photo: https://www.flickr.com/photos/rjw1/14226889399/
+lat: 51.507106
+long: -0.13764480
 new: unknown
 secondhand: unknown
 charity: no
