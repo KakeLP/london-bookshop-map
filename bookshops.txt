@@ -2621,6 +2621,17 @@ charity: no
 open: yes
 checked: December 2012
 ---
+id: sims-reed
+name: Sims Reed
+address: 43a Duke Street, SW1Y 6DD
+website: http://books.simsreed.com/
+photo: https://www.flickr.com/photos/rjw1/14226889399/
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: June 2014
+---
 id: slightly-foxed-gloucester-road
 name: Slightly Foxed
 address: 123 Gloucester Road, SW7 4TE
