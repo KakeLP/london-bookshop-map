@@ -1129,6 +1129,7 @@ address: 107 Charing Cross Road, WC2H 0DT
 description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from here to number 107.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1011
 twitter: Foyles
+tol: http://www.tiredoflondontiredoflife.com/2014/06/browse-books-at-new-foyles.html
 other_links: "<li>diamond geezer articles: <a href=\"http://diamondgeezer.blogspot.co.uk/2014/05/foyles-113.html\">old shop</a>, <a href=\"http://diamondgeezer.blogspot.co.uk/2014/06/new-foyles.html\">new shop</a></li>"
 lat: 51.514280
 long: -0.12977023
