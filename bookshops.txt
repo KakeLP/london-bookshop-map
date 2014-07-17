@@ -1130,7 +1130,7 @@ description: Founded in 1903 and on Charing Cross Road since 1906, this is the f
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1011
 twitter: Foyles
 tol: http://www.tiredoflondontiredoflife.com/2014/06/browse-books-at-new-foyles.html
-other_links: "<li>diamond geezer articles: <a href=\"http://diamondgeezer.blogspot.co.uk/2014/05/foyles-113.html\">old shop</a>, <a href=\"http://diamondgeezer.blogspot.co.uk/2014/06/new-foyles.html\">new shop</a></li>"
+other_links: "<li>diamond geezer articles: <a href=\"http://diamondgeezer.blogspot.co.uk/2014/05/foyles-113.html\">old shop</a>, <a href=\"http://diamondgeezer.blogspot.co.uk/2014/06/new-foyles.html\">new shop</a></li><li><a href=\"http://www.planestrainsandplantagenets.com/2014/07/foyles-bookshop-charing-cross-road/\">Planes, Trains and Plantagenets article</a></li>"
 lat: 51.514280
 long: -0.12977023
 new: yes
