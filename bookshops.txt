@@ -1987,7 +1987,7 @@ checked: August 2013
 ---
 id: my-back-pages-balham
 name: My Back Pages
-description: "Now closed; was a second-hand bookshop in Balham.  As of April 2014 the premises are vacant and stripped out (pictured)."
+description: "Now closed; was a second-hand bookshop in Balham.  As of April 2014 the premises are vacant and stripped out (pictured).  As of mid-2014 the owner has opened a new bookshop in Earlsfield, called <a href=\"http://londonbookshops.org/shops/turn-the-page.html\">Turn The Page</a>."
 address: 8-10 Station Road, SW12 9SG
 tol: http://www.tiredoflondontiredoflife.com/2012/03/buy-books-at-my-back-pages.html
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/london/south_west.shtml
@@ -2879,6 +2879,20 @@ long: -0.191976
 lat: 51.503586
 new: unknown
 secondhand: unknown
+charity: no
+open: yes
+---
+id: turn-the-page
+name: Turn The Page
+address: 575 Garratt Lane, Earlsfield, SW18 4ST
+phone: 020 8605 2290
+description: "New and secondhand bookshop run by the owner of now-closed <a href=\"http://londonbookshops.org/shops/my-back-pages-balham.html\">My Back Pages</a>."
+twitter: TTPbookshop
+other_links: "<li><a href=\"http://metrolondonguides.wordpress.com/2014/07/04/turn-the-page-bookshop/\">Book Lovers’ London article</a></li>"
+lat: 51.439736
+long: -0.18668135
+new: yes
+secondhand: yes
 charity: no
 open: yes
 ---
