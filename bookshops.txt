@@ -2924,6 +2924,20 @@ secondhand: unknown
 charity: no
 open: no
 ---
+id: victoria-park-books
+name: Victoria Park Books
+address: 174 Victoria Park Road, Hackney, E9 7HD
+website: http://www.victoriaparkbooks.co.uk/
+twitter: VictoriaParkBks
+phone: 020 8986 1124
+description: Children’s bookshop.
+lat: 51.538219
+long: -0.044033021
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
 id: village-bookshop-woodford-green
 name: Village Bookshop
 address: 475 High Road, IG8 0XE
