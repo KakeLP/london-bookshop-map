@@ -1141,17 +1141,16 @@ open: yes
 id: foyles-pancras-road
 name: Foyles at St Pancras International
 address: Unit 8A, St Pancras Station, Euston Road, N1C 4QL
-description: A branch of Foyles inside St Pancras International itself. Stocks fiction and non-fiction including children’s books, travel guides, and business titles, as well as a small selection of French-language books. Also sells gifts and stationery. There’s step-free access to all areas of the shop.
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1000
+description: Now closed; was a branch of Foyles inside St Pancras International itself.  It closed in late July or early August 2014.
+website: http://www.foyles.co.uk/
 photo: http://www.flickr.com/photos/rjw1/8269863312/
 twitter: Foyles
-phone: 020 3206 2650
 long: -0.125334
 lat: 51.530453
 new: yes
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: July 2013
 ---
 id: foyles-southbank
