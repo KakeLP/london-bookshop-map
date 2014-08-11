@@ -2967,12 +2967,14 @@ id: w-and-a-houben
 name: W & A Houben
 address: 2 Church Court, TW9 1JL
 qype: http://www.qype.co.uk/place/354896
+photo: https://www.flickr.com/photos/kake_pugh/14863995906/
+description: "Closed in August 2014; see <a href=\"http://www.inprint.co.uk/thebookguide/shops/The%20closure%20of%20W&A%20Houben.pdf\">PDF report on thebookguide</a>."
 long: -0.304152
 lat: 51.460533
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: walden-books
 name: Walden Books
