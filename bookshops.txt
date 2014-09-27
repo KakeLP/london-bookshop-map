@@ -798,18 +798,19 @@ checked: August 2013
 ---
 id: clapham-books
 name: Clapham Books
-address: 120 Clapham High Street, SW4 7UH
+address: 26 The Pavement, Clapham Common, SW4 0JA
 website: http://www.claphambooks.com/
 twitter: ClaphamBooks
+description: "Previously located at 120 Clapham High Street (<a href=\"http://www.flickr.com/photos/kake_pugh/3551895419/\">photo</a>)."
 londonist: http://londonist.com/2009/09/biblio-text_clapham_books.php
-photo: http://www.flickr.com/photos/kake_pugh/3551895419/
-long: -0.135634
-lat: 51.462872
+photo: https://www.flickr.com/photos/kake_pugh/15214169085/
+lat: 51.462405
+long: -0.14025633
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
-checked: May 2009
+checked: September 2014
 ---
 id: classic-library
 name: Classic Library
@@ -1667,12 +1668,14 @@ id: karnac-books-finchley-road
 name: Karnac Books
 address: 118 Finchley Road, NW3 5HT
 website: http://www.karnacbooks.com/
+description: "A notice in the window describes them as “Specialist booksellers in psychoanalysis and related subjects est 1950”."
 long: -0.179021
 lat: 51.546631
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2014
 ---
 id: keith-fawkes-hampstead
 name: Keith Fawkes
