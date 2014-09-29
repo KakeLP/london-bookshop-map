@@ -3172,12 +3172,14 @@ address: 277 West End Lane, NW6 1QS
 website: http://www.welbooks.co.uk/intro.html
 londonist: http://londonist.com/2009/03/biblio-text_west_end_lane_books.php
 tol: http://www.tiredoflondontiredoflife.com/2011/09/buy-books-at-west-end-lane-books.html
+photo: https://www.flickr.com/photos/kake_pugh/15202876157/
 long: -0.191724
 lat: 51.550564
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2014
 ---
 id: whsmiths-croydon
 name: WHSmiths (Croydon)
