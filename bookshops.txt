@@ -155,6 +155,7 @@ address: 60 Church Road, SW13 0DQ
 phone: 020 8741 0786
 photo: http://flickr.com/photos/kake_pugh/2977997334/
 description: Run by the same people as the <a href="http://londonbookshops.org/shops/kew-bookshop.html">Kew Bookshop</a> and the <a href="http://londonbookshops.org/shops/sheen-bookshop.html">Sheen Bookshop</a>.
+tol: http://www.tiredoflondontiredoflife.com/2014/10/buy-books-at-barnes-bookshop.html
 lat: 51.474792
 long: -0.240583
 new: unknown
@@ -1734,6 +1735,7 @@ id: koenig-books-charing-cross-road
 name: Koenig Books (Charing Cross Road)
 address: 80 Charing Cross Road.
 website: http://www.koenigbooks.co.uk/
+phone: 020 7240 8190
 photo: http://www.flickr.com/photos/kake_pugh/2445616864/
 long: -0.128757
 lat: 51.512714
@@ -1741,6 +1743,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: October 2014
 ---
 id: koenig-books-serpentine
 name: Koenig Books (Serpentine Gallery)
