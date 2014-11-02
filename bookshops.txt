@@ -3173,6 +3173,7 @@ id: west-end-lane-books
 name: West End Lane Books
 address: 277 West End Lane, NW6 1QS
 website: http://www.welbooks.co.uk/intro.html
+twitter: WELBooks
 londonist: http://londonist.com/2009/03/biblio-text_west_end_lane_books.php
 tol: http://www.tiredoflondontiredoflife.com/2011/09/buy-books-at-west-end-lane-books.html
 photo: https://www.flickr.com/photos/kake_pugh/15202876157/
