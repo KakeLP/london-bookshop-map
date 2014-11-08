@@ -1208,6 +1208,7 @@ checked: July 2013
 id: foyles-westfield-stratford
 name: Foyles at Westfield Stratford City
 address: 74-75 Lower Ground Floor, The Arcade, Westfield Stratford City, E20 1EH
+photo: https://www.flickr.com/photos/rjw1/15011149393/
 description: The Westfield Stratford City branch of Foyles. It includes a children’s area, and there’s step-free access to all areas of the shop.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1016
 twitter: Foyles
@@ -1218,7 +1219,7 @@ new: yes
 secondhand: no
 charity: no
 open: yes
-checked: July 2013
+checked: October 2014
 ---
 id: foyles-one-new-change
 name: Foyles at One New Change
@@ -1358,10 +1359,11 @@ open: yes
 checked: March 2014
 ---
 id: hatchards-piccadilly
-name: Hatchards
+name: Hatchards (Piccadilly)
 address: 187 Piccadilly, W1J 9LE
 website: http://www.hatchards.co.uk/
 twitter: Hatchards
+description: The original branch of Hatchards.  In August 2014 it opened a second branch <a href="http://londonbookshops.org/shops/hatchards-st-pancras.html">in St Pancras International</a>.
 other_links: <li><a href="http://kimbofo.typepad.com/readingmatters/2009/01/a-visit-to-the-oldest-bookshop-in-london.html">Reading Matters review</a></li> <li><a href="http://londonrobstuff.blogspot.com/2010/09/hatchards-piccadilly-w1.html">London Stuff article</a></li>
 londonist: http://londonist.com/2009/09/biblio-text_hatchards.php
 tol: http://www.tiredoflondontiredoflife.com/2009/10/browse-at-hatchards-britains-oldest.html
@@ -1371,6 +1373,22 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+---
+id: hatchards-st-pancras
+name: Hatchards (St Pancras)
+address: St Pancras International, N1C 4QP
+website: http://www.hatchards.co.uk/
+twitter: Hatchards
+phone: 020 7278 1238
+description: The second branch of Hatchards, the original being <a href="http://londonbookshops.org/shops/hatchards-piccadilly.html">on Piccadilly</a>.  This one opened in August 2014.
+photo: https://www.flickr.com/photos/rjw1/15640486725/
+lat: 51.531428
+long: -0.126134
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: October 2014
 ---
 id: hellenic-bookservice
 name: Hellenic Bookservice
