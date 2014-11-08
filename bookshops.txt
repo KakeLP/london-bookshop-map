@@ -965,6 +965,7 @@ id: daunt-books-chelsea
 name: Daunt Books (Chelsea)
 address: 158-164 Fulham Road, SW10 9PR
 description: Specialist travel bookshop, part of a small chain.
+photo: https://www.flickr.com/photos/kake_pugh/15553634920/
 website: http://www.dauntbooks.co.uk/
 twitter: DauntBooks
 long: -0.179903
@@ -973,6 +974,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: October 2014
 ---
 id: dulwich-books
 name: Dulwich Books
@@ -3302,6 +3304,8 @@ checked: June 2013
 id: worlds-end-bookshop-chelsea
 name: World's End Bookshop
 address: 357 Kings Road, SW3 5ES
+photo: https://www.flickr.com/photos/kake_pugh/15714748716/
+phone: 020 7352 9376
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/london/south_west.shtml#world
 long: -0.176682
 lat: 51.483883
@@ -3309,6 +3313,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: October 2014
 ---
 id: amwell-book-company
 name: Amwell Book Company
