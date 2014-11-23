@@ -4,6 +4,7 @@ description: Comics shop in Putney.
 address: 18 Lower Richmond Road, SW15 1JP
 locales: Putney, SW15
 website: http://www.thirtiethcentury.free-online.co.uk/
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2203
 lat: 51.467219
 long: -0.21823445
 photo: http://www.flickr.com/photos/rjw1/8936452165/
