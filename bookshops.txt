@@ -737,6 +737,7 @@ id: chener-books-lordship-lane
 name: Chener Books
 address: 14 Lordship Lane, SE22 8HN
 rgl: http://london.randomness.org.uk/wiki.cgi?Chener_Books,_SE22_8HN
+other_links: <li><a href="http://peckhampeculiar.tumblr.com/post/103457719849/buy-the-book-part-1-chener-books">Peckham Peculiar</a></li>
 photo: http://www.flickr.com/photos/rjw1/5089865536/
 lat: 51.460117
 long: -0.075467
@@ -930,7 +931,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: October 2013
+checked: December 2014
 ---
 id: daunt-books-belsize-park
 name: Daunt Books (Belsize Park)
@@ -2539,6 +2540,7 @@ website: http://www.reviewbookshop.co.uk/
 twitter: reviewbookshop
 londonist: http://londonist.com/2009/05/biblio-text_review_bookshop.php
 tol: http://www.tiredoflondontiredoflife.com/2013/10/shop-at-review-bookshop.html
+other_links: <li><a href="http://peckhampeculiar.tumblr.com/post/103539594184/buy-the-book-part-2-review-bookshop">Peckham Peculiar</a></li>
 photo: http://flickr.com/photos/55935853@N00/2879797042/
 long: -0.072248
 lat: 51.467964
@@ -2575,7 +2577,7 @@ id: rye-books-east-dulwich
 name: Rye Books
 address: 45 Upland Road, SE22 9EF
 website: http://www.ryebooks.co.uk/
-other_links: <li><a href="http://www.eastdulwichforum.co.uk/forum/read.php?30,807277,807277">East Dulwich forum</a></li> <li><a href="http://southeastcentral.co.uk/threads/rye-books-new-bookstore-at-45-upland-road-east-dulwich-se22-9ef.1491/">South East Central</a></li>
+other_links: <li><a href="http://www.eastdulwichforum.co.uk/forum/read.php?30,807277,807277">East Dulwich forum</a></li> <li><a href="http://southeastcentral.co.uk/threads/rye-books-new-bookstore-at-45-upland-road-east-dulwich-se22-9ef.1491/">South East Central</a></li> <li><a href="http://peckhampeculiar.tumblr.com/post/103794485889/buy-the-book-part-3-rye-books">Peckham Peculiar</a></li>
 long: -0.068092838
 lat: 51.457228
 new: yes
