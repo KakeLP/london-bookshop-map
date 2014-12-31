@@ -1377,15 +1377,17 @@ address: 187 Piccadilly, W1J 9LE
 website: http://www.hatchards.co.uk/
 twitter: Hatchards
 description: The original branch of Hatchards.  In August 2014 it opened a second branch <a href="http://londonbookshops.org/shops/hatchards-st-pancras.html">in St Pancras International</a>.
+photo: https://www.flickr.com/photos/rjw1/15953763950/
 other_links: <li><a href="http://kimbofo.typepad.com/readingmatters/2009/01/a-visit-to-the-oldest-bookshop-in-london.html">Reading Matters review</a></li> <li><a href="http://londonrobstuff.blogspot.com/2010/09/hatchards-piccadilly-w1.html">London Stuff article</a></li>
 londonist: http://londonist.com/2009/09/biblio-text_hatchards.php
 tol: http://www.tiredoflondontiredoflife.com/2009/10/browse-at-hatchards-britains-oldest.html
 long: -0.137984
 lat: 51.508549
-new: unknown
+new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: December 2014
 ---
 id: hatchards-st-pancras
 name: Hatchards (St Pancras)
