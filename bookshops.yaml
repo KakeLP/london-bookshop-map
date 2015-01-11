@@ -2110,6 +2110,19 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: offside-books-kilburn
+name: Offside Books
+address: 92 Willesden Lane, Kilburn, NW6 7TA
+website: http://www.offsidebooks.com/
+twitter: OffSideBooks
+photo: https://www.flickr.com/photos/kake_pugh/16052383778/
+lat: 51.540944
+long: -0.20223239
+new: yes
+secondhand: yes
+charity: no
+open: yes
+---
 id: old-bookshop-enfield
 name: The Old Bookshop
 address: 36 Gordon Road, EN2 0PZ
@@ -3312,7 +3325,7 @@ twitter: woolfsonandtay
 photo: http://www.flickr.com/photos/kake_pugh/9260633677/
 other_links: <li><a href="http://diamondgeezer.blogspot.co.uk/2013/04/woolfson-tay.html">diamond geezer article</a></li><li><a href="http://www.london-se1.co.uk/news/view/4799">LondonSE1 report</a></li> <li><a href="http://www.london-se1.co.uk/forum/read/1/131326">LondonSE1 forum thread</a></li>
 londonist: http://londonist.com/2010/09/biblio-text_woolfson_tay.php
-description: '<a href="http://www.woolfsonandtay.com/1/post/2014/01/in-numbers-and-the-uncountable.html">Closed down</a> in January 2014.  It was previously at Bermondsey Square (<a href="http://www.flickr.com/photos/rjw1/8360423241/">photo</a>), but <a href="http://www.woolfsonandtay.com/1/post/2013/01/another-chapter-begins.html">relocated to Bankside</a> in April 2013.'
+description: 'Closed down in January 2014.  It was previously at Bermondsey Square (<a href="http://www.flickr.com/photos/rjw1/8360423241/">photo</a>), but relocated to Bankside in April 2013.'
 long: -0.10195264
 lat: 51.504893
 new: yes
