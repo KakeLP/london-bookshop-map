@@ -2488,6 +2488,30 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: peter-harrington-chelsea
+name: Peter Harrington (Chelsea)
+address: 100 Fulham Road, Chelsea, SW3 6HS
+website: http://www.peterharrington.co.uk/
+description: Rare and antiquarian books, first editions, etc.  Also has <a href="peter-harrington-mayfair.html">a branch in Mayfair</a>.
+lat: 51.489669
+long: -0.17529000
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+---
+id: peter-harrington-mayfair
+name: Peter Harrington (Mayfair)
+address: 43 Dover Street, Mayfair, W1S 4FF
+website: http://www.peterharrington.co.uk/
+description: Rare and antiquarian books, first editions, etc.  Also has <a href="peter-harrington-chelsea.html">a branch in Chelsea</a>.
+lat: 51.508020
+long: -0.14189114
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+---
 id: photo-books-international
 name: Photo Books International
 address: 99 Judd Street, WC1H 9NE
