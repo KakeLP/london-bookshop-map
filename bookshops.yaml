@@ -568,16 +568,6 @@ secondhand: unknown
 charity: no
 open: yes
 ---
-id: bookthrift
-name: Bookthrift
-address: 22 Thurloe Street, SW7 2LT
-long: -0.173829
-lat: 51.494305
-new: unknown
-secondhand: unknown
-charity: no
-open: yes
----
 id: book-warehouse-waterloo
 name: Book Warehouse (Waterloo)
 address: 158 Waterloo Road, SE1 8SB
@@ -2793,6 +2783,20 @@ address: 331 Portobello Road, W10 5SA
 website: http://www.ssrbooks.com/
 long: -0.210494
 lat: 51.521423
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: south-kensington-books
+name: South Kensington Books
+address: 22 Thurloe Street, SW7 2LT
+website: http://www.kensingtonbooks.co.uk/
+phone: 020 7589 2916
+description: Previously Bookthrift.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/101948475126/south-kensington-books-sw7-righteous-emporium-of">London Books review</a></li>
+long: -0.173829
+lat: 51.494305
 new: unknown
 secondhand: unknown
 charity: no
