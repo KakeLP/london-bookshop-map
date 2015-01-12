@@ -2137,6 +2137,17 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: notting-hill-bookshop
+name: The Notting Hill Bookshop
+address: 13 Blenheim Crescent, Notting Hill, W11 2EE
+description: This was previously the site of the Travel Bookshop, which closed in 2011 (see <a href="http://www.thebookseller.com/news/book-warehouse-takes-over-travel-bookshop-site">The Bookseller article</a> and <a href="http://londonist.com/2011/08/notting-hills-travel-bookshop-about-to-close.php">Londonist article</a>).
+long: -0.205457
+lat: 51.515659
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
 id: offside-books-kilburn
 name: Offside Books
 address: 92 Willesden Lane, Kilburn, NW6 7TA
@@ -2928,19 +2939,6 @@ secondhand: yes
 charity: no
 open: yes
 checked: September 2013
----
-id: travel-bookshop-notting-hill
-name: Travel Bookshop
-address: 13-15 Blenheim Crescent, W11 2EE
-twitter: TravelBookshop
-description: Closed in 2011; see <a href="http://www.thebookseller.com/news/travel-bookshop-close-two-weeks.html">The Bookseller article</a> and <a href="http://londonist.com/2011/08/notting-hills-travel-bookshop-about-to-close.php">Londonist article</a>.
-londonist: http://londonist.com/2009/03/biblio-text_the_travel_bookshop.php
-long: -0.205457
-lat: 51.515659
-new: unknown
-secondhand: unknown
-charity: no
-open: no
 ---
 id: treadwells-offstage-books
 name: Treadwells (and Offstage Books)
