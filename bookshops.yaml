@@ -217,6 +217,17 @@ checked: February 2012
 charity: no
 open: yes
 ---
+id: bernard-quaritch-mayfair
+name: Bernard Quaritch
+address: 40 South Audley Street, Mayfair, W1K 2PR
+website: http://www.quaritch.com/
+phone: 020 7297 4888
+lat: 51.509884
+long: -0.15181799
+new: no
+secondhand: yes
+open: yes
+---
 id: bertram-rota
 name: Bertram Rota
 address: 31 Long Acre, Covent Garden, WC2E 9LT
@@ -2800,6 +2811,18 @@ secondhand: unknown
 charity: no
 open: yes
 checked: July 2009
+---
+id: sokol-books-chelsea
+name: Sokol Books
+address: 239a Fulham Road, Chelsea, SW3 6HY
+website: http://sokol.co.uk/
+phone: 020 7351 5119
+description: English and European rare books.
+lat: 51.489425
+long: -0.17531146
+new: unknown
+secondhand: yes
+open: yes
 ---
 id: sophie-schneideman-rare-books
 name: Sophie Schneideman Rare Books
