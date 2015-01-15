@@ -624,13 +624,14 @@ id: bookworm-carshalton
 name: Bookworm
 address: 23 West Street, SM5 2PT
 rgl: http://london.randomness.org.uk/wiki.cgi?Bookworm,_SM5_2PT
+description: Closed down some time between September 2012 and January 2015.
 photo: http://www.flickr.com/photos/kake_pugh/7976510658/
 lat: 51.3666308
 long: -0.16724527
 new: no
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: September 2012
 ---
 id: british-heart-foundation-streatham
