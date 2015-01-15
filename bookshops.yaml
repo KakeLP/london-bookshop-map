@@ -1952,6 +1952,18 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: maggs-bros-mayfair
+name: Maggs Bros
+address: 50 Berkeley Square, Mayfair, W1J 5BA
+website: http://www.maggs.com/
+description: Rare books and manuscripts.
+lat: 51.508908
+long: -0.14579643
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+---
 id: magma-clerkenwell-road
 name: Magma (Clerkenwell Road)
 address: 117-119 Clerkenwell Road, EC1R 5BY
