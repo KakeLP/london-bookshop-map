@@ -2666,12 +2666,11 @@ open: yes
 ---
 id: riverside-bookshop
 name: Riverside Bookshop
-address: 18-19 Hay's Galleria, Counter Street, SE1 2HD
-rgl: http://london.randomness.org.uk/wiki.cgi?Riverside_Bookshop,_SE1_2HD
-photo: http://flickr.com/photos/kake_pugh/2474855655/
-checked: June 2013
-long: -0.083513
-lat: 51.505871
+address: 57 Tooley Street, SE1 1QN
+description: Independent bookshop near London Bridge Station.  Previously in Hay's Galleria (<a href="http://flickr.com/photos/kake_pugh/2474855655/">photo</a>), it <a href="http://www.london-se1.co.uk/news/view/8039">moved to Tooley Street</a> around the start of 2015.
+rgl: http://london.randomness.org.uk/wiki.cgi?Riverside_Bookshop,_SE1_2QN
+lat: 51.505063
+long: -0.083914787
 new: unknown
 secondhand: unknown
 charity: no
