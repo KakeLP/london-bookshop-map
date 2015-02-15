@@ -1,4 +1,7 @@
-This is the YAML data file for http://londonbookshops.org/
+YAML data file, config file, custom CSS, and custom templates for
+http://londonbookshops.org/
+
+Code and non-custom templates are at https://github.com/KakeLP/map-site-maker
 
 Pull requests welcome!
 

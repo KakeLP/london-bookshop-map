@@ -1,0 +1,22 @@
+[% INCLUDE header.tt subtitle="About this site" %]
+
+<div style="max-width:40em">
+
+<p>This website originates from a Google map set up by Pedro and Kake to map
+all the bookshops in London.  Eventually the number of bookshops on the map
+grew to the point where the Google Maps interface was no longer the best way
+to display the data.</p>
+
+<p>Please send comments, questions, reports of closures, etc to <a
+href="mailto:kake@earth.li">kake@earth.li</a>.</p>
+
+<p>The current site uses Perl, Template Toolkit, YAML, Leaflet,
+jQuery, MapQuest, and OpenStreetMap.  It was built in emacs by Kake,
+and <a href="https://github.com/KakeLP/map-site-maker">the code is
+available on GitHub</a>.  You can also find <a
+href="https://github.com/KakeLP/london-bookshop-map">the data on
+GitHub</a>, and pull requests are welcome.</p>
+
+</div>
+
+[% INCLUDE footer.tt %]

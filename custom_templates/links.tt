@@ -1,0 +1,21 @@
+[% INCLUDE header.tt subtitle="Useful links" %]
+
+<dl>
+  <dt><a href="http://www.inprint.co.uk/thebookguide/index.php">TheBookGuide</a></dt>
+  <dd>A comprehensive and frequently-updated guide to sources of secondhand and antiquarian books throughout the UK.</dd>
+
+  <dt><a href="http://london.randomness.org.uk/wiki.cgi?Category_Bookshops">Randomness Guide to London: bookshops category</a></dt>
+  <dd>Made by the same people as this site, with writeups that go into more depth.  Not comprehensive; only covers the bookshops we've actually been to.</dd>
+
+  <dt><a href="http://londonbooks.tumblr.com/">londonbooks.tumblr.com</a></dt>
+  <dd>Photos and brief writeups of London's most interesting bookshops.</dd>
+
+  <dt><a href="http://londonist.com/tags/biblio-text">Londonist: Biblio-Text</a></dt>
+  <dd>A series of articles on London's independent bookshops.</dd>
+
+  <dt><a href="http://www.thelondonbookshopmap.org/">The (other) London Bookshop Map</a></dt>
+  <dd>Map showing 100 independent bookshops in London, with brief writeups.  Differs from this site in that it's selective rather than comprehensive.  Also available in paper form.</dd>
+
+</dl>
+
+[% INCLUDE footer.tt %]
