@@ -1004,6 +1004,33 @@ charity: no
 open: yes
 checked: October 2014
 ---
+id: donlon-books-hackney
+name: Donlon Books (Hackney)
+address: 75 Broadway Market, Hackney, E8 4PH
+description: Specialises in art, music, fashion, philosophy, and erotica.  Also has a branch <a href="donlon-books-soho.html">in Soho</a>.
+website: http://donlonbooks.com/
+twitter: DonlonBooks
+other_links: <li><a href="http://londonbooks.tumblr.com/post/110744919366/donlon-books-e8-just-over-the-road-from-our-last">londonbooks.tumblr.com</a></li>
+lat: 51.537629
+long: -0.061104342
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: donlon-books-soho
+name: Donlon Books (Soho)
+address: 62 Kingly Street, Soho, W1B 5QN
+description: Specialises in art, music, fashion, philosophy, and erotica.  Also has a branch <a href="donlon-books-hackney.html">in Hackney</a>.
+website: http://donlonbooks.com/
+twitter: DonlonBooks
+lat: 51.512300
+long: -0.13891254
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
 id: dulwich-books
 name: Dulwich Books
 address: 6 Croxted Road, SE21 8SW
