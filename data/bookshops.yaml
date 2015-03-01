@@ -261,6 +261,7 @@ id: black-gull-books-camden
 name: Black Gull Books (Camden)
 address: 70-71 Camden Lock Place, Camden Lock Market, NW1 8AF
 website: http://www.camdenlockmarket.com/unit.php?id=61
+other_links: <li><a href="http://londonbooks.tumblr.com/post/109142890441/black-gull-books-nw1-fight-through-the-crowds">londonbooks.tumblr.com</a></li>
 lat: 51.541279
 long: -0.146556
 new: unknown
@@ -674,6 +675,7 @@ name: Broadway Bookshop
 address: 6 Broadway Market, E8 4QJ
 website: http://www.broadwaybookshophackney.com/
 tol: http://www.tiredoflondontiredoflife.com/2010/07/search-for-paperbacks-at-broadway.html
+other_links: <li><a href="http://londonbooks.tumblr.com/post/110436957031/broadway-bookshop-e8-over-east-london-way-a">londonbooks.tumblr.com</a></li>
 long: -0.061433
 lat: 51.536835
 new: unknown
@@ -1195,9 +1197,9 @@ charity: no
 open: yes
 ---
 id: foyles-charing-cross-road
-name: Foyles at Charing Cross Road
+name: Foyles at Charing Cross Road (incorporating Grant and Cutler)
 address: 107 Charing Cross Road, WC2H 0DT
-description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from here to number 107.
+description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from here to number 107.  It also incorporates <a href="http://www.grantandcutler.com/">Grant and Cutler</a>, a specialist foreign-language bookseller.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1011
 twitter: Foyles
 tol: http://www.tiredoflondontiredoflife.com/2014/06/browse-books-at-new-foyles.html
@@ -1370,20 +1372,6 @@ secondhand: unknown
 charity: no
 open: yes
 ---
-id: grant-and-cutler
-name: Grant and Cutler
-address: First Floor, Foyles, 113-119 Charing Cross Road, WC2H 0EB
-description: Foreign-language books.  Previously at 55-57 Great Marlborough Street, W1F 7AY (<a href="http://flickr.com/photos/kake_pugh/2693976892/">photo</a>), but moved to the first floor of Foyles at Charing Cross Road in March 2011.
-website: http://www.grantandcutler.com/
-photo: 
-londonist: http://londonist.com/2009/07/biblio-text_grant_and_cutler.php
-long: -0.129980
-lat: 51.514671
-new: unknown
-secondhand: unknown
-charity: no
-open: yes
----
 id: greenwich-book-place
 name: Greenwich Book Place
 address: 258 Creek Road, SE10 9SW
@@ -1432,7 +1420,7 @@ website: http://www.hatchards.co.uk/
 twitter: Hatchards
 description: The original branch of Hatchards.  In August 2014 it opened a second branch <a href="http://londonbookshops.org/shops/hatchards-st-pancras.html">in St Pancras International</a>.
 photo: https://www.flickr.com/photos/rjw1/15953763950/
-other_links: <li><a href="http://kimbofo.typepad.com/readingmatters/2009/01/a-visit-to-the-oldest-bookshop-in-london.html">Reading Matters review</a></li> <li><a href="http://londonrobstuff.blogspot.com/2010/09/hatchards-piccadilly-w1.html">London Stuff article</a></li>
+other_links: <li><a href="http://kimbofo.typepad.com/readingmatters/2009/01/a-visit-to-the-oldest-bookshop-in-london.html">Reading Matters review</a></li> <li><a href="http://londonrobstuff.blogspot.com/2010/09/hatchards-piccadilly-w1.html">London Stuff article</a></li><li><a href="http://londonbooks.tumblr.com/post/109799665901">londonbooks.tumblr.com</a></li>
 londonist: http://londonist.com/2009/09/biblio-text_hatchards.php
 tol: http://www.tiredoflondontiredoflife.com/2009/10/browse-at-hatchards-britains-oldest.html
 long: -0.137984
@@ -2772,6 +2760,7 @@ address: 66 The Brunswick Centre, Marchmont Street, WC1N 1AE
 website: http://www.skoob.com/
 photo: http://www.flickr.com/photos/rjw1/8269893404/
 tol: http://www.tiredoflondontiredoflife.com/2011/06/buy-books-at-skoob.html
+other_links: <li><a href="http://londonbooks.tumblr.com/post/110187297861/skoob-books-wc1n-id-heard-good-things-but-i-was">londonbooks.tumblr.com</a></li>
 long: -0.123903
 lat: 51.524128
 new: unknown
