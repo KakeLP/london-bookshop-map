@@ -2319,10 +2319,12 @@ name: Oxfam Bookshop (Ealing)
 address: 1 The Green, W5 5DA
 long: -0.305192
 lat: 51.511040
+photo: https://www.flickr.com/photos/kake_pugh/16683239512/
 new: unknown
 secondhand: unknown
 charity: yes
 open: yes
+checked: February 2015
 ---
 id: oxfam-bookshop-bloomsbury
 name: Oxfam Bookshop (Bloomsbury)
