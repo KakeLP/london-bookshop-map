@@ -610,8 +610,7 @@ id: book-warehouse-notting-hill
 name: Book Warehouse (Notting Hill)
 address: 72-74 Notting Hill Gate, W11 3HT
 phone: 020 7727 4149
-photo: http://www.flickr.com/photos/kake_pugh/2727113392/
-checked: August 2008
+photo: https://www.flickr.com/photos/kake_pugh/16557892399/
 website: http://www.thebookwarehouse.co.uk/
 lat: 51.509227
 long: -0.19620010
@@ -619,6 +618,7 @@ new: yes
 secondhand: no
 charity: no
 open: yes
+checked: March 2015
 ---
 id: bookworm-carshalton
 name: Bookworm
@@ -826,6 +826,21 @@ secondhand: unknown
 charity: no
 open: yes
 checked: August 2013
+---
+id: claire-de-rouen-books-soho
+name: Claire de Rouen Books
+address: First Floor, 125 Charing Cross Road, Soho, WC2H 0EW
+website: http://clairederouenbooks.com/
+phone: 020 7287 1813
+description: Specialist in photography, fashion, and art books.
+photo: https://www.flickr.com/photos/kake_pugh/16556379638/
+lat: 51.515011
+long: -0.13006394
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: March 2015
 ---
 id: clapham-books
 name: Clapham Books
@@ -1957,6 +1972,7 @@ name: Lutyens and Rubenstein
 address: 21 Kensington Park Road, W11 2EU
 website: http://www.lutyensrubinstein.co.uk/bookshop-homepage/
 twitter: LandRBookshop
+photo: https://www.flickr.com/photos/kake_pugh/16742839461/
 other_links: <li><a href="http://www.vogue.co.uk/blogs/the-vogue-blog/articles/091026-lutyens-and-rubinstein-book-shop.aspx">Vogue article</a></li>
 tol: http://www.tiredoflondontiredoflife.com/2010/06/browse-for-books-at-lutyens-and.html
 long: -0.205640
@@ -1965,6 +1981,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: March 2015
 ---
 id: maggs-bros-mayfair
 name: Maggs Bros
@@ -2158,12 +2175,13 @@ open: yes
 id: notting-hill-books
 name: Notting Hill Books
 address: 132 Palace Gardens Terrace, W8 4RT
+description: Now closed.
 long: -0.193870
 lat: 51.509075
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: notting-hill-bookshop
 name: The Notting Hill Bookshop
@@ -2827,6 +2845,20 @@ new: unknown
 secondhand: yes
 charity: no
 open: yes
+---
+id: soho-original-books-charing-cross-road
+name: Soho Original Books
+address: 121 Charing Cross Road, Soho, WC2H 0EW
+website: http://www.sohobooks.co.uk/
+twitter: SohoBooks
+photo: https://www.flickr.com/photos/kake_pugh/16536674297/
+lat: 51.514917
+long: -0.13001834
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: March 2015
 ---
 id: sohos-original-bookshop-liverpool-street
 name: Soho's Original Bookshop
