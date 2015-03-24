@@ -1041,6 +1041,7 @@ address: 62 Kingly Street, Soho, W1B 5QN
 description: Specialises in art, music, fashion, philosophy, and erotica.  Also has a branch <a href="donlon-books-hackney.html">in Hackney</a>.
 website: http://donlonbooks.com/
 twitter: DonlonBooks
+other_links: <li><a href="http://londonbooks.tumblr.com/post/114342938901/">londonbooks.tumblr.com</a></li>
 lat: 51.512300
 long: -0.13891254
 new: yes
@@ -1129,6 +1130,7 @@ id: european-bookshop-warwick-street
 name: European Bookshop
 address: 5 Warwick Street, W1B 5LU
 website: http://www.europeanbookshop.com/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/114062186071/">londonbooks.tumblr.com</a></li>
 long: -0.137544
 lat: 51.510838
 new: unknown
@@ -2140,6 +2142,7 @@ address: 747 Barking Road, E13 9ER
 website: http://www.newhambooks.co.uk/
 twitter: NewhamBookshop
 photo: http://www.flickr.com/photos/kake_pugh/3766346809/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/112434475486/">londonbooks.tumblr.com</a></li>
 long: 0.037251
 lat: 51.530334
 new: unknown
@@ -2470,6 +2473,7 @@ website: http://www.pagesofhackney.co.uk/
 twitter: pagesofhackney
 photo: http://www.flickr.com/photos/55935853@N00/3991430102/
 tol: http://www.tiredoflondontiredoflife.com/2010/10/buy-books-at-pages-of-hackney.html
+other_links: <li><a href="http://londonbooks.tumblr.com/post/113065432846/">londonbooks.tumblr.com</a></li>
 long: -0.052571
 lat: 51.552620
 new: unknown
@@ -3123,7 +3127,8 @@ address: 174 Victoria Park Road, Hackney, E9 7HD
 website: http://www.victoriaparkbooks.co.uk/
 twitter: VictoriaParkBks
 phone: 020 8986 1124
-description: Children’s bookshop.
+description: Children's bookshop.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/112720479801/">londonbooks.tumblr.com</a></li>
 lat: 51.538219
 long: -0.044033021
 new: unknown
