@@ -3086,7 +3086,7 @@ address: 575 Garratt Lane, Earlsfield, SW18 4ST
 phone: 020 8605 2290
 description: "New and secondhand bookshop run by the owner of now-closed <a href=\"http://londonbookshops.org/shops/my-back-pages-balham.html\">My Back Pages</a>."
 twitter: TTPbookshop
-other_links: "<li><a href=\"http://metrolondonguides.wordpress.com/2014/07/04/turn-the-page-bookshop/\">Book Lovers’ London article</a></li>"
+other_links: <li><a href="http://metrolondonguides.wordpress.com/2014/07/04/turn-the-page-bookshop/">Book Lovers' London article</a></li><li><a href="http://londonbooks.tumblr.com/post/114517809091/">londonbooks.tumblr.com</a></li>
 lat: 51.439736
 long: -0.18668135
 new: yes
