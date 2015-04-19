@@ -2241,8 +2241,8 @@ open: yes
 id: open-book-richmond
 name: Open Book
 address: 10 King Street, TW9 1ND
-qype: http://www.qype.co.uk/place/164241
 yelp: http://www.yelp.co.uk/biz/open-book-richmond
+other_links: <li><a href="http://londonbooks.tumblr.com/post/116801183226/">londonbooks.tumblr.com</a></li>
 long: -0.306823
 lat: 51.459888
 new: unknown
