@@ -1481,10 +1481,11 @@ checked: July 2013
 ---
 id: henry-pordes-books-charing-cross-road
 name: Henry Pordes Books
-address: 58-60 Charing Cross Road.
+address: 58-60 Charing Cross Road, WC2H 0BB
 description: Second-hand, antiquarian, and out-of-print books.
 website: http://www.henrypordesbooks.com/
 photo: http://www.flickr.com/photos/kake_pugh/2445597342/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/117709762571/">londonbooks.tumblr.com</a></li>
 long: -0.128531
 lat: 51.512348
 new: unknown
@@ -1921,7 +1922,7 @@ id: lloyds-of-kew
 name: Lloyd's of Kew
 address: 9 Mortlake Terrace, Kew, TW9 3DT
 photo: http://flickr.com/photos/kake_pugh/2704615672/
-other_links: '<li><a href="http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/">Rob Around Books article</a></li><li><a href="http://www.flickr.com/photos/53264755@N00/sets/72157594520880134/">Flickr photoset by the owner</a></li>'
+other_links: '<li><a href="http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/">Rob Around Books article</a></li><li><a href="http://londonbooks.tumblr.com/post/117107607906/">londonbooks.tumblr.com</a></li><li><a href="http://www.flickr.com/photos/53264755@N00/sets/72157594520880134/">Flickr photoset by the owner</a></li>'
 long: -0.286426
 lat: 51.482605
 new: unknown
@@ -2948,6 +2949,7 @@ name: Stephen Foster Bookshop
 address: 95 Bell Street, NW1 6TL.
 website: http://www.95bellstreet.com/
 photo: http://www.flickr.com/photos/kake_pugh/3685320785/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/117416231601/">londonbooks.tumblr.com</a></li>
 long: -0.165696
 lat: 51.522190
 new: unknown
