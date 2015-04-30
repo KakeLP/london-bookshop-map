@@ -3062,6 +3062,19 @@ charity: no
 open: yes
 checked: September 2013
 ---
+id: travelling-through-waterloo
+name: Travelling Through...
+address: 131 Lower Marsh, Waterloo, SE1 7AE
+website: http://www.travellingthrough.co.uk/
+description: Travel bookshop and cafe.
+tiredoflondon: http://www.tiredoflondontiredoflife.com/2015/04/buy-books-at-travelling-through.html
+lat: 51.500375
+long: -0.11380036
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
 id: treadwells-offstage-books
 name: Treadwells (and Offstage Books)
 address: 33 Store Street, WC1E 7BS
