@@ -581,13 +581,13 @@ open: yes
 ---
 id: book-warehouse-waterloo
 name: Book Warehouse (Waterloo)
-address: 158 Waterloo Road, SE1 8SB
-rgl: http://london.randomness.org.uk/wiki.cgi?Book_Warehouse,_SE1_8SB
-photo: http://flickr.com/photos/kake_pugh/2669855002/
-checked: January 2014
-website: http://www.thebookwarehouse.co.uk/
-lat: 51.502159
-long: -0.110335
+address: 104 Lower Marsh, SE1 7AB
+description: Previously at 158 Waterloo Road (<a href="http://flickr.com/photos/kake_pugh/2669855002/">photo</a>), but moved to Lower Marsh in early 2015 due to redevelopment of the old site.
+website: http://www.gramex.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Book_Warehouse,_SE1_7AB
+other_links: <li><a href="http://londonbooks.tumblr.com/post/119375423866/">londonbooks.tumblr.com</a></li>
+lat: 51.500658
+long: -0.110609
 new: yes
 secondhand: no
 charity: no
@@ -3069,6 +3069,7 @@ address: 131 Lower Marsh, Waterloo, SE1 7AE
 website: http://www.travellingthrough.co.uk/
 description: Travel bookshop and cafe.
 tiredoflondon: http://www.tiredoflondontiredoflife.com/2015/04/buy-books-at-travelling-through.html
+other_links: <li><a href="http://londonbooks.tumblr.com/post/119176903061/">londonbooks.tumblr.com</a></li>
 lat: 51.500375
 long: -0.11380036
 new: unknown
