@@ -1792,13 +1792,14 @@ name: Kennington Bookshop
 address: 306-308 Kennington Road, SE11 4LD
 rgl: http://london.randomness.org.uk/wiki.cgi?Kennington_Bookshop
 photo: http://flickr.com/photos/kake_pugh/2327287163/
+description: This <a href="http://web.archive.org/web/20150601093957/http://www.thekbookshop.com/">closed for good</a> on <a href="http://web.archive.org/web/20150601094044/https:/twitter.com/thekbookshop/status/567265163863396352">31 May 2015</a>.
 website: http://www.thekbookshop.com/
 long: -0.111794
 lat: 51.486713
 new: yes
 secondhand: no
 charity: no
-open: yes
+open: no
 ---
 id: kew-bookshop
 name: Kew Bookshop
