@@ -408,6 +408,7 @@ name: Book Haus
 address: 70 Cadogan Place, SW1X 9AH
 website: http://www.hauspublishing.com/
 photo: http://www.flickr.com/photos/55935853@N00/3990676509/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/121770865336/">londonbooks.tumblr.com</a></li>
 lat: 51.494617
 long: -0.156657
 new: unknown
@@ -2210,6 +2211,7 @@ address: 92 Willesden Lane, Kilburn, NW6 7TA
 website: http://www.offsidebooks.com/
 twitter: OffSideBooks
 photo: https://www.flickr.com/photos/kake_pugh/16052383778/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/123906715931/">londonbooks.tumblr.com</a></li>
 lat: 51.540944
 long: -0.20223239
 new: yes
