@@ -1826,6 +1826,8 @@ name: Kirkdale Bookshop
 address: 272 Kirkdale, SE26 4RS
 rgl: http://london.randomness.org.uk/wiki.cgi?Kirkdale_Bookshop
 website: http://www.kirkdalebookshop.com/
+phone: 020 8778 4701
+twitter: KirkdaleBooks
 photo: http://flickr.com/photos/kake_pugh/2282119502/
 long: -0.055575
 lat: 51.426628
@@ -1833,6 +1835,7 @@ new: yes
 secondhand: yes
 charity: no
 open: yes
+checked: August 2015
 ---
 id: koenig-books-charing-cross-road
 name: Koenig Books (Charing Cross Road)
