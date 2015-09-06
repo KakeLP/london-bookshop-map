@@ -581,19 +581,19 @@ secondhand: unknown
 charity: no
 open: yes
 ---
-id: book-warehouse-waterloo
-name: Book Warehouse (Waterloo)
-address: 104 Lower Marsh, SE1 7AB
-description: Previously at 158 Waterloo Road (<a href="http://flickr.com/photos/kake_pugh/2669855002/">photo</a>), but moved to Lower Marsh in early 2015 due to redevelopment of the old site.
-website: http://www.gramex.co.uk/
-rgl: http://london.randomness.org.uk/wiki.cgi?Book_Warehouse,_SE1_7AB
-other_links: <li><a href="http://londonbooks.tumblr.com/post/119375423866/">londonbooks.tumblr.com</a></li>
-lat: 51.501193
-long: -0.11216153
+id: book-warehouse-camden-town
+name: Book Warehouse (Camden Town)
+address: 155 Camden High Street, NW1 7JY
+photo: https://www.flickr.com/photos/kake_pugh/21174860282/
+website: http://www.thebookwarehouse.co.uk/
+phone: 020 7482 4375
+lat: 51.538113
+long: -0.14210840
 new: yes
 secondhand: no
 charity: no
 open: yes
+checked: September 2015
 ---
 id: book-warehouse-holborn
 name: Book Warehouse (Holborn)
@@ -621,6 +621,22 @@ secondhand: no
 charity: no
 open: yes
 checked: March 2015
+---
+id: book-warehouse-waterloo
+name: Book Warehouse (Waterloo)
+address: 104 Lower Marsh, SE1 7AB
+description: Previously at 158 Waterloo Road (<a href="http://flickr.com/photos/kake_pugh/2669855002/">photo</a>), but moved to Lower Marsh in early 2015 due to redevelopment of the old site.
+website: http://www.gramex.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Book_Warehouse,_SE1_7AB
+other_links: <li><a href="http://londonbooks.tumblr.com/post/119375423866/">londonbooks.tumblr.com</a></li>
+photo: https://www.flickr.com/photos/kake_pugh/20562490954/
+lat: 51.501193
+long: -0.11216153
+new: yes
+secondhand: no
+charity: no
+open: yes
+checked: September 2015
 ---
 id: bookworm-carshalton
 name: Bookworm
@@ -1608,7 +1624,7 @@ name: Ian Allan Bookshop
 address: 45-46 Lower Marsh, SE1 7RG.
 description: Specialists in transport and military — books, DVDs, models, etc.
 website: http://www.ianallanpublishing.com/our-shops.htm
-photo: http://flickr.com/photos/kake_pugh/2680352153/
+photo: https://www.flickr.com/photos/kake_pugh/20997254878/
 other_links: <li><a href="http://londonbooks.tumblr.com/post/121042294003/">londonbooks.tumblr.com</a></li>
 long: -0.111923
 lat: 51.501049
@@ -1616,6 +1632,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2015
 ---
 id: ibis-bookshop
 name: Ibis Bookshop
@@ -3084,12 +3101,14 @@ website: http://www.travellingthrough.co.uk/
 description: Travel bookshop and cafe.
 tiredoflondon: http://www.tiredoflondontiredoflife.com/2015/04/buy-books-at-travelling-through.html
 other_links: <li><a href="http://londonbooks.tumblr.com/post/119176903061/">londonbooks.tumblr.com</a></li>
+photo: https://www.flickr.com/photos/kake_pugh/21158942026/
 lat: 51.500375
 long: -0.11380036
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2015
 ---
 id: treadwells-offstage-books
 name: Treadwells (and Offstage Books)
