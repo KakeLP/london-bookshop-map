@@ -2726,10 +2726,12 @@ id: ripping-yarn
 name: Ripping Yarns
 address: 355 Archway Road, N6 4EJ
 website: http://www.rippingyarns.co.uk/
+description: "Secondhand bookshop specialising in collectable children's and illustrated books.  <b>Note:</b> Closing down on 20 September 2015 due to an unexpected rent increase, but will continue to operate online."
+photo: https://www.flickr.com/photos/bagelmouse/4700001855/
 long: -0.148144
 lat: 51.577885
-new: unknown
-secondhand: unknown
+new: no
+secondhand: yes
 charity: no
 open: yes
 ---
@@ -3178,15 +3180,14 @@ name: Victoria Park Books
 address: 174 Victoria Park Road, Hackney, E9 7HD
 website: http://www.victoriaparkbooks.co.uk/
 twitter: VictoriaParkBks
-phone: 020 8986 1124
-description: Children's bookshop.
+description: Children's bookshop.  <a href="https://twitter.com/VictoriaParkBks/status/626791395949461505">Closed down</a> in August 2015.
 other_links: <li><a href="http://londonbooks.tumblr.com/post/112720479801/">londonbooks.tumblr.com</a></li>
 lat: 51.538219
 long: -0.044033021
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: village-bookshop-woodford-green
 name: Village Bookshop
