@@ -3410,12 +3410,13 @@ name: Wellspring Bookshop
 address: 5 New Oxford Street, WC1A 1BA
 website: http://www.wellspringbookshop.co.uk/
 photo: http://www.flickr.com/photos/kake_pugh/6447218629/
+description: Closed in June 2015, but continued to trade online.
 long: -0.123674
 lat: 51.517178
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: February 2013
 ---
 id: west-end-lane-books
