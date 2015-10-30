@@ -1541,6 +1541,7 @@ open: yes
 id: highgate-bookshop
 name: Highgate Bookshop
 address: 9 Highgate High Street, N6 5JR
+other_links: <li><a href="http://londonbooks.tumblr.com/post/131876983511/">londonbooks.tumblr.com</a></li>
 long: -0.146127
 lat: 51.570267
 new: unknown
@@ -3057,6 +3058,7 @@ address: 25 Half Moon Lane, SE24 9JU
 description: Children's books.
 website: http://talesonmoonlane.co.uk/
 twitter: talesonmoonlane
+other_links: <li><a href="http://londonbooks.tumblr.com/post/131043079586/">londonbooks.tumblr.com</a></li>
 long: -0.100400
 lat: 51.452972
 new: unknown
