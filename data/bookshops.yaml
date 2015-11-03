@@ -2755,6 +2755,20 @@ secondhand: no
 charity: no
 open: yes
 ---
+id: robert-frew-south-kensington
+name: Robert Frew Ltd
+address: 8 Thurloe Place, South Kensington, SW7 2RX
+phone: 020 7590 6650
+website: http://www.robertfrew.com/
+description: Antiquarian books, maps, and prints.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/132325590776/">londonbooks.tumblr.com</a></li>
+lat: 51.496245
+long: -0.16992827
+new: no
+secondhand: yes
+charity: no
+open: yes
+---
 id: rye-books-east-dulwich
 name: Rye Books
 address: 45 Upland Road, SE22 9EF
@@ -3606,8 +3620,10 @@ open: no
 id: tree-of-life-tottenham
 name: Tree of Life Books
 address: 677 Tottenham High Road, N17 8AD
-description: <a href="http://www.brucecastlenews.com/2012/09/tree-of-life-books-tottenham-high-road.html">Opened in late 2012</a>.
-open: yes
+description: <a href="http://www.brucecastlenews.com/2012/09/tree-of-life-books-tottenham-high-road.html">Opened in late 2012</a>, but now closed again.
+lat: 51.600373
+long: -0.068020418
+open: no
 ---
 id: new-leaf-bookshop-pinner
 name: New Leaf Bookshop
