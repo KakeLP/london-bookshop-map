@@ -3199,6 +3199,17 @@ secondhand: unknown
 charity: no
 open: no
 ---
+id: vanilla-black-kennington
+name: Vanilla Black Coffee and Books
+address: 306-308 Kennington Road, SE11 4LD
+description: New bookshop and cafe in the old premises of <a href="kennington-bookshop.html">the Kennington Bookshop</a>.
+other_links: <li><a href="http://kenningtonrunoff.com/vanilla-black-coffee-and-books/">Kennington Runoff</a></li>
+lat: 51.486713
+long: -0.111794
+new: yes
+secondhand: yes
+open: yes
+---
 id: victoria-park-books
 name: Victoria Park Books
 address: 174 Victoria Park Road, Hackney, E9 7HD
