@@ -1713,12 +1713,16 @@ open: yes
 ---
 id: jonathan-potter
 name: Jonathan Potter Ltd
-address: 52a George Street, W1U 7EA
+address: 52a George Street, Marylebone, W1U 7EA
+description: Moved to Bath in Autumn 2015.
+website: http://jpmaps.co.uk/
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=892
+lat: 51.517664
+long: -0.15455653
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: john-sandoe-books
 name: John Sandoe Books
