@@ -2731,14 +2731,14 @@ id: ripping-yarn
 name: Ripping Yarns
 address: 355 Archway Road, N6 4EJ
 website: http://www.rippingyarns.co.uk/
-description: "Secondhand bookshop specialising in collectable children's and illustrated books.  <b>Note:</b> Closing down on 20 September 2015 due to an unexpected rent increase, but will continue to operate online."
+description: "Secondhand bookshop specialising in collectable children's and illustrated books.  It closed down on 20 September 2015 due to an unexpected rent increase, but will continue to operate online."
 photo: https://www.flickr.com/photos/bagelmouse/4700001855/
 long: -0.148144
 lat: 51.577885
 new: no
 secondhand: yes
 charity: no
-open: yes
+open: no
 ---
 id: riverside-bookshop
 name: Riverside Bookshop
