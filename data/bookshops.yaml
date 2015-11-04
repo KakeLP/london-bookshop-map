@@ -343,6 +343,20 @@ checked: September 2013
 charity: no
 open: yes
 ---
+id: book-and-kitchen-notting-hill
+name: Book and Kitchen
+address: 31 All Saints Road, Notting Hill, W11 1HE
+website: http://www.bookandkitchen.com/
+twitter: BookandKitchen
+phone: 020 3417 8266
+description: Bookshop, cafe, and art gallery.
+lat: 51.518492
+long: -0.20431647
+new: yes
+secondhand: yes
+charity: no
+open: yes
+---
 id: book-and-record-bar-west-norwood
 name: The Book and Record Bar
 address: 20 Norwood High Street, West Norwood, SE27 9NR
