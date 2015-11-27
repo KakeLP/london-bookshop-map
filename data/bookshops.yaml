@@ -2666,6 +2666,20 @@ charity: no
 open: yes
 checked: October 2012
 ---
+id: quaker-centre-bookshop-euston
+name: Quaker Centre Bookshop
+address: Friends House, 173 Euston Road, NW1 2BJ
+website: http://www.friendshouse.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Quaker_Cafe,_NW1_2BJ
+description: Books relating to the goals and values of the Quaker movement.
+lat: 51.526615
+long: -0.13223746
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: November 2015
+---
 id: queens-park-books
 name: Queens Park Books
 address: 87 Salusbury Road, NW6 6NH
