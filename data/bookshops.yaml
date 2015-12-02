@@ -947,6 +947,7 @@ checked: June 2009
 id: croydon-bookshop
 name: Croydon Bookshop
 address: 304 Carshalton Road, SM5 3QB
+other_links: <li><a href="http://londonbooks.tumblr.com/post/134204103091/">londonbooks.tumblr.com</a></li>
 long: -0.173378
 lat: 51.362991
 new: unknown
@@ -2826,6 +2827,16 @@ secondhand: unknown
 charity: no
 open: yes
 checked: December 2012
+---
+id: shalimar-kennington
+name: Shalimar
+address: 38 Kennington Lane, SE11 4LS
+website: http://www.indianbooksuk.com/
+description: Bookshop and distributor specialising in African, South Asian, and Caribbean books, including children's books.
+other_links: <li><a href="http://kenningtonrunoff.com/shalimar/">Kennington Runoff article</a></li>
+lat: 51.491043
+long: -0.10506937
+open: yes
 ---
 id: sheen-bookshop
 name: Sheen Bookshop
