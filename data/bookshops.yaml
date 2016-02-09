@@ -3169,10 +3169,11 @@ open: yes
 checked: September 2015
 ---
 id: treadwells-offstage-books
-name: Treadwells (and Offstage Books)
+name: Treadwell's (and Offstage Books)
 address: 33 Store Street, WC1E 7BS
 description: '"Cultural history and esoteric belief".  Previously on Tavistock Street (<a href="http://www.flickr.com/photos/kake_pugh/4448330523/">photo</a>).'
-website: http://www.treadwells-london.com/">Website
+website: http://www.treadwells-london.com/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/138937725391/">londonbooks.tumblr.com</a></li>
 long: -0.131181
 lat: 51.519928
 new: unknown
