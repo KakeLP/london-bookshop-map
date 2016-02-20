@@ -2323,15 +2323,17 @@ open: yes
 ---
 id: osterley-bookshop
 name: Osterley Bookshop
-address: Old Railway Station, 168a Thornbury Road, TW7 4QE
-qype: http://www.qype.co.uk/place/171157
-other_links: <li><a href="http://www.getwestlondon.co.uk/news/local-news/news-feature-osterley-bookshop-latest-7742324">Get West London article</a></li><li><a href="http://www.penpushermagazine.co.uk/magazine/extracts/article/90/">Pen Pusher article</a></li>
+address: Old Railway Station, 168a Thornbury Road, Osterley, TW7 4QE
+rgl: http://london.randomness.org.uk/wiki.cgi?Osterley_Bookshop
+phone: 020 8560 6206
+photo: https://www.flickr.com/photos/kake_pugh/25123462436/
 long: -0.348108
 lat: 51.483120
-new: unknown
-secondhand: unknown
+new: no
+secondhand: yes
 charity: no
 open: yes
+checked: February 2016
 ---
 id: owl-and-pussycat
 name: The Owl and the Pussycat
