@@ -504,17 +504,20 @@ checked: December 2012
 ---
 id: books-for-amnesty
 name: Books For Amnesty
-address: 139b King Street, W6 9JG
-description: Closed in January 2015.  It was a secondhand bookshop with profits going to Amnesty International.
+address: 181 King Street, W6 9JT
+phone: 020 8222 8158
+website: https://www.amnesty.org.uk/amnesty-bookshop-hammersmith
+description: Secondhand bookshop with profits going to Amnesty International.  Previously at 139b King Street (<a href="http://www.flickr.com/photos/kake_pugh/3649058402/">photo</a>); moved to 181 King Street in 2015.
 website: http://www.amnesty.org.uk/books-amnesty-hammersmith
-rgl: http://london.randomness.org.uk/wiki.cgi?Books_For_Amnesty,_W6_9JG
-photo: http://www.flickr.com/photos/kake_pugh/3649058402/
-lat: 51.492393
-long: -0.230455
+rgl: http://london.randomness.org.uk/wiki.cgi?Books_For_Amnesty,_W6_9JT
+photo: https://www.flickr.com/photos/kake_pugh/24888632979/
+lat: 51.492630
+long: -0.23344700
 new: unknown
 secondhand: yes
 charity: yes
-open: no
+open: yes
+checked: February 2016
 ---
 id: books-for-cooks
 name: Books For Cooks
