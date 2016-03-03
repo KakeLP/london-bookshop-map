@@ -1723,6 +1723,20 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: ink-84-highbury
+name: Ink@84
+address: 84 Highbury Park, N5 2XE
+website: http://www.ink84bookshop.co.uk/
+phone: 020 7686 8388
+twitter: Ink84Books
+description: Bookshop, cafe, and bar.
+lat: 51.557356
+long: -0.098001748
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
 id: jambala
 name: Jambala
 address: 247 Globe Road, E2 0JD
@@ -1984,6 +1998,17 @@ website: http://www.librairielapage.com/
 lat: 51.494011
 long: -0.17524575
 new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
+id: libreria-shoreditch
+name: Libreria
+address: 65 Hanbury Street, Shoreditch, E1 5JP
+other_links: <li><a href="http://www.theguardian.com/books/2016/feb/21/libreria-bookshop-rohan-silva-second-home-interview">Guardian article</a></li>
+lat: 51.520318
+long: -0.070559129
+new: yes
 secondhand: unknown
 charity: no
 open: yes
