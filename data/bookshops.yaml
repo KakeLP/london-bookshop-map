@@ -27,6 +27,21 @@ checked: July 2008
 charity: no
 open: yes
 ---
+id: all-you-read-is-love-leytonstone
+name: All You Read Is Love
+address: 877 Leytonstone High Road, E11 1HR
+locales: E11, Leytonstone
+description: Bookshop, cafe, and bar.  Originally a pop-up, now permanent.
+website: http://www.allyoureadislove.com/
+twitter: AllYouReadLove
+other_links: <li><a href="http://www.guardian-series.co.uk/news/11711953.Danish_siblings_bring_Scandinavian_book_cafe_to_Leytonstone/">East London and West Essex Guardian article</a></li><li><a href="http://www.leytonstoner.london/2015/02/23/read-love-really/">Leytonstoner review</a></li>
+lat: 51.570393
+long: 0.014117271
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+---
 id: al-saqi-books-westbourne-grove
 name: Al Saqi Books
 address: 26 Westbourne Grove, W2 5RH
