@@ -1245,9 +1245,23 @@ secondhand: unknown
 charity: no
 open: no
 ---
+id: fold-peckham
+name: The Fold
+address: Holdron's Arcade, 135a Rye Lane, Peckham, SE15 4ST
+locales: SE15, Peckham
+website: http://www.thefoldpeckham.com/
+twitter: TheFoldPeckham
+other_links: <li><a href="http://londonbooks.tumblr.com/post/140142228836/">londonbooks.tumblr.com</a></li>
+lat: 51.469515
+long: -0.068122342
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+---
 id: forbidden-planet-croydon
 name: Forbidden Planet (Croydon)
-address:  43 Church Street, CR0 1RH
+address: 43 Church Street, CR0 1RH
 description: Comics and graphic novels.  Previously located at 175 North End, CR0 1TP, but moved to Church Street in late 2011.
 website: http://www.forbiddenplanet.co.uk/
 photo: http://www.flickr.com/photos/kake_pugh/7616724606/
@@ -1439,7 +1453,7 @@ address: 10 Curzon Street, W1J 5HH
 website: http://www.heywoodhill.com/
 twitter: HeywoodHill
 londonist: http://londonist.com/2009/06/biblio-text_heywood_hill.php
-other_links: <li><a href="http://ashrarebooks.wordpress.com/2013/01/10/rummage-in-curzon-street/">Laurence Worms' article</a> (scroll down)</li>
+other_links: <li><a href="http://ashrarebooks.wordpress.com/2013/01/10/rummage-in-curzon-street/">Laurence Worms' article</a> (scroll down)</li><li><a href="http://londonbooks.tumblr.com/post/140963371176/">londonbooks.tumblr.com</a></li>
 photo: https://www.flickr.com/photos/rjw1/14070633977/
 long: -0.146567
 lat: 51.506985
@@ -2115,6 +2129,7 @@ website: http://www.maggs.com/
 twitter: MaggsBros
 phone: 020 7493 7160
 description: Rare books and manuscripts.  Previously at 50 Berkeley Square, but in November 2015 it moved to Curzon Street and took over the lease of <a href="shepherds-victoria.html">Shepherds</a>.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/140559056526/">londonbooks.tumblr.com</a></li>
 lat: 51.506799
 long: -0.14655684
 new: unknown
