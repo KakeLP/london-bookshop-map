@@ -1489,9 +1489,11 @@ charity: no
 open: yes
 ---
 id: halcyon-books-greenwich
-name: Halcyon Books
+name: Halcyon Books (Greenwich)
 address: 1 Greenwich South Street, SE10 8NW
 website: http://www.halcyonbooks.co.uk/
+twitter: HalcyonBooks
+description: In early 2016 it opened <a href="halcyon-books-lee.html">a second branch in Lee</a>.
 rgl: http://london.randomness.org.uk/wiki.cgi?Halcyon_Books
 photo: http://www.flickr.com/photos/kake_pugh/13215687483/
 long: -0.011823
@@ -1501,6 +1503,16 @@ secondhand: unknown
 charity: no
 open: yes
 checked: March 2014
+---
+id: halcyon-books-lee
+name: Halcyon Books (Lee)
+address: 266 Lee High Road, SE13 5PL
+website: http://www.halcyonbooks.co.uk/
+twitter: HalcyonBooks
+description: The second branch of <a href="halcyon-books-greenwich.html">the original one in Greenwich</a>.
+lat: 51.458519
+long: 0.0029655844
+open: yes
 ---
 id: hatchards-piccadilly
 name: Hatchards (Piccadilly)
