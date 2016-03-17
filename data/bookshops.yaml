@@ -2959,17 +2959,15 @@ checked: June 2014
 id: slightly-foxed-gloucester-road
 name: Slightly Foxed
 address: 123 Gloucester Road, SW7 4TE
-description: Formerly the Gloucester Road Bookshop, taken over by Slightly Foxed in autumn 2009.
+description: Formerly the Gloucester Road Bookshop, taken over by Slightly Foxed in autumn 2009, and closed down in January 2016.
 website: http://www.foxedbooks.com/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/london/south_west.shtml#glos
-qype: http://www.qype.co.uk/place/77707
 yelp: http://www.yelp.co.uk/biz/gloucester-road-bookshop-london
 long: -0.181575
 lat: 51.493176
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: soas-bookshop
 name: SOAS Bookshop
