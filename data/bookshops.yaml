@@ -1197,13 +1197,14 @@ charity: no
 open: yes
 checked: September 2008
 ---
-id: european-bookshop-warwick-street
+id: european-bookshop-south-kensington
 name: European Bookshop
-address: 5 Warwick Street, W1B 5LU
+address: 123 Gloucester Road, South Kensington, SW7 4TE
+description: Previously at 5 Warwick Street, Soho, but moved to South Kensington by March 2016.</p><p>Its new premises were previously occupied by another bookshop run by publishing company Slightly Foxed (from Autumn 2009 to January 2016), and before that by the Gloucester Road Bookshop.</p>
 website: http://www.europeanbookshop.com/
 other_links: <li><a href="http://londonbooks.tumblr.com/post/114062186071/">londonbooks.tumblr.com</a></li>
-long: -0.137544
-lat: 51.510838
+lat: 51.493176
+long: -0.181575
 new: unknown
 secondhand: unknown
 charity: no
@@ -1524,6 +1525,7 @@ address: 266 Lee High Road, SE13 5PL
 website: http://www.halcyonbooks.co.uk/
 twitter: HalcyonBooks
 description: The second branch of <a href="halcyon-books-greenwich.html">the original one in Greenwich</a>.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/141364307440/">londonbooks.tumblr.com</a></li>
 lat: 51.458519
 long: 0.0029655844
 open: yes
@@ -2982,19 +2984,6 @@ secondhand: unknown
 charity: no
 open: yes
 checked: June 2014
----
-id: slightly-foxed-gloucester-road
-name: Slightly Foxed
-address: 123 Gloucester Road, SW7 4TE
-description: Formerly the Gloucester Road Bookshop, taken over by Slightly Foxed in autumn 2009, and closed down in January 2016.
-website: http://www.foxedbooks.com/
-yelp: http://www.yelp.co.uk/biz/gloucester-road-bookshop-london
-long: -0.181575
-lat: 51.493176
-new: unknown
-secondhand: unknown
-charity: no
-open: no
 ---
 id: soas-bookshop
 name: SOAS Bookshop
