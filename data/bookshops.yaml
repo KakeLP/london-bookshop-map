@@ -210,13 +210,14 @@ name: Beckenham Bookshop
 address: 42 High Street, BR3 1AY
 website: http://www.beckenhambooks.com/
 photo: http://www.flickr.com/photos/kake_pugh/6318029673/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/142943802761/beckenham-bookshop-br3-here-we-have-a-marvellous">londonbooks.tumblr.com</a></li>
 lat: 51.409573
 long: -0.025320
 new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: October 2013
+checked: January 2016
 twitter: beckenhambooks
 phone: 020 8650 9744
 ---
@@ -1177,7 +1178,7 @@ twitter: BurleyFisher
 phone: 020 7249 2263
 description: Run by the people behind <a href="camden-lock-books-old-street.html">Camden Lock Books</a>.
 londonist: http://londonist.com/2016/02/new-indie-bookshop-opens-in-hackney
-other_links: <li><a href="http://hackneycitizen.co.uk/2016/02/16/burley-fisher-bookshop-dalston-boost-local-publishers/">Hackney Citizen article</a></li>
+other_links: <li><a href="http://hackneycitizen.co.uk/2016/02/16/burley-fisher-bookshop-dalston-boost-local-publishers/">Hackney Citizen article</a></li><li><a href="http://londonbooks.tumblr.com/post/141653681291/burley-fisher-books-e8-delighted-to-see-another">londonbooks.tumblr.com</a></li>
 lat: 51.541536
 long: -0.076033518
 open: yes
@@ -2033,7 +2034,7 @@ open: yes
 id: libreria-shoreditch
 name: Libreria
 address: 65 Hanbury Street, Shoreditch, E1 5JP
-other_links: <li><a href="http://www.theguardian.com/books/2016/feb/21/libreria-bookshop-rohan-silva-second-home-interview">Guardian article</a></li>
+other_links: <li><a href="http://www.theguardian.com/books/2016/feb/21/libreria-bookshop-rohan-silva-second-home-interview">Guardian article</a></li><li><a href="http://londonbooks.tumblr.com/post/141852159721/libreria-ei-a-new-take-on-the-concept-of-the">londonbooks.tumblr.com</a></li>
 lat: 51.520318
 long: -0.070559129
 new: yes
@@ -3003,7 +3004,7 @@ id: society-club
 name: The Society Club
 address: 12 Ingestre Place, W1F 0JF
 phone: 020 7437 1433
-website: https://thesocietyclubsoho.wordpress.com/
+website: http://www.thesocietyclub.com/
 twitter: SocietyClubSoho
 description: Bookshop, gallery, teashop, and bar.
 other_links: '<li><a href="http://howtospendit.ft.com/personal-luxuries/6785-the-society-club">Financial Times article</a></li><li><a href="http://thefoodiebugle.com/article/eating-out/the-society-club">The Foodie Bugle article</a></li><li><a href="http://blog.lauraashley.com/go-see/the-society-club/">Laura Ashley article</a></li><li><a href="http://thepandorian.com/2012/09/the-society-club/">The Pandorian article</a></li>'
