@@ -643,6 +643,19 @@ charity: no
 open: yes
 checked: April 2014
 ---
+id: book-warehouse-islington
+name: Book Warehouse (Islington)
+address: 28 Upper Street, Islington, N1 0PN
+photo: https://www.flickr.com/photos/kake_pugh/26472508031/
+website: http://www.thebookwarehouse.co.uk/
+lat: 51.534484
+long: -0.10530312
+new: yes
+secondhand: no
+charity: no
+open: yes
+checked: April 2016
+---
 id: book-warehouse-notting-hill
 name: Book Warehouse (Notting Hill)
 address: 72-74 Notting Hill Gate, W11 3HT
@@ -1440,14 +1453,14 @@ address: 66 Marchmont Street, WC1N 1AB
 website: http://www.gaystheword.co.uk/
 twitter: gaystheword
 rgl: http://london.randomness.org.uk/wiki.cgi?Gay%27s_The_Word
-photo: http://flickr.com/photos/kake_pugh/2849462045/
+photo: https://www.flickr.com/photos/kake_pugh/26446247762/
 long: -0.125077
 lat: 51.525154
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
-checked: September 2008
+checked: April 2016
 ---
 id: g-heywood-hill
 name: G Heywood Hill Ltd
@@ -1494,15 +1507,18 @@ open: yes
 ---
 id: guanghwa-books
 name: Guanghwa Books
-address: 7 Newport Place, WC2H 7JR
+address: 112 Shaftesbury Avenue, Chinatown, W1D 5EJ
 description: Books in both Chinese and English.
-website: http://www.guanghwabooks.co.uk/
-long: -0.129679
-lat: 51.511929
+website: http://www.guanghwa.com/
+photo: https://www.flickr.com/photos/kake_pugh/26512600106/
+description: Previously at 7 Newport Place, WC2H 7JR.
+lat: 51.512340
+long: -0.13080288
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: April 2016
 ---
 id: halcyon-books-greenwich
 name: Halcyon Books (Greenwich)
@@ -1759,6 +1775,7 @@ website: http://www.ink84bookshop.co.uk/
 phone: 020 7686 8388
 twitter: Ink84Books
 description: Bookshop, cafe, and bar.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/143315317482">londonbooks.tumblr.com</a></li>
 lat: 51.557356
 long: -0.098001748
 new: unknown
@@ -2472,6 +2489,20 @@ charity: yes
 open: yes
 checked: July 2009
 ---
+id: oxfam-books-and-music-islington
+name: Oxfam Books and Music (Islington)
+address: 48 Upper Street, Islington, N1 0PN
+photo: https://www.flickr.com/photos/kake_pugh/26446250952/
+website: http://www.oxfam.org.uk/shop/local-shops/oxfam-books-music-islington
+twitter: OxfamBooksN1
+lat: 51.535108
+long: -0.10455479
+new: unknown
+secondhand: yes
+charity: yes
+open: yes
+checked: April 2016
+---
 id: oxfam-books-and-music-marylebone
 name: Oxfam Books and Music (Marylebone)
 address: 91 Marylebone High Street, W1U 4RB
@@ -3006,6 +3037,7 @@ address: 12 Ingestre Place, W1F 0JF
 phone: 020 7437 1433
 website: http://www.thesocietyclub.com/
 twitter: SocietyClubSoho
+photo: https://www.flickr.com/photos/kake_pugh/26265698930/
 description: Bookshop, gallery, teashop, and bar.
 other_links: '<li><a href="http://howtospendit.ft.com/personal-luxuries/6785-the-society-club">Financial Times article</a></li><li><a href="http://thefoodiebugle.com/article/eating-out/the-society-club">The Foodie Bugle article</a></li><li><a href="http://blog.lauraashley.com/go-see/the-society-club/">Laura Ashley article</a></li><li><a href="http://thepandorian.com/2012/09/the-society-club/">The Pandorian article</a></li>'
 lat: 51.513108
@@ -3014,6 +3046,7 @@ new: unknown
 secondhand: yes
 charity: no
 open: yes
+checked: April 2016
 ---
 id: soho-original-books-charing-cross-road
 name: Soho Original Books
