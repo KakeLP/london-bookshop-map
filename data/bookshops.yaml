@@ -3099,6 +3099,19 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: sotherans-sackville-street
+name: Sotheran's of Sackville Street
+address: 2 Sackville Street, Mayfair, W1S 3DP
+website: https://www.sotherans.co.uk/
+description: Antiquarian and modern first editions.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/142564061411/">londonbooks.tumblr.com</a></li>
+lat: 51.509156
+long: -0.13779500
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+---
 id: south-kensington-books
 name: South Kensington Books
 address: 22 Thurloe Street, SW7 2LT
