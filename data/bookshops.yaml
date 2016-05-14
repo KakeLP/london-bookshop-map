@@ -3118,6 +3118,7 @@ address: 22 Thurloe Street, SW7 2LT
 website: http://www.kensingtonbooks.co.uk/
 phone: 020 7589 2916
 description: Previously Bookthrift.
+photo: https://www.flickr.com/photos/kake_pugh/26919562202/
 other_links: <li><a href="http://londonbooks.tumblr.com/post/101948475126/south-kensington-books-sw7-righteous-emporium-of">London Books review</a></li>
 long: -0.173829
 lat: 51.494305
@@ -3125,6 +3126,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: May 2016
 ---
 id: spink-and-sons-southampton-row
 name: Spink and Sons
