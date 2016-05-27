@@ -155,10 +155,14 @@ charity: no
 open: yes
 checked: February 2013
 ---
-id: bargain-bookshop
-name: Bargain Bookshop
+id: bookshop-north-chingford
+name: The Bookshop North Chingford
 address: 135 Station Road, E4 6AG
-website: http://www.bookservice.biz/
+website: http://www.hive.co.uk/Shops/Chingford-Bookshop-London
+twitter: ChingfordBooks
+phone: 020 8524 9002
+description: Previously known as The Bargain Bookshop.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/144392525806/">londonbooks.tumblr.com</a></li>
 lat: 51.632790
 long: 0.008497
 new: unknown
