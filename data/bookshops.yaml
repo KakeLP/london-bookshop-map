@@ -753,6 +753,19 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: brockley-bookshop-crofton-park
+name: Brockley Bookshop
+address: 375 Brockley Road, Crofton Park, SE4 2AG
+twitter: CroftonBooks
+phone: 020 7998 8387
+description: Vintage bookshop based in Crofton Park Library.
+lat: 51.455444
+long: -0.036611751
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+---
 id: calder-bookshop-southwark
 name: Calder Bookshop
 address: 51 The Cut, SE1 8LF
