@@ -2316,6 +2316,18 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: national-theatre-bookshop-south-bank
+name: National Theatre Bookshop
+address: National Theatre, Upper Ground, South Bank, SE1 9PX
+website: https://shop.nationaltheatre.org.uk/
+twitter: NTBookshop
+phone: 0207 452 3456
+description: Playtexts and specialist performing arts titles.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/145799466196/">londonbooks.tumblr.com</a></li>
+lat: 51.506874
+long: -0.11409762
+open: yes
+---
 id: naval-maritime-books-greenwich
 name: Naval and Maritime Books
 address: 66 Royal Hill, SE10 8RT
@@ -3021,6 +3033,17 @@ secondhand: yes
 charity: no
 open: yes
 ---
+id: ship-of-adventures-dalston
+name: Ship of Adventures
+address: 138 Kingsland High Street, Dalston, E8 2NS
+description: Bookshop, gift shop, cafe, and events space run by The Hackney Pirates youth learning charity.
+website: http://www.hackneypirates.org/shipofadventures/
+twitter: ShipOAdventures
+other_links: <li><a href="http://londonbooks.tumblr.com/post/145094918241/">londonbooks.tumblr.com</a></li>
+lat: 51.550285
+long: -0.075002208
+open: yes
+---
 id: skoob-bloomsbury
 name: Skoob
 address: 66 The Brunswick Centre, Marchmont Street, WC1N 1AE
@@ -3305,6 +3328,17 @@ secondhand: yes
 charity: no
 open: yes
 checked: September 2013
+---
+id: ti-pi-tin-stoke-newington
+name: Ti Pi Tin
+address: 47 Stoke Newington High Street, N16 8EL
+website: http://www.tipitin.com/
+twitter: tipitinbooks
+description: Independently- and self-published artists' books and zines.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/145447149806/">londonbooks.tumblr.com</a></li>
+lat: 51.558527
+long: -0.074460402
+open: yes
 ---
 id: travelling-through-waterloo
 name: Travelling Through...
