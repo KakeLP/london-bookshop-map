@@ -3865,12 +3865,11 @@ open: no
 id: new-leaf-bookshop-pinner
 name: New Leaf Bookshop
 address: 1 Red Lion Parade, HA5 3JD
-description: Incorporating The Children's Bookshop.
+description: Incorporating The Children's Bookshop.  Closed down by August 2015.
 lat: 51.594322
 long: -0.38253585
-website: http://www.thenewleafbookshop.com/
 new: yes
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
