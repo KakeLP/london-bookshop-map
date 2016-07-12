@@ -1656,8 +1656,8 @@ id: herne-hill-books
 name: Herne Hill Books
 address: 289 Railton Road, SE24 0NQ
 twitter: HerneHillBooks
-long: -0.101650
-lat: 51.452518
+lat: 51.453211
+long: -0.10288109
 new: unknown
 secondhand: unknown
 charity: no
@@ -3281,13 +3281,13 @@ checked: February 2013
 ---
 id: tales-on-moon-lane
 name: Tales on Moon Lane
-address: 25 Half Moon Lane, SE24 9JU
+address: 25 Half Moon Lane, Herne Hill, SE24 9JU
 description: Children's books.
 website: http://talesonmoonlane.co.uk/
 twitter: talesonmoonlane
 other_links: <li><a href="http://londonbooks.tumblr.com/post/131043079586/">londonbooks.tumblr.com</a></li>
-long: -0.100400
-lat: 51.452972
+lat: 51.453001
+long: -0.099868968
 new: unknown
 secondhand: unknown
 charity: no
