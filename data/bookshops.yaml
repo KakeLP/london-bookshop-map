@@ -794,7 +794,7 @@ open: yes
 checked: April 2009
 ---
 id: childrens-bookshop-hornsey-road
-name: Children's Bookshop
+name: Children's Bookshop (Hornsey Road)
 address: 435 Hornsey Road, N19 4DX
 lat: 51.567264
 long: -0.12229881
@@ -900,9 +900,10 @@ open: yes
 checked: October 2009
 ---
 id: childrens-bookshop-muswell-hill
-name: Children's Bookshop
-address: 29 Fortis Green Road, N10 3HP
+name: Children's Bookshop (Muswell Hill)
+address: 29 Fortis Green Road, Muswell Hill, N10 3HP
 photo: http://www.flickr.com/photos/kake_pugh/9457988181/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/147887743161/">londonbooks.tumblr.com</a></li>
 lat: 51.590057
 long: -0.146813
 new: unknown
