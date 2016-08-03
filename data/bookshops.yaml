@@ -129,8 +129,9 @@ open: yes
 ---
 id: artwords
 name: Artwords
-address: 65a Rivington Street, EC2A 3QQ
+address: 69 Rivington Street, EC2A 3QQ
 website: http://www.artwords.co.uk/aboutus/
+photo: https://www.flickr.com/photos/kake_pugh/28124749104/
 londonist: http://londonist.com/2009/09/biblio-text_artwords.php
 lat: 51.526207
 long: -0.080917
@@ -138,6 +139,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: July 2016
 ---
 id: atlantis-bookshop
 name: Atlantis Bookshop
@@ -396,6 +398,7 @@ id: bookartbookshop
 name: Bookartbookshop
 address: 17 Pitfield Street, N1 6HB
 website: http://www.bookartbookshop.com/
+photo: https://www.flickr.com/photos/kake_pugh/28665103991/
 lat: 51.527184
 long: -0.083835
 new: unknown
@@ -783,7 +786,7 @@ id: camden-lock-books-old-street
 name: Camden Lock Books
 address: 4 St Agnes Well, Old Street Station, EC1Y 1BE
 website: http://www.camdenlockbooks.co.uk/
-photo: http://www.flickr.com/photos/kake_pugh/3423596467/
+photo: https://www.flickr.com/photos/kake_pugh/28710530426/
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1529
 lat: 51.525593
 long: -0.087569
@@ -791,7 +794,7 @@ new: yes
 secondhand: yes
 charity: no
 open: yes
-checked: April 2009
+checked: July 2016
 ---
 id: childrens-bookshop-hornsey-road
 name: Children's Bookshop (Hornsey Road)
@@ -2241,6 +2244,22 @@ secondhand: yes
 charity: no
 open: yes
 ---
+id: material-shoreditch
+name: Material
+address: 3 Rivington Street, Shoreditch, EC2A 3DT
+phone: 020 7739 1900
+website: http://materialmaterial.com/
+twitter: materialgallery
+description: Focused on design, food, and children's books.
+photo: https://www.flickr.com/photos/kake_pugh/28710525116/
+lat: 51.526113
+long: -0.083169535
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: July 2016
+---
 id: metropolitan-books
 name: Metropolitan Books
 address: 49 Exmouth Market, EC1R 4QL
@@ -2731,6 +2750,7 @@ new: unknown
 secondhand: unknown
 charity: unknown
 open: yes
+checked: July 2016
 ---
 id: pathfinder-books
 name: Pathfinder Books
