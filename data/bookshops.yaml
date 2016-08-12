@@ -1224,13 +1224,14 @@ address: 400 Kingsland Road, Dalston, E8 4AA
 website: http://www.burleyfisherbooks.com/
 twitter: BurleyFisher
 phone: 020 7249 2263
+photo: https://www.flickr.com/photos/kake_pugh/28908955995/
 description: Run by the people behind <a href="camden-lock-books-old-street.html">Camden Lock Books</a>.
 londonist: http://londonist.com/2016/02/new-indie-bookshop-opens-in-hackney
 other_links: <li><a href="http://hackneycitizen.co.uk/2016/02/16/burley-fisher-bookshop-dalston-boost-local-publishers/">Hackney Citizen article</a></li><li><a href="http://londonbooks.tumblr.com/post/141653681291/burley-fisher-books-e8-delighted-to-see-another">londonbooks.tumblr.com</a></li>
 lat: 51.541536
 long: -0.076033518
 open: yes
-checked: February 2016
+checked: August 2016
 ---
 id: epping-bookshop
 name: Epping Bookshop
@@ -3058,6 +3059,7 @@ open: yes
 id: ship-of-adventures-dalston
 name: Ship of Adventures
 address: 138 Kingsland High Street, Dalston, E8 2NS
+photo: https://www.flickr.com/photos/kake_pugh/28804008272/
 description: Bookshop, gift shop, cafe, and events space run by The Hackney Pirates youth learning charity.
 website: http://www.hackneypirates.org/shipofadventures/
 twitter: ShipOAdventures
@@ -3065,6 +3067,7 @@ other_links: <li><a href="http://londonbooks.tumblr.com/post/145094918241/">lond
 lat: 51.550285
 long: -0.075002208
 open: yes
+checked: August 2016
 ---
 id: skoob-bloomsbury
 name: Skoob
