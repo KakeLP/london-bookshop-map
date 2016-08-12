@@ -694,7 +694,7 @@ open: yes
 checked: September 2015
 ---
 id: bookworm-carshalton
-name: Bookworm
+name: Bookworm (Carshalton)
 address: 23 West Street, SM5 2PT
 rgl: http://london.randomness.org.uk/wiki.cgi?Bookworm,_SM5_2PT
 description: Closed down some time between September 2012 and January 2015.
@@ -706,6 +706,15 @@ secondhand: yes
 charity: no
 open: no
 checked: September 2012
+---
+id: bookworm-finchley-road
+name: Bookworm (Finchley Road)
+address: 1177 Finchley Road, NW11 0AA
+description: Children's bookshop.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/148238793811/">londonbooks.tumblr.com</a></li>
+lat: 51.584315
+long: -0.20001461
+open: yes
 ---
 id: british-heart-foundation-streatham
 name: British Heart Foundation Books & Music Shop
