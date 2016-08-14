@@ -352,6 +352,20 @@ secondhand: unknown
 charity: no
 open: no
 ---
+id: book-aid-lower-sydenham
+name: Book Aid
+address: Bromley House, Kangley Bridge Road, Lower Sydenham, SE26 5AQ
+website: http://www.book-aid.org/
+twitter: BookAidTrust
+phone: 020 8778 2145
+description: Christian charity bookshop selling secular as well as religious second-hand books.
+lat: 51.421985
+long: -0.035868377
+new: no
+secondhand: yes
+charity: yes
+open: yes
+---
 id: book-and-comic-exchange
 name: Book and Comic Exchange
 address: 14 Pembridge Road, W11 3HL
@@ -1782,12 +1796,13 @@ id: ibis-bookshop
 name: Ibis Bookshop
 address: 109 High Street, SM7 2NJ
 photo: http://www.flickr.com/photos/rjw1/6783815645/
+description: Closed down by September 2014.
 long: -0.199513
 lat: 51.323265
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: idler-academy
 name: Idler Academy
