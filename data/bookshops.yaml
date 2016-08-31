@@ -824,12 +824,12 @@ name: Children's Bookshop (Hornsey Road)
 address: 435 Hornsey Road, N19 4DX
 lat: 51.567264
 long: -0.12229881
+description: Discount children's bookshop selling books at a pound each - though closed down by June 2014.
 other_links: <li><a href="http://thehornseyroad.blogspot.co.uk/2012/06/seven-things-i-found-about-new-bookshop.html">The Hornsey Road article</a>
 new: unknown
 secondhand: unknown
-checked: June 2012
 charity: no
-open: yes
+open: no
 ---
 id: chiswick-bookshop
 name: Chiswick Bookshop
