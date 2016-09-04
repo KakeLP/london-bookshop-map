@@ -2357,6 +2357,7 @@ id: new-beacon-books
 name: New Beacon Books
 address: 76 Stroud Green Road, N4 3EN
 website: http://www.newbeaconbooks.co.uk/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/148582872151/">londonbooks.tumblr.com</a></li>
 long: -0.109885
 lat: 51.568359
 new: unknown
@@ -2863,6 +2864,7 @@ id: pitshanger-bookshop-ealing
 name: Pitshanger Bookshop
 address: 141 Pitshanger Lane, W5 1RH
 website: http://www.pitshangerbooks.co.uk/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/149923062096/">londonbooks.tumblr.com</a></li>
 long: -0.314720
 lat: 51.525742
 new: unknown
@@ -3775,6 +3777,7 @@ address: Lincoln's Inn Archway, Carey Street, WC2A 2JD
 description: Law books.
 website: http://www.wildy.com/
 photo: https://www.flickr.com/photos/rjw1/13971393041/
+other_links: "<li>londonbooks.tumblr.com: <a href=\"http://londonbooks.tumblr.com/post/148923507421/\">part one</a>, <a href=\"http://londonbooks.tumblr.com/post/149262544971/\">part two</a></li>"
 long: -0.112824
 lat: 51.515179
 new: yes
