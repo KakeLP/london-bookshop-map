@@ -2302,13 +2302,15 @@ id: morden-hall-park-bookshop
 name: Morden Hall Park Bookshop
 address: Morden Hall Park, Morden Hall Road, SM4 5JD
 website: http://www.nationaltrust.org.uk/morden-hall-park/
-tol: http://www.tiredoflondontiredoflife.com/2012/01/browse-bookshop-at-morden-hall-park.html
+photo: https://www.flickr.com/photos/rjw1/23399315885/
+rgl: http://london.randomness.org.uk/wiki.cgi?Morden_Hall_Bookshop,_SM4_5JD
 lat: 51.402331
 long: -0.18809715
 new: no
 secondhand: yes
 charity: no
 open: yes
+checked: September 2016
 ---
 id: museum-of-london-docklands-bookshop
 name: Museum of London Docklands Bookshop
