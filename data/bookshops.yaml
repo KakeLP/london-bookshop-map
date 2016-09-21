@@ -2035,6 +2035,16 @@ charity: no
 open: yes
 checked: August 2015
 ---
+id: k-k-outlet-hoxton
+name: K K Outlet
+address: 42 Hoxton Square, N1 6PB
+website: http://www.kkoutlet.com/
+description: Bookshop and gallery.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/150576849227/">londonbooks.tumblr.com</a></li>
+lat: 51.527284
+long: -0.080649599
+open: yes
+---
 id: koenig-books-charing-cross-road
 name: Koenig Books (Charing Cross Road)
 address: 80 Charing Cross Road.
