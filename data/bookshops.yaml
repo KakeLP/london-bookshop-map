@@ -2873,6 +2873,18 @@ charity: no
 open: yes
 checked: December 2012
 ---
+id: pickled-pepper-books-crouch-end
+name: Pickled Pepper Books
+address: 10 Middle Lane, Crouch End, N8 8PL
+website: https://pickledpepperbooks.co.uk/
+twitter: PickledBooks
+phone: 020 3632 0823
+description: Children's bookshop.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/150917035386/">londonbooks.tumblr.com</a></li>
+lat: 51.580930
+long: -0.12354349
+open: yes
+---
 id: pitshanger-bookshop-ealing
 name: Pitshanger Bookshop
 address: 141 Pitshanger Lane, W5 1RH
