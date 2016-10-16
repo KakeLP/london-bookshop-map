@@ -178,6 +178,7 @@ address: 50 Windsor Street, Uxbridge, UB8 1AB
 lat: 51.545675
 long: -0.48007880
 photo: https://www.flickr.com/photos/kake_pugh/16017843362/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/151875367111/barnards-bookshop-ub8-at-the-end-of-the">londonbooks.tumblr.com</a></li>
 new: unknown
 secondhand: unknown
 charity: no
@@ -1331,6 +1332,18 @@ long: -0.068122342
 new: unknown
 secondhand: yes
 charity: no
+open: yes
+---
+id: folio-society-holborn
+name: The Folio Society
+address: 44 Eagle Street, Holborn, WC1R 4FS
+locales: WC1, Holborn
+website: http://www.foliosociety.com/
+twitter: FolioSociety
+phone: 020 7400 4200
+other_links: <li><a href="http://londonbooks.tumblr.com/post/151553396476/the-folio-society-wc1r-near-holborn-on-eagle">londonbooks.tumblr.com</a></li>
+lat: 51.518774
+long: -0.11753802
 open: yes
 ---
 id: forbidden-planet-croydon
