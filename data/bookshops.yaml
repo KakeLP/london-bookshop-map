@@ -1554,6 +1554,7 @@ id: gosh
 name: Gosh
 address: 1 Berwick Street, W1F 0DR
 description: Moved to Berwick Street on 6 Aug 2011, previously at 39 Great Russell Street, WC1B 3NZ.
+photo: https://www.flickr.com/photos/kake_pugh/29989010204/
 website: http://goshlondon.blogspot.com/
 long: -0.134239
 lat: 51.512836
@@ -1561,6 +1562,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: October 2016
 ---
 id: greenwich-book-place
 name: Greenwich Book Place
