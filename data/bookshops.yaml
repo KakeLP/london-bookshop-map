@@ -169,6 +169,16 @@ charity: no
 open: yes
 checked: February 2013
 ---
+id: bookshop-at-chelsea-harbour-design-centre
+name: The Bookshop At
+address: Chelsea Harbour Design Centre, Harbour Road, Fulham, SW10 0XE
+description: Lifestyle and design books.
+website: http://www.thebookshopat.com/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/152805543532/">londonbooks.tumblr.com</a></li>
+lat: 51.476402
+long: -0.18341133
+open: yes
+---
 id: bookshop-north-chingford
 name: The Bookshop North Chingford
 address: 135 Station Road, E4 6AG
