@@ -2840,6 +2840,17 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: paperback-coffee-and-tea-ealing
+name: Paperback Coffee And Tea
+address: 153 South Ealing Road, W5 4QP
+website: http://www.paperbackcoffee.com/
+twitter: PaperBackCoffee
+description: Bookshop and coffee/tea shop.
+other_links: <li><a href="http://londonbooks.tumblr.com/post/153168905950/">londonbooks.tumblr.com</a></li>
+lat: 51.498555
+long: -0.30575533
+open: yes
+---
 id: paper-and-cup-bow
 name: Paper & Cup (Bow)
 description: Second branch of the coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  This one opened in early 2013.  The <a href="http://londonbookshops.org/shops/paper-and-cup-shoreditch.html">original branch</a> is in Shoreditch.
