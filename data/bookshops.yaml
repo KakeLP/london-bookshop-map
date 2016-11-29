@@ -436,6 +436,7 @@ name: Bookartbookshop
 address: 17 Pitfield Street, N1 6HB
 website: http://www.bookartbookshop.com/
 photo: https://www.flickr.com/photos/kake_pugh/28665103991/
+other_links: <li><a href="http://londonbooks.tumblr.com/post/153771876566/">londonbooks.tumblr.com</a></li>
 lat: 51.527184
 long: -0.083835
 new: unknown
@@ -2580,7 +2581,7 @@ charity: no
 open: yes
 ---
 id: open-book-richmond
-name: Open Book
+name: The Open Book
 address: 10 King Street, TW9 1ND
 yelp: http://www.yelp.co.uk/biz/open-book-richmond
 other_links: <li><a href="http://londonbooks.tumblr.com/post/116801183226/">londonbooks.tumblr.com</a></li>
