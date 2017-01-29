@@ -872,20 +872,6 @@ secondhand: unknown
 charity: no
 open: no
 ---
-id: chiswick-bookshop
-name: Chiswick Bookshop
-address: 12 Turnham Green Terrace, Chiswick, W4 1QP
-website: http://www.thechiswickbookshop.com/
-twitter: ChiswickBooks
-phone: 020 8994 8020
-other_links: <li><a href="http://londonbooks.tumblr.com/post/144745732481/">londonbooks.tumblr.com</a></li>
-lat: 51.493275
-long: -0.25522520
-new: unknown
-secondhand: unknown
-charity: no
-open: yes
----
 id: church-street-bookshop-stoke-newington
 name: Church Street Bookshop
 address: 142 Stoke Newington Church Street, N16 0JU
@@ -3726,6 +3712,20 @@ new: yes
 secondhand: no
 charity: no
 open: yes
+---
+id: w4-love-books-chiswick
+name: W4 Love Books
+address: 12 Turnham Green Terrace, Chiswick, W4 1QP
+twitter: W4LoveBooks
+photo: https://www.flickr.com/photos/kake_pugh/31746816374/
+description: Previously the Chiswick Bookshop (see <a href="http://londonbooks.tumblr.com/post/144745732481/">londonbooks.tumblr.com entry</a>), it relaunched with a new name and new management in late 2016.
+lat: 51.493275
+long: -0.25522520
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: January 2017
 ---
 id: w-and-a-houben
 name: W & A Houben
