@@ -1053,13 +1053,14 @@ checked: June 2009
 id: croydon-bookshop
 name: Croydon Bookshop
 address: 304 Carshalton Road, SM5 3QB
+description: <a href="http://www.inprint.co.uk/thebookguide/shops/news.php?y=16">According to The Book Guide</a>, the Croydon Bookshop closed down in 2016 after 45 years, due to retirement of the owner.
 other_links: <li><a href="http://londonbooks.tumblr.com/post/134204103091/">londonbooks.tumblr.com</a></li>
 long: -0.173378
 lat: 51.362991
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: ct-pocket
 name: CT Pocket
@@ -1230,6 +1231,7 @@ open: yes
 id: earlsfield-bookshop
 name: Earlsfield Bookshop
 address: 513 Garratt Lane, SW18 4SW
+description: Closed down by 2012.  The old premises were demolished as part of the widening of Earlsfield Station entrance.
 yelp: http://www.yelp.co.uk/biz/the-earlsfield-book-shop-london
 photo: http://www.flickr.com/photos/55935853@N00/3991431104/
 long: -0.188355
@@ -1237,7 +1239,7 @@ lat: 51.442478
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: brick-lane-bookshop
 name: Brick Lane Bookshop
@@ -2414,7 +2416,7 @@ checked: August 2013
 ---
 id: my-back-pages-balham
 name: My Back Pages
-description: "Now closed; was a second-hand bookshop in Balham.  As of April 2014 the premises are vacant and stripped out (pictured).  As of mid-2014 the owner has opened a new bookshop in Earlsfield, called <a href=\"http://londonbookshops.org/shops/turn-the-page.html\">Turn The Page</a>."
+description: "Now closed; was a second-hand bookshop in Balham.  As of April 2014 the premises are vacant and stripped out (pictured).  The owner has opened a new bookshop in Earlsfield, called <a href=\"http://londonbookshops.org/shops/turn-the-page.html\">Turn The Page</a>, but this itself closed down in mid-2016."
 address: 8-10 Station Road, SW12 9SG
 tol: http://www.tiredoflondontiredoflife.com/2012/03/buy-books-at-my-back-pages.html
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/london/south_west.shtml
@@ -3625,7 +3627,7 @@ id: turn-the-page
 name: Turn The Page
 address: 575 Garratt Lane, Earlsfield, SW18 4ST
 phone: 020 8605 2290
-description: "New and secondhand bookshop run by the owner of now-closed <a href=\"http://londonbookshops.org/shops/my-back-pages-balham.html\">My Back Pages</a>."
+description: "New and secondhand bookshop run by the owner of now-closed <a href=\"http://londonbookshops.org/shops/my-back-pages-balham.html\">My Back Pages</a>.  However this itself has also now closed."
 twitter: TTPbookshop
 other_links: <li><a href="http://metrolondonguides.wordpress.com/2014/07/04/turn-the-page-bookshop/">Book Lovers' London article</a></li><li><a href="http://londonbooks.tumblr.com/post/114517809091/">londonbooks.tumblr.com</a></li>
 lat: 51.439736
@@ -3633,7 +3635,7 @@ long: -0.18668135
 new: yes
 secondhand: yes
 charity: no
-open: yes
+open: no
 ---
 id: two-jays-bookshop-edgware
 name: Two Jays Bookshop
