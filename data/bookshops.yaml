@@ -1598,17 +1598,16 @@ checked: October 2016
 id: greenwich-book-place
 name: Greenwich Book Place
 address: 258 Creek Road, SE10 9SW
-description: Closed at one point — <a href="http://www.thegreenwichphantom.co.uk/2011/06/random-things-noted/">Greenwich Phantom report</a> — but now <a href="http://www.thegreenwichphantom.co.uk/2011/06/8168/">open again</a>.
+description: Closed at one point — <a href="http://www.thegreenwichphantom.co.uk/2011/06/random-things-noted/">Greenwich Phantom report</a> — but <a href="http://www.thegreenwichphantom.co.uk/2011/06/8168/">then reopened</a> – and finally closed down for good in August 2016.
 other_links: <li><a href="http://www.thegreenwichphantom.co.uk/2009/11/greenwich-book-place.html">Greenwich Phantom article</a></li>
 photo: http://www.flickr.com/photos/kake_pugh/9365939641/
-twitter: booksnpictures
-website: http://ukbookworld.com/members/Greenspace
+website: http://web.archive.org/web/20130216040149/http://ukbookworld.com/members/Greenspace
 long: -0.013261
 lat: 51.481331
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: guanghwa-books
 name: Guanghwa Books
