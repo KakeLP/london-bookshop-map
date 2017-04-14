@@ -2597,15 +2597,14 @@ checked: February 2016
 id: owl-and-pussycat
 name: The Owl and the Pussycat
 address: 106 Northfield Avenue, W13 9RT
-description: Children's books.
-website: http://www.owlandpussycat.co.uk/
+description: Children's books.  Closed down around 2014.
 photo: http://www.flickr.com/photos/kake_pugh/3668178596/
 long: -0.316941
 lat: 51.502945
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: June 2009
 ---
 id: owl-bookshop
