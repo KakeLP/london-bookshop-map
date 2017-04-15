@@ -46,7 +46,8 @@ locales: E11, Leytonstone
 description: Bookshop, cafe, and bar.  Originally a pop-up, now permanent.
 website: http://www.allyoureadislove.com/
 twitter: AllYouReadLove
-other_links: <li><a href="http://www.guardian-series.co.uk/news/11711953.Danish_siblings_bring_Scandinavian_book_cafe_to_Leytonstone/">East London and West Essex Guardian article</a></li><li><a href="http://www.leytonstoner.london/2015/02/23/read-love-really/">Leytonstoner review</a></li>
+elweguardian: http://www.guardian-series.co.uk/news/11711953.Danish_siblings_bring_Scandinavian_book_cafe_to_Leytonstone/
+leytonstoner: http://www.leytonstoner.london/2015/02/23/read-love-really/
 lat: 51.570393
 long: 0.014117271
 new: unknown
@@ -104,7 +105,7 @@ address: 101 Church Street, CR0 1RN
 description: Comics and graphic novels.
 website: http://stores.ebay.co.uk/A-PLACE-IN-SPACE
 photo: http://www.flickr.com/photos/kake_pugh/6883401397/
-other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?A_Place_In_Space,_101_Church_Street">Completists' Guide to Croydon</a></li>
+cgc: http://croydon.randomness.org.uk/wiki.cgi?A_Place_In_Space,_101_Church_Street
 lat: 51.3738119426855
 long: -0.104830649245554
 new: yes
@@ -159,7 +160,7 @@ address: 49a Museum Street, WC1A 1LY
 description: Allegedly London's oldest independent occult booksellers.
 website: http://www.theatlantisbookshop.com/
 londonist: http://londonist.com/2009/07/biblio-text_atlantis_bookshop.php
-other_links: <li><a href="http://londonbooks.tumblr.com/post/126816086946/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/126816086946/
 photo: http://www.flickr.com/photos/rjw1/8512079743/
 lat: 51.517597
 long: -0.125227
@@ -174,7 +175,7 @@ name: The Bookshop At
 address: Chelsea Harbour Design Centre, Harbour Road, Fulham, SW10 0XE
 description: Lifestyle and design books.
 website: http://www.thebookshopat.com/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/152805543532/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/152805543532/
 lat: 51.476402
 long: -0.18341133
 open: yes
@@ -186,7 +187,7 @@ website: http://www.hive.co.uk/Shops/Chingford-Bookshop-London
 twitter: ChingfordBooks
 phone: 020 8524 9002
 description: Previously known as The Bargain Bookshop.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/144392525806/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/144392525806/
 lat: 51.632790
 long: 0.008497
 new: unknown
@@ -200,7 +201,7 @@ address: 50 Windsor Street, Uxbridge, UB8 1AB
 lat: 51.545675
 long: -0.48007880
 photo: https://www.flickr.com/photos/kake_pugh/16017843362/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/151875367111/barnards-bookshop-ub8-at-the-end-of-the">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/151875367111/barnards-bookshop-ub8-at-the-end-of-the
 new: unknown
 secondhand: unknown
 charity: no
@@ -213,7 +214,7 @@ phone: 020 8741 0786
 photo: http://flickr.com/photos/kake_pugh/2977997334/
 description: Run by the same people as the <a href="http://londonbookshops.org/shops/kew-bookshop.html">Kew Bookshop</a> and the <a href="http://londonbookshops.org/shops/sheen-bookshop.html">Sheen Bookshop</a>.
 tol: http://www.tiredoflondontiredoflife.com/2014/10/buy-books-at-barnes-bookshop.html
-other_links: <li><a href="http://londonbooks.tumblr.com/post/138402270125/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/138402270125/
 lat: 51.474792
 long: -0.240583
 new: unknown
@@ -226,7 +227,7 @@ id: beaumont-travel-books
 name: Beaumont Travel Books
 address: 33 Couthurst Road, SE3 8TN
 website: http://www.abebooks.com/beaumont-travel-books-aba-ilab-london/10321/sf
-other_links: <li><a href="http://www.sheila-markham.com/Archives/gbeau.htm">Interview with the owner</a></li>
+bookdealer: http://www.sheila-markham.com/Archives/gbeau.htm
 lat: 51.478619
 long: 0.026414
 new: unknown
@@ -239,7 +240,7 @@ name: Beckenham Bookshop
 address: 42 High Street, BR3 1AY
 website: http://www.beckenhambooks.com/
 photo: http://www.flickr.com/photos/kake_pugh/6318029673/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/142943802761/beckenham-bookshop-br3-here-we-have-a-marvellous">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/142943802761/beckenham-bookshop-br3-here-we-have-a-marvellous
 lat: 51.409573
 long: -0.025320
 new: yes
@@ -256,7 +257,7 @@ address: 59 Ebury Street, SW1W 0NZ
 website: http://www.belgraviabooks.com/
 twitter: BelgraviaB
 reading_matters: http://kimbofo.typepad.com/readingmatters/2012/02/a-visit-to-belgravia-books-london.html
-other_links: <li><a href="http://londonbooks.tumblr.com/post/127932057861/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/127932057861/
 lat: 51.495122
 long: -0.14798900
 new: yes
@@ -309,7 +310,7 @@ id: black-gull-books-camden
 name: Black Gull Books (Camden)
 address: 70-71 Camden Lock Place, Camden Lock Market, NW1 8AF
 website: http://www.camdenlockmarket.com/unit.php?id=61
-other_links: <li><a href="http://londonbooks.tumblr.com/post/109142890441/black-gull-books-nw1-fight-through-the-crowds">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/109142890441/black-gull-books-nw1-fight-through-the-crowds
 lat: 51.541279
 long: -0.146556
 new: unknown
@@ -393,7 +394,8 @@ id: book-and-comic-exchange
 name: Book and Comic Exchange
 address: 14 Pembridge Road, W11 3HL
 website: http://www.mveshops.co.uk/
-other_links: <li><a href="http://www.thetopfloorflat.com/2009/03/book-and-comic-exchange-in-notting-hill/">Top Floor Flat review</a></li><li><a href="http://londonbooks.tumblr.com/post/139716563601/">londonbooks.tumblr.com</a></li>
+topfloorflat: http://www.thetopfloorflat.com/2009/03/book-and-comic-exchange-in-notting-hill/
+londonbooks: http://londonbooks.tumblr.com/post/139716563601/
 photo: http://www.flickr.com/photos/kake_pugh/9892234965/
 lat: 51.509609
 long: -0.197024
@@ -436,7 +438,7 @@ name: Bookartbookshop
 address: 17 Pitfield Street, N1 6HB
 website: http://www.bookartbookshop.com/
 photo: https://www.flickr.com/photos/kake_pugh/28665103991/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/153771876566/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/153771876566/
 lat: 51.527184
 long: -0.083835
 new: unknown
@@ -486,7 +488,7 @@ name: Book Haus
 address: 70 Cadogan Place, SW1X 9AH
 website: http://www.hauspublishing.com/
 photo: http://www.flickr.com/photos/55935853@N00/3990676509/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/121770865336/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/121770865336/
 lat: 51.494617
 long: -0.156657
 new: unknown
@@ -606,7 +608,7 @@ open: yes
 id: bookshop-hampton
 name: The Book Shop (Hampton)
 address: Hampton Railway Station, Ashley Road, TW12 2HU
-other_links: <li><a href="http://www.richmondandtwickenhamtimes.co.uk/news/868906.struggling_to_keep_up_the_good_work/">Local newspaper article</a></li>
+rttimes: http://www.richmondandtwickenhamtimes.co.uk/news/868906.struggling_to_keep_up_the_good_work/
 lat: 51.416004
 long: -0.372033
 new: unknown
@@ -721,7 +723,7 @@ address: 104 Lower Marsh, SE1 7AB
 description: Previously at 158 Waterloo Road (<a href="http://flickr.com/photos/kake_pugh/2669855002/">photo</a>), but moved to Lower Marsh in early 2015 due to redevelopment of the old site.
 website: http://www.gramex.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Book_Warehouse,_SE1_7AB
-other_links: <li><a href="http://londonbooks.tumblr.com/post/119375423866/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/119375423866/
 photo: https://www.flickr.com/photos/kake_pugh/20562490954/
 lat: 51.501193
 long: -0.11216153
@@ -749,7 +751,7 @@ id: bookworm-finchley-road
 name: Bookworm (Finchley Road)
 address: 1177 Finchley Road, NW11 0AA
 description: Children's bookshop.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/148238793811/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/148238793811/
 lat: 51.584315
 long: -0.20001461
 open: yes
@@ -770,7 +772,6 @@ checked: March 2014
 id: british-red-cross-palmers-green
 name: British Red Cross Bookshop
 address: 385 Green Lanes, N13 4JG
-qype: http://www.qype.co.uk/place/76224#reviews
 lat: 51.619297
 long: -0.107503
 new: unknown
@@ -795,7 +796,7 @@ name: Broadway Bookshop
 address: 6 Broadway Market, E8 4QJ
 website: http://www.broadwaybookshophackney.com/
 tol: http://www.tiredoflondontiredoflife.com/2010/07/search-for-paperbacks-at-broadway.html
-other_links: <li><a href="http://londonbooks.tumblr.com/post/110436957031/broadway-bookshop-e8-over-east-london-way-a">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/110436957031/broadway-bookshop-e8-over-east-london-way-a
 long: -0.061433
 lat: 51.536835
 new: unknown
@@ -821,7 +822,7 @@ name: Bryars & Bryars
 address: 7 Cecil Court, Covent Garden, WC2N 4EZ
 description: First editions at a wide range of prices, with a special focus on travel books, literature, and early printing (especially Greek and Latin classics) as well as antique maps and atlases printed c. 1500-1950.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004560154/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/142170258461/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/142170258461/
 website: http://bryarsandbryars.co.uk/
 phone: 020 7836 1910
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1685
@@ -866,7 +867,7 @@ address: 435 Hornsey Road, N19 4DX
 lat: 51.567264
 long: -0.12229881
 description: Discount children's bookshop selling books at a pound each - though closed down by June 2014.
-other_links: <li><a href="http://thehornseyroad.blogspot.co.uk/2012/06/seven-things-i-found-about-new-bookshop.html">The Hornsey Road article</a>
+hornseyroad: http://thehornseyroad.blogspot.co.uk/2012/06/seven-things-i-found-about-new-bookshop.html
 new: unknown
 secondhand: unknown
 charity: no
@@ -889,7 +890,7 @@ id: centerprise-trust-bookshop-kingsland-road
 name: Centerprise Trust Bookshop
 address: 136-138 Kingsland Road, E8 2NS
 description: Self-described as "one of East London’s oldest and most famous community bookshops" and "the home of Black cultural books and literature for East London".  It was <a href="http://hackneycitizen.co.uk/2012/11/04/centerprise-bookshop-seized-hackney-council/">forced to close</a> in autumn 2012.
-other_links: '<li><a href="http://hackneycitizen.co.uk/2013/09/12/centerprise-history/">Hackney Citizen article</a></li>'
+hackneycitizen: http://hackneycitizen.co.uk/2013/09/12/centerprise-history/
 website: http://www.centerprisetrust.org.uk/literature/
 lat: 51.549349
 long: -0.075016
@@ -902,7 +903,7 @@ id: chener-books-lordship-lane
 name: Chener Books
 address: 14 Lordship Lane, SE22 8HN
 rgl: http://london.randomness.org.uk/wiki.cgi?Chener_Books,_SE22_8HN
-other_links: <li><a href="http://peckhampeculiar.tumblr.com/post/103457719849/buy-the-book-part-1-chener-books">Peckham Peculiar</a></li>
+peckhampeculiar: http://peckhampeculiar.tumblr.com/post/103457719849/buy-the-book-part-1-chener-books
 photo: http://www.flickr.com/photos/rjw1/5089865536/
 lat: 51.460117
 long: -0.075467
@@ -943,7 +944,7 @@ id: childrens-bookshop-muswell-hill
 name: Children's Bookshop (Muswell Hill)
 address: 29 Fortis Green Road, Muswell Hill, N10 3HP
 photo: http://www.flickr.com/photos/kake_pugh/9457988181/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/147887743161/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/147887743161/
 lat: 51.590057
 long: -0.146813
 new: unknown
@@ -972,7 +973,7 @@ website: http://clairederouenbooks.com/
 phone: 020 7287 1813
 description: Specialist in photography, fashion, and art books.
 photo: https://www.flickr.com/photos/kake_pugh/16556379638/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/128982455616/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/128982455616/
 lat: 51.515011
 long: -0.13006394
 new: yes
@@ -1027,7 +1028,7 @@ name: Collinge and Clark
 address: 13 Leigh Street, WC1H 9EW
 description: Private press books, books about typography.
 photo: http://www.flickr.com/photos/55935853@N00/3445878406/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/125102608231/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/125102608231/
 long: -0.125045
 lat: 51.526455
 new: unknown
@@ -1040,7 +1041,7 @@ id: copperfields
 name: Copperfield's
 address: 37 Hartfield Road, SW19 3SG
 yelp: http://www.yelp.co.uk/biz/copperfield-bookshop-london
-other_links: <li><a href="http://londonbooks.tumblr.com/post/137009405056/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/137009405056/
 photo: http://www.flickr.com/photos/kake_pugh/3676830134/
 long: -0.205586
 lat: 51.419537
@@ -1054,7 +1055,7 @@ id: croydon-bookshop
 name: Croydon Bookshop
 address: 304 Carshalton Road, SM5 3QB
 description: <a href="http://www.inprint.co.uk/thebookguide/shops/news.php?y=16">According to The Book Guide</a>, the Croydon Bookshop closed down in 2016 after 45 years, due to retirement of the owner.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/134204103091/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/134204103091/
 long: -0.173378
 lat: 51.362991
 new: unknown
@@ -1066,7 +1067,7 @@ id: ct-pocket
 name: CT Pocket
 address: 152 Deptford High Street, SE8 3PQ
 description: Mini arts bookshop in the Bearspace art gallery, opened in September 2009.
-other_links: <li><a href="http://deptforddame.blogspot.com/2009/08/new-art-bookshop-at-bearspace.html">Deptford Dame post</a></li>
+deptforddame: http://deptforddame.blogspot.com/2009/08/new-art-bookshop-at-bearspace.html
 long: -0.025894
 lat: 51.479225
 new: unknown
@@ -1126,7 +1127,7 @@ description: Specialist travel bookshop, part of a small chain.
 website: http://www.dauntbooks.co.uk/
 photo: http://www.flickr.com/photos/kake_pugh/9295393346/
 twitter: DauntBooks
-other_links: <li><a href="http://londonbooks.tumblr.com/post/115872013316/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/115872013316/
 long: -0.165439
 lat: 51.550484
 new: yes
@@ -1171,7 +1172,7 @@ address: 75 Broadway Market, Hackney, E8 4PH
 description: Specialises in art, music, fashion, philosophy, and erotica.  Also has a branch <a href="donlon-books-soho.html">in Soho</a>.
 website: http://donlonbooks.com/
 twitter: DonlonBooks
-other_links: <li><a href="http://londonbooks.tumblr.com/post/110744919366/donlon-books-e8-just-over-the-road-from-our-last">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/110744919366/donlon-books-e8-just-over-the-road-from-our-last
 lat: 51.537629
 long: -0.061104342
 new: yes
@@ -1185,7 +1186,7 @@ address: 62 Kingly Street, Soho, W1B 5QN
 description: Specialises in art, music, fashion, philosophy, and erotica.  Also has a branch <a href="donlon-books-hackney.html">in Hackney</a>.
 website: http://donlonbooks.com/
 twitter: DonlonBooks
-other_links: <li><a href="http://londonbooks.tumblr.com/post/114342938901/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/114342938901/
 lat: 51.512300
 long: -0.13891254
 new: yes
@@ -1220,7 +1221,7 @@ id: ealing-books
 name: Ealing Books
 address: 20 South Ealing Road, W5 4QA.
 website: http://www.ealingbooks.co.uk/
-other_links: <li><a href="http://www.ealinggazette.co.uk/lifestyle-ealing/my-ealing/2011/11/18/ealing-bookseller-defies-trend-towards-e-readers-64767-29801787/">Ealing Gazette article</a></li>
+getwestlondon: http://www.getwestlondon.co.uk/news/local-news/ealing-bookseller-defies-trend-towards-5982071
 long: -0.306957
 lat: 51.503548
 new: unknown
@@ -1266,7 +1267,8 @@ phone: 020 7249 2263
 photo: https://www.flickr.com/photos/kake_pugh/28908955995/
 description: Run by the people behind <a href="camden-lock-books-old-street.html">Camden Lock Books</a>.
 londonist: http://londonist.com/2016/02/new-indie-bookshop-opens-in-hackney
-other_links: <li><a href="http://hackneycitizen.co.uk/2016/02/16/burley-fisher-bookshop-dalston-boost-local-publishers/">Hackney Citizen article</a></li><li><a href="http://londonbooks.tumblr.com/post/141653681291/burley-fisher-books-e8-delighted-to-see-another">londonbooks.tumblr.com</a></li>
+hackneycitizen: http://hackneycitizen.co.uk/2016/02/16/burley-fisher-bookshop-dalston-boost-local-publishers/
+londonbooks: http://londonbooks.tumblr.com/post/141653681291/burley-fisher-books-e8-delighted-to-see-another
 lat: 51.541536
 long: -0.076033518
 open: yes
@@ -1291,7 +1293,7 @@ name: European Bookshop
 address: 123 Gloucester Road, South Kensington, SW7 4TE
 description: Previously at 5 Warwick Street, Soho, but moved to South Kensington by March 2016.</p><p>Its new premises were previously occupied by another bookshop run by publishing company Slightly Foxed (from Autumn 2009 to January 2016), and before that by the Gloucester Road Bookshop.</p>
 website: http://www.europeanbookshop.com/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/114062186071/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/114062186071/
 lat: 51.493176
 long: -0.181575
 new: unknown
@@ -1304,7 +1306,7 @@ name: Faction Bookshop
 address: 2 Leegate, Lee, SE12 8SS
 website: http://home.btconnect.com/newnham/thefactionbookshop/index.html
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2334
-other_links: <a href="http://londonbooks.tumblr.com/post/86225359416/faction-bookshop-se12-a-very-fortuitous">London Books review</a>
+londonbooks: http://londonbooks.tumblr.com/post/86225359416/faction-bookshop-se12-a-very-fortuitous
 lat: 51.455556
 long: 0.011987194
 new: unknown
@@ -1326,7 +1328,7 @@ id: fisher-and-sperr
 name: Fisher and Sperr
 address: 46 Highgate High Street, N6 5JB
 photo: http://www.flickr.com/photos/55935853@N00/8026334691/
-other_links: <li><a href="http://www.londontown.com/LondonInformation/Shopping/Fisher__Sperr/b71b/">LondonTown entry</a></li> <li><a href="http://www.dalemcgowan.com/samples/bookcrawling.html">Amusing essay</a></li>
+dalemcgowan: http://www.dalemcgowan.com/samples/bookcrawling.html
 description: <a href="http://library-keeper.livejournal.com/9021.html">Closed in early 2010</a>.
 long: -0.147350
 lat: 51.570816
@@ -1342,7 +1344,7 @@ locales: SE15, Peckham
 website: http://www.thefoldpeckham.com/
 twitter: TheFoldPeckham
 description: Closed down by early 2017.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/140142228836/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/140142228836/
 lat: 51.469515
 long: -0.068122342
 new: unknown
@@ -1357,7 +1359,7 @@ locales: WC1, Holborn
 website: http://www.foliosociety.com/
 twitter: FolioSociety
 phone: 020 7400 4200
-other_links: <li><a href="http://londonbooks.tumblr.com/post/151553396476/the-folio-society-wc1r-near-holborn-on-eagle">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/151553396476/the-folio-society-wc1r-near-holborn-on-eagle
 lat: 51.518774
 long: -0.11753802
 open: yes
@@ -1368,7 +1370,7 @@ address: 43 Church Street, CR0 1RH
 description: Comics and graphic novels.  Previously located at 175 North End, CR0 1TP, but moved to Church Street in late 2011.
 website: http://www.forbiddenplanet.co.uk/
 photo: http://www.flickr.com/photos/kake_pugh/7616724606/
-other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?Forbidden_Planet,_43_Church_Street">Completists' Guide to Croydon</a></li>
+cgc: http://croydon.randomness.org.uk/wiki.cgi?Forbidden_Planet,_43_Church_Street
 lat: 51.3733010355549
 long: -0.10271086892913
 new: yes
@@ -1405,11 +1407,12 @@ open: yes
 id: foyles-charing-cross-road
 name: Foyles at Charing Cross Road (incorporating Grant and Cutler)
 address: 107 Charing Cross Road, WC2H 0DT
-description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from here to number 107.  It also incorporates <a href="http://www.grantandcutler.com/">Grant and Cutler</a>, a specialist foreign-language bookseller.
+description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from there to number 107.  It also incorporates <a href="http://www.grantandcutler.com/">Grant and Cutler</a>, a specialist foreign-language bookseller.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1011
 twitter: Foyles
 tol: http://www.tiredoflondontiredoflife.com/2014/06/browse-books-at-new-foyles.html
-other_links: "<li>diamond geezer articles: <a href=\"http://diamondgeezer.blogspot.co.uk/2014/05/foyles-113.html\">old shop</a>, <a href=\"http://diamondgeezer.blogspot.co.uk/2014/06/new-foyles.html\">new shop</a></li><li><a href=\"http://www.planestrainsandplantagenets.com/2014/07/foyles-bookshop-charing-cross-road/\">Planes, Trains and Plantagenets article</a></li>"
+dg: http://diamondgeezer.blogspot.co.uk/2014/06/new-foyles.html
+kerry: http://www.planestrainsandplantagenets.com/2014/07/foyles-bookshop-charing-cross-road/
 lat: 51.514280
 long: -0.12977023
 new: yes
@@ -1442,7 +1445,6 @@ twitter: Foyles
 phone: 020 7440 3212
 long: -0.117309
 lat: 51.505882
-qype: http://www.qype.co.uk/place/250898#reviews
 new: yes
 secondhand: unknown
 charity: no
@@ -1454,7 +1456,7 @@ name: Foyles at Waterloo Station
 address: Unit 22, Lower Concourse, London Waterloo Station, SE1 8SW
 description: A small Foyles branch in Waterloo Station. Most of the fiction is on the mezzanine level, and there is no lift.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1019
-other_links: <li><a href="http://www.london-se1.co.uk/news/view/7394">LondonSE1 article</a></li>
+londonse1: http://www.london-se1.co.uk/news/view/7394
 twitter: Foyles
 phone: 020 3206 2680
 lat: 51.50316
@@ -1516,7 +1518,7 @@ address: 84b Whitechapel High Street, E1 7QX
 website: http://www.freedompress.org.uk/
 twitter: Freedom_Paper
 description: 'Note: The Freedom Bookshop <a href="https://twitter.com/Freedom_Paper/status/297332447039856640">was firebombed</a> on the night of 31 January 2013.  As of mid-February, they were back open again at the same address with a temporary <a href="http://web.archive.org/web/20140331185956/http://www.freedompress.org.uk/news/2013/02/12/rainbow-shop-opens-2/">rainbow bookshop</a>.  They reopened the main bookshop again properly <a href="https://twitter.com/Freedom_Paper/status/340804390195699713">on 1 June 2013</a>.'
-other_links: <li><a href="http://londonbooks.tumblr.com/post/124176982077/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/124176982077/
 long: -0.070424
 lat: 51.515953
 new: unknown
@@ -1556,7 +1558,7 @@ address: 10 Curzon Street, W1J 5HH
 website: http://www.heywoodhill.com/
 twitter: HeywoodHill
 londonist: http://londonist.com/2009/06/biblio-text_heywood_hill.php
-other_links: <li><a href="http://ashrarebooks.wordpress.com/2013/01/10/rummage-in-curzon-street/">Laurence Worms' article</a> (scroll down)</li><li><a href="http://londonbooks.tumblr.com/post/140963371176/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/140963371176/
 photo: https://www.flickr.com/photos/rjw1/14070633977/
 long: -0.146567
 lat: 51.506985
@@ -1600,7 +1602,7 @@ id: greenwich-book-place
 name: Greenwich Book Place
 address: 258 Creek Road, SE10 9SW
 description: Closed at one point — <a href="http://www.thegreenwichphantom.co.uk/2011/06/random-things-noted/">Greenwich Phantom report</a> — but <a href="http://www.thegreenwichphantom.co.uk/2011/06/8168/">then reopened</a> – and finally closed down for good in August 2016.
-other_links: <li><a href="http://www.thegreenwichphantom.co.uk/2009/11/greenwich-book-place.html">Greenwich Phantom article</a></li>
+greenwichphantom: http://www.thegreenwichphantom.co.uk/2009/11/greenwich-book-place.html
 photo: http://www.flickr.com/photos/kake_pugh/9365939641/
 website: http://web.archive.org/web/20130216040149/http://ukbookworld.com/members/Greenspace
 long: -0.013261
@@ -1647,7 +1649,7 @@ address: 266 Lee High Road, SE13 5PL
 website: http://www.halcyonbooks.co.uk/
 twitter: HalcyonBooks
 description: The second branch of <a href="halcyon-books-greenwich.html">the original one in Greenwich</a>.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/141364307440/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/141364307440/
 lat: 51.458519
 long: 0.0029655844
 open: yes
@@ -1659,7 +1661,9 @@ website: http://www.hatchards.co.uk/
 twitter: Hatchards
 description: The original branch of Hatchards.  In August 2014 it opened a second branch <a href="http://londonbookshops.org/shops/hatchards-st-pancras.html">in St Pancras International</a>.
 photo: https://www.flickr.com/photos/rjw1/15953763950/
-other_links: <li><a href="http://web.archive.org/web/20130421025746/http://kimbofo.typepad.com/readingmatters/2009/01/a-visit-to-the-oldest-bookshop-in-london.html">Reading Matters review</a></li> <li><a href="http://londonrobstuff.blogspot.com/2010/09/hatchards-piccadilly-w1.html">London Stuff article</a></li><li><a href="http://londonbooks.tumblr.com/post/109799665901">londonbooks.tumblr.com</a></li>
+reading_matters: http://web.archive.org/web/20130421025746/http://kimbofo.typepad.com/readingmatters/2009/01/a-visit-to-the-oldest-bookshop-in-london.html
+londonstuff: http://londonrobstuff.blogspot.com/2010/09/hatchards-piccadilly-w1.html
+londonbooks: http://londonbooks.tumblr.com/post/109799665901
 londonist: http://londonist.com/2009/09/biblio-text_hatchards.php
 tol: http://www.tiredoflondontiredoflife.com/2009/10/browse-at-hatchards-britains-oldest.html
 long: -0.137984
@@ -1678,7 +1682,7 @@ twitter: Hatchards
 phone: 020 7278 1238
 description: The second branch of Hatchards, the original being <a href="http://londonbookshops.org/shops/hatchards-piccadilly.html">on Piccadilly</a>.  This one opened in August 2014.
 photo: https://www.flickr.com/photos/rjw1/15640486725/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/147536424356/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/147536424356/
 lat: 51.531428
 long: -0.126134
 new: unknown
@@ -1707,7 +1711,7 @@ address: 58-60 Charing Cross Road, WC2H 0BB
 description: Second-hand, antiquarian, and out-of-print books.
 website: http://www.henrypordesbooks.com/
 photo: http://www.flickr.com/photos/kake_pugh/2445597342/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/117709762571/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/117709762571/
 long: -0.128531
 lat: 51.512348
 new: unknown
@@ -1743,7 +1747,7 @@ checked: August 2016
 id: highgate-bookshop
 name: Highgate Bookshop
 address: 9 Highgate High Street, N6 5JR
-other_links: <li><a href="http://londonbooks.tumblr.com/post/131876983511/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/131876983511/
 long: -0.146127
 lat: 51.570267
 new: unknown
@@ -1781,7 +1785,7 @@ lat: 51.579580
 long: -0.12390652
 locales: Crouch End, N8
 photo: http://www.flickr.com/photos/kake_pugh/9461843016/
-other_links: <li><a href="http://www.hamhigh.co.uk/news/new_chapter_for_crouch_end_book_store_1_630698">Ham & High article</a>
+hamhigh: http://www.hamhigh.co.uk/news/new-chapter-for-crouch-end-book-store-1-630698
 open: yes
 checked: August 2013
 ---
@@ -1789,7 +1793,7 @@ id: house-of-hodge
 name: House Of Hodge
 address: 174 Blackstock Road, N5 1HA
 description: Charity bookshop.  The frontage has no sign except for an old one reading 'A Wilsher & Son'.
-other_links: <li><a href="http://www.andrewwhitehead.net/1/post/2012/09/charity-begins-at-the-bookshop.html">Andrew Whitehead's review</a></li>
+andrewwhitehead: http://www.andrewwhitehead.net/1/post/2012/09/charity-begins-at-the-bookshop.html
 photo: http://www.flickr.com/photos/kake_pugh/9335707588/
 lat: 51.560016
 long: -0.09872
@@ -1831,7 +1835,7 @@ address: 45-46 Lower Marsh, SE1 7RG.
 description: Specialists in transport and military — books, DVDs, models, etc.
 website: http://www.ianallanpublishing.com/our-shops.htm
 photo: https://www.flickr.com/photos/kake_pugh/20997254878/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/121042294003/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/121042294003/
 long: -0.111923
 lat: 51.501049
 new: unknown
@@ -1884,7 +1888,7 @@ website: http://www.ink84bookshop.co.uk/
 phone: 020 7686 8388
 twitter: Ink84Books
 description: Bookshop, cafe, and bar.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/143315317482">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/143315317482
 lat: 51.557356
 long: -0.098001748
 new: unknown
@@ -1921,7 +1925,7 @@ name: Jarndyce
 address: 46 Great Russell Street, WC1B 3PA
 description: 18th and 19th century English literature and history.
 website: http://www.jarndyce.co.uk/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/126528120088/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/126528120088/
 long: -0.126386
 lat: 51.518070
 new: unknown
@@ -1960,7 +1964,6 @@ address: 80 East End Road, N3 2SY
 description: Jewish and Middle Eastern specialist.  Based inside the Sternberg Centre for Judaism; visitors must sign in at the lodge.
 photo: http://www.flickr.com/photos/kake_pugh/9458020785/
 website: http://www.manorhousebooks.co.uk/
-other_links: <li><a href="http://www.bookbase.com/john-trotter-books.htm">Bookbase page</a></li>
 long: -0.189214
 lat: 51.595509
 new: yes
@@ -1974,7 +1977,7 @@ name: Joseph's Bookstore
 address: 1257 Finchley Road, NW11 0AD
 website: http://www.josephsbookstore.com/
 londonist: http://londonist.com/2009/06/biblio-text_josephs_bookstore.php
-other_links: <a href="http://londonbooks.tumblr.com/post/143677382106">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/143677382106
 photo: http://www.flickr.com/photos/55935853@N00/3991435476/
 long: -0.200200
 lat: 51.586334
@@ -2002,7 +2005,7 @@ name: Junk Shop
 address: 9 Greenwich South Street, SE10 8NW
 description: Stuff from house clearances including books.
 thebookguide: http://www.inprint.co.uk/thebookguide//shops/london/south_east.shtml#junk
-other_links: <li><a href="http://www.thegreenwichphantom.co.uk/2013/01/junk-shop-tea-rooms/">Greenwich Phantom</a></li>
+greenwichphantom: http://www.thegreenwichphantom.co.uk/2013/01/junk-shop-tea-rooms/
 long: -0.012038
 lat: 51.477554
 new: no
@@ -2026,9 +2029,9 @@ checked: September 2014
 id: keith-fawkes-hampstead
 name: Keith Fawkes
 address: 1-3 Flask Walk, NW3 1HJ
-rgl: http://london.randomness.org.uk/wiki.cgi?Keith_Fawkes%2C_NW3_1HJ
+rgl: http://london.randomness.org.uk/wiki.cgi?Keith_Fawkes,_NW3_1HJ
 photo: http://www.flickr.com/photos/55935853@N00/2624817957/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/115654075151/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/115654075151/
 long: -0.177562
 lat: 51.556583
 new: no
@@ -2086,7 +2089,7 @@ name: K K Outlet
 address: 42 Hoxton Square, N1 6PB
 website: http://www.kkoutlet.com/
 description: Bookshop and gallery.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/150576849227/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/150576849227/
 lat: 51.527284
 long: -0.080649599
 open: yes
@@ -2148,7 +2151,6 @@ description: Now online only via <a href="https://www.bebc.co.uk/">BEBC</a>.  As
 address: 104 Judd Street, WC1H 9PU
 website: http://www.lclib.com/
 photo: http://www.flickr.com/photos/kake_pugh/4620182072/
-qype: http://www.qype.co.uk/place/358188#reviews
 long: -0.124969
 lat: 51.527931
 new: unknown
@@ -2171,7 +2173,8 @@ open: yes
 id: libreria-shoreditch
 name: Libreria
 address: 65 Hanbury Street, Shoreditch, E1 5JP
-other_links: <li><a href="http://www.theguardian.com/books/2016/feb/21/libreria-bookshop-rohan-silva-second-home-interview">Guardian article</a></li><li><a href="http://londonbooks.tumblr.com/post/141852159721/libreria-ei-a-new-take-on-the-concept-of-the">londonbooks.tumblr.com</a></li>
+guardian: http://www.theguardian.com/books/2016/feb/21/libreria-bookshop-rohan-silva-second-home-interview
+londonbooks: http://londonbooks.tumblr.com/post/141852159721/libreria-ei-a-new-take-on-the-concept-of-the
 lat: 51.520318
 long: -0.070559129
 new: yes
@@ -2196,7 +2199,9 @@ id: lloyds-of-kew
 name: Lloyd's of Kew
 address: 9 Mortlake Terrace, Kew, TW9 3DT
 photo: http://flickr.com/photos/kake_pugh/2704615672/
-other_links: '<li><a href="http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/">Rob Around Books article</a></li><li><a href="http://londonbooks.tumblr.com/post/117107607906/">londonbooks.tumblr.com</a></li><li><a href="http://www.flickr.com/photos/53264755@N00/sets/72157594520880134/">Flickr photoset by the owner</a></li>'
+robaroundbooks: http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/
+londonbooks: http://londonbooks.tumblr.com/post/117107607906/
+flickr: http://www.flickr.com/photos/53264755@N00/sets/72157594520880134/
 long: -0.286426
 lat: 51.482605
 new: unknown
@@ -2211,7 +2216,6 @@ photo: http://www.flickr.com/photos/kake_pugh/2724084824/
 website: http://www.lrbshop.co.uk/
 twitter: LRBbookshop
 londonist: http://londonist.com/2009/05/biblio-text_london_review_bookshop.php
-other_links: '<li>Reviews of the attached cafe/cake shop: <a href="http://www.londonelicious.com/dining/2009/02/the-london-review-of-books-cakeshop.html">Londonelicious</a>, <a href="http://bellaphon.blogspot.com/2009/04/london-review-cake-shop.html">Bellaphon</a>, <a href="http://eatandbemerryfortomorrowwediet.blogspot.com/2010/12/london-review-cake-shop-england-by.html">Eat And Be Merry</a>, <a href="http://londonrobstuff.blogspot.com/2009/09/london-review-bookshop-cafe.html">London Stuff</a></li>'
 long: -0.124062
 lat: 51.518509
 new: yes
@@ -2252,7 +2256,6 @@ address: 21 Kensington Park Road, W11 2EU
 website: http://www.lutyensrubinstein.co.uk/bookshop-homepage/
 twitter: LandRBookshop
 photo: https://www.flickr.com/photos/kake_pugh/16742839461/
-other_links: <li><a href="http://www.vogue.co.uk/blogs/the-vogue-blog/articles/091026-lutyens-and-rubinstein-book-shop.aspx">Vogue article</a></li>
 tol: http://www.tiredoflondontiredoflife.com/2010/06/browse-for-books-at-lutyens-and.html
 long: -0.205640
 lat: 51.515060
@@ -2269,7 +2272,7 @@ website: http://www.maggs.com/
 twitter: MaggsBros
 phone: 020 7493 7160
 description: Rare books and manuscripts.  Previously at 50 Berkeley Square, but in November 2015 it moved to Curzon Street and took over the lease of <a href="shepherds-victoria.html">Shepherds</a>.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/140559056526/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/140559056526/
 lat: 51.506799
 long: -0.14655684
 new: unknown
@@ -2303,8 +2306,7 @@ id: marchmont-bookshop
 name: Marchmont Bookshop
 address: 39 Burton Street, WC1H 9AL
 description: All secondhand.  Specialises in Middle-Eastern and African subjects, but also has some general stock.
-qype: http://www.qype.co.uk/place/94514#reviews
-other_links: <li><a href="http://bibliophilicblogger.blogspot.com/2009/04/londons-second-hand-bookshops-no-2.html">Bibliophilic Blogger review</a>
+bibliophilicblogger: http://bibliophilicblogger.blogspot.com/2009/04/londons-second-hand-bookshops-no-2.html
 photo: http://www.flickr.com/photos/rjw1/8268822289/
 long: -0.128231
 lat: 51.526836
@@ -2318,7 +2320,7 @@ id: marchpane-cecil-court
 name: Marchpane
 address: 16 Cecil Court, Covent Garden, WC2N 4HE
 description: Specialist in rare children's and illustrated books.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/120350699321/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/120350699321/
 photo: https://www.flickr.com/photos/kake_pugh/30519768352/
 website: http://www.marchpane.com/
 phone: 020 7836 8661
@@ -2433,7 +2435,7 @@ name: New Beacon Books
 address: 76 Stroud Green Road, N4 3EN
 website: http://www.newbeaconbooks.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/29501365354/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/148582872151/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/148582872151/
 long: -0.109885
 lat: 51.568359
 new: unknown
@@ -2448,7 +2450,7 @@ website: https://shop.nationaltheatre.org.uk/
 twitter: NTBookshop
 phone: 0207 452 3456
 description: Playtexts and specialist performing arts titles.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/145799466196/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/145799466196/
 lat: 51.506874
 long: -0.11409762
 open: yes
@@ -2458,7 +2460,7 @@ name: Naval and Maritime Books
 address: 66 Royal Hill, SE10 8RT
 website: http://www.navalandmaritimebooks.com/
 tol: http://www.tiredoflondontiredoflife.com/2010/05/shop-for-nautical-novels-at-maritime.html
-other_links: <li><a href="http://londonbooks.tumblr.com/post/134650567296/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/134650567296/
 long: -0.009634
 lat: 51.476498
 new: unknown
@@ -2472,7 +2474,7 @@ address: 747 Barking Road, E13 9ER
 website: http://www.newhambooks.co.uk/
 twitter: NewhamBookshop
 photo: http://www.flickr.com/photos/kake_pugh/3766346809/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/112434475486/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/112434475486/
 long: 0.037251
 lat: 51.530334
 new: unknown
@@ -2497,8 +2499,7 @@ name: Nomad Books
 address: 781 Fulham Road, SW6 5HA
 twitter: NomadBooks
 yelp: http://www.yelp.co.uk/biz/nomad-books-london
-qype: http://www.qype.co.uk/place/98580#reviews
-other_links: <li><a href="http://londonbooks.tumblr.com/post/130213493036/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/130213493036/
 long: -0.203891
 lat: 51.476494
 new: unknown
@@ -2536,7 +2537,7 @@ address: 92 Willesden Lane, Kilburn, NW6 7TA
 website: http://www.offsidebooks.com/
 twitter: OffSideBooks
 photo: https://www.flickr.com/photos/kake_pugh/16052383778/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/123906715931/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/123906715931/
 lat: 51.540944
 long: -0.20223239
 new: yes
@@ -2572,7 +2573,7 @@ id: open-book-richmond
 name: The Open Book
 address: 10 King Street, TW9 1ND
 yelp: http://www.yelp.co.uk/biz/open-book-richmond
-other_links: <li><a href="http://londonbooks.tumblr.com/post/116801183226/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/116801183226/
 long: -0.306823
 lat: 51.459888
 new: unknown
@@ -2820,7 +2821,7 @@ website: http://www.pagesofhackney.co.uk/
 twitter: pagesofhackney
 photo: http://www.flickr.com/photos/55935853@N00/3991430102/
 tol: http://www.tiredoflondontiredoflife.com/2010/10/buy-books-at-pages-of-hackney.html
-other_links: <li><a href="http://londonbooks.tumblr.com/post/113065432846/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/113065432846/
 long: -0.052571
 lat: 51.552620
 new: unknown
@@ -2834,7 +2835,7 @@ address: 153 South Ealing Road, W5 4QP
 website: http://www.paperbackcoffee.com/
 twitter: PaperBackCoffee
 description: Bookshop and coffee/tea shop.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/153168905950/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/153168905950/
 lat: 51.498555
 long: -0.30575533
 open: yes
@@ -2888,7 +2889,8 @@ id: persephone-bookshop-bloomsbury
 name: Persephone Bookshop (Bloomsbury)
 address: 59 Lamb's Conduit Street, WC1N 3NB
 website: http://www.persephonebooks.co.uk/
-other_links: <li><a href="http://newyorkerinlondon.blogspot.com/2009/04/new-bookstore-find-persephone-bookshop.html">New Yorker In London review</a></li><li><a href="http://kimbofo.typepad.com/readingmatters/2007/07/bookish-treats.html">Reading Matters review</a></li><li><a href="http://londonbooks.tumblr.com/post/125692283744/">londonbooks.tumblr.com</a></li>
+reading_matters: http://web.archive.org/web/20120807093546/http://kimbofo.typepad.com/readingmatters/2007/07/bookish-treats.html
+londonbooks: http://londonbooks.tumblr.com/post/125692283744/
 londonist: http://londonist.com/2009/02/persephone.php
 photo: http://www.flickr.com/photos/kake_pugh/2849499717/
 long: -0.118760
@@ -2903,7 +2905,7 @@ id: persephone-bookshop-kensington
 name: Persephone Bookshop (Kensington)
 address: 109 Kensington Church Street, W8 7LN
 website: http://www.persephonebooks.co.uk/
-other_links: <li><a href="http://foodiefoodie.wordpress.com/2008/08/25/good-things-in-england/">Foodie London blog post</a></li>
+foodiefoodie: http://foodiefoodie.wordpress.com/2008/08/25/good-things-in-england/
 long: -0.194771
 lat: 51.506607
 new: unknown
@@ -2971,7 +2973,7 @@ website: https://pickledpepperbooks.co.uk/
 twitter: PickledBooks
 phone: 020 3632 0823
 description: Children's bookshop.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/150917035386/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/150917035386/
 lat: 51.580930
 long: -0.12354349
 open: yes
@@ -2980,7 +2982,7 @@ id: pitshanger-bookshop-ealing
 name: Pitshanger Bookshop
 address: 141 Pitshanger Lane, W5 1RH
 website: http://www.pitshangerbooks.co.uk/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/149923062096/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/149923062096/
 long: -0.314720
 lat: 51.525742
 new: unknown
@@ -3038,7 +3040,7 @@ address: 87 Salusbury Road, NW6 6NH
 website: http://queensparkbooks.co.uk/
 twitter: QueensParkBooks
 photo: http://www.flickr.com/photos/kake_pugh/9377409826/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/118052636641/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/118052636641/
 long: -0.205318
 lat: 51.535824
 new: yes
@@ -3102,7 +3104,7 @@ website: http://www.reviewbookshop.co.uk/
 twitter: reviewbookshop
 londonist: http://londonist.com/2009/05/biblio-text_review_bookshop.php
 tol: http://www.tiredoflondontiredoflife.com/2013/10/shop-at-review-bookshop.html
-other_links: <li><a href="http://peckhampeculiar.tumblr.com/post/103539594184/buy-the-book-part-2-review-bookshop">Peckham Peculiar</a></li>
+peckhampeculiar: http://peckhampeculiar.tumblr.com/post/103539594184/buy-the-book-part-2-review-bookshop
 photo: http://flickr.com/photos/55935853@N00/2879797042/
 long: -0.072248
 lat: 51.467964
@@ -3145,7 +3147,7 @@ address: 8 Thurloe Place, South Kensington, SW7 2RX
 phone: 020 7590 6650
 website: http://www.robertfrew.com/
 description: Antiquarian books, maps, and prints.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/132325590776/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/132325590776/
 lat: 51.496245
 long: -0.16992827
 new: no
@@ -3157,7 +3159,8 @@ id: rye-books-east-dulwich
 name: Rye Books
 address: 45 Upland Road, SE22 9EF
 website: http://www.ryebooks.co.uk/
-other_links: <li><a href="http://www.eastdulwichforum.co.uk/forum/read.php?30,807277,807277">East Dulwich forum</a></li> <li><a href="http://southeastcentral.co.uk/threads/rye-books-new-bookstore-at-45-upland-road-east-dulwich-se22-9ef.1491/">South East Central</a></li> <li><a href="http://peckhampeculiar.tumblr.com/post/103794485889/buy-the-book-part-3-rye-books">Peckham Peculiar</a></li>
+secentral: http://southeastcentral.co.uk/threads/rye-books-new-bookstore-at-45-upland-road-east-dulwich-se22-9ef.1491/
+peckhampeculiar: http://peckhampeculiar.tumblr.com/post/103794485889/buy-the-book-part-3-rye-books
 long: -0.068092838
 lat: 51.457228
 new: yes
@@ -3170,7 +3173,6 @@ name: School Of Life
 address: 70 Marchmont Street, WC1N 1AB.
 website: http://www.theschooloflife.com/
 photo: http://www.flickr.com/photos/rjw1/8269889752/
-other_links: <li><a href="http://newyorkerinlondon.blogspot.com/2009/02/new-bookstore-find-school-of-life.html">New Yorker In London review</a></li>
 long: -0.125248
 lat: 51.525539
 new: unknown
@@ -3184,7 +3186,7 @@ name: Shalimar
 address: 38 Kennington Lane, SE11 4LS
 website: http://www.indianbooksuk.com/
 description: Bookshop and distributor specialising in African, South Asian, and Caribbean books, including children's books.
-other_links: <li><a href="http://kenningtonrunoff.com/shalimar/">Kennington Runoff article</a></li>
+kenningtonrunoff: http://kenningtonrunoff.com/shalimar/
 lat: 51.491043
 long: -0.10506937
 open: yes
@@ -3194,7 +3196,7 @@ name: Sheen Bookshop
 address: 375 Upper Richmond Road West, SW14 7NX
 twitter: SheenBookshop
 description: Run by the same people as the <a href="http://londonbookshops.org/shops/barnes-bookshop.html">Barnes Bookshop</a> and the <a href="http://londonbookshops.org/shops/kew-bookshop.html">Kew Bookshop</a>.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/137942973577/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/137942973577/
 lat: 51.464470
 long: -0.26731525
 new: unknown
@@ -3222,7 +3224,7 @@ photo: https://www.flickr.com/photos/kake_pugh/28804008272/
 description: Bookshop, gift shop, cafe, and events space run by The Hackney Pirates youth learning charity.
 website: http://www.hackneypirates.org/shipofadventures/
 twitter: ShipOAdventures
-other_links: <li><a href="http://londonbooks.tumblr.com/post/145094918241/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/145094918241/
 lat: 51.550285
 long: -0.075002208
 open: yes
@@ -3234,7 +3236,7 @@ address: 66 The Brunswick Centre, Marchmont Street, WC1N 1AE
 website: http://www.skoob.com/
 photo: http://www.flickr.com/photos/rjw1/8269893404/
 tol: http://www.tiredoflondontiredoflife.com/2011/06/buy-books-at-skoob.html
-other_links: <li><a href="http://londonbooks.tumblr.com/post/110187297861/skoob-books-wc1n-id-heard-good-things-but-i-was">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/110187297861/skoob-books-wc1n-id-heard-good-things-but-i-was
 long: -0.123903
 lat: 51.524128
 new: unknown
@@ -3278,7 +3280,10 @@ website: http://www.thesocietyclub.com/
 twitter: SocietyClubSoho
 photo: https://www.flickr.com/photos/kake_pugh/26265698930/
 description: Bookshop, gallery, teashop, and bar.
-other_links: '<li><a href="http://howtospendit.ft.com/personal-luxuries/6785-the-society-club">Financial Times article</a></li><li><a href="http://thefoodiebugle.com/article/eating-out/the-society-club">The Foodie Bugle article</a></li><li><a href="http://blog.lauraashley.com/go-see/the-society-club/">Laura Ashley article</a></li><li><a href="http://thepandorian.com/2012/09/the-society-club/">The Pandorian article</a></li>'
+ft: http://howtospendit.ft.com/personal-luxuries/6785-the-society-club
+foodiebugle: http://thefoodiebugle.com/article/eating-out/the-society-club
+lauraashley: http://www.lauraashley.com/blog/uncategorized/the-society-club/
+pandorian: http://thepandorian.com/2012/09/the-society-club/
 lat: 51.513108
 long: -0.13563757
 new: unknown
@@ -3342,7 +3347,7 @@ name: Sotheran's of Sackville Street
 address: 2 Sackville Street, Mayfair, W1S 3DP
 website: https://www.sotherans.co.uk/
 description: Antiquarian and modern first editions.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/142564061411/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/142564061411/
 lat: 51.509156
 long: -0.13779500
 new: unknown
@@ -3357,7 +3362,7 @@ website: http://www.kensingtonbooks.co.uk/
 phone: 020 7589 2916
 description: Previously Bookthrift.
 photo: https://www.flickr.com/photos/kake_pugh/26919562202/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/101948475126/south-kensington-books-sw7-righteous-emporium-of">London Books review</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/101948475126/south-kensington-books-sw7-righteous-emporium-of
 long: -0.173829
 lat: 51.494305
 new: unknown
@@ -3398,7 +3403,7 @@ name: Stephen Foster Bookshop
 address: 95 Bell Street, NW1 6TL.
 website: http://www.95bellstreet.com/
 photo: http://www.flickr.com/photos/kake_pugh/3685320785/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/117416231601/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/117416231601/
 long: -0.165696
 lat: 51.522190
 new: unknown
@@ -3413,7 +3418,7 @@ address: 10 Cecil Court, Covent Garden, WC2N 4HE
 description: Specialist in modern first editions.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519769202/
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1418
-other_links: <li><a href="http://londonbooks.tumblr.com/post/119937790910/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/119937790910/
 phone: 020 7836 0999
 lat: 51.510749
 long: -0.127703
@@ -3441,7 +3446,7 @@ address: 159 Stoke Newington High Street, N16 0NY
 website: http://www.stokenewingtonbookshop.co.uk/
 twitter: StokeyBookshop
 londonist: http://londonist.com/2009/10/biblio-text_stoke_newington_booksho.php
-other_links: <li><a href="http://londonbooks.tumblr.com/post/127379603991/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/127379603991/
 photo: http://flickr.com/photos/55935853@N00/2980818542/
 long: -0.074222
 lat: 51.561306
@@ -3485,7 +3490,7 @@ description: Children's books.
 photo: https://www.flickr.com/photos/kake_pugh/29073848892/
 website: http://talesonmoonlane.co.uk/
 twitter: talesonmoonlane
-other_links: <li><a href="http://londonbooks.tumblr.com/post/131043079586/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/131043079586/
 lat: 51.453001
 long: -0.099868968
 new: unknown
@@ -3523,7 +3528,7 @@ description: Art bookshop located on <a href="http://cecilcourt.co.uk/">Cecil Co
 photo: https://www.flickr.com/photos/kake_pugh/30004559434/
 website: http://tenderbooks.co.uk/
 phone: 020 7379 9464
-other_links: <li><a href="http://londonbooks.tumblr.com/post/150252714005/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/150252714005/
 lat: 51.510752
 long: -0.127485
 open: yes
@@ -3549,7 +3554,7 @@ address: 4 Cecil Court, Covent Garden, WC2N 4HE
 description: Specialist in 20th century literature.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519770152/
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=773
-other_links: <li><a href="http://londonbooks.tumblr.com/post/151231035166/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/151231035166/
 lat: 51.510752
 long: -0.127362
 open: yes
@@ -3561,7 +3566,7 @@ address: 47 Stoke Newington High Street, N16 8EL
 website: http://www.tipitin.com/
 twitter: tipitinbooks
 description: Independently- and self-published artists' books and zines.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/145447149806/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/145447149806/
 lat: 51.558527
 long: -0.074460402
 open: yes
@@ -3572,7 +3577,7 @@ address: 131 Lower Marsh, Waterloo, SE1 7AE
 website: http://www.travellingthrough.co.uk/
 description: Travel bookshop and cafe.
 tiredoflondon: http://www.tiredoflondontiredoflife.com/2015/04/buy-books-at-travelling-through.html
-other_links: <li><a href="http://londonbooks.tumblr.com/post/119176903061/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/119176903061/
 photo: https://www.flickr.com/photos/kake_pugh/21158942026/
 lat: 51.500375
 long: -0.11380036
@@ -3588,7 +3593,7 @@ address: 17 Cecil Court, Covent Garden, WC2N 4EZ
 description: New and secondhand sheet music and music-related books.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519767242/
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=771
-other_links: <li><a href="http://londonbooks.tumblr.com/post/120550908661/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/120550908661/
 website: http://www.travis-and-emery.com/
 phone: 020 7240 2129
 lat: 51.510691
@@ -3604,7 +3609,7 @@ name: Treadwell's (and Offstage Books)
 address: 33 Store Street, WC1E 7BS
 description: '"Cultural history and esoteric belief".  Previously on Tavistock Street (<a href="http://www.flickr.com/photos/kake_pugh/4448330523/">photo</a>).'
 website: http://www.treadwells-london.com/
-other_links: <li><a href="http://londonbooks.tumblr.com/post/138937725391/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/138937725391/
 long: -0.131181
 lat: 51.519928
 new: unknown
@@ -3628,7 +3633,8 @@ address: 575 Garratt Lane, Earlsfield, SW18 4ST
 phone: 020 8605 2290
 description: "New and secondhand bookshop run by the owner of now-closed <a href=\"http://londonbookshops.org/shops/my-back-pages-balham.html\">My Back Pages</a>.  However this itself has also now closed."
 twitter: TTPbookshop
-other_links: <li><a href="http://metrolondonguides.wordpress.com/2014/07/04/turn-the-page-bookshop/">Book Lovers' London article</a></li><li><a href="http://londonbooks.tumblr.com/post/114517809091/">londonbooks.tumblr.com</a></li>
+bookloverslondon: http://metrolondonguides.wordpress.com/2014/07/04/turn-the-page-bookshop/
+londonbooks: http://londonbooks.tumblr.com/post/114517809091/
 lat: 51.439736
 long: -0.18668135
 new: yes
@@ -3667,7 +3673,7 @@ id: vanilla-black-kennington
 name: Vanilla Black Coffee and Books
 address: 306-308 Kennington Road, SE11 4LD
 description: New bookshop and cafe in the old premises of <a href="kennington-bookshop.html">the Kennington Bookshop</a>.
-other_links: <li><a href="http://kenningtonrunoff.com/vanilla-black-coffee-and-books/">Kennington Runoff</a></li>
+kenningtonrunoff: http://kenningtonrunoff.com/vanilla-black-coffee-and-books/
 lat: 51.486713
 long: -0.111794
 new: yes
@@ -3680,7 +3686,8 @@ address: 174 Victoria Park Road, Hackney, E9 7HD
 website: http://www.victoriaparkbooks.co.uk/
 twitter: VictoriaParkBks
 description: Children's bookshop.  <a href="https://twitter.com/VictoriaParkBks/status/626791395949461505">Closed down</a> in August 2015.
-other_links: <li><a href="http://londonbooks.tumblr.com/post/112720479801/">londonbooks.tumblr.com</a></li><li><a href="http://hackneycitizen.co.uk/2015/09/08/victoria-park-books-closed-story-habit-launches/">Hackney Citizen article</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/112720479801/
+hackneycitizen: http://hackneycitizen.co.uk/2015/09/08/victoria-park-books-closed-story-habit-launches/
 lat: 51.538219
 long: -0.044033021
 new: unknown
@@ -3731,7 +3738,6 @@ checked: January 2017
 id: w-and-a-houben
 name: W & A Houben
 address: 2 Church Court, TW9 1JL
-qype: http://www.qype.co.uk/place/354896
 photo: https://www.flickr.com/photos/kake_pugh/14863995906/
 description: "Closed in August 2014; see <a href=\"http://www.inprint.co.uk/thebookguide/shops/The%20closure%20of%20W&A%20Houben.pdf\">PDF report on thebookguide</a>."
 long: -0.304152
@@ -3745,7 +3751,8 @@ id: walden-books
 name: Walden Books
 address: 38 Harmood Street, NW1 8DP
 tol: http://www.tiredoflondontiredoflife.com/2014/05/browse-at-walden-books.html
-other_links: <li><a href="http://www.abebooks.com/walden-books-london/504559/sf">AbeBooks entry</a></li> <li><a href="http://bibliophilicblogger.blogspot.com/2009/04/londons-second-hand-book-shops-no-1.html">Bibliophilic Blogger review</a></li>
+abebooks: http://www.abebooks.com/walden-books-london/504559/sf
+bibliophilicblogger: http://bibliophilicblogger.blogspot.com/2009/04/londons-second-hand-book-shops-no-1.html
 long: -0.147028
 lat: 51.544292
 new: unknown
@@ -3758,7 +3765,7 @@ name: Watermark Books
 address: King's Cross Station
 twitter: Watermark_Books
 tol: http://www.tiredoflondontiredoflife.com/2012/06/buy-books-at-watermark.html
-other_links: <li><a href="http://www.thebookseller.com/news/watermark-lands-kings-cross.html">The Bookseller article on its opening</a></li>
+bookseller: http://www.thebookseller.com/news/watermark-lands-kings-cross.html
 lat: 51.532104
 long: -0.123719
 new: yes
@@ -3794,7 +3801,7 @@ name: Waterstones (Croydon)
 address: Unit 63-64, Trinity Court, Whitgift Centre, CR0 1UX
 twitter: WaterstonesCroy
 website: http://www.waterstones.com/
-other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?Waterstones,_63-64_Whitgift_Centre">Completists' Guide to Croydon</a></li>
+cgc: http://croydon.randomness.org.uk/wiki.cgi?Waterstones,_63-64_Whitgift_Centre
 photo: http://www.flickr.com/photos/kake_pugh/9104940879/
 lat: 51.3760807665271
 long: -0.0994493523210564
@@ -3910,7 +3917,7 @@ address: 19-21 Cecil Court, Covent Garden, WC2N 4EZ
 description: Esoteric bookshop on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004563224/
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=777
-other_links: <li><a href="http://londonbooks.tumblr.com/post/133260173646/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/133260173646/
 website: http://www.watkinsbooks.com/
 phone: 020 7836 2182
 lat: 51.510690
@@ -3953,7 +3960,7 @@ website: http://www.welbooks.co.uk/intro.html
 twitter: WELBooks
 londonist: http://londonist.com/2009/03/biblio-text_west_end_lane_books.php
 tol: http://www.tiredoflondontiredoflife.com/2011/09/buy-books-at-west-end-lane-books.html
-other_links: <li><a href="http://londonbooks.tumblr.com/post/118303565181/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/118303565181/
 photo: https://www.flickr.com/photos/kake_pugh/15202876157/
 long: -0.191724
 lat: 51.550564
@@ -3968,7 +3975,7 @@ name: WHSmiths (Croydon)
 address: 34 North End, CR0 1UB
 website: http://www.whsmith.co.uk/Support/StoreDetail.aspx?StoreID=2566
 photo: http://www.flickr.com/photos/kake_pugh/7147931631/
-other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?WHSmith,_34_North_End">Completists' Guide to Croydon</a></li>
+cgc: http://croydon.randomness.org.uk/wiki.cgi?WHSmith,_34_North_End
 lat: 51.3747698985094
 long: -0.100667160692658
 new: yes
@@ -3996,7 +4003,7 @@ address: Lincoln's Inn Archway, Carey Street, WC2A 2JD
 description: Law books.
 website: http://www.wildy.com/
 photo: https://www.flickr.com/photos/rjw1/13971393041/
-other_links: "<li>londonbooks.tumblr.com: <a href=\"http://londonbooks.tumblr.com/post/148923507421/\">part one</a>, <a href=\"http://londonbooks.tumblr.com/post/149262544971/\">part two</a></li>"
+londonbooks: http://londonbooks.tumblr.com/post/149262544971/
 long: -0.112824
 lat: 51.515179
 new: yes
@@ -4025,7 +4032,7 @@ description: Formerly known as Wimbledon Books and Music.
 website: http://www.wimbledonbooksandmusic.co.uk/
 twitter: WimbledonBooks
 yelp: http://www.yelp.co.uk/biz/wimbledon-books-and-music-london
-other_links: <li><a href="http://londonbooks.tumblr.com/post/137472359991/">londonbooks.tumblr.com</a></li>
+londonbooks: http://londonbooks.tumblr.com/post/137472359991/
 photo: https://www.flickr.com/photos/rjw1/14194802098/
 long: -0.220370
 lat: 51.425385
@@ -4054,7 +4061,8 @@ address: 39 Bear Lane, Bankside, London, SE1 0UH
 website: http://woolfsonandtaybookshop.weebly.com/
 twitter: woolfsonandtay
 photo: http://www.flickr.com/photos/kake_pugh/9260633677/
-other_links: <li><a href="http://diamondgeezer.blogspot.co.uk/2013/04/woolfson-tay.html">diamond geezer article</a></li><li><a href="http://www.london-se1.co.uk/news/view/4799">LondonSE1 report</a></li> <li><a href="http://www.london-se1.co.uk/forum/read/1/131326">LondonSE1 forum thread</a></li>
+dg: http://diamondgeezer.blogspot.co.uk/2013/04/woolfson-tay.html
+londonse1: http://www.london-se1.co.uk/news/view/4799
 londonist: http://londonist.com/2010/09/biblio-text_woolfson_tay.php
 description: 'Closed down in January 2014.  It was previously at Bermondsey Square (<a href="http://www.flickr.com/photos/rjw1/8360423241/">photo</a>), but relocated to Bankside in April 2013.'
 long: -0.10195264
@@ -4070,7 +4078,8 @@ address: 314 New Cross Road, SE14 6AF
 description: Academic bookshop which mainly stocks books on the reading list of nearby Goldsmiths College.  It opened in September 2016.
 website: http://www.wordbookshop.co.uk/
 phone: 020 8355 9378
-other_links: <li><a href="http://brockleycentral.blogspot.com/2016/08/coming-soon-word.html">Brockley Central article</a></li><li><a href="http://londonbooks.tumblr.com/post/153471767356/the-word-se14-very-pleased-to-report-on-this">londonbooks.tumblr.com</a></li>
+brockleycentral: http://brockleycentral.blogspot.com/2016/08/coming-soon-word.html
+londonbooks: http://londonbooks.tumblr.com/post/153471767356/the-word-se14-very-pleased-to-report-on-this
 lat: 51.475538
 long: -0.037133440
 open: yes
@@ -4083,7 +4092,7 @@ name: The Works (Croydon)
 address: Unit 1105, Upper Mall, Whitgift Centre, CR0 1UY
 description: Discount books.
 website: http://www.theworks.co.uk/store/croydon
-other_links: <li><a href="http://croydon.randomness.org.uk/wiki.cgi?The_Works,_1105_Whitgift_Centre">Completists' Guide to Croydon</a></li>
+cgc: http://croydon.randomness.org.uk/wiki.cgi?The_Works,_1105_Whitgift_Centre
 photo: http://www.flickr.com/photos/kake_pugh/9107759359/
 lat: 51.3762967235963
 long: -0.10057523338028
@@ -4130,7 +4139,6 @@ id: kilburn-bookshop
 name: Kilburn Bookshop
 address: 8 Kilburn Bridge, NW6 6HT
 description: <a href="http://www.bookbrunch.co.uk/index.php?option=com_content&amp;view=article&amp;id=4800:after-30-years-the-kilburn-bookshop-is-forced-to-close&amp;catid=927:bookselling&amp;Itemid=117">Closed at the end of March 2010</a>.
-qype: http://www.qype.co.uk/place/93743
 long: -0.192862
 lat: 51.537113
 open: no
