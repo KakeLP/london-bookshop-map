@@ -39,6 +39,17 @@ long: -0.127826
 open: yes
 checked: October 2016
 ---
+id: alligators-mouth-richmond
+name: The Alligator's Mouth
+address: 2a Church Court, Richmond, TW9 1JL
+website: http://www.thealligatorsmouth.co.uk/
+twitter: AlligatorsMouth
+phone: 020 8948 6775
+description: Children's bookshop opened by former staff from the now-closed <a href="lion-and-unicorn-bookshop.html">Lion & Unicorn</a>.
+lat: 51.460545
+long: -0.30408660
+open: yes
+---
 id: all-you-read-is-love-leytonstone
 name: All You Read Is Love
 address: 877 Leytonstone High Road, E11 1HR
@@ -256,7 +267,7 @@ name: Belgravia Books
 address: 59 Ebury Street, SW1W 0NZ
 website: http://www.belgraviabooks.com/
 twitter: BelgraviaB
-reading_matters: http://kimbofo.typepad.com/readingmatters/2012/02/a-visit-to-belgravia-books-london.html
+reading_matters: http://web.archive.org/web/20120711022026/http://kimbofo.typepad.com/readingmatters/2012/02/a-visit-to-belgravia-books-london.html
 londonbooks: http://londonbooks.tumblr.com/post/127932057861/
 lat: 51.495122
 long: -0.14798900
@@ -571,7 +582,6 @@ address: 181 King Street, W6 9JT
 phone: 020 8222 8158
 website: https://www.amnesty.org.uk/amnesty-bookshop-hammersmith
 description: Secondhand bookshop with profits going to Amnesty International.  Previously at 139b King Street (<a href="http://www.flickr.com/photos/kake_pugh/3649058402/">photo</a>); moved to 181 King Street in 2015.
-website: http://www.amnesty.org.uk/books-amnesty-hammersmith
 rgl: http://london.randomness.org.uk/wiki.cgi?Books_For_Amnesty,_W6_9JT
 photo: https://www.flickr.com/photos/kake_pugh/24888632979/
 lat: 51.492630
@@ -891,7 +901,7 @@ name: Centerprise Trust Bookshop
 address: 136-138 Kingsland Road, E8 2NS
 description: Self-described as "one of East London’s oldest and most famous community bookshops" and "the home of Black cultural books and literature for East London".  It was <a href="http://hackneycitizen.co.uk/2012/11/04/centerprise-bookshop-seized-hackney-council/">forced to close</a> in autumn 2012.
 hackneycitizen: http://hackneycitizen.co.uk/2013/09/12/centerprise-history/
-website: http://www.centerprisetrust.org.uk/literature/
+website: http://web.archive.org/web/20130315062054/http://www.centerprisetrust.org.uk:80/literature/
 lat: 51.549349
 long: -0.075016
 new: unknown
@@ -1011,7 +1021,6 @@ open: yes
 id: clerkenwell-tales
 name: Clerkenwell Tales
 address: 30 Exmouth Market, EC1R 4QE
-website: http://www.clerkenwell-tales.co.uk/
 photo: http://www.flickr.com/photos/90117465@N00/12381138873/
 tol: http://www.tiredoflondontiredoflife.com/2013/05/buy-books-at-clerkenwell-tales.html
 description: Closed in February 2014 due to <a href="https://twitter.com/ClerkenwellTale/status/426690622372581376">relocation to Toronto</a>.
@@ -1220,14 +1229,15 @@ open: yes
 id: ealing-books
 name: Ealing Books
 address: 20 South Ealing Road, W5 4QA.
-website: http://www.ealingbooks.co.uk/
+website: http://web.archive.org/web/20140213003929/http://www.ealingbooks.co.uk:80/
 getwestlondon: http://www.getwestlondon.co.uk/news/local-news/ealing-bookseller-defies-trend-towards-5982071
+description: Closed down by August 2014.
 long: -0.306957
 lat: 51.503548
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: earlsfield-bookshop
 name: Earlsfield Bookshop
@@ -1529,13 +1539,13 @@ open: yes
 id: french-bookshop
 name: French Bookshop
 address: 28 Bute Street, SW7 3EX
-website: http://www.frenchbookshop.com/
+description: Closed down by August 2016.
 lat: 51.493839
 long: -0.17648761
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: gays-the-word
 name: Gay's The Word
@@ -1861,12 +1871,13 @@ name: Idler Academy
 address: 81 Westbourne Park Road, W2 5QH
 website: http://idler.co.uk/
 timeout: http://www.timeout.com/london/en_GB/venues/93441
+description: Bookshop and cafe run by The Idler magazine.  It closed down by May 2016, though the magazine continued to publish.
 long: -0.195297
 lat: 51.519218
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: ica-bookshop
 name: Institute of Contemporary Arts
@@ -2004,7 +2015,7 @@ id: junk-shop-greenwich
 name: Junk Shop
 address: 9 Greenwich South Street, SE10 8NW
 description: Stuff from house clearances including books.
-thebookguide: http://www.inprint.co.uk/thebookguide//shops/london/south_east.shtml#junk
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1252
 greenwichphantom: http://www.thegreenwichphantom.co.uk/2013/01/junk-shop-tea-rooms/
 long: -0.012038
 lat: 51.477554
@@ -2122,14 +2133,15 @@ open: yes
 id: lamb-bookshop
 name: Lamb Bookshop
 address: 40 Lamb's Conduit Street, WC1N 3LJ
-website: http://www.thelambbookshop.co.uk/
+website: http://web.archive.org/web/20130729034250/http://www.thelambbookshop.co.uk/
 photo: http://flickr.com/photos/kake_pugh/2852000214/
+description: <a href="http://archive.westendextra.com/news/2013/mar/its-final-chapter-independent-bookshop-hit-rent-rise">Closed down</a> in March 2013.
 long: -0.118039
 lat: 51.521454
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: December 2012
 ---
 id: langtons-bookshop-twickenham
@@ -2147,9 +2159,9 @@ open: no
 ---
 id: lcl-international-booksellers
 name: LCL International Booksellers Ltd
-description: Now online only via <a href="https://www.bebc.co.uk/">BEBC</a>.  As of December 2012 the Judd Street premises are vacant and boarded up (<a href="http://www.flickr.com/photos/rjw1/8268802739/ photo</a>).
+description: Now online only via <a href="https://www.bebc.co.uk/">BEBC</a>.  As of December 2012 the Judd Street premises are vacant and boarded up (<a href="http://www.flickr.com/photos/rjw1/8268802739/">photo</a>).
 address: 104 Judd Street, WC1H 9PU
-website: http://www.lclib.com/
+website: http://web.archive.org/web/20120321094049/http://www.lclib.com:80/
 photo: http://www.flickr.com/photos/kake_pugh/4620182072/
 long: -0.124969
 lat: 51.527931
@@ -2185,15 +2197,15 @@ open: yes
 id: lion-and-unicorn-bookshop
 name: Lion & Unicorn Bookshop
 address: 19 King Street, TW9 1ND
-description: Children's books.
-website: http://www.lionunicornbooks.co.uk/
+description: Children's books.  Now <a href="https://robskinner.net/2014/04/09/end-of-the-story-for-richmonds-lion-unicorn-bookshop/">closed for good</a>, though some of the staff have opened up another children's bookshop called <a href="alligators-mouth-richmond.html">The Alligator's Mouth</a>.
+website: http://web.archive.org/web/20120830214253/http://www.lionunicornbooks.co.uk:80/html/index.php
 londonist: http://londonist.com/2009/04/biblio-text_the_lion_unicorn_booksh.php
 long: -0.306909
 lat: 51.460083
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: lloyds-of-kew
 name: Lloyd's of Kew
@@ -2365,13 +2377,14 @@ checked: July 2016
 id: metropolitan-books
 name: Metropolitan Books
 address: 49 Exmouth Market, EC1R 4QL
-website: http://www.metropolitanbooks.co.uk/
+website: http://web.archive.org/web/20080502131936/http://www.metropolitanbooks.co.uk:80/
+description: <a href="http://logophilia-logophile.blogspot.co.uk/2008/04/indy-bookseller-soon-to-be-no-more.html">Closed down</a> in 2008.
 long: -0.108941
 lat: 51.526062
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: morden-hall-park-bookshop
 name: Morden Hall Park Bookshop
@@ -2390,7 +2403,7 @@ checked: September 2016
 id: museum-of-london-docklands-bookshop
 name: Museum of London Docklands Bookshop
 address: West India Quay, E14 4AL
-website: http://www.museumindocklands.org.uk/
+website: http://www.museumoflondon.org.uk/index.php/museum-london-docklands
 rgl: http://london.randomness.org.uk/wiki.cgi?Museum_Of_London_Docklands
 photo: http://www.flickr.com/photos/kake_pugh/4247950011/
 long: -0.0238793298405246
@@ -2418,10 +2431,9 @@ checked: August 2013
 ---
 id: my-back-pages-balham
 name: My Back Pages
-description: "Now closed; was a second-hand bookshop in Balham.  As of April 2014 the premises are vacant and stripped out (pictured).  The owner has opened a new bookshop in Earlsfield, called <a href=\"http://londonbookshops.org/shops/turn-the-page.html\">Turn The Page</a>, but this itself closed down in mid-2016."
+description: "Now closed; was a second-hand bookshop in Balham.  As of April 2014 the premises were vacant and stripped out (pictured).  The owner opened a new bookshop in Earlsfield, called <a href=\"http://londonbookshops.org/shops/turn-the-page.html\">Turn The Page</a>, but this itself closed down in mid-2016."
 address: 8-10 Station Road, SW12 9SG
 tol: http://www.tiredoflondontiredoflife.com/2012/03/buy-books-at-my-back-pages.html
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/london/south_west.shtml
 photo: https://www.flickr.com/photos/rjw1/13971452212/
 long: -0.151899
 lat: 51.443283
@@ -2433,15 +2445,16 @@ open: no
 id: new-beacon-books
 name: New Beacon Books
 address: 76 Stroud Green Road, N4 3EN
-website: http://www.newbeaconbooks.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/29501365354/
 londonbooks: http://londonbooks.tumblr.com/post/148582872151/
+inews: https://inews.co.uk/essentials/culture/books/best-books-black-history-black-british-authors-recommended-uks-first-black-bookshop/
 long: -0.109885
 lat: 51.568359
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2016
 ---
 id: national-theatre-bookshop-south-bank
 name: National Theatre Bookshop
@@ -2919,7 +2932,7 @@ address: 18 Cecil Court, Covent Garden, WC2N 4HE
 description: Modern first editions and general antiquarian stock.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004558214/
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=747
-website: http://www.peter-ellis.co.uk/
+website: http://www.peterellisbooks.com/
 phone: 020 7836 8880
 lat: 51.510744
 long: -0.127945
@@ -3158,7 +3171,6 @@ open: yes
 id: rye-books-east-dulwich
 name: Rye Books
 address: 45 Upland Road, SE22 9EF
-website: http://www.ryebooks.co.uk/
 secentral: http://southeastcentral.co.uk/threads/rye-books-new-bookstore-at-45-upland-road-east-dulwich-se22-9ef.1491/
 peckhampeculiar: http://peckhampeculiar.tumblr.com/post/103794485889/buy-the-book-part-3-rye-books
 long: -0.068092838
@@ -3683,7 +3695,7 @@ open: yes
 id: victoria-park-books
 name: Victoria Park Books
 address: 174 Victoria Park Road, Hackney, E9 7HD
-website: http://www.victoriaparkbooks.co.uk/
+website: http://web.archive.org/web/20161018095427/http://www.victoriaparkbooks.co.uk/
 twitter: VictoriaParkBks
 description: Children's bookshop.  <a href="https://twitter.com/VictoriaParkBks/status/626791395949461505">Closed down</a> in August 2015.
 londonbooks: http://londonbooks.tumblr.com/post/112720479801/
@@ -3698,7 +3710,7 @@ open: no
 id: village-bookshop-woodford-green
 name: Village Bookshop
 address: 475 High Road, IG8 0XE
-website: http://www.thevillagebookshop.co.uk/1.html
+website: http://www.thevillagebookshop.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Village_Bookshop
 photo: http://flickr.com/photos/kake_pugh/2829413494/
 long: 0.021715
@@ -3739,7 +3751,7 @@ id: w-and-a-houben
 name: W & A Houben
 address: 2 Church Court, TW9 1JL
 photo: https://www.flickr.com/photos/kake_pugh/14863995906/
-description: "Closed in August 2014; see <a href=\"http://www.inprint.co.uk/thebookguide/shops/The%20closure%20of%20W&A%20Houben.pdf\">PDF report on thebookguide</a>."
+description: <a href="http://www.thebookseller.com/news/lion-unicorn-booksellers-open-alligators-mouth">Closed for good</a> in August 2014.
 long: -0.304152
 lat: 51.460533
 new: unknown
@@ -3956,7 +3968,7 @@ checked: February 2013
 id: west-end-lane-books
 name: West End Lane Books
 address: 277 West End Lane, NW6 1QS
-website: http://www.welbooks.co.uk/intro.html
+website: http://welbooks.co.uk/the_shop/
 twitter: WELBooks
 londonist: http://londonist.com/2009/03/biblio-text_west_end_lane_books.php
 tol: http://www.tiredoflondontiredoflife.com/2011/09/buy-books-at-west-end-lane-books.html
@@ -4046,7 +4058,6 @@ id: wood-street-bookshop
 name: Wood Street Non-Fiction Secondhand Book Shop
 address: 118 Wood Street, Walthamstow, E17 3HX
 phone: 07947 795099
-website: http://www.woodstreetbookshop.co.uk/
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2089
 lat: 51.587860
 long: -0.0039692670
@@ -4107,7 +4118,7 @@ name: World's End Bookshop
 address: 357 Kings Road, SW3 5ES
 photo: https://www.flickr.com/photos/kake_pugh/15714748716/
 phone: 020 7352 9376
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/london/south_west.shtml#world
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=865
 long: -0.176682
 lat: 51.483883
 new: unknown
@@ -4146,7 +4157,7 @@ open: no
 id: prosperos-books
 name: Prospero's Books
 address: 32 The Broadway, N8 9SU.
-description: <a href="http://www.thebookseller.com/news/141121-page.html">Closed for good</a> in December 2010.
+description: <a href="http://web.archive.org/web/20110107015916/http://www.thebookseller.com:80/news/141121-page.html">Closed for good</a> in December 2010.
 long: -0.123425
 lat: 51.579285
 open: no
