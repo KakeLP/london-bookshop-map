@@ -101,18 +101,18 @@ open: yes
 ---
 id: a-place-in-space-croydon
 name: A Place In Space
-address: 101 Church Street, CR0 1RN
-description: Comics and graphic novels.
+address: 96 Church Street, CR0 1RD
+description: Comics and graphic novels.  It was previously across the road at number 101 (<a href="http://www.flickr.com/photos/kake_pugh/6883401397/">photo</a>), but moved to number 96 around 2012-2013.
 website: http://stores.ebay.co.uk/A-PLACE-IN-SPACE
-photo: http://www.flickr.com/photos/kake_pugh/6883401397/
+photo: http://www.flickr.com/photos/kake_pugh/8479158457/
 cgc: http://croydon.randomness.org.uk/wiki.cgi?A_Place_In_Space,_101_Church_Street
-lat: 51.3738119426855
-long: -0.104830649245554
+lat: 51.373889
+long: -0.104669
 new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: December 2012
+checked: May 2016
 ---
 id: archive-bookstore
 name: Archive Bookstore
@@ -1377,7 +1377,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: December 2012
+checked: September 2016
 ---
 id: forbidden-planet-shaftesbury-avenue
 name: Forbidden Planet (Shaftesbury Avenue)
@@ -3809,7 +3809,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: June 2013
+checked: April 2017
 ---
 id: waterstones-gower-street
 name: Waterstones (Gower Street)
@@ -3982,7 +3982,7 @@ new: yes
 secondhand: no
 charity: no
 open: yes
-checked: July 2012
+checked: April 2017
 ---
 id: whsmith-victoria-station
 name: WHSmith (Victoria Station)
@@ -4100,7 +4100,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
-checked: June 2013
+checked: April 2017
 ---
 id: worlds-end-bookshop-chelsea
 name: World's End Bookshop
