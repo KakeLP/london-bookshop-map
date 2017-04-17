@@ -1,16 +1,17 @@
 id: 30th-century-comics
 name: 30th Century Comics
-description: Comics shop in Putney.
-address: 18 Lower Richmond Road, SW15 1JP
+description: Vintage comic and book shop.
+address: 18 Lower Richmond Road, Putney, SW15 1JP
 locales: Putney, SW15
-website: http://www.thirtiethcentury.free-online.co.uk/
+website: http://30thcenturycomics.co.uk/
+phone: 020 8788 2052
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2203
 lat: 51.467219
 long: -0.21823445
 photo: http://www.flickr.com/photos/rjw1/8936452165/
-checked: June 2013
-new: yes
-secondhand: unknown
+checked: April 2017
+new: unknown
+secondhand: yes
 charity: no
 open: yes
 ---
