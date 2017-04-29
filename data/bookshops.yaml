@@ -4087,9 +4087,10 @@ open: no
 id: word-new-cross
 name: The Word
 address: 314 New Cross Road, SE14 6AF
-description: Academic bookshop which mainly stocks books on the reading list of nearby Goldsmiths College.  It opened in September 2016.
+description: Academic bookshop which mainly stocks books on the reading lists of nearby Goldsmiths College.  It opened in September 2016.
 website: http://www.wordbookshop.co.uk/
 phone: 020 8355 9378
+photo: https://www.flickr.com/photos/kake_pugh/33493636994/
 brockleycentral: http://brockleycentral.blogspot.com/2016/08/coming-soon-word.html
 londonbooks: http://londonbooks.tumblr.com/post/153471767356/the-word-se14-very-pleased-to-report-on-this
 lat: 51.475538
@@ -4097,7 +4098,7 @@ long: -0.037133440
 open: yes
 new: yes
 charity: no
-checked: September 2016
+checked: April 2017
 ---
 id: works-croydon
 name: The Works (Croydon)
