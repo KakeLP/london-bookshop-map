@@ -46,10 +46,12 @@ address: 2a Church Court, Richmond, TW9 1JL
 website: http://www.thealligatorsmouth.co.uk/
 twitter: AlligatorsMouth
 phone: 020 8948 6775
+photo: https://www.flickr.com/photos/kake_pugh/33814046704/
 description: Children's bookshop opened by former staff from the now-closed <a href="lion-and-unicorn-bookshop.html">Lion & Unicorn</a>.
 lat: 51.460545
 long: -0.30408660
 open: yes
+checked: May 2017
 ---
 id: all-you-read-is-love-leytonstone
 name: All You Read Is Love
@@ -2586,6 +2588,7 @@ open: yes
 id: open-book-richmond
 name: The Open Book
 address: 10 King Street, TW9 1ND
+photo: https://www.flickr.com/photos/kake_pugh/34494453012/
 yelp: http://www.yelp.co.uk/biz/open-book-richmond
 londonbooks: http://londonbooks.tumblr.com/post/116801183226/
 long: -0.306823
@@ -2594,6 +2597,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: May 2017
 ---
 id: osterley-bookshop
 name: Osterley Bookshop
@@ -3909,6 +3913,18 @@ secondhand: unknown
 charity: no
 open: yes
 checked: July 2009
+---
+id: waterstones-richmond
+name: Waterstones (Richmond)
+address: 2-6 Hill Street, Richmond, TW9 1TN
+phone: 020 8332 1600
+twitter: WaterstonesRich
+website: https://www.waterstones.com/bookshops/richmond
+photo: https://www.flickr.com/photos/kake_pugh/33814040174/
+lat: 51.459469
+long: -0.30613044
+open: yes
+checked: May 2017
 ---
 id: waterstones-romford
 name: Waterstones (Romford)
