@@ -2971,6 +2971,18 @@ secondhand: yes
 charity: no
 open: yes
 ---
+id: phlox-books-leyton
+name: Phlox Books
+address: 159 Francis Road, Leyton, E10 6NT
+website: http://phloxbooks.com/
+twitter: PhloxBooks
+description: Opened in May 2017.
+leytonstoner: https://www.leytonstoner.london/2017/05/11/everything-need-know-phlox-books-francis-road/
+lat: 51.563806
+long: -0.0056335777
+open: yes
+checked: May 2017
+---
 id: photo-books-international
 name: Photo Books International
 address: 99 Judd Street, WC1H 9NE
