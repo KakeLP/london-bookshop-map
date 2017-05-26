@@ -3802,6 +3802,21 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: waterstones-barnet
+name: Waterstones (Barnet)
+address: Unit 2, Spires Shopping Centre, Barnet, EN5 5XY
+website: https://www.waterstones.com/bookshops/barnet
+twitter: WaterstonesBarn
+phone: 020 8449 8229
+photo: https://www.flickr.com/photos/kake_pugh/34738643492/
+lat: 51.655226
+long: -0.20241921
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: May 2017
+---
 id: waterstones-cabot-place
 name: Waterstones (Cabot Place, Canary Wharf)
 address: Cabot Place East, E14 4QT
@@ -4128,11 +4143,26 @@ new: yes
 charity: no
 checked: April 2017
 ---
+id: works-barnet
+name: The Works (Barnet)
+address: Unit 9, Spires Shopping Centre, Barnet, EN5 5XY
+description: Discount books.
+website: https://www.theworks.co.uk/store/0653_barnet
+phone: 020 8441 1753
+photo: https://www.flickr.com/photos/kake_pugh/34514773960/
+lat: 51.655419
+long: -0.20326678
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: May 2017
+---
 id: works-croydon
 name: The Works (Croydon)
 address: Unit 1105, Upper Mall, Whitgift Centre, CR0 1UY
 description: Discount books.
-website: http://www.theworks.co.uk/store/croydon
+website: https://www.theworks.co.uk/store/0309_croydon
 cgc: http://croydon.randomness.org.uk/wiki.cgi?The_Works,_1105_Whitgift_Centre
 photo: http://www.flickr.com/photos/kake_pugh/9107759359/
 lat: 51.3762967235963
