@@ -1530,6 +1530,7 @@ name: Freedom Bookshop
 address: 84b Whitechapel High Street, E1 7QX
 website: http://www.freedompress.org.uk/
 twitter: Freedom_Paper
+photo: https://www.flickr.com/photos/kake_pugh/35339263285/
 description: 'Note: The Freedom Bookshop <a href="https://twitter.com/Freedom_Paper/status/297332447039856640">was firebombed</a> on the night of 31 January 2013.  As of mid-February, they were back open again at the same address with a temporary <a href="http://web.archive.org/web/20140331185956/http://www.freedompress.org.uk/news/2013/02/12/rainbow-shop-opens-2/">rainbow bookshop</a>.  They reopened the main bookshop again properly <a href="https://twitter.com/Freedom_Paper/status/340804390195699713">on 1 June 2013</a>.'
 londonbooks: http://londonbooks.tumblr.com/post/124176982077/
 long: -0.070424
@@ -1538,6 +1539,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: June 2017
 ---
 id: french-bookshop
 name: French Bookshop
@@ -2188,6 +2190,7 @@ open: yes
 id: libreria-shoreditch
 name: Libreria
 address: 65 Hanbury Street, Shoreditch, E1 5JP
+photo: https://www.flickr.com/photos/kake_pugh/35339265275/
 guardian: http://www.theguardian.com/books/2016/feb/21/libreria-bookshop-rohan-silva-second-home-interview
 londonbooks: http://londonbooks.tumblr.com/post/141852159721/libreria-ei-a-new-take-on-the-concept-of-the
 lat: 51.520318
@@ -2196,6 +2199,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: June 2017
 ---
 id: lion-and-unicorn-bookshop
 name: Lion & Unicorn Bookshop
