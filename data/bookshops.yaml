@@ -1293,13 +1293,13 @@ address: 71 High Street, CM16 4BA
 website: http://epping-bookshop.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Epping_Bookshop
 photo: http://www.flickr.com/photos/kake_pugh/2904726201/
+description: Closed down in late 2015.
 long: 0.107481
 lat: 51.696609
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
-checked: September 2008
+open: no
 ---
 id: european-bookshop-south-kensington
 name: European Bookshop
@@ -3729,18 +3729,19 @@ charity: no
 open: no
 ---
 id: village-bookshop-woodford-green
-name: Village Bookshop
+name: Village Bookshop (Woodford)
 address: 475 High Road, IG8 0XE
 website: http://www.thevillagebookshop.co.uk/
+twitter: VillageBookshop
 rgl: http://london.randomness.org.uk/wiki.cgi?Village_Bookshop
-photo: http://flickr.com/photos/kake_pugh/2829413494/
+photo: https://www.flickr.com/photos/kake_pugh/34745142864/
 long: 0.021715
 lat: 51.610104
 new: yes
 secondhand: no
 charity: no
 open: yes
-checked: September 2008
+checked: June 2017
 ---
 id: village-books-wandsworth-common
 name: Village Books (Wandsworth Common)
