@@ -134,6 +134,19 @@ div#entity_list {
 div#entity_list ul {
   height: 400px;
   overflow: auto;
+  list-style: none;
+}
+
+div#entity_list li {
+  margin-left: -2em;
+}
+
+div#entity_list li.open:before {
+  content: "\1F4D6";
+}
+
+div#entity_list li.closed:before {
+  content: "\1F4D5";
 }
 
 div#entity_photo {
