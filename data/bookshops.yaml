@@ -517,6 +517,7 @@ address: 1 Bloomsbury Street, WC1B 3QE
 website: http://www.bookmarksbookshop.co.uk/cgi/store/bookmark.cgi
 twitter: Bookmarks_books
 rgl: http://london.randomness.org.uk/wiki.cgi?Bookmarks,_WC1B_3QE
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2609
 lat: 51.517155
 long: -0.127351
 new: unknown
@@ -818,11 +819,12 @@ charity: no
 open: yes
 ---
 id: brockley-bookshop-crofton-park
-name: Brockley Bookshop
+name: Crofton Books
 address: 375 Brockley Road, Crofton Park, SE4 2AG
 twitter: CroftonBooks
 phone: 020 7998 8387
 description: Vintage bookshop based in Crofton Park Library.
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2607
 lat: 51.455444
 long: -0.036611751
 new: unknown
@@ -2220,6 +2222,7 @@ address: 9 Mortlake Terrace, Kew, TW9 3DT
 photo: http://flickr.com/photos/kake_pugh/2704615672/
 robaroundbooks: http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/
 londonbooks: http://londonbooks.tumblr.com/post/117107607906/
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2615
 flickr: http://www.flickr.com/photos/53264755@N00/sets/72157594520880134/
 long: -0.286426
 lat: 51.482605
@@ -2284,13 +2287,26 @@ charity: no
 open: yes
 checked: March 2015
 ---
+id: maggs-bros-bloomsbury
+name: Maggs Bros (Bloomsbury)
+address: 48 Bedford Square, Bloomsbury, WC1B 3DR
+website: http://www.maggs.com/
+twitter: MaggsBros
+phone: 020 7493 7160
+description: Rare books and manuscripts.  It also has <a href="/shops/maggs-bros-mayfair.html">a branch in Mayfair</a>.
+thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=882
+lat: 51.518599
+long: -0.12935449
+secondhand: yes
+open: yes
+---
 id: maggs-bros-mayfair
-name: Maggs Bros
+name: Maggs Bros (Mayfair)
 address: 46 Curzon Street, Mayfair, W1J 7UH
 website: http://www.maggs.com/
 twitter: MaggsBros
 phone: 020 7493 7160
-description: Rare books and manuscripts.  Previously at 50 Berkeley Square, but in November 2015 it moved to Curzon Street and took over the lease of <a href="shepherds-victoria.html">Shepherds</a>.
+description: Rare books and manuscripts.  Originally at 50 Berkeley Square, it moved to 46 Curzon Street in November 2015.  In May 2017, it also opened <a href="/shops/maggs-bros-bloomsbury.html">new premises</a> in Bloomsbury.
 londonbooks: http://londonbooks.tumblr.com/post/140559056526/
 lat: 51.506799
 long: -0.14655684
