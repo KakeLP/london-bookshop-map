@@ -89,7 +89,6 @@ id: animal-aid-highbury
 name: Animal Aid & Advice
 address: 203 Blackstock Road, N5 9LL
 description: Charity bookshop.
-website: http://www.animalaidandadvice.org/Our-Shops.html
 photo: http://www.flickr.com/photos/kake_pugh/9335713442/
 lat: 51.560064
 long: -0.09847
@@ -241,7 +240,7 @@ id: beaumont-travel-books
 name: Beaumont Travel Books
 address: 33 Couthurst Road, SE3 8TN
 website: http://www.abebooks.com/beaumont-travel-books-aba-ilab-london/10321/sf
-bookdealer: http://www.sheila-markham.com/Archives/gbeau.htm
+bookdealer: http://www.sheila-markham.com/interviews/gabriel-beaumont.html
 lat: 51.478619
 long: 0.026414
 new: unknown
@@ -323,7 +322,6 @@ open: yes
 id: black-gull-books-camden
 name: Black Gull Books (Camden)
 address: 70-71 Camden Lock Place, Camden Lock Market, NW1 8AF
-website: http://www.camdenlockmarket.com/unit.php?id=61
 londonbooks: http://londonbooks.tumblr.com/post/109142890441/black-gull-books-nw1-fight-through-the-crowds
 lat: 51.541279
 long: -0.146556
@@ -1319,7 +1317,6 @@ open: yes
 id: faction-bookshop-lee
 name: Faction Bookshop
 address: 2 Leegate, Lee, SE12 8SS
-website: http://home.btconnect.com/newnham/thefactionbookshop/index.html
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2334
 londonbooks: http://londonbooks.tumblr.com/post/86225359416/faction-bookshop-se12-a-very-fortuitous
 lat: 51.455556
@@ -1826,6 +1823,7 @@ address: 5 Caledonian Road, N1 9DX
 description: Radical/far left bookshop.  Socialism, communism, anarchism.  Downstairs is Woburn Books & Porcupine Bookcellar.
 rgl: http://london.randomness.org.uk/wiki.cgi?Housmans_Booksellers
 website: http://www.housmans.com/
+twitter: HousmansBooks
 long: -0.120957
 lat: 51.531319
 new: unknown
@@ -3088,7 +3086,7 @@ id: queens-park-books
 name: Queens Park Books
 address: 87 Salusbury Road, NW6 6NH
 website: http://queensparkbooks.co.uk/
-twitter: QueensParkBooks
+twitter: QPBooks
 photo: http://www.flickr.com/photos/kake_pugh/9377409826/
 londonbooks: http://londonbooks.tumblr.com/post/118052636641/
 long: -0.205318
@@ -3708,7 +3706,7 @@ checked: October 2011
 id: v-and-a-reading-rooms
 name: V & A Reading Rooms
 address: 8 Exhibition Road, SW7 2HF
-website: http://www.vandareadingrooms.co.uk/
+website: http://web.archive.org/web/20110924185146/http://www.vandareadingrooms.co.uk:80/
 tol: http://www.tiredoflondontiredoflife.com/2011/05/browse-victoria-and-albert-reading.html
 description: Self-described as a "pop-up bookshop and wine bar", this has now closed.
 long: -0.173292
@@ -4211,7 +4209,7 @@ checked: October 2014
 id: amwell-book-company
 name: Amwell Book Company
 address: 53 Amwell Street, EC1R 1UR
-description: Previously at 53 Amwell Street, EC1R 1UR, this bookshop <a href="http://www.islingtontribune.com/news/2011/sep/amwell-bookshop-loses-battle-survive-hectic-age-online-browsers">closed to drop-in visitors</a> at the beginning of October 2011 and now trades online only.
+description: Previously at 53 Amwell Street, EC1R 1UR, this bookshop <a href="http://web.archive.org/web/20111004014317/http://www.islingtontribune.com:80/news/2011/sep/amwell-bookshop-loses-battle-survive-hectic-age-online-browsers">closed to drop-in visitors</a> at the beginning of October 2011 and now trades online only.
 website: http://www.amwellbookcompany.co.uk/
 long: -0.110614
 lat: 51.529465
