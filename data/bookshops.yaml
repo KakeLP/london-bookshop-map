@@ -3138,12 +3138,16 @@ open: yes
 id: regency-bookshop
 name: Regency Bookshop
 address: 45 Victoria Road, KT6 4JL
+phone: 020 8399 2188
+description: Good selection of children's books.
+photo: https://www.flickr.com/photos/kake_pugh/36191054611/
 long: -0.308819
 lat: 51.391468
-new: unknown
+new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: July 2017
 ---
 id: review-books-peckham
 name: Review Books
