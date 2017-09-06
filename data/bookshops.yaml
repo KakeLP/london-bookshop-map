@@ -2520,13 +2520,13 @@ checked: January 2017
 id: nicholas-salter-chingford
 name: Nicholas Salter
 address: Chingford Station, Station Road, E4 6AL
-description: Antique shop with one room dedicated to books.
+description: Antique shop with one room dedicated to books.  Closed by August 2012.
 long: 0.009356
 lat: 51.633121
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: nomad-books-fulham
 name: Nomad Books
