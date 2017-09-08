@@ -193,13 +193,14 @@ lat: 51.476402
 long: -0.18341133
 open: yes
 ---
-id: bookshop-north-chingford
-name: The Bookshop North Chingford
+id: jos-bookshop-chingford
+name: Jo's Bookshop
 address: 135 Station Road, E4 6AG
-website: http://www.hive.co.uk/Shops/Chingford-Bookshop-London
+website: https://www.hive.co.uk/Shops/Chingford-Bookshop-London
 twitter: ChingfordBooks
 phone: 020 8524 9002
-description: Previously known as The Bargain Bookshop.
+description: Previously known as The Bargain Bookshop and The Bookshop North Chingford.  It has a good selection of children's books, plus non-fiction, general fiction, cards, and crystals.
+photo: https://www.flickr.com/photos/kake_pugh/37105987665/
 londonbooks: http://londonbooks.tumblr.com/post/144392525806/
 lat: 51.632790
 long: 0.008497
@@ -207,6 +208,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2017
 ---
 id: barnards-bookshop-uxbridge
 name: Barnard's Bookshop
