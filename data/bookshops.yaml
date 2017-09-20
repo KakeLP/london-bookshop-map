@@ -1617,7 +1617,7 @@ checked: October 2016
 id: greenwich-book-place
 name: Greenwich Book Place
 address: 258 Creek Road, SE10 9SW
-description: Closed at one point — <a href="http://www.thegreenwichphantom.co.uk/2011/06/random-things-noted/">Greenwich Phantom report</a> — but <a href="http://www.thegreenwichphantom.co.uk/2011/06/8168/">then reopened</a> – and finally closed down for good in August 2016.
+description: Closed at one point — <a href="http://www.thegreenwichphantom.co.uk/2011/06/random-things-noted/">Greenwich Phantom report</a> — but <a href="http://www.thegreenwichphantom.co.uk/2011/06/8168/">then reopened</a> – and finally closed down for good in August 2016.  It was <a href="http://www.fromthemurkydepths.co.uk/2017/09/20/former-greenwich-pub-and-shop-demolished/">demolished</a> in September 2017.
 greenwichphantom: http://www.thegreenwichphantom.co.uk/2009/11/greenwich-book-place.html
 photo: http://www.flickr.com/photos/kake_pugh/9365939641/
 website: http://web.archive.org/web/20130216040149/http://ukbookworld.com/members/Greenspace
@@ -3992,6 +3992,21 @@ charity: no
 open: yes
 checked: November 2013
 ---
+id: waterstones-twickenham
+name: Waterstones (Twickenham)
+address: 19 King Street, Twickenham, TW1 3SD
+phone: 020 8744 2807
+twitter: TwickenhamWat
+website: http://www.waterstones.com/
+photo: https://www.flickr.com/photos/kake_pugh/37014226812/
+lat: 51.445888
+long: -0.32872041
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+checked: September 2017
+---
 id: watkins-books-cecil-court
 name: Watkins Books
 address: 19-21 Cecil Court, Covent Garden, WC2N 4EZ
@@ -4197,6 +4212,21 @@ secondhand: unknown
 charity: no
 open: yes
 checked: April 2017
+---
+id: works-twickenham
+name: The Works (Twickenham)
+address: 1a King Street, Twickenham, TW1 3SD
+description: Discount books.
+website: https://www.theworks.co.uk/store/0908_twickenham
+photo: https://www.flickr.com/photos/kake_pugh/36788466180/
+phone: 020 8744 0119
+lat: 51.446271
+long: -0.32810886
+new: unknown
+secondhand: unknown
+charity: no
+open: yes
+checked: September 2017
 ---
 id: worlds-end-bookshop-chelsea
 name: World's End Bookshop
