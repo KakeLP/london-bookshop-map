@@ -69,6 +69,20 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: alpha-book-company-romford
+name: Alpha Book Company
+address: Romford Shopping Hall, 43 Market Place, Romford, RM1 3AB
+locales: RM1, Romford
+description: Cheap second-hand and reissued adults' and children's books.
+photo: https://www.flickr.com/photos/kake_pugh/37425360562/
+lat: 51.579856
+long: 0.18220863
+new: yes
+secondhand: yes
+charity: no
+open: yes
+checked: September 2017
+---
 id: al-saqi-books-westbourne-grove
 name: Al Saqi Books
 address: 26 Westbourne Grove, W2 5RH
@@ -3521,7 +3535,7 @@ new: yes
 secondhand: no
 charity: no
 open: yes
-checked: June 2009
+checked: September 2017
 ---
 id: swedenborg-society-bookshop
 name: Swedenborg Society Bookshop
