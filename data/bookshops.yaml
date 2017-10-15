@@ -384,14 +384,14 @@ open: yes
 id: blenheim-books
 name: Blenheim Books (incorporating Garden Books)
 address: 11 Blenheim Crescent, W11 2EE
-website: http://www.blenheimbooks.co.uk/
-londonist: http://londonist.com/2009/04/biblio-text_blenheim_books.php
+londonist: http://londonist.com/2009/04/biblio-text_blenheim_books
+description: Closed down by May 2012.
 lat: 51.515694
 long: -0.205275
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: bolingbroke-bookshop
 name: Bolingbroke Bookshop
@@ -3342,21 +3342,18 @@ checked: November 2009
 id: society-club
 name: The Society Club
 address: 12 Ingestre Place, W1F 0JF
-phone: 020 7437 1433
-website: http://www.thesocietyclub.com/
-twitter: SocietyClubSoho
 photo: https://www.flickr.com/photos/kake_pugh/26265698930/
-description: Bookshop, gallery, teashop, and bar.
+description: <a href="http://westendextra.com/article/chapter-closes-on-the-society-club-in-soho">Closed down in mid-2017</a>; was a bookshop, gallery, teashop, and bar.
 ft: http://howtospendit.ft.com/personal-luxuries/6785-the-society-club
 foodiebugle: http://thefoodiebugle.com/article/eating-out/the-society-club
 lauraashley: http://www.lauraashley.com/blog/uncategorized/the-society-club/
-pandorian: http://thepandorian.com/2012/09/the-society-club/
+pandorian: http://web.archive.org/web/20131125163524/http://thepandorian.com:80/2012/09/the-society-club/
 lat: 51.513108
 long: -0.13563757
 new: unknown
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: April 2016
 ---
 id: soho-original-books-charing-cross-road
@@ -4139,7 +4136,7 @@ id: wimbledon-books-and-music
 name: Wimbledon Books
 address: 40 High Street, SW19 5AU
 description: Formerly known as Wimbledon Books and Music.
-website: http://www.wimbledonbooksandmusic.co.uk/
+website: http://www.wimbledonbooks.co.uk/
 twitter: WimbledonBooks
 yelp: http://www.yelp.co.uk/biz/wimbledon-books-and-music-london
 londonbooks: http://londonbooks.tumblr.com/post/137472359991/
