@@ -749,7 +749,7 @@ checked: March 2015
 id: book-warehouse-waterloo
 name: Book Warehouse (Waterloo)
 address: 104 Lower Marsh, SE1 7AB
-description: Previously at 158 Waterloo Road (<a href="http://flickr.com/photos/kake_pugh/2669855002/">photo</a>), but moved to Lower Marsh in early 2015 due to redevelopment of the old site.
+description: Previously at 158 Waterloo Road (<a href="http://flickr.com/photos/kake_pugh/2669855002/">photo</a>), but moved to Lower Marsh in early 2015 due to redevelopment of the old site.  Closed down in Autumn 2017.
 website: http://www.gramex.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Book_Warehouse,_SE1_7AB
 londonbooks: http://londonbooks.tumblr.com/post/119375423866/
@@ -759,8 +759,7 @@ long: -0.11216153
 new: yes
 secondhand: no
 charity: no
-open: yes
-checked: September 2015
+open: no
 ---
 id: bookworm-carshalton
 name: Bookworm (Carshalton)
@@ -2517,6 +2516,18 @@ lat: 51.476498
 new: unknown
 secondhand: unknown
 charity: no
+open: yes
+---
+id: new-cross-learning
+name: New Cross Learning
+address: 283-285 New Cross Road, SE14 6AS
+website: https://newxlearning.org/bookshop/
+description: Second-hand bookshop in a community-run space.
+thebookguide: https://www.inprint.co.uk/thebookguide/shops/multi.php?id=2667
+lat: 51.475433
+long: -0.038587198
+new: unknown
+secondhand: yes
 open: yes
 ---
 id: newham-bookshop
