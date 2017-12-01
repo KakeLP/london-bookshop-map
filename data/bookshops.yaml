@@ -3931,12 +3931,14 @@ id: waterstones-kensington-high-street
 name: Waterstones (Kensington High Street)
 address: 193 Kensington High Street, W8 6SH
 website: http://www.waterstones.com/
+photo: https://www.flickr.com/photos/kake_pugh/38044289834/
 lat: 51.499950
 long: -0.19522570
 new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: November 2017
 ---
 id: waterstones-london-wall
 name: Waterstones (London Wall)
