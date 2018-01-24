@@ -451,7 +451,6 @@ open: yes
 id: book-and-record-bar-west-norwood
 name: The Book and Record Bar
 address: 20 Norwood High Street, West Norwood, SE27 9NR
-website: http://thebookandrecordbar.co.uk/
 twitter: BooknRecordBar
 phone: 020 8670 9568
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2219
@@ -1788,8 +1787,7 @@ open: yes
 id: high-stakes-bookshop
 name: High Stakes Bookshop
 address: 21 Great Ormond Street, WC1N 3JB
-description: Used to sell gambling books, but now online only.  As of December 2012 the Great Ormond Street premises are occupied by a shop called Volte Face (<a href="http://www.flickr.com/photos/kake_pugh/8277022061/">photo</a>).
-website: http://www.highstakes.co.uk/shop/
+description: Used to sell gambling books, before moving to online only.  As of December 2012 the Great Ormond Street premises are occupied by a shop called Volte Face (<a href="http://www.flickr.com/photos/kake_pugh/8277022061/">photo</a>).
 long: -0.119219
 lat: 51.522121
 new: unknown
@@ -3451,7 +3449,7 @@ id: spink-and-sons-southampton-row
 name: Spink and Sons
 address: 69 Southampton Row, WC1B 4ET
 description: Basically a coin dealer, but they also sell books about coins and stuff.
-website: http://www.spink.com/departments.aspx?id=1210
+website: https://www.spink.com/
 photo: http://www.flickr.com/photos/kake_pugh/8278086074/
 long: -0.122920
 lat: 51.520294
