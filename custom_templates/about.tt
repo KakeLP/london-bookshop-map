@@ -11,7 +11,7 @@ to display the data.</p>
 href="mailto:kake@earth.li">kake@earth.li</a>.</p>
 
 <p>The current site uses Perl, Template Toolkit, YAML, Leaflet,
-jQuery, MapQuest, and OpenStreetMap.  It was built in emacs by Kake,
+jQuery, and OpenStreetMap.  It was built in emacs by Kake,
 and <a href="https://github.com/KakeLP/map-site-maker">the code is
 available on GitHub</a>.  You can also find <a
 href="https://github.com/KakeLP/london-bookshop-map">the data on
