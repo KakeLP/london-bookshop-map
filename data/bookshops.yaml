@@ -889,6 +889,18 @@ charity: no
 open: yes
 checked: July 2016
 ---
+id: caravanserail-shoreditch
+name: Caravanserail
+address: 5 Cheshire Street, Shoreditch, E2 6ED
+description: French and English bookshop.
+website: https://www.caravanserail.co.uk/
+twitter: _caravanserail_
+phone: 020 7059 0273
+spitalfieldslife: http://spitalfieldslife.com/2018/03/22/at-caravanserail/
+lat: 51.523541
+long: -0.070959717
+open: yes
+---
 id: childrens-bookshop-hornsey-road
 name: Children's Bookshop (Hornsey Road)
 address: 435 Hornsey Road, N19 4DX
