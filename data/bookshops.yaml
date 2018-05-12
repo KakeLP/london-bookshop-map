@@ -3248,11 +3248,13 @@ open: yes
 ---
 id: rye-books-east-dulwich
 name: Rye Books
-address: 45 Upland Road, SE22 9EF
+address: 47 North Cross Road, East Dulwich, SE22 9ET
+description: Previously at 45 Upland Road.
 secentral: http://southeastcentral.co.uk/threads/rye-books-new-bookstore-at-45-upland-road-east-dulwich-se22-9ef.1491/
 peckhampeculiar: http://peckhampeculiar.tumblr.com/post/103794485889/buy-the-book-part-3-rye-books
-long: -0.068092838
-lat: 51.457228
+londonbooks: http://londonbooks.tumblr.com/post/172953494441/
+lat: 51.457600
+long: -0.073630258
 new: yes
 secondhand: yes
 charity: no
