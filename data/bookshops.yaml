@@ -610,6 +610,15 @@ charity: yes
 open: yes
 checked: February 2016
 ---
+id: books-for-children-hornsey
+name: Books For Children
+address: 77 Tottenham Lane, Hornsey, N8 9BE
+phone: 07918 806055
+harringayonline: http://www.harringayonline.com/forum/topics/great-children-s-book-shop
+lat: 51.583983
+long: -0.11614327
+open: yes
+---
 id: books-for-cooks
 name: Books For Cooks
 address: 4 Blenheim Crescent, W11 1NN
