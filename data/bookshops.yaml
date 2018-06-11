@@ -4246,8 +4246,8 @@ open: yes
 checked: May 2017
 ---
 id: works-croydon
-name: The Works (Croydon)
-address: Unit 1105, Upper Mall, Whitgift Centre, CR0 1UY
+name: The Works (Whitgift Centre, Croydon)
+address: Unit 1105, Upper Mall, Whitgift Centre, Croydon, CR0 1UY
 description: Discount books.
 website: https://www.theworks.co.uk/store/0309_croydon
 cgc: http://croydon.randomness.org.uk/wiki.cgi?The_Works,_1105_Whitgift_Centre
@@ -4259,6 +4259,18 @@ secondhand: unknown
 charity: no
 open: yes
 checked: April 2017
+---
+id: works-croydon-north-end
+name: The Works (North End, Croydon)
+address: 145-147 North End, Croydon, CR0 1TN
+description: Discount books.
+website: https://www.theworks.co.uk/store/1058_croydon
+cgc: http://croydon.randomness.org.uk/wiki.cgi?The_Works,_145-147_North_End
+photo: https://www.flickr.com/photos/kake_pugh/41992827304/
+lat: 51.377547
+long: -0.10238890
+open: yes
+checked: June 2018
 ---
 id: works-twickenham
 name: The Works (Twickenham)
