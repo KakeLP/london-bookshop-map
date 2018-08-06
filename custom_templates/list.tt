@@ -1,0 +1,40 @@
+[% USE CGI %]
+
+[% INCLUDE header.tt %]
+
+<div id="entity_list_no_map">
+
+  <div class="entity_table_key">
+    <table>
+      [% FOREACH cat = categories %]
+        <tr><td class="category cat_[% cat.id %] cat_colour_[% cat.colour %]"><span>[% IF cat.id == 'open' %]O[% ELSE %]C[% END %]</span></td><td> = [% cat.name %]</td></tr>
+      [% END %]
+    </table>
+  </div>
+
+  <p>All [% entity_type %]
+     (<a href="[% map_url %]">view them on a map</a>):</p>
+
+  <table class="entity_list">
+    <tr>
+      <th></th><th>Name</th><th>Address</th>
+    </tr>
+    [% FOREACH entity = entities %]
+      [% cat = entity.category %]
+      [% FOREACH category = categories %]
+        [% IF category.id == cat %]
+          [% colour = category.colour %]
+        [% END %]
+      [% END %]
+      <tr>
+        <td class="category cat_[% cat %] cat_colour_[% colour %]"><span>[% IF cat == 'open' %]O[% ELSE %]C[% END %]</span></td>
+        <td><a href="[% base_url %][% entity_type %]/[% entity.id | html %].html">[% entity.name | html %]</a></td>
+        <td>[% entity.address | html %]</td>
+      </tr>
+    [% END %]
+  </table>
+</div>
+
+<p>Last updated at [% updated | html %].</p>
+
+[% INCLUDE footer.tt %]
