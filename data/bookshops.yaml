@@ -159,6 +159,7 @@ id: arthur-probsthain
 name: Arthur Probsthain
 address: 41 Great Russell Street, WC1B 3PE
 description: Asian and African books.
+photo: https://www.flickr.com/photos/kake_pugh/45135847061/
 website: https://www.teaandtattle.com/bookshop
 lat: 51.517921
 long: -0.126815
@@ -166,6 +167,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: October 2018
 ---
 id: artwords
 name: Artwords
@@ -366,12 +368,14 @@ address: 50 High Holborn, WC1V 6EP
 website: https://blackwells.co.uk/
 phone: 020 7292 5100
 description: Previously at 100 Charing Cross Road, but <a href="https://www.thebookseller.com/news/look-inside-new-blackwells-holborn">relocated to Holborn</a> in 2014/2015.
+photo: https://www.flickr.com/photos/kake_pugh/44223965235/
 lat: 51.518250
 long: -0.11488263
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: October 2018
 ---
 id: blackwells-wellcome
 name: Blackwell's at the Wellcome Collection
@@ -535,11 +539,12 @@ website: http://www.bookmarksbookshop.co.uk/cgi/store/bookmark.cgi
 twitter: Bookmarks_books
 rgl: https://london.randomness.org.uk/wiki.cgi?Bookmarks,_WC1B_3QE
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2609
+photo: https://www.flickr.com/photos/kake_pugh/45135845251/
 lat: 51.517155
 long: -0.127351
 new: unknown
 secondhand: unknown
-checked: October 2009
+checked: October 2018
 charity: no
 open: yes
 ---
@@ -1978,6 +1983,7 @@ id: jarndyce
 name: Jarndyce
 address: 46 Great Russell Street, WC1B 3PA
 description: 18th and 19th century English literature and history.
+photo: https://www.flickr.com/photos/kake_pugh/45135847901/
 website: http://www.jarndyce.co.uk/
 londonbooks: http://londonbooks.tumblr.com/post/126528120088/
 long: -0.126386
@@ -1986,6 +1992,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: October 2018
 ---
 id: jonathan-potter
 name: Jonathan Potter Ltd
@@ -2785,6 +2792,7 @@ checked: February 2015
 id: oxfam-bookshop-bloomsbury
 name: Oxfam Bookshop (Bloomsbury)
 address: 12 Bloomsbury Street, WC1B 3QA
+photo: https://www.flickr.com/photos/kake_pugh/45135846401/
 website: http://oxfambloomsburybooks.wordpress.com/
 long: -0.127394
 lat: 51.517605
@@ -2792,6 +2800,7 @@ new: unknown
 secondhand: unknown
 charity: yes
 open: yes
+checked: October 2018
 ---
 id: oxfam-bookshop-portobello-road
 name: Oxfam Bookshop (Portobello Road)
