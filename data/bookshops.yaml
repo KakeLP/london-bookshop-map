@@ -1094,6 +1094,7 @@ address: 37 Hartfield Road, SW19 3SG
 yelp: http://www.yelp.co.uk/biz/copperfield-bookshop-london
 londonbooks: http://londonbooks.tumblr.com/post/137009405056/
 photo: https://www.flickr.com/photos/kake_pugh/3676830134/
+description: Possibly closed.  According to a comment on <a href="https://www.inprint.co.uk/thebookguide/shops/multi.php?id=840">its Bookshop Guide page</a>, it was due to close at the end of July 2018.  Going past on the bus in September 2018, we saw the door open and someone taking boxes in or out.  However, when we returned on foot shortly after (within the advertised opening hours) the door was locked and there was no response to knocking.  There did still appear to be a small amount of stock inside and in the window (<a href="https://www.flickr.com/photos/kake_pugh/30725724128/">photo</a>).
 long: -0.205586
 lat: 51.419537
 new: unknown
@@ -2364,13 +2365,13 @@ open: yes
 id: magma-covent-garden
 name: Magma (Covent Garden)
 address: 8 Earlham Street, WC2H 9RY
-website: http://www.magmabooks.com/
+description: Closed down by August 2017, according to Google Street View.
 long: -0.128424
 lat: 51.513489
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: marchmont-bookshop
 name: Marchmont Bookshop
