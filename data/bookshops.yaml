@@ -2561,10 +2561,10 @@ open: yes
 ---
 id: newham-bookshop
 name: Newham Bookshop
-address: 747 Barking Road, E13 9ER
+address: 743 Barking Road, E13 9ER
 website: http://www.newhambooks.co.uk/
 twitter: NewhamBookshop
-photo: https://www.flickr.com/photos/kake_pugh/3766346809/
+description: Previously at 747 Barking Road (<a href="https://www.flickr.com/photos/kake_pugh/3766346809/">photo</a>), but moved to number 743 in late 2018.
 londonbooks: http://londonbooks.tumblr.com/post/112434475486/
 spitalfieldslife: http://spitalfieldslife.com/2018/04/10/happy-birthday-newham-bookshop/
 long: 0.037251
@@ -2573,7 +2573,6 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
-checked: January 2017
 ---
 id: nicholas-salter-chingford
 name: Nicholas Salter
