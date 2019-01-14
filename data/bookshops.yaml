@@ -2927,13 +2927,11 @@ open: yes
 id: paperback-coffee-and-tea-ealing
 name: Paperback Coffee And Tea
 address: 153 South Ealing Road, W5 4QP
-website: http://www.paperbackcoffee.com/
-twitter: PaperBackCoffee
-description: Bookshop and coffee/tea shop.
+description: Bookshop and coffee/tea shop, closed down by January 2019.
 londonbooks: http://londonbooks.tumblr.com/post/153168905950/
 lat: 51.498555
 long: -0.30575533
-open: yes
+open: no
 ---
 id: paper-and-cup-bow
 name: Paper & Cup (Bow)
