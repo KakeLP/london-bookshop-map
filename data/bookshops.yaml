@@ -3291,6 +3291,18 @@ charity: no
 open: yes
 checked: December 2012
 ---
+id: second-shelf-soho
+name: Second Shelf
+address: 14 Smith's Court, Soho, W1D 7DQ
+website: https://thesecondshelf.com/
+twitter: SecondShelfBks
+description: Focuses on rare books, first editions, and manuscripts by women.
+lat: 51.511545
+long: -0.13497774
+new: unknown
+secondhand: yes
+open: yes
+---
 id: shalimar-kennington
 name: Shalimar
 address: 38 Kennington Lane, SE11 4LS
