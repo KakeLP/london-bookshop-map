@@ -868,6 +868,7 @@ address: 7 Cecil Court, Covent Garden, WC2N 4EZ
 description: First editions at a wide range of prices, with a special focus on travel books, literature, and early printing (especially Greek and Latin classics) as well as antique maps and atlases printed c. 1500-1950.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004560154/
 londonbooks: http://londonbooks.tumblr.com/post/142170258461/
+bluestocking: https://www.bluestockingbooks.co.uk/single-post/2019/03/02/Secret-1-The-first-bookshop-uncovered
 website: http://bryarsandbryars.co.uk/
 phone: 020 7836 1910
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1685
@@ -2400,7 +2401,6 @@ address: 16 Cecil Court, Covent Garden, WC2N 4HE
 description: Specialist in rare children's and illustrated books.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 londonbooks: http://londonbooks.tumblr.com/post/120350699321/
 photo: https://www.flickr.com/photos/kake_pugh/30519768352/
-website: http://www.marchpane.com/
 phone: 020 7836 8661
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=756
 lat: 51.510745
@@ -2409,7 +2409,7 @@ new: unknown
 secondhand: yes
 charity: no
 open: yes
-checked: October 2016
+checked: January 2019
 ---
 id: marcus-campbell-art-books
 name: Marcus Campbell Art Books
@@ -3297,6 +3297,7 @@ address: 14 Smith's Court, Soho, W1D 7DQ
 website: https://thesecondshelf.com/
 twitter: SecondShelfBks
 description: Focuses on rare books, first editions, and manuscripts by women.
+bluestocking: https://www.bluestockingbooks.co.uk/single-post/2019/04/05/Secret-2-The-new-kid-on-the-block
 lat: 51.511545
 long: -0.13497774
 new: unknown
@@ -3401,7 +3402,7 @@ photo: https://www.flickr.com/photos/kake_pugh/26265698930/
 description: <a href="http://westendextra.com/article/chapter-closes-on-the-society-club-in-soho">Closed down in mid-2017</a>; was a bookshop, gallery, teashop, and bar.
 ft: http://howtospendit.ft.com/personal-luxuries/6785-the-society-club
 foodiebugle: http://web.archive.org/web/20160927192137/http://thefoodiebugle.com/article/eating-out/the-society-club
-lauraashley: http://www.lauraashley.com/blog/uncategorized/the-society-club/
+lauraashley: http://web.archive.org/web/20170415141203/http://www.lauraashley.com/blog/uncategorized/the-society-club/
 pandorian: http://web.archive.org/web/20131125163524/http://thepandorian.com:80/2012/09/the-society-club/
 lat: 51.513108
 long: -0.13563757
@@ -3505,16 +3506,17 @@ checked: December 2012
 ---
 id: stanfords-covent-garden
 name: Stanfords
-address: 12-14 Long Acre, WC2E 9LP
+address: 7 Mercer Walk, Covent Garden, WC2H 9FA
+description: Famous map shop.  Previously at 12-14 Long Acre (<a href="https://flickr.com/photos/55935853@N00/3229310783/">photo</a>) but moved to Mercer Walk in early 2019.
 rgl: https://london.randomness.org.uk/wiki.cgi?Stanfords,_Covent_Garden
-photo: https://flickr.com/photos/55935853@N00/3229310783/
 website: http://www.stanfords.co.uk/
-long: -0.126117
-lat: 51.512127
+lat: 51.513076
+long: -0.12547736
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: January 2019
 ---
 id: stephen-foster-bookshop
 name: Stephen Foster Bookshop
