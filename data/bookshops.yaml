@@ -3974,12 +3974,13 @@ id: waterstones-jubilee-place
 name: Waterstones (Jubilee Place, Canary Wharf)
 address: 45 Bank Street, E14 5NY
 website: http://www.waterstones.com/
+description: <a href="https://twitter.com/waterstonesjp/status/1009865750864187393">Closed down for good</a> in July 2018.
 lat: 51.503029
 long: -0.018589586
 new: yes
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: waterstones-kensington-high-street
 name: Waterstones (Kensington High Street)
