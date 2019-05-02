@@ -3264,6 +3264,17 @@ secondhand: yes
 charity: no
 open: yes
 ---
+id: round-table-books-brixton
+name: Round Table Books
+address: 97 Granville Arcade, Brixton Village, SW9 8SP
+website: http://www.roundtablebooks.co.uk/
+twitter: BooksRound
+description: Children's bookshop dedicated to inclusive representation.  It <a href="https://twitter.com/_KnightsOf/status/1123839744092311552">opened in May 2019</a>.
+lat: 51.462450
+long: -0.11157292
+charity: no
+open: yes
+---
 id: rye-books-east-dulwich
 name: Rye Books
 address: 47 North Cross Road, East Dulwich, SE22 9ET
