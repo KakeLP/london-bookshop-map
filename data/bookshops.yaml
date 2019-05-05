@@ -3239,6 +3239,7 @@ id: riverside-bookshop
 name: Riverside Bookshop
 address: Unit 15, Hay's Galleria, 57 Tooley Street, SE1 2QN
 phone: 020 7378 1824
+photo: https://www.flickr.com/photos/kake_pugh/46826022935/
 description: Independent bookshop near London Bridge Station.  Previously in Hay's Galleria (<a href="http://flickr.com/photos/kake_pugh/2474855655/">photo</a>), it <a href="http://www.london-se1.co.uk/news/view/8039">moved to Tooley Street</a> around the start of 2015.
 rgl: https://london.randomness.org.uk/wiki.cgi?Riverside_Bookshop,_SE1_2QN
 blog: https://theriversideway.wordpress.com/
@@ -3249,6 +3250,7 @@ new: yes
 secondhand: no
 charity: no
 open: yes
+checked: April 2019
 ---
 id: robert-frew-south-kensington
 name: Robert Frew Ltd
