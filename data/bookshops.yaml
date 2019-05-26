@@ -825,7 +825,8 @@ open: yes
 ---
 id: brixton-bookmongers
 name: Brixton Bookmongers
-address: 439 Coldharbour Lane, SW9 8LN.
+address: 439 Coldharbour Lane, SW9 8LN
+website: http://www.bookmongers.com/
 rgl: https://london.randomness.org.uk/wiki.cgi?Brixton_Book_Mongers
 photo: https://www.flickr.com/photos/kake_pugh/2809290205/
 lat: 51.461426
@@ -3270,12 +3271,17 @@ id: round-table-books-brixton
 name: Round Table Books
 address: 97 Granville Arcade, Brixton Village, SW9 8SP
 website: http://www.roundtablebooks.co.uk/
+photo: https://www.flickr.com/photos/kake_pugh/47936171097/
 twitter: BooksRound
+rgl: https://london.randomness.org.uk/wiki.cgi?Round_Table_Books,_SW9_8SP
 description: Children's bookshop dedicated to inclusive representation.  It <a href="https://twitter.com/_KnightsOf/status/1123839744092311552">opened in May 2019</a>.
-lat: 51.462450
-long: -0.11157292
+lat: 51.462203
+long: -0.11149903
 charity: no
+new: yes
+secondhand: no
 open: yes
+checked: May 2019
 ---
 id: rye-books-east-dulwich
 name: Rye Books
