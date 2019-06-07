@@ -3714,8 +3714,7 @@ open: yes
 id: travelling-through-waterloo
 name: Travelling Through...
 address: 131 Lower Marsh, Waterloo, SE1 7AE
-website: http://www.travellingthrough.co.uk/
-description: Travel bookshop and cafe.
+description: Travel bookshop and cafe.  <a href="https://mailchi.mp/197887c50f8f/may-events-at-travelling-through-1614369">Closed down at the end of May 2019</a>.
 tiredoflondon: http://www.tiredoflondontiredoflife.com/2015/04/buy-books-at-travelling-through.html
 londonbooks: http://londonbooks.tumblr.com/post/119176903061/
 photo: https://www.flickr.com/photos/kake_pugh/21158942026/
@@ -3724,7 +3723,7 @@ long: -0.11380036
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: November 2017
 ---
 id: travis-and-emery-cecil-court
