@@ -4230,14 +4230,13 @@ checked: June 2014
 id: wood-street-bookshop
 name: Wood Street Non-Fiction Secondhand Book Shop
 address: 118 Wood Street, Walthamstow, E17 3HX
-phone: 07947 795099
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2089
+description: Closed down by March 2018.
 lat: 51.587860
 long: -0.0039692670
 new: unknown
 secondhand: yes
 charity: no
-open: yes
+open: no
 ---
 id: woolfson-and-tay-bankside
 name: Woolfson & Tay
