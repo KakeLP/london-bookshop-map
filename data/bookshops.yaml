@@ -913,7 +913,6 @@ id: caravanserail-shoreditch
 name: Caravanserail
 address: 5 Cheshire Street, Shoreditch, E2 6ED
 description: French and English bookshop.
-website: https://www.caravanserail.co.uk/
 twitter: _caravanserail_
 phone: 020 7059 0273
 description: <a href="https://twitter.com/_caravanserail_/status/1115657927958855680">Closed down</a> in April 2019.
@@ -2109,7 +2108,6 @@ address: 306-308 Kennington Road, SE11 4LD
 rgl: https://london.randomness.org.uk/wiki.cgi?Kennington_Bookshop
 photo: https://flickr.com/photos/kake_pugh/2327287163/
 description: This <a href="http://web.archive.org/web/20150601093957/http://www.thekbookshop.com/">closed for good</a> on <a href="http://web.archive.org/web/20150601094044/https:/twitter.com/thekbookshop/status/567265163863396352">31 May 2015</a>.
-website: http://www.thekbookshop.com/
 long: -0.111794
 lat: 51.486713
 new: yes
@@ -2188,7 +2186,7 @@ name: Lamb Bookshop
 address: 40 Lamb's Conduit Street, WC1N 3LJ
 website: http://web.archive.org/web/20130729034250/http://www.thelambbookshop.co.uk/
 photo: https://flickr.com/photos/kake_pugh/2852000214/
-description: <a href="http://archive.westendextra.com/news/2013/mar/its-final-chapter-independent-bookshop-hit-rent-rise">Closed down</a> in March 2013.
+description: <a href="http://web.archive.org/web/20170415160335/http://archive.westendextra.com/news/2013/mar/its-final-chapter-independent-bookshop-hit-rent-rise">Closed down</a> in March 2013.
 long: -0.118039
 lat: 51.521454
 new: unknown
@@ -4158,7 +4156,7 @@ checked: September 2014
 id: whsmiths-croydon
 name: WHSmiths (Croydon)
 address: 34 North End, CR0 1UB
-website: http://www.whsmith.co.uk/Support/StoreDetail.aspx?StoreID=2566
+website: http://www.whsmith.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/7147931631/
 cgc: http://croydon.randomness.org.uk/wiki.cgi?WHSmith,_34_North_End
 lat: 51.3747698985094
@@ -4172,7 +4170,7 @@ checked: April 2017
 id: whsmith-victoria-station
 name: WHSmith (Victoria Station)
 address: Victoria Station, SW1V 1JT
-website: http://www.whsmith.co.uk/Support/StoreDetail.aspx?StoreID=7207
+website: http://www.whsmith.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/8277876635/
 lat: 51.495747
 long: -0.14475308
