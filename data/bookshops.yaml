@@ -2965,17 +2965,15 @@ checked: July 2016
 id: pathfinder-books
 name: Pathfinder Books
 address: First Floor, 120 Bethnal Green Road, E2 6DG
-description: Despite the address, the entrance is on Brick Lane.  This is a volunteer-run bookshop with no set opening hours, and it's best to phone ahead of time to check when they'll be open.
-phone: 020 7613 2466
+description: Now closed.  Despite the address, the entrance was on Brick Lane.  This was a volunteer-run bookshop with no set opening hours.
 rgl: https://london.randomness.org.uk/wiki.cgi?Pathfinder_Books,_E2_6DG
-website: http://www.pathfinderpress.com/s.nl/sc.9/category.249/.f
 photo: https://www.flickr.com/photos/kake_pugh/5606612947/
 long: -0.071588
 lat: 51.524830
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: October 2012
 ---
 id: persephone-bookshop-bloomsbury
