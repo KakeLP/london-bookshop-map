@@ -898,15 +898,16 @@ open: yes
 id: camden-lock-books-old-street
 name: Camden Lock Books
 address: 4 St Agnes Well, Old Street Station, EC1Y 1BE
-website: http://www.camdenlockbooks.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/28710530426/
+bookseller: https://www.thebookseller.com/news/camden-lock-books-closes-partly-due-business-rates-pressure-1011181
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1529
+description: <a href="https://twitter.com/camdenlockbooks/status/1155101981544976384">Closed down for good</a> in July 2019.
 lat: 51.525593
 long: -0.087569
 new: yes
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: July 2016
 ---
 id: childrens-bookshop-hornsey-road
