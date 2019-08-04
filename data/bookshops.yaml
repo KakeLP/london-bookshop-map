@@ -909,18 +909,6 @@ charity: no
 open: yes
 checked: July 2016
 ---
-id: caravanserail-shoreditch
-name: Caravanserail
-address: 5 Cheshire Street, Shoreditch, E2 6ED
-description: French and English bookshop.
-twitter: _caravanserail_
-phone: 020 7059 0273
-description: <a href="https://twitter.com/_caravanserail_/status/1115657927958855680">Closed down</a> in April 2019.
-spitalfieldslife: http://spitalfieldslife.com/2018/03/22/at-caravanserail/
-lat: 51.523541
-long: -0.070959717
-open: no
----
 id: childrens-bookshop-hornsey-road
 name: Children's Bookshop (Hornsey Road)
 address: 435 Hornsey Road, N19 4DX
@@ -1317,7 +1305,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
-checked: September 2013
+checked: August 2019
 ---
 id: burley-fisher-books-dalston
 name: Burley Fisher Books
@@ -2899,6 +2887,18 @@ charity: yes
 open: yes
 checked: March 2014
 ---
+id: pages-of-cheshire-street
+name: Pages of Cheshire Street
+address: 5 Cheshire Street, Shoreditch, E2 6ED
+website: https://pagescheshirestreet.co.uk/
+phone: 020 7059 0273
+photo: https://www.flickr.com/photos/kake_pugh/48451564466/
+description: Sister shop to <a href="pages-of-hackney.html">Pages of Hackney</a>; this one stocks books by female, trans, and gender diverse authors.  The premises were previously occupied by a French and English bookshop called Caravanserail, which <a href="https://twitter.com/_caravanserail_/status/1115657927958855680">closed down</a> in April 2019 (see <a href="http://spitalfieldslife.com/2018/03/22/at-caravanserail/">Spitalfields Life article</a>).
+lat: 51.523541
+long: -0.070959717
+open: yes
+checked: August 2019
+---
 id: pages-of-fun-westminster
 name: Pages of Fun
 address: 2 Victoria Arcade, SW1E 5ND
@@ -3674,14 +3674,13 @@ id: this-shop-rocks
 name: This Shop Rocks
 address: 131 Brick Lane, E1 6SE
 photo: https://www.flickr.com/photos/kake_pugh/9977936895/
-description: Second-hand and vintage shop, with a second-hand bookshop in the basement.
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1921
+description: Closed down by August 2019.  This was a second-hand and vintage shop with a second-hand bookshop in the basement.
 lat: 51.523689
 long: -0.071484491
 new: no
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: September 2013
 ---
 id: tindley-and-everett-cecil-court
