@@ -341,6 +341,7 @@ open: yes
 id: black-gull-books-camden
 name: Black Gull Books (Camden)
 address: 70-71 Camden Lock Place, Camden Lock Market, NW1 8AF
+photo: https://www.flickr.com/photos/kake_pugh/48676221801/
 londonbooks: http://londonbooks.tumblr.com/post/109142890441/black-gull-books-nw1-fight-through-the-crowds
 lat: 51.541279
 long: -0.146556
@@ -348,6 +349,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2019
 ---
 id: black-gull-books-east-finchley
 name: Black Gull Books (East Finchley)
