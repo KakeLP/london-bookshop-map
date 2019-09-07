@@ -1663,6 +1663,16 @@ secondhand: unknown
 charity: no
 open: no
 ---
+id: greenwich-book-time
+name: Greenwich Book Time
+address: 277 Greenwich High Road, SE10 8NB
+twitter: GreenwichBookT
+photo: https://www.flickr.com/photos/kake_pugh/48693740313/
+lat: 51.479460
+long: -0.010091409
+open: yes
+checked: September 2019
+---
 id: guanghwa-books
 name: Guanghwa Books
 address: 112 Shaftesbury Avenue, Chinatown, W1D 5EJ
@@ -2059,6 +2069,7 @@ id: junk-shop-greenwich
 name: Junk Shop
 address: 9 Greenwich South Street, SE10 8NW
 description: Stuff from house clearances including books.
+photo: https://www.flickr.com/photos/kake_pugh/48693741248/
 thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1252
 greenwichphantom: http://www.thegreenwichphantom.co.uk/2013/01/junk-shop-tea-rooms/
 long: -0.012038
@@ -2067,6 +2078,7 @@ new: no
 secondhand: yes
 charity: no
 open: yes
+checked: September 2019
 ---
 id: karnac-books-finchley-road
 name: Karnac Books
@@ -2530,6 +2542,7 @@ id: naval-maritime-books-greenwich
 name: Naval and Maritime Books
 address: 66 Royal Hill, SE10 8RT
 website: http://www.navalandmaritimebooks.com/
+photo: https://www.flickr.com/photos/kake_pugh/48694255242/
 tol: http://www.tiredoflondontiredoflife.com/2010/05/shop-for-nautical-novels-at-maritime.html
 londonbooks: http://londonbooks.tumblr.com/post/134650567296/
 long: -0.009634
@@ -2538,6 +2551,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: September 2019
 ---
 id: new-cross-learning
 name: New Cross Learning
