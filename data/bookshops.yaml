@@ -487,16 +487,16 @@ open: yes
 id: book-box
 name: Book Box
 address: 53 Chatsworth Road, E5 0LH
-website: http://bookboxonline.tbpcontrol.co.uk/tbp.direct/customeraccesscontrol/home.aspx?d=bookboxonline&amp;s=C&amp;r=10000788&amp;ui=0&amp;bc=0
 photo: https://www.flickr.com/photos/55935853@N00/3445053887/
 londonist: http://londonist.com/2010/10/biblio-text_the_bookbox.php
+description: Closed down by June 2014.
 lat: 51.553326
 long: -0.044889
 new: unknown
 secondhand: unknown
 checked: March 2009
 charity: no
-open: yes
+open: no
 ---
 id: bookcase
 name: Bookcase
@@ -3380,7 +3380,7 @@ name: Ship of Adventures
 address: 138 Kingsland High Street, Dalston, E8 2NS
 photo: https://www.flickr.com/photos/kake_pugh/28804008272/
 description: Bookshop, gift shop, cafe, and events space run by The Hackney Pirates youth learning charity.
-website: http://www.hackneypirates.org/shipofadventures/
+website: http://www.hackneypirates.org/
 twitter: ShipOAdventures
 londonbooks: http://londonbooks.tumblr.com/post/145094918241/
 lat: 51.550285
