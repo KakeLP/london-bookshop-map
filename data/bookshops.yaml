@@ -3239,6 +3239,17 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: ripley-and-lambert-dalston
+name: Ripley & Lambert
+address: 542 Kingsland Road, Dalston, E8 4AH
+website: https://www.ripleyandlambert.com/
+twitter: RipAndLamb
+description: Specialist film bookshop and cafe.
+hackneycitizen: https://www.hackneycitizen.co.uk/2019/10/14/ripley-and-lambert-dalston-cafe-film/
+lat: 51.544760
+long: -0.075832352
+open: yes
+---
 id: ripping-yarn
 name: Ripping Yarns
 address: 355 Archway Road, N6 4EJ
