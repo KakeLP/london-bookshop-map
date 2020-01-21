@@ -3625,15 +3625,15 @@ checked: December 2012
 id: swan-books-upminster
 name: Swan Books
 address: 27 Corbets Tey Road, RM14 2AR
-website: http://www.swanbooks.co.uk/
 rgl: https://london.randomness.org.uk/wiki.cgi?Swan_Books
 photo: https://www.flickr.com/photos/kake_pugh/3638325988/
+description: After eight decades of trading, Swan Books <a href="https://twitter.com/SwanBooks/status/1218307375502893057">closed down for good</a> in January 2020.
 long: 0.248780
 lat: 51.554955
 new: yes
 secondhand: no
 charity: no
-open: yes
+open: no
 checked: September 2017
 ---
 id: swedenborg-society-bookshop
