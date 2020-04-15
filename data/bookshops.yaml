@@ -5,7 +5,6 @@ address: 18 Lower Richmond Road, Putney, SW15 1JP
 locales: Putney, SW15
 website: http://30thcenturycomics.co.uk/
 phone: 020 8788 2052
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2203
 lat: 51.467219
 long: -0.21823445
 photo: https://www.flickr.com/photos/kake_pugh/34432259805/
@@ -463,7 +462,6 @@ address: 20 Norwood High Street, West Norwood, SE27 9NR
 twitter: BooknRecordBar
 phone: 020 8670 9568
 photo: https://www.flickr.com/photos/kake_pugh/47971742412/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2219
 lat: 51.430623
 long: -0.10207643
 new: unknown
@@ -541,7 +539,7 @@ address: 1 Bloomsbury Street, WC1B 3QE
 website: http://www.bookmarksbookshop.co.uk/cgi/store/bookmark.cgi
 twitter: Bookmarks_books
 rgl: https://london.randomness.org.uk/wiki.cgi?Bookmarks,_WC1B_3QE
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2609
+thebookguide: http://web.archive.org/web/20170708034058/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2609
 photo: https://www.flickr.com/photos/kake_pugh/45135845251/
 lat: 51.517155
 long: -0.127351
@@ -554,7 +552,7 @@ open: yes
 id: books4less
 name: Books4Less
 address: Unit 11, InShops Centre, 35-43 High Street, HA3 7AE
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1509
+thebookguide: http://web.archive.org/web/20120718200129/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1509
 lat: 51.594256
 long: -0.334770
 new: yes
@@ -858,7 +856,7 @@ address: 375 Brockley Road, Crofton Park, SE4 2AG
 twitter: CroftonBooks
 phone: 020 7998 8387
 description: Vintage bookshop based in Crofton Park Library.
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2607
+thebookguide: http://web.archive.org/web/20170708041825/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2607
 lat: 51.455444
 long: -0.036611751
 new: unknown
@@ -875,7 +873,6 @@ londonbooks: http://londonbooks.tumblr.com/post/142170258461/
 bluestocking: https://www.bluestockingbooks.co.uk/single-post/2019/03/02/Secret-1-The-first-bookshop-uncovered
 website: http://bryarsandbryars.co.uk/
 phone: 020 7836 1910
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1685
 lat: 51.510703
 long: -0.127422
 new: unknown
@@ -902,7 +899,7 @@ name: Camden Lock Books
 address: 4 St Agnes Well, Old Street Station, EC1Y 1BE
 photo: https://www.flickr.com/photos/kake_pugh/28710530426/
 bookseller: https://www.thebookseller.com/news/camden-lock-books-closes-partly-due-business-rates-pressure-1011181
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1529
+thebookguide: http://web.archive.org/web/20120718201326/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1529
 description: <a href="https://twitter.com/camdenlockbooks/status/1155101981544976384">Closed down for good</a> in July 2019.
 lat: 51.525593
 long: -0.087569
@@ -1093,19 +1090,19 @@ address: 37 Hartfield Road, SW19 3SG
 yelp: http://www.yelp.co.uk/biz/copperfield-bookshop-london
 londonbooks: http://londonbooks.tumblr.com/post/137009405056/
 photo: https://www.flickr.com/photos/kake_pugh/3676830134/
-description: Possibly closed.  According to a comment on <a href="https://www.inprint.co.uk/thebookguide/shops/multi.php?id=840">its Bookshop Guide page</a>, it was due to close at the end of July 2018.  Going past on the bus in September 2018, we saw the door open and someone taking boxes in or out.  However, when we returned on foot shortly after (within the advertised opening hours) the door was locked and there was no response to knocking.  There did still appear to be a small amount of stock inside and in the window (<a href="https://www.flickr.com/photos/kake_pugh/30725724128/">photo</a>).
+description: Closed down by Spring 2019.
 long: -0.205586
 lat: 51.419537
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: June 2009
 ---
 id: croydon-bookshop
 name: Croydon Bookshop
 address: 304 Carshalton Road, SM5 3QB
-description: <a href="http://www.inprint.co.uk/thebookguide/shops/news.php?y=16">According to The Book Guide</a>, the Croydon Bookshop closed down in 2016 after 45 years, due to retirement of the owner.
+description: <a href="http://web.archive.org/web/20170129172118/http://www.inprint.co.uk/thebookguide/shops/news.php?y=16">According to The Book Guide</a>, the Croydon Bookshop closed down in 2016 after 45 years, due to retirement of the owner.
 londonbooks: http://londonbooks.tumblr.com/post/134204103091/
 long: -0.173378
 lat: 51.362991
@@ -1356,7 +1353,7 @@ open: yes
 id: faction-bookshop-lee
 name: Faction Bookshop
 address: 2 Leegate, Lee, SE12 8SS
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2334
+thebookguide: http://web.archive.org/web/20150927044802/http://www.inprint.co.uk:80/thebookguide/shops/multi.php?id=2334
 londonbooks: http://londonbooks.tumblr.com/post/86225359416/faction-bookshop-se12-a-very-fortuitous
 lat: 51.455556
 long: 0.011987194
@@ -1625,7 +1622,6 @@ name: Goldsboro Books
 address: 23-27 Cecil Court, Covent Garden, WC2N 4EZ
 description: Specialist in signed modern first editions.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30548378421/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1169
 website: http://www.goldsborobooks.com/
 phone: 020 7497 9230
 lat: 51.510686
@@ -2004,7 +2000,7 @@ name: Jonathan Potter Ltd
 address: 52a George Street, Marylebone, W1U 7EA
 description: Moved to Bath in Autumn 2015.
 website: http://jpmaps.co.uk/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=892
+thebookguide: http://web.archive.org/web/20160806040755/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=892
 lat: 51.517664
 long: -0.15455653
 new: unknown
@@ -2071,7 +2067,6 @@ name: Junk Shop
 address: 9 Greenwich South Street, SE10 8NW
 description: Stuff from house clearances including books.
 photo: https://www.flickr.com/photos/kake_pugh/48693741248/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1252
 greenwichphantom: http://www.thegreenwichphantom.co.uk/2013/01/junk-shop-tea-rooms/
 long: -0.012038
 lat: 51.477554
@@ -2271,7 +2266,7 @@ address: 9 Mortlake Terrace, Kew, TW9 3DT
 photo: https://flickr.com/photos/kake_pugh/2704615672/
 robaroundbooks: http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/
 londonbooks: http://londonbooks.tumblr.com/post/117107607906/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2615
+thebookguide: http://web.archive.org/web/20170811033237/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2615
 flickr: http://www.flickr.com/photos/53264755@N00/sets/72157594520880134/
 long: -0.286426
 lat: 51.482605
@@ -2343,7 +2338,7 @@ website: http://www.maggs.com/
 twitter: MaggsBros
 phone: 020 7493 7160
 description: Rare books and manuscripts.  It also has <a href="/shops/maggs-bros-mayfair.html">a branch in Mayfair</a>.
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=882
+thebookguide: http://web.archive.org/web/20170708041800/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=882
 lat: 51.518599
 long: -0.12935449
 secondhand: yes
@@ -2407,7 +2402,6 @@ description: Specialist in rare children's and illustrated books.  Located on <a
 londonbooks: http://londonbooks.tumblr.com/post/120350699321/
 photo: https://www.flickr.com/photos/kake_pugh/30519768352/
 phone: 020 7836 8661
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=756
 lat: 51.510745
 long: -0.127881
 new: unknown
@@ -2421,7 +2415,6 @@ name: Marcus Campbell Art Books
 address: 43 Holland Street, SE1 9JR
 website: http://www.marcuscampbell.co.uk/
 description: New, out-of-print, second-hand, and rare books on 20th century and contemporary art.
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2225
 lat: 51.507719
 long: -0.10186587
 new: yes
@@ -2559,7 +2552,6 @@ name: New Cross Learning
 address: 283-285 New Cross Road, SE14 6AS
 website: https://newxlearning.org/bookshop/
 description: Second-hand bookshop in a community-run space.
-thebookguide: https://www.inprint.co.uk/thebookguide/shops/multi.php?id=2667
 lat: 51.475433
 long: -0.038587198
 new: unknown
@@ -2659,7 +2651,7 @@ id: old-operating-theatre-bookshops
 name: The Old Operating Theatre Bookshop
 address: 9a St. Thomas's Street, SE1 9RY
 description: Small bookshop attached to the Old Operating Theatre Museum.
-website: http://www.thegarret.org.uk/shop.htm
+website: http://oldoperatingtheatre.com/visiting-us/gift-shop
 lat: 51.504969
 long: -0.088619784
 new: yes
@@ -3028,7 +3020,6 @@ name: Peter Ellis
 address: 18 Cecil Court, Covent Garden, WC2N 4HE
 description: Modern first editions and general antiquarian stock.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004558214/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=747
 website: http://www.peterellisbooks.com/
 phone: 020 7836 8880
 lat: 51.510744
@@ -3118,7 +3109,6 @@ address: 11 Cecil Court, Covent Garden, WC2N 4EZ
 description: Books relating to the performing arts, including magic/conjuring.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004561204/
 phone: 020 7836 1142
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=745
 lat: 51.510701
 long: -0.127602
 new: unknown
@@ -3202,7 +3192,6 @@ address: 385 Green Lanes, Palmers Green, N13 4JG
 website: http://www.redcross.org.uk/Where-we-work/In-the-UK/Southern-England/London/LocalServices/Shop?dpid=e7206e66-fd85-4f3c-93ff-431174225402
 lat: 51.619625
 long: -0.10709
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/town.php?findstring=PALMERS%20GREEN%20%20London
 yelp: http://www.yelp.co.uk/biz/british-red-cross-bookshop-london
 new: unknown
 secondhand: yes
@@ -3583,7 +3572,6 @@ name: Stephen Poole Fine Books
 address: 10 Cecil Court, Covent Garden, WC2N 4HE
 description: Specialist in modern first editions.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519769202/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1418
 londonbooks: http://londonbooks.tumblr.com/post/119937790910/
 phone: 020 7836 0999
 lat: 51.510749
@@ -3679,7 +3667,7 @@ open: yes
 id: tate-modern-bookshop
 name: Tate Modern Bookshop
 address: Bankside, SE1 9TG
-website: http://www.tate.org.uk/modern/
+website: https://shop.tate.org.uk/visitourshops.html
 lat: 51.5077055553573
 long: -0.0993807479910569
 new: yes
@@ -3718,7 +3706,6 @@ name: Tindley and Everett
 address: 4 Cecil Court, Covent Garden, WC2N 4HE
 description: Specialist in 20th century literature.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519770152/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=773
 londonbooks: http://londonbooks.tumblr.com/post/151231035166/
 lat: 51.510752
 long: -0.127362
@@ -3756,7 +3743,6 @@ name: Travis & Emery
 address: 17 Cecil Court, Covent Garden, WC2N 4EZ
 description: New and secondhand sheet music and music-related books.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519767242/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=771
 londonbooks: http://londonbooks.tumblr.com/post/120550908661/
 website: http://www.travis-and-emery.com/
 phone: 020 7240 2129
@@ -3813,7 +3799,7 @@ rgl: https://london.randomness.org.uk/wiki.cgi?Two_Jays_Bookshop
 photo: https://flickr.com/photos/kake_pugh/2910907296/
 long: -0.280538
 lat: 51.611553
-description: According to <a href="http://www.inprint.co.uk/thebookguide/shops/news.php">thebookguide</a>, Two Jays closed in late 2013 after 37 and a half years in business.
+description: <a href="http://web.archive.org/web/20171007083038/http://www.inprint.co.uk/thebookguide/shops/news.php">According to The Book Guide</a>, Two Jays closed in late 2013 after 37 and a half years in business.
 new: unknown
 secondhand: yes
 charity: no
@@ -4126,7 +4112,6 @@ name: Watkins Books
 address: 19-21 Cecil Court, Covent Garden, WC2N 4EZ
 description: Esoteric bookshop on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004563224/
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=777
 londonbooks: http://londonbooks.tumblr.com/post/133260173646/
 website: http://www.watkinsbooks.com/
 phone: 020 7836 2182
@@ -4358,7 +4343,6 @@ name: World's End Bookshop
 address: 357 Kings Road, SW3 5ES
 photo: https://www.flickr.com/photos/kake_pugh/15714748716/
 phone: 020 7352 9376
-thebookguide: http://www.inprint.co.uk/thebookguide/shops/multi.php?id=865
 long: -0.176682
 lat: 51.483883
 new: unknown
