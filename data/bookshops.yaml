@@ -1245,7 +1245,7 @@ open: yes
 id: dulwich-books
 name: Dulwich Books
 address: 6 Croxted Road, SE21 8SW
-website: http://www.dulwichbooks.co.uk/
+website: https://dulwichbooks.co.uk/
 twitter: DulwichBooks
 long: -0.090444
 lat: 51.436676
@@ -2173,7 +2173,7 @@ checked: October 2014
 id: koenig-books-serpentine
 name: Koenig Books (Serpentine Gallery)
 address: Serpentine Gallery, Kensington Gardens, W2 3XA
-website: http://www.serpentinegallery.org/bookshop.html
+website: https://www.serpentinegalleries.org/visit/the-serpentine-shop/
 lat: 51.504718
 long: -0.17497578
 new: unknown
@@ -2651,7 +2651,7 @@ id: old-operating-theatre-bookshops
 name: The Old Operating Theatre Bookshop
 address: 9a St. Thomas's Street, SE1 9RY
 description: Small bookshop attached to the Old Operating Theatre Museum.
-website: http://oldoperatingtheatre.com/visiting-us/gift-shop
+website: http://oldoperatingtheatre.com/
 lat: 51.504969
 long: -0.088619784
 new: yes
@@ -4151,7 +4151,7 @@ checked: February 2013
 id: west-end-lane-books
 name: West End Lane Books
 address: 277 West End Lane, NW6 1QS
-website: http://welbooks.co.uk/the_shop/
+website: https://www.welbooks.co.uk/
 twitter: WELBooks
 londonist: http://londonist.com/2009/03/biblio-text_west_end_lane_books.php
 tol: http://www.tiredoflondontiredoflife.com/2011/09/buy-books-at-west-end-lane-books.html
