@@ -3,7 +3,7 @@ name: 30th Century Comics
 description: Vintage comic and book shop.
 address: 18 Lower Richmond Road, Putney, SW15 1JP
 locales: Putney, SW15
-website: http://30thcenturycomics.co.uk/
+website: https://30thcenturycomics.co.uk/
 phone: 020 8788 2052
 lat: 51.467219
 long: -0.21823445
@@ -30,9 +30,9 @@ open: yes
 id: alice-through-the-looking-glass-cecil-court
 name: Alice Through The Looking Glass
 address: 14 Cecil Court, Covent Garden, WC2N 4HE
-description: First editions and rare illustrated editions relating to Lewis Carroll's Alice.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: First editions and rare illustrated editions relating to Lewis Carroll's Alice.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519769222/
-website: http://alicelooking.co.uk/
+website: https://alicelooking.co.uk/
 phone: 020 7836 8854
 lat: 51.510747
 long: -0.127826
@@ -42,7 +42,7 @@ checked: October 2016
 id: alligators-mouth-richmond
 name: The Alligator's Mouth
 address: 2a Church Court, Richmond, TW9 1JL
-website: http://www.thealligatorsmouth.co.uk/
+website: https://www.thealligatorsmouth.co.uk/
 twitter: AlligatorsMouth
 phone: 020 8948 6775
 photo: https://www.flickr.com/photos/kake_pugh/33814046704/
@@ -59,8 +59,8 @@ locales: E11, Leytonstone
 description: Bookshop, cafe, and bar.  Originally a pop-up, now permanent.
 website: http://www.allyoureadislove.com/
 twitter: AllYouReadLove
-elweguardian: http://www.guardian-series.co.uk/news/11711953.Danish_siblings_bring_Scandinavian_book_cafe_to_Leytonstone/
-leytonstoner: http://www.leytonstoner.london/2015/02/23/read-love-really/
+elweguardian: https://www.guardian-series.co.uk/news/11711953.Danish_siblings_bring_Scandinavian_book_cafe_to_Leytonstone/
+leytonstoner: https://www.leytonstoner.london/2015/02/23/read-love-really/
 lat: 51.570393
 long: 0.014117271
 new: unknown
@@ -114,7 +114,7 @@ checked: July 2013
 id: any-amount-of-books
 name: Any Amount of Books
 address: 56 Charing Cross Road
-website: http://www.anyamountofbooks.com/
+website: https://www.anyamountofbooks.com/
 rgl: https://london.randomness.org.uk/wiki.cgi?Any_Amount_Of_Books
 photo: https://www.flickr.com/photos/ruudboy/1269876498/
 new: no
@@ -128,10 +128,10 @@ open: yes
 id: a-place-in-space-croydon
 name: A Place In Space
 address: 96 Church Street, CR0 1RD
-description: Comics and graphic novels.  It was previously across the road at number 101 (<a href="http://www.flickr.com/photos/kake_pugh/6883401397/">photo</a>), but moved to number 96 around 2012-2013.
-website: http://stores.ebay.co.uk/A-PLACE-IN-SPACE
+description: Comics and graphic novels.  It was previously across the road at number 101 (<a href="https://www.flickr.com/photos/kake_pugh/6883401397/">photo</a>), but moved to number 96 around 2012-2013.
+website: https://www.ebay.co.uk/str/aplaceinspace
 photo: https://www.flickr.com/photos/kake_pugh/8479158457/
-cgc: http://croydon.randomness.org.uk/wiki.cgi?A_Place_In_Space,_101_Church_Street
+cgc: https://croydon.randomness.org.uk/wiki.cgi?A_Place_In_Space,_96_Church_Street
 lat: 51.373889
 long: -0.104669
 new: yes
@@ -171,7 +171,7 @@ checked: October 2018
 id: artwords
 name: Artwords
 address: 69 Rivington Street, EC2A 3QQ
-website: http://www.artwords.co.uk/aboutus/
+website: https://www.artwords.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/28124749104/
 londonist: http://londonist.com/2009/09/biblio-text_artwords.php
 lat: 51.526207
@@ -867,7 +867,7 @@ open: yes
 id: bryars-and-bryars-cecil-court
 name: Bryars & Bryars
 address: 7 Cecil Court, Covent Garden, WC2N 4EZ
-description: First editions at a wide range of prices, with a special focus on travel books, literature, and early printing (especially Greek and Latin classics) as well as antique maps and atlases printed c. 1500-1950.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: First editions at a wide range of prices, with a special focus on travel books, literature, and early printing (especially Greek and Latin classics) as well as antique maps and atlases printed c. 1500-1950.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004560154/
 londonbooks: http://londonbooks.tumblr.com/post/142170258461/
 bluestocking: https://www.bluestockingbooks.co.uk/single-post/2019/03/02/Secret-1-The-first-bookshop-uncovered
@@ -1620,7 +1620,7 @@ checked: May 2014
 id: goldsboro-books-cecil-court
 name: Goldsboro Books
 address: 23-27 Cecil Court, Covent Garden, WC2N 4EZ
-description: Specialist in signed modern first editions.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Specialist in signed modern first editions.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30548378421/
 website: http://www.goldsborobooks.com/
 phone: 020 7497 9230
@@ -2264,7 +2264,7 @@ id: lloyds-of-kew
 name: Lloyd's of Kew
 address: 9 Mortlake Terrace, Kew, TW9 3DT
 photo: https://flickr.com/photos/kake_pugh/2704615672/
-robaroundbooks: http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/
+robaroundbooks: http://web.archive.org/web/20170610045601/http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/
 londonbooks: http://londonbooks.tumblr.com/post/117107607906/
 thebookguide: http://web.archive.org/web/20170811033237/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2615
 flickr: http://www.flickr.com/photos/53264755@N00/sets/72157594520880134/
@@ -2398,7 +2398,7 @@ checked: December 2012
 id: marchpane-cecil-court
 name: Marchpane
 address: 16 Cecil Court, Covent Garden, WC2N 4HE
-description: Specialist in rare children's and illustrated books.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Specialist in rare children's and illustrated books.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 londonbooks: http://londonbooks.tumblr.com/post/120350699321/
 photo: https://www.flickr.com/photos/kake_pugh/30519768352/
 phone: 020 7836 8661
@@ -2483,7 +2483,7 @@ name: Muswell Hill Bookshop
 address: 72 Fortis Green Road, N10 3HN
 website: http://www.muswellhillbookshop.com/
 twitter: muswellhillbks
-londonist: http://londonist.com/2009/02/biblio-text_muswell_hill_bookshop.php
+londonist: https://londonist.com/2009/02/biblio-text_muswell_hill_bookshop
 photo: https://www.flickr.com/photos/kake_pugh/9460767036/
 long: -0.146041
 lat: 51.590096
@@ -3018,7 +3018,7 @@ open: yes
 id: peter-ellis-cecil-court
 name: Peter Ellis
 address: 18 Cecil Court, Covent Garden, WC2N 4HE
-description: Modern first editions and general antiquarian stock.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Modern first editions and general antiquarian stock.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004558214/
 website: http://www.peterellisbooks.com/
 phone: 020 7836 8880
@@ -3106,7 +3106,7 @@ open: yes
 id: pleasures-of-past-times-cecil-court
 name: Pleasures Of Past Times
 address: 11 Cecil Court, Covent Garden, WC2N 4EZ
-description: Books relating to the performing arts, including magic/conjuring.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Books relating to the performing arts, including magic/conjuring.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004561204/
 phone: 020 7836 1142
 lat: 51.510701
@@ -3342,7 +3342,6 @@ open: yes
 id: shalimar-kennington
 name: Shalimar
 address: 38 Kennington Lane, SE11 4LS
-website: http://www.indianbooksuk.com/
 description: Bookshop and distributor specialising in African, South Asian, and Caribbean books, including children's books.
 kenningtonrunoff: http://kenningtonrunoff.com/shalimar/
 lat: 51.491043
@@ -3435,7 +3434,7 @@ name: The Society Club
 address: 12 Ingestre Place, W1F 0JF
 photo: https://www.flickr.com/photos/kake_pugh/26265698930/
 description: <a href="http://westendextra.com/article/chapter-closes-on-the-society-club-in-soho">Closed down in mid-2017</a>; was a bookshop, gallery, teashop, and bar.
-ft: http://howtospendit.ft.com/personal-luxuries/6785-the-society-club
+ft: http://web.archive.org/web/20140812091201/http://howtospendit.ft.com/personal-luxuries/6785-the-society-club
 foodiebugle: http://web.archive.org/web/20160927192137/http://thefoodiebugle.com/article/eating-out/the-society-club
 lauraashley: http://web.archive.org/web/20170415141203/http://www.lauraashley.com/blog/uncategorized/the-society-club/
 pandorian: http://web.archive.org/web/20131125163524/http://thepandorian.com:80/2012/09/the-society-club/
@@ -3570,7 +3569,7 @@ checked: July 2009
 id: stephen-poole-fine-books-cecil-court
 name: Stephen Poole Fine Books
 address: 10 Cecil Court, Covent Garden, WC2N 4HE
-description: Specialist in modern first editions.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Specialist in modern first editions.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519769202/
 londonbooks: http://londonbooks.tumblr.com/post/119937790910/
 phone: 020 7836 0999
@@ -3678,7 +3677,7 @@ open: yes
 id: tenderbooks-cecil-court
 name: Tenderbooks
 address: 6 Cecil Court, Covent Garden, WC2N 4HE
-description: Art bookshop located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Art bookshop located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004559434/
 website: http://tenderbooks.co.uk/
 phone: 020 7379 9464
@@ -3704,7 +3703,7 @@ checked: September 2013
 id: tindley-and-everett-cecil-court
 name: Tindley and Everett
 address: 4 Cecil Court, Covent Garden, WC2N 4HE
-description: Specialist in 20th century literature.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Specialist in 20th century literature.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519770152/
 londonbooks: http://londonbooks.tumblr.com/post/151231035166/
 lat: 51.510752
@@ -3741,7 +3740,7 @@ checked: November 2017
 id: travis-and-emery-cecil-court
 name: Travis & Emery
 address: 17 Cecil Court, Covent Garden, WC2N 4EZ
-description: New and secondhand sheet music and music-related books.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: New and secondhand sheet music and music-related books.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519767242/
 londonbooks: http://londonbooks.tumblr.com/post/120550908661/
 website: http://www.travis-and-emery.com/
@@ -4110,7 +4109,7 @@ checked: September 2017
 id: watkins-books-cecil-court
 name: Watkins Books
 address: 19-21 Cecil Court, Covent Garden, WC2N 4EZ
-description: Esoteric bookshop on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Esoteric bookshop on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004563224/
 londonbooks: http://londonbooks.tumblr.com/post/133260173646/
 website: http://www.watkinsbooks.com/
@@ -4137,7 +4136,7 @@ long: -0.15079835
 id: wellspring-bookshop
 name: Wellspring Bookshop
 address: 5 New Oxford Street, WC1A 1BA
-website: http://www.wellspringbookshop.co.uk/
+website: https://www.wellspringbookshop.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/6447218629/
 description: Closed in June 2015, but continued to trade online.
 long: -0.123674
@@ -4355,7 +4354,7 @@ id: amwell-book-company
 name: Amwell Book Company
 address: 53 Amwell Street, EC1R 1UR
 description: Previously at 53 Amwell Street, EC1R 1UR, this bookshop <a href="http://web.archive.org/web/20111004014317/http://www.islingtontribune.com:80/news/2011/sep/amwell-bookshop-loses-battle-survive-hectic-age-online-browsers">closed to drop-in visitors</a> at the beginning of October 2011 and now trades online only.
-website: http://www.amwellbookcompany.co.uk/
+website: https://www.amwellbookcompany.co.uk/
 long: -0.110614
 lat: 51.529465
 open: no
