@@ -1850,16 +1850,18 @@ checked: August 2013
 id: house-of-hodge
 name: House Of Hodge
 address: 174 Blackstock Road, N5 1HA
-description: Charity bookshop.  The frontage has no sign except for an old one reading 'A Wilsher & Son'.
+description: Charity bookshop.
 andrewwhitehead: http://www.andrewwhitehead.net/1/post/2012/09/charity-begins-at-the-bookshop.html
 photo: https://www.flickr.com/photos/kake_pugh/9335707588/
+website: http://houseofhodge.org/
+phone: 020 8127 4765
 lat: 51.560016
 long: -0.09872
 new: unknown
 secondhand: yes
 charity: yes
 open: yes
-checked: July 2013
+checked: October 2020
 ---
 id: housmans-booksellers
 name: Housmans Booksellers
@@ -1890,9 +1892,8 @@ checked: May 2017
 ---
 id: ian-allan-bookshop-lower-marsh
 name: Ian Allan Bookshop
-address: 45-46 Lower Marsh, SE1 7RG.
-description: Specialists in transport and military — books, DVDs, models, etc.
-website: http://www.ianallanpublishing.com/our-shops.htm
+address: 45-46 Lower Marsh, SE1 7RG
+description: <a href="http://web.archive.org/web/20201101120100/http://www.ianallanpublishing.com/">Closed down at the end of October 2020</a>. It used to specialise in transport and military — books, DVDs, models, etc.
 photo: https://www.flickr.com/photos/kake_pugh/38359523531/
 londonbooks: http://londonbooks.tumblr.com/post/121042294003/
 long: -0.111923
@@ -1900,7 +1901,7 @@ lat: 51.501049
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: November 2017
 ---
 id: ibis-bookshop
