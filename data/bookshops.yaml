@@ -879,7 +879,7 @@ new: unknown
 secondhand: yes
 charity: no
 open: yes
-checked: October 2016
+checked: January 2021
 ---
 id: calder-bookshop-southwark
 name: Calder Bookshop
@@ -2151,11 +2151,11 @@ id: k-k-outlet-hoxton
 name: K K Outlet
 address: 42 Hoxton Square, N1 6PB
 website: http://www.kkoutlet.com/
-description: Bookshop and gallery.
+description: Bookshop and gallery which <a href="https://www.creativereview.co.uk/kk-outlet-returns-with-vans-store-takeover/">closed down in 2018</a>.
 londonbooks: http://londonbooks.tumblr.com/post/150576849227/
 lat: 51.527284
 long: -0.080649599
-open: yes
+open: no
 ---
 id: koenig-books-charing-cross-road
 name: Koenig Books (Charing Cross Road)
@@ -3019,16 +3019,15 @@ open: yes
 id: peter-ellis-cecil-court
 name: Peter Ellis
 address: 18 Cecil Court, Covent Garden, WC2N 4HE
-description: Modern first editions and general antiquarian stock.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: The Peter Ellis shop that was previously on Cecil Court has now closed.  However, as of early 2021 the owner is <a href="https://biblio.co.uk/bookstore/peter-ellis-bookseller-london">still trading from his home</a>.  Modern first editions and general antiquarian stock.
 photo: https://www.flickr.com/photos/kake_pugh/30004558214/
 website: http://www.peterellisbooks.com/
-phone: 020 7836 8880
 lat: 51.510744
 long: -0.127945
 new: unknown
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: October 2016
 ---
 id: peter-harrington-chelsea
@@ -3107,15 +3106,14 @@ open: yes
 id: pleasures-of-past-times-cecil-court
 name: Pleasures Of Past Times
 address: 11 Cecil Court, Covent Garden, WC2N 4EZ
-description: Books relating to the performing arts, including magic/conjuring.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Now closed.  It previously traded in books relating to the performing arts, including magic/conjuring, and was located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004561204/
-phone: 020 7836 1142
 lat: 51.510701
 long: -0.127602
 new: unknown
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: October 2016
 ---
 id: primrose-hill-books
@@ -3570,16 +3568,15 @@ checked: July 2009
 id: stephen-poole-fine-books-cecil-court
 name: Stephen Poole Fine Books
 address: 10 Cecil Court, Covent Garden, WC2N 4HE
-description: Specialist in modern first editions.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Now closed.  Previously a specialist in modern first editions located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519769202/
 londonbooks: http://londonbooks.tumblr.com/post/119937790910/
-phone: 020 7836 0999
 lat: 51.510749
 long: -0.127703
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: stoke-newington-bargain-bookshop
 name: Stoke Newington Bargain Bookshop
@@ -3848,16 +3845,15 @@ open: no
 id: village-bookshop-woodford-green
 name: Village Bookshop (Woodford)
 address: 475 High Road, IG8 0XE
-website: http://www.thevillagebookshop.co.uk/
-twitter: VillageBookshop
 rgl: https://london.randomness.org.uk/wiki.cgi?Village_Bookshop
+description: According to Google Street View, this closed down by August 2020.
 photo: https://www.flickr.com/photos/kake_pugh/34745142864/
 long: 0.021715
 lat: 51.610104
 new: yes
 secondhand: no
 charity: no
-open: yes
+open: no
 checked: June 2017
 ---
 id: village-books-wandsworth-common
