@@ -700,6 +700,19 @@ secondhand: yes
 charity: no
 open: no
 ---
+id: books-peckham
+name: Books Peckham
+address: 20 Maxted Road, Peckham, SE15 4LF
+website: https://books-peckham.com/
+description: Zines and second-hand paperbacks.  Entrance on Oglander Road.
+lat: 51.465810
+long: -0.072653
+new: yes
+secondhand: yes
+charity: no
+open: yes
+checked: April 2021
+---
 id: bookstop
 name: Bookstop
 address: 375 Upper Richmond Road, SW14 7NX
