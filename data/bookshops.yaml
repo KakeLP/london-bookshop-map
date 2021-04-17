@@ -2904,7 +2904,7 @@ address: 378 Muswell Hill Broadway, N10 1DJ
 phone: 0208 8835171
 lat: 51.5915
 long: -0.14255
-website: http://www.oxfam.org.uk/shop/local-shops/oxfam-bookshop-muswell-hill
+website: https://www.oxfam.org.uk/shops/oxfam-books-music-islington/
 photo: https://www.flickr.com/photos/kake_pugh/9460759018/
 new: unknown
 secondhand: unknown
@@ -2918,7 +2918,7 @@ address: 2 College Approach, Greenwich, SE10 9HY
 phone: 020 8305 1656
 lat: 51.481775
 long: -0.0097440630
-website: http://www.oxfam.org.uk/shop/local-shops/oxfam-bookshop-greenwich
+website: https://www.oxfam.org.uk/shops/oxfam-bookshop-greenwich/
 photo: https://www.flickr.com/photos/kake_pugh/13143992413/
 new: unknown
 secondhand: yes
@@ -2974,24 +2974,22 @@ open: no
 ---
 id: paper-and-cup-bow
 name: Paper & Cup (Bow)
-description: Second branch of the coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  This one opened in early 2013.  The <a href="http://londonbookshops.org/shops/paper-and-cup-shoreditch.html">original branch</a> is in Shoreditch.
+description: This has now closed, but was the second branch of the coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  It opened in early 2013, but according to Google Street View it closed down again by April 2017.  The <a href="http://londonbookshops.org/shops/paper-and-cup-shoreditch.html">original branch in Shoreditch</a> remained open.
 address: 83 St Paul's Way, E3 4AJ
-website: http://www.paperandcup.co.uk/
-twitter: PaperAndCup
 photo: https://www.flickr.com/photos/kake_pugh/31334166375/
 lat: 51.518015
 long: -0.026976
 new: unknown
 secondhand: unknown
 charity: unknown
-open: yes
+open: no
 checked: November 2016
 ---
 id: paper-and-cup-shoreditch
 name: Paper & Cup (Shoreditch)
-description: Coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  There's also <a href="http://londonbookshops.org/shops/paper-and-cup-bow.html">another branch</a> in Bow.
+description: Coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  There also used to be <a href="http://londonbookshops.org/shops/paper-and-cup-bow.html">another branch</a> in Bow, but that one has now closed.
 address: 18 Calvert Avenue, E2 7JP
-website: http://www.paperandcup.co.uk/
+website: https://www.sct.org.uk/social-enterprises/paper-cup/
 twitter: PaperAndCup
 lat: 51.526171
 long: -0.0763295
@@ -3215,7 +3213,7 @@ open: yes
 id: red-cross-palmers-green
 name: Red Cross Bookshop
 address: 385 Green Lanes, Palmers Green, N13 4JG
-website: http://www.redcross.org.uk/Where-we-work/In-the-UK/Southern-England/London/LocalServices/Shop?dpid=e7206e66-fd85-4f3c-93ff-431174225402
+website: https://www.redcross.org.uk/shop/find-a-charity-shop/palmers-green-bookshop
 lat: 51.619625
 long: -0.10709
 yelp: http://www.yelp.co.uk/biz/british-red-cross-bookshop-london
@@ -3391,7 +3389,7 @@ checked: July 2013
 id: shepherds-victoria
 name: Shepherds (Victoria)
 address: 76 Rochester Row, SW1P 1JU
-website: http://www.bookbinding.co.uk/Shepherds%20contacts.htm
+website: http://www.bookbinding.co.uk/
 description: Specialises in fine bindings.
 long: -0.13695051
 lat: 51.494105
@@ -3741,13 +3739,11 @@ checked: October 2016
 id: ti-pi-tin-stoke-newington
 name: Ti Pi Tin
 address: 47 Stoke Newington High Street, N16 8EL
-website: http://www.tipitin.com/
-twitter: tipitinbooks
-description: Independently- and self-published artists' books and zines.
+description: According to Google Street View, this closed down by September 2020.  It previously sold independently-published and self-published artists' books and zines.
 londonbooks: http://londonbooks.tumblr.com/post/145447149806/
 lat: 51.558527
 long: -0.074460402
-open: yes
+open: no
 ---
 id: travelling-through-waterloo
 name: Travelling Through...
@@ -4379,8 +4375,7 @@ checked: October 2014
 id: amwell-book-company
 name: Amwell Book Company
 address: 53 Amwell Street, EC1R 1UR
-description: Previously at 53 Amwell Street, EC1R 1UR, this bookshop <a href="http://web.archive.org/web/20111004014317/http://www.islingtontribune.com:80/news/2011/sep/amwell-bookshop-loses-battle-survive-hectic-age-online-browsers">closed to drop-in visitors</a> at the beginning of October 2011 and now trades online only.
-website: https://www.amwellbookcompany.co.uk/
+description: Previously at 53 Amwell Street, EC1R 1UR, this bookshop <a href="http://web.archive.org/web/20111004014317/http://www.islingtontribune.com:80/news/2011/sep/amwell-bookshop-loses-battle-survive-hectic-age-online-browsers">closed to drop-in visitors</a> at the beginning of October 2011 and moved to online trading only.
 long: -0.110614
 lat: 51.529465
 open: no
