@@ -512,12 +512,13 @@ open: yes
 id: bookends
 name: Bookends
 address: 108 Charing Cross Road, WC2H 0JN
+description: Closed down by July 2012, according to Google Street View.
 lat: 51.514393
 long: -0.129583
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: book-haus
 name: Book Haus
@@ -1438,11 +1439,12 @@ charity: no
 open: yes
 ---
 id: fosters-bookshop-chiswick
-name: Fosters Bookshop
+name: Foster Books
 address: 183 Chiswick High Road, W4 2DR.
 description: Second-hand and antiquarian.
+website: https://fosterbooks.chrislands.com/
 twitter: fostersbookshop
-rgl: https://london.randomness.org.uk/wiki.cgi?Fosters_Bookshop,_W4_2DR
+rgl: https://london.randomness.org.uk/wiki.cgi?Foster_Books,_W4_2DR
 photo: https://www.flickr.com/photos/kake_pugh/2493085533/
 long: -0.257106
 lat: 51.492378
@@ -1450,6 +1452,7 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: April 2021
 ---
 id: foyles-charing-cross-road
 name: Foyles at Charing Cross Road (incorporating Grant and Cutler)
@@ -2360,6 +2363,19 @@ secondhand: yes
 charity: no
 open: yes
 ---
+id: maghreb-bookshop
+name: Maghreb Bookshop
+address: 45 Burton Street, WC1H 9AL
+website: http://www.maghreb-studies-association.co.uk/en/shophome.html
+description: New, rare, and out-of-print books on the Maghreb, the Middle East, Islam, and Africa.
+photo: https://www.flickr.com/photos/rjw1/8268822289/
+lat: 51.526869
+long: -0.128341
+new: yes
+secondhand: yes
+charity: no
+open: yes
+---
 id: magma-clerkenwell-road
 name: Magma (Clerkenwell Road)
 address: 117-119 Clerkenwell Road, EC1R 5BY
@@ -2385,16 +2401,14 @@ open: no
 id: marchmont-bookshop
 name: Marchmont Bookshop
 address: 39 Burton Street, WC1H 9AL
-description: All secondhand.  Specialises in Middle-Eastern and African subjects, but also has some general stock.
+description: Closed down by May 2014, according to Google Street View.
 bibliophilicblogger: http://bibliophilicblogger.blogspot.com/2009/04/londons-second-hand-bookshops-no-2.html
-photo: https://www.flickr.com/photos/rjw1/8268822289/
-long: -0.128231
-lat: 51.526836
+lat: 51.526657
+long: -0.128113
 new: no
 secondhand: yes
 charity: no
-open: yes
-checked: December 2012
+open: no
 ---
 id: marchpane-cecil-court
 name: Marchpane
@@ -3069,14 +3083,14 @@ checked: May 2017
 id: photo-books-international
 name: Photo Books International
 address: 99 Judd Street, WC1H 9NE
-website: http://www.pbi-books.com/
 photo: https://www.flickr.com/photos/kake_pugh/4620238904/
+description: Closed down by May 2014, according to Google Street View.
 long: -0.125034
 lat: 51.527557
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: December 2012
 ---
 id: pickled-pepper-books-crouch-end
@@ -3463,12 +3477,13 @@ name: Soho's Original Bookshop
 address: 124 Middlesex Street, E1 7HY
 photo: https://www.flickr.com/photos/kake_pugh/3750386544/
 yelp: http://www.yelp.co.uk/biz/soho-original-bookshop-london
+description: Closed down by May 2014, according to Google Street View.
 long: -0.079136
 lat: 51.518185
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: July 2009
 ---
 id: sokol-books-chelsea
@@ -3557,12 +3572,13 @@ address: 95 Bell Street, NW1 6TL.
 website: http://www.95bellstreet.com/
 photo: https://www.flickr.com/photos/kake_pugh/3685320785/
 londonbooks: http://londonbooks.tumblr.com/post/117416231601/
-long: -0.165696
-lat: 51.522190
+description: This shop <a href="https://twitter.com/fostersbookshop/status/664726107225260032">closed around the end of 2015</a>, but its sister shop <a href="fosters-bookshop-chiswick.html">on Chiswick High Road</a> continued to trade.
+lat: 51.522076
+long: -0.165878
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: July 2009
 ---
 id: stephen-poole-fine-books-cecil-court
