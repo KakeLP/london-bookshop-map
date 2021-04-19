@@ -2662,6 +2662,7 @@ new: yes
 secondhand: yes
 charity: no
 open: yes
+checked: April 2021
 ---
 id: old-bookshop-enfield
 name: The Old Bookshop
@@ -3183,7 +3184,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: July 2013
+checked: April 2021
 ---
 id: quinto-charing-cross-road
 name: Quinto
