@@ -31,13 +31,13 @@ id: alice-through-the-looking-glass-cecil-court
 name: Alice Through The Looking Glass
 address: 14 Cecil Court, Covent Garden, WC2N 4HE
 description: First editions and rare illustrated editions relating to Lewis Carroll's Alice.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30519769222/
+photo: https://www.flickr.com/photos/grepnold/51125140947/
 website: https://alicelooking.co.uk/
 phone: 020 7836 8854
 lat: 51.510747
 long: -0.127826
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: alligators-mouth-richmond
 name: The Alligator's Mouth
@@ -116,12 +116,12 @@ name: Any Amount of Books
 address: 56 Charing Cross Road
 website: https://www.anyamountofbooks.com/
 rgl: https://london.randomness.org.uk/wiki.cgi?Any_Amount_Of_Books
-photo: https://www.flickr.com/photos/ruudboy/1269876498/
+photo: https://www.flickr.com/photos/grepnold/51126515565/
 new: no
 secondhand: yes
 lat: 51.512268
 long: -0.128467
-checked: April 2008
+checked: April 2021
 charity: no
 open: yes
 ---
@@ -537,7 +537,7 @@ open: yes
 id: bookmarks
 name: Bookmarks
 address: 1 Bloomsbury Street, WC1B 3QE
-website: http://www.bookmarksbookshop.co.uk/cgi/store/bookmark.cgi
+website: https://bookmarksbookshop.co.uk/
 twitter: Bookmarks_books
 rgl: https://london.randomness.org.uk/wiki.cgi?Bookmarks,_WC1B_3QE
 thebookguide: http://web.archive.org/web/20170708034058/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2609
@@ -546,7 +546,7 @@ lat: 51.517155
 long: -0.127351
 new: unknown
 secondhand: unknown
-checked: October 2018
+checked: April 2021
 charity: no
 open: yes
 ---
@@ -754,13 +754,13 @@ id: book-warehouse-islington
 name: Book Warehouse (Islington)
 address: 28 Upper Street, Islington, N1 0PN
 photo: https://www.flickr.com/photos/kake_pugh/26472508031/
-website: http://www.thebookwarehouse.co.uk/
+description: According to Google Street View, this closed down by September 2017.
 lat: 51.534484
 long: -0.10530312
 new: yes
 secondhand: no
 charity: no
-open: yes
+open: no
 checked: April 2016
 ---
 id: book-warehouse-notting-hill
@@ -882,7 +882,7 @@ id: bryars-and-bryars-cecil-court
 name: Bryars & Bryars
 address: 7 Cecil Court, Covent Garden, WC2N 4EZ
 description: First editions at a wide range of prices, with a special focus on travel books, literature, and early printing (especially Greek and Latin classics) as well as antique maps and atlases printed c. 1500-1950.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30004560154/
+photo: https://www.flickr.com/photos/grepnold/51126514445/
 londonbooks: http://londonbooks.tumblr.com/post/142170258461/
 bluestocking: https://www.bluestockingbooks.co.uk/single-post/2019/03/02/Secret-1-The-first-bookshop-uncovered
 website: http://bryarsandbryars.co.uk/
@@ -893,7 +893,7 @@ new: unknown
 secondhand: yes
 charity: no
 open: yes
-checked: January 2021
+checked: April 2021
 ---
 id: calder-bookshop-southwark
 name: Calder Bookshop
@@ -1637,7 +1637,7 @@ id: goldsboro-books-cecil-court
 name: Goldsboro Books
 address: 23-27 Cecil Court, Covent Garden, WC2N 4EZ
 description: Specialist in signed modern first editions.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30548378421/
+photo: https://www.flickr.com/photos/grepnold/51125703111/
 website: http://www.goldsborobooks.com/
 phone: 020 7497 9230
 lat: 51.510686
@@ -1646,7 +1646,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: gosh
 name: Gosh
@@ -1782,17 +1782,18 @@ checked: July 2013
 ---
 id: henry-pordes-books-charing-cross-road
 name: Henry Pordes Books
-address: 58-60 Charing Cross Road, WC2H 0BB
-description: Second-hand, antiquarian, and out-of-print books.
+address: 72 Charing Cross Road, WC2H 0BB
+description: Second-hand, antiquarian, and out-of-print books.  It was previously at 58-60 Charing Cross Road (<a href="https://www.flickr.com/photos/kake_pugh/2445597342/">photo</a>), but it moved into the old premises of Quinto/Francis Edwards at number 72 after the latter's lease expired in 2020.
 website: http://www.henrypordesbooks.com/
-photo: https://www.flickr.com/photos/kake_pugh/2445597342/
+photo: https://www.flickr.com/photos/grepnold/51125704426/
 londonbooks: http://londonbooks.tumblr.com/post/117709762571/
-long: -0.128531
-lat: 51.512348
+lat: 51.512472
+long: -0.128624
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: April 2021
 ---
 id: henry-stokes-and-co
 name: Henry Stokes and Co
@@ -2428,7 +2429,7 @@ name: Marchpane
 address: 16 Cecil Court, Covent Garden, WC2N 4HE
 description: Specialist in rare children's and illustrated books.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 londonbooks: http://londonbooks.tumblr.com/post/120350699321/
-photo: https://www.flickr.com/photos/kake_pugh/30519768352/
+photo: https://www.flickr.com/photos/grepnold/51126515020/
 phone: 020 7836 8661
 lat: 51.510745
 long: -0.127881
@@ -2436,7 +2437,7 @@ new: unknown
 secondhand: yes
 charity: no
 open: yes
-checked: January 2019
+checked: April 2021
 ---
 id: marcus-campbell-art-books
 name: Marcus Campbell Art Books
@@ -2821,13 +2822,13 @@ name: Oxfam Bookshop (Bloomsbury)
 address: 12 Bloomsbury Street, WC1B 3QA
 photo: https://www.flickr.com/photos/kake_pugh/45135846401/
 website: http://oxfambloomsburybooks.wordpress.com/
-long: -0.127394
-lat: 51.517605
+lat: 51.517409
+long: -0.127265
 new: unknown
 secondhand: unknown
 charity: yes
 open: yes
-checked: October 2018
+checked: April 2021
 ---
 id: oxfam-bookshop-portobello-road
 name: Oxfam Bookshop (Portobello Road)
@@ -3188,16 +3189,17 @@ checked: April 2021
 ---
 id: quinto-charing-cross-road
 name: Quinto
-address: 72 Charing Cross Road, WC2H 0BB
+address: 48A Charing Cross Road, WC2H 0BB
 website: http://quintobookshop.co.uk/
 twitter: QuintoBookshop
-description: It used to be at 48A Charing Cross Road (<a href="http://www.flickr.com/photos/kake_pugh/2391466584/">photo</a>), but moved to number 72 on 23 March 2010.  The building also houses a branch of <a href="http://www.francisedwards.co.uk/">Francis Edwards</a>.
-long: -0.128671
-lat: 51.512608
+photo: http://www.flickr.com/photos/kake_pugh/2391466584/
+description: Previously at 48A Charing Cross Road (pictured), it moved to number 72 on 23 March 2010.  In March 2020 it <a href="https://quinto-bookshop.co.uk/about/">moved online only</a> after expiry of its lease, and Henry Pordes Books took over number 72.  <a href="http://www.francisedwards.co.uk/">Francis Edwards</a>, which had shared number 72 with Quinto, continued to trade from its Hay-on-Wye premises only.
+lat: 51.511779
+long: -0.128402
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: r-a-gekoski
 name: R A Gekoski
@@ -3704,7 +3706,7 @@ id: tenderbooks-cecil-court
 name: Tenderbooks
 address: 6 Cecil Court, Covent Garden, WC2N 4HE
 description: Art bookshop located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30004559434/
+photo: https://www.flickr.com/photos/grepnold/51125451899/
 website: http://tenderbooks.co.uk/
 phone: 020 7379 9464
 londonbooks: http://londonbooks.tumblr.com/post/150252714005/
@@ -3730,12 +3732,12 @@ id: tindley-and-everett-cecil-court
 name: Tindley and Everett
 address: 4 Cecil Court, Covent Garden, WC2N 4HE
 description: Specialist in 20th century literature.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30519770152/
+photo: https://www.flickr.com/photos/grepnold/51125702791/
 londonbooks: http://londonbooks.tumblr.com/post/151231035166/
 lat: 51.510752
 long: -0.127362
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: ti-pi-tin-stoke-newington
 name: Ti Pi Tin
@@ -3765,7 +3767,7 @@ id: travis-and-emery-cecil-court
 name: Travis & Emery
 address: 17 Cecil Court, Covent Garden, WC2N 4EZ
 description: New and secondhand sheet music and music-related books.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30519767242/
+photo: https://www.flickr.com/photos/grepnold/51125613858/i
 londonbooks: http://londonbooks.tumblr.com/post/120550908661/
 website: http://www.travis-and-emery.com/
 phone: 020 7240 2129
@@ -3775,7 +3777,7 @@ new: yes
 secondhand: yes
 charity: no
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: treadwells-offstage-books
 name: Treadwell's (and Offstage Books)
@@ -4133,7 +4135,7 @@ id: watkins-books-cecil-court
 name: Watkins Books
 address: 19-21 Cecil Court, Covent Garden, WC2N 4EZ
 description: Esoteric bookshop on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30004563224/
+photo: https://www.flickr.com/photos/grepnold/51125703416/
 londonbooks: http://londonbooks.tumblr.com/post/133260173646/
 website: http://www.watkinsbooks.com/
 phone: 020 7836 2182
@@ -4143,7 +4145,7 @@ new: yes
 secondhand: yes
 charity: no
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: wellington-arch-bookshop
 name: Wellington Arch Bookshop
