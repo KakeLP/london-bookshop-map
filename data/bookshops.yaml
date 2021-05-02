@@ -2176,16 +2176,15 @@ open: no
 ---
 id: koenig-books-charing-cross-road
 name: Koenig Books (Charing Cross Road)
-address: 80 Charing Cross Road.
-website: http://www.koenigbooks.co.uk/
-phone: 020 7240 8190
+address: 80 Charing Cross Road
+description: According to Google Street View, this closed down by August 2019.
 photo: https://www.flickr.com/photos/kake_pugh/2445616864/
 long: -0.128757
 lat: 51.512714
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: October 2014
 ---
 id: koenig-books-serpentine
