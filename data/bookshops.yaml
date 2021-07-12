@@ -2930,13 +2930,11 @@ checked: March 2014
 id: pages-of-cheshire-street
 name: Pages of Cheshire Street
 address: 5 Cheshire Street, Shoreditch, E2 6ED
-website: https://pagescheshirestreet.co.uk/
-phone: 020 7059 0273
 photo: https://www.flickr.com/photos/kake_pugh/48451564466/
-description: Sister shop to <a href="pages-of-hackney.html">Pages of Hackney</a>; this one stocks books by female, trans, and gender diverse authors.  The premises were previously occupied by a French and English bookshop called Caravanserail, which <a href="https://twitter.com/_caravanserail_/status/1115657927958855680">closed down</a> in April 2019 (see <a href="http://spitalfieldslife.com/2018/03/22/at-caravanserail/">Spitalfields Life article</a>).
+description: This was a sister shop to <a href="pages-of-hackney.html">Pages of Hackney</a>, stocking books by female, trans, and gender diverse authors.  The premises were previously occupied by a French and English bookshop called Caravanserail, which <a href="https://twitter.com/_caravanserail_/status/1115657927958855680">closed down</a> in April 2019 (see <a href="http://spitalfieldslife.com/2018/03/22/at-caravanserail/">Spitalfields Life article</a>).  Pages of Cheshire Street itself <a href="https://twitter.com/pagescheshirest/status/1242019968285396994">closed down in March 2020</a>.
 lat: 51.523541
 long: -0.070959717
-open: yes
+open: no
 checked: August 2019
 ---
 id: pages-of-fun-westminster
