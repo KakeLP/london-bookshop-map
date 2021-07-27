@@ -1017,9 +1017,10 @@ checked: August 2013
 ---
 id: chorleywood-bookshop
 name: Chorleywood Bookshop
-address: 4 New Parade, WD3 5NJ
-website: http://www.chorleywoodbookshop.co.uk/
+address: 7 New Parade, WD3 5NJ
+website: https://chilternbookshops.co.uk/contact/chorleywood-shop/
 photo: https://www.flickr.com/photos/kake_pugh/9439748984/
+description: Previously at 4 New Parade (pictured), it <a href="https://www.facebook.com/ChorleywoodBookshop/photos/a.771505836229768/3892494177464236/">moved to number 7</a> in March 2021 (see also <a href="https://mailchi.mp/cwbookshop/were-on-the-move">newsletter announcement</a>).
 lat: 51.65512
 long: -0.52173
 new: unknown
@@ -2783,7 +2784,7 @@ id: oxfam-books-and-music-islington
 name: Oxfam Books and Music (Islington)
 address: 48 Upper Street, Islington, N1 0PN
 photo: https://www.flickr.com/photos/kake_pugh/26446250952/
-website: http://www.oxfam.org.uk/shop/local-shops/oxfam-books-music-islington
+website: https://www.oxfam.org.uk/shops/oxfam-books-music-islington/
 twitter: OxfamBooksN1
 lat: 51.535108
 long: -0.10455479
@@ -3764,7 +3765,7 @@ id: travis-and-emery-cecil-court
 name: Travis & Emery
 address: 17 Cecil Court, Covent Garden, WC2N 4EZ
 description: New and secondhand sheet music and music-related books.  Located on <a href="https://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/grepnold/51125613858/i
+photo: https://www.flickr.com/photos/grepnold/51125613858/
 londonbooks: http://londonbooks.tumblr.com/post/120550908661/
 website: http://www.travis-and-emery.com/
 phone: 020 7240 2129
