@@ -3256,13 +3256,11 @@ open: yes
 id: ripley-and-lambert-dalston
 name: Ripley & Lambert
 address: 542 Kingsland Road, Dalston, E8 4AH
-website: https://www.ripleyandlambert.com/
-twitter: RipAndLamb
-description: Specialist film bookshop and cafe.
+description: "Now closed; was a specialist film bookshop and cafe.  As of July 2021, a notice on its website</a> states: \"We are deeply saddened to announce that unfortunately, due to the effects of the pandemic and the ongoing restrictions, Ripley and Lambert has had to close permanently.\"  (See also <a href=\"http://web.archive.org/web/20210731091018/https://twitter.com/ripandlamb/status/1371915873750032389\">Tweet from March 2021</a>.)"
 hackneycitizen: https://www.hackneycitizen.co.uk/2019/10/14/ripley-and-lambert-dalston-cafe-film/
 lat: 51.544760
 long: -0.075832352
-open: yes
+open: no
 ---
 id: ripping-yarn
 name: Ripping Yarns
