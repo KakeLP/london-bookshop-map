@@ -840,10 +840,11 @@ charity: yes
 open: yes
 ---
 id: brixton-bookmongers
-name: Brixton Bookmongers
+name: Book Mongers
 address: 439 Coldharbour Lane, SW9 8LN
 website: http://www.bookmongers.com/
 rgl: https://london.randomness.org.uk/wiki.cgi?Brixton_Book_Mongers
+brixtonblog: https://brixtonblog.com/2022/02/brixtons-magical-shop-of-books-cats-and-dogs/
 photo: https://www.flickr.com/photos/kake_pugh/2809290205/
 lat: 51.461426
 long: -0.113833
@@ -1421,11 +1422,12 @@ address: 44 Eagle Street, Holborn, WC1R 4FS
 locales: WC1, Holborn
 website: http://www.foliosociety.com/
 twitter: FolioSociety
-phone: 020 7400 4200
+photo: https://www.flickr.com/photos/paularchivist/27272307906/
 londonbooks: http://londonbooks.tumblr.com/post/151553396476/the-folio-society-wc1r-near-holborn-on-eagle
+description: The bricks-and-mortar shop <a href="http://web.archive.org/web/20161125165158/http://www.foliosociety.com/pages/bookshop-sale">closed down in December 2016</a>, with sales continuing online only.
 lat: 51.518774
 long: -0.11753802
-open: yes
+open: no
 ---
 id: forbidden-planet-croydon
 name: Forbidden Planet (Croydon)
