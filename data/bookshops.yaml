@@ -1570,7 +1570,7 @@ name: Foyles at One New Change
 address: One New Change, 25 Upper Cheapside Passage, EC2V 6AG
 website: http://www.foyles.co.uk/
 twitter: Foyles
-description: A branch of Foyles in the One New Change shopping centre; it <a href="http://www.thebookseller.com/news/foyles-close-one-new-change-today.html">closed for good</a> in November 2011.
+description: A branch of Foyles in the One New Change shopping centre; it <a href="http://web.archive.org/web/20220110134432/https://www.thebookseller.com/news/foyles-close-one-new-change-today">closed for good</a> in November 2011.
 londonist: http://londonist.com/2010/11/biblio-text_foyles_one_new_change.php
 long: -0.096640
 lat: 51.514397
@@ -3936,7 +3936,7 @@ open: yes
 id: watermark-books-kings-cross
 name: Watermark Books
 address: King's Cross Station
-description: <a href="https://www.thebookseller.com/news/watermark-kings-cross-close">Closed down at the end of July 2015</a>.
+description: <a href="http://web.archive.org/web/20210224194940/https://www.thebookseller.com/news/watermark-kings-cross-close">Closed down at the end of July 2015</a>.
 tol: http://www.tiredoflondontiredoflife.com/2012/06/buy-books-at-watermark.html
 bookseller: http://www.thebookseller.com/news/watermark-lands-kings-cross.html
 lat: 51.532104
