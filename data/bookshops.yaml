@@ -589,7 +589,7 @@ open: no
 id: bookseller-crow-on-the-hill
 name: Bookseller Crow On The Hill
 address: 50 Westow Street, SE19 3AF
-website: http://www.booksellercrow.com/
+website: https://booksellercrow.co.uk/
 londonist: http://londonist.com/2009/05/biblio-text_bookseller_crow_on_the_1.php
 photo: https://www.flickr.com/photos/kake_pugh/8252068163/
 phone: 020 8771 8831
@@ -2457,17 +2457,14 @@ open: yes
 id: material-shoreditch
 name: Material
 address: 3 Rivington Street, Shoreditch, EC2A 3DT
-phone: 020 7739 1900
-website: http://materialmaterial.com/
-twitter: materialgallery
-description: Focused on design, food, and children's books.
+description: Focused on design, food, and children's books.  Now closed, and the building has been demolished.
 photo: https://www.flickr.com/photos/kake_pugh/28710525116/
 lat: 51.526113
 long: -0.083169535
 new: yes
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: July 2016
 ---
 id: metropolitan-books
@@ -3938,7 +3935,7 @@ name: Watermark Books
 address: King's Cross Station
 description: <a href="http://web.archive.org/web/20210224194940/https://www.thebookseller.com/news/watermark-kings-cross-close">Closed down at the end of July 2015</a>.
 tol: http://www.tiredoflondontiredoflife.com/2012/06/buy-books-at-watermark.html
-bookseller: http://www.thebookseller.com/news/watermark-lands-kings-cross.html
+bookseller: http://web.archive.org/web/20141221192903/http://www.thebookseller.com/news/watermark-lands-kings-cross
 lat: 51.532104
 long: -0.123719
 new: yes
