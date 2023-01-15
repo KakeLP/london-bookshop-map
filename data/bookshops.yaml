@@ -56,9 +56,7 @@ id: all-you-read-is-love-leytonstone
 name: All You Read Is Love
 address: 877 Leytonstone High Road, E11 1HR
 locales: E11, Leytonstone
-description: Bookshop, cafe, and bar.  Originally a pop-up, now permanent.
-website: http://www.allyoureadislove.com/
-twitter: AllYouReadLove
+description: This was a bookshop, cafe, and bar.  It <a href="https://twitter.com/allyoureadlove/status/987997402555731968">closed permanently</a> in April 2018.
 elweguardian: https://www.guardian-series.co.uk/news/11711953.Danish_siblings_bring_Scandinavian_book_cafe_to_Leytonstone/
 leytonstoner: https://www.leytonstoner.london/2015/02/23/read-love-really/
 lat: 51.570393
@@ -66,7 +64,7 @@ long: 0.014117271
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: alpha-book-company-romford
 name: Alpha Book Company
@@ -1694,7 +1692,7 @@ id: guanghwa-books
 name: Guanghwa Books
 address: 112 Shaftesbury Avenue, Chinatown, W1D 5EJ
 description: Books in both Chinese and English.
-website: http://www.cypressbooks.com/howtofindus.php
+website: https://cypressbooks.com/
 photo: https://www.flickr.com/photos/kake_pugh/26512600106/
 description: Previously at 7 Newport Place, WC2H 7JR.
 lat: 51.512340
@@ -2667,14 +2665,13 @@ checked: April 2021
 id: old-bookshop-enfield
 name: The Old Bookshop
 address: 36 Gordon Road, EN2 0PZ
-website: http://www.fjwarnes.co.uk/
-description: Open by appointment only.
+description: Almost certainly closed (if you know otherwise, please let us know).  It was open by appointment only, in any case.
 long: -0.082709
 lat: 51.660278
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: old-operating-theatre-bookshops
 name: The Old Operating Theatre Bookshop
@@ -3266,7 +3263,7 @@ name: Ripping Yarns
 address: 355 Archway Road, N6 4EJ
 website: http://www.rippingyarns.co.uk/
 description: "Secondhand bookshop specialising in collectable children's and illustrated books.  It closed down on 20 September 2015 due to an unexpected rent increase, but will continue to operate online."
-photo: https://www.flickr.com/photos/bagelmouse/4700001855/
+photo: https://www.flickr.com/photos/philgyford/127647176/
 long: -0.148144
 lat: 51.577885
 new: no
@@ -3442,7 +3439,7 @@ name: SOAS Bookshop
 address: Thornhaugh Street, WC1H 0XG
 description: The bookshop of the School of Oriental and African Studies in Bloomsbury (though it's open to the public), run by Arthur Probsthain Oriental and African Bookshop.
 photo: https://www.flickr.com/photos/kake_pugh/4684461261/
-website: http://www.soas.ac.uk/visitors/bookshop/
+website: https://www.soas.ac.uk/
 long: -0.129304
 lat: 51.522377
 new: unknown
