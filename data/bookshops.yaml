@@ -2614,14 +2614,18 @@ id: nomad-books-fulham
 name: Nomad Books
 address: 781 Fulham Road, SW6 5HA
 twitter: NomadBooks
+website: https://nomadbooks.co.uk/
 yelp: http://www.yelp.co.uk/biz/nomad-books-london
 londonbooks: http://londonbooks.tumblr.com/post/130213493036/
+photo: https://www.flickr.com/photos/kake_pugh/52690490856/
+description: Opened in 1990.  They have a large collection of children’s books as well as adults', and they sell books in French as well as English.  The shop is all on one level with no steps and wide enough aisles for a large wheelchair.
 long: -0.203891
 lat: 51.476494
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: February 2023
 ---
 id: notting-hill-books
 name: Notting Hill Books
