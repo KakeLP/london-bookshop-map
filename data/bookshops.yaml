@@ -125,18 +125,17 @@ open: yes
 ---
 id: a-place-in-space-croydon
 name: A Place In Space
-address: 96 Church Street, CR0 1RD
-description: Comics and graphic novels.  It was previously across the road at number 101 (<a href="https://www.flickr.com/photos/kake_pugh/6883401397/">photo</a>), but moved to number 96 around 2012-2013.
-website: https://www.ebay.co.uk/str/aplaceinspace
-photo: https://www.flickr.com/photos/kake_pugh/8479158457/
-cgc: https://croydon.randomness.org.uk/wiki.cgi?A_Place_In_Space,_96_Church_Street
-lat: 51.373889
-long: -0.104669
+address: 96 Drummond Road, Croydon, CR0 1TX
+description: Comics and graphic novels.  It was previously located around the corner on Church Street; first at number 101 (<a href="https://www.flickr.com/photos/kake_pugh/6883401397/">photo</a>) and then at number 96 from around 2012-2013 (<a href="https://www.flickr.com/photos/kake_pugh/8479158457/">photo</a>).
+website: https://shop.aplaceinspace.co.uk/
+photo: https://www.flickr.com/photos/rjw1/52662377197/
+lat: 51.3743508
+long: -0.1047798
 new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: May 2016
+checked: March 2023
 ---
 id: archive-bookstore
 name: Archive Bookstore
