@@ -2324,14 +2324,14 @@ id: lucky-seven-stoke-newington
 name: Lucky Seven
 address: 127 Stoke Newington Church Street, N16 0UH
 rgl: https://london.randomness.org.uk/wiki.cgi?Lucky_Seven,_Stoke_Newington
-description: Mostly records, but some secondhand books too.  Previously known as Ocean Books.  Ocean Books <a href="http://www.stereostokey.com/2009/08/ocean-books-stoke-newington-closed/">closed in August 2009</a> and the site is now occupied by Lucky Seven.
+description: Now closed.  It mostly sold records, but had some secondhand books too.
 photo: https://www.flickr.com/photos/55935853@N00/8281035314/
 long: -0.081035
 lat: 51.561733
 new: no
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: December 2012
 ---
 id: lutyens-and-rubinstein
@@ -3678,7 +3678,7 @@ checked: August 2016
 id: taschen
 name: Taschen
 address: 12 Duke Of York Square, SW3 4LY
-website: http://www.taschen.com/pages/en/stores/19915.store_london.1.htm
+website: https://www.taschen.com/en/stores/london
 lat: 51.491451
 long: -0.15940450
 new: unknown
