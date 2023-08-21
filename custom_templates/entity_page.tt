@@ -97,6 +97,13 @@
 	  Commons</a>)
 	[% END %]
       </div>
+    [% ELSE %]
+      [% IF entity.photo == "https://www.flickr.com/photos/90117465@N00/53128762212/" %]
+        <div id="photo_copyright">
+          <a href="[% entity.photo | html %]">Photo &copy; Bec </a> (used by
+	  permission)
+        </div>
+      [% END %]
     [% END %]
     [% IF entity.photo_date %]
       <div id="entity_photo_date">
