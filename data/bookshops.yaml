@@ -2650,6 +2650,16 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: occasional-bookshop-streatham
+name: Occasional Bookshop
+address: 93 Streatham Vale, SW16 5SQ
+description: Second-hand book and record shop with limited opening hours.
+photo: https://www.flickr.com/photos/90117465@N00/53128762212/
+lat: 51.41573149768574
+long: -0.13903665862048661
+open: yes
+checked: August 2023
+---
 id: offside-books-kilburn
 name: Offside Books
 address: 92 Willesden Lane, Kilburn, NW6 7TA
