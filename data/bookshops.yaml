@@ -2899,6 +2899,18 @@ secondhand: unknown
 charity: yes
 open: yes
 ---
+id: oxfam-bookshop-herne-hill
+name: Oxfam Bookshop (Herne Hill)
+address: 9 Half Moon Lane, Herne Hill, SE24 9JU
+photo: https://www.flickr.com/photos/90117465@N00/53137665407/
+lat: 51.453039
+long: -0.10045974
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+checked: August 2023
+---
 id: oxfam-bookshop-blackheath
 name: Oxfam Bookshop (Blackheath)
 address: 68 Tranquil Vale, SE3 0BN
