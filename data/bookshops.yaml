@@ -1098,6 +1098,15 @@ charity: no
 open: yes
 checked: December 2012
 ---
+id: common-press-shoreditch
+name: The Common Press
+address: 118 Bethnal Green Road, E2 6DG
+description: Focuses on books from marginalised writers.
+website: https://www.commonpress.co.uk/
+lat: 51.524666
+long: -0.0719639
+open: yes
+---
 id: copperfields
 name: Copperfield's
 address: 37 Hartfield Road, SW19 3SG
