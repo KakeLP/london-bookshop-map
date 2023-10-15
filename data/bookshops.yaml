@@ -1440,7 +1440,7 @@ name: Forbidden Planet (Croydon)
 address: 43 Church Street, CR0 1RH
 description: Comics and graphic novels.  Previously located at 175 North End, CR0 1TP, but moved to Church Street in late 2011.
 website: http://www.forbiddenplanet.co.uk/
-photo: https://www.flickr.com/photos/kake_pugh/7616724606/
+photo: https://www.flickr.com/photos/kake_pugh/49243432962/
 cgc: http://croydon.randomness.org.uk/wiki.cgi?Forbidden_Planet,_43_Church_Street
 lat: 51.3733010355549
 long: -0.10271086892913
@@ -1448,7 +1448,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: September 2016
+checked: March 2023
 ---
 id: forbidden-planet-shaftesbury-avenue
 name: Forbidden Planet (Shaftesbury Avenue)
@@ -4364,13 +4364,12 @@ checked: April 2017
 id: works-croydon-north-end
 name: The Works (North End, Croydon)
 address: 145-147 North End, Croydon, CR0 1TN
-description: Discount books.
-website: https://www.theworks.co.uk/store/1058_croydon
-cgc: http://croydon.randomness.org.uk/wiki.cgi?The_Works,_145-147_North_End
+description: Branch of a discount bookselling chain; closed down some time between December 2019 and October 2023 (see <a href="https://www.flickr.com/photos/kake_pugh/53228765230/">photo of empty premises in October 2023</a>).
+cgc: http://croydon.randomness.org.uk/wiki.cgi?145-147_North_End
 photo: https://www.flickr.com/photos/kake_pugh/41992827304/
 lat: 51.377547
 long: -0.10238890
-open: yes
+open: no
 checked: June 2018
 ---
 id: works-twickenham
