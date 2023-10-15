@@ -35,7 +35,6 @@
       [% IF entity.lat_and_long %]
         (<a href="https://www.openstreetmap.org/?mlat=[% entity.lat | html %]&amp;mlon=[% entity.long | html %]&amp;zoom=15">osm</a>)
         (<a href="https://maps.google.co.uk/maps?q=[% FILTER replace( '\s', '+' ) %][% node_name %][% END %]@[% entity.lat %],[% entity.long %]&amp;z=15">gmap</a>)
-        (<a href="https://www.bing.com/maps/default.aspx?cp=[% entity.lat %]~[% entity.long %]&amp;style=c&amp;lvl=15&amp;rtp=~pos.[% entity.lat %]_[% entity.long %]_[% node_name | replace( '\s', '+' ) %]">bingmap</a>)
         (<a href="https://maps.google.co.uk/maps?q=[% entity.lat %],[% entity.long %]&amp;cbll=[% entity.lat %],[% entity.long %]&amp;layer=c&amp;cbp=12,0,,0,5">streetview</a>)
       [% END %]
     </td>
