@@ -1349,7 +1349,6 @@ checked: August 2016
 id: epping-bookshop
 name: Epping Bookshop
 address: 71 High Street, CM16 4BA
-website: http://epping-bookshop.co.uk/
 rgl: https://london.randomness.org.uk/wiki.cgi?Epping_Bookshop
 photo: https://www.flickr.com/photos/kake_pugh/2904726201/
 description: Closed down in late 2015.
@@ -2346,7 +2345,7 @@ checked: December 2012
 id: lutyens-and-rubinstein
 name: Lutyens and Rubinstein
 address: 21 Kensington Park Road, W11 2EU
-website: http://www.lutyensrubinstein.co.uk/bookshop-homepage/
+website: https://landrbookshop.co.uk/
 twitter: LandRBookshop
 photo: https://www.flickr.com/photos/kake_pugh/16742839461/
 tol: http://www.tiredoflondontiredoflife.com/2010/06/browse-for-books-at-lutyens-and.html
