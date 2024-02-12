@@ -2659,11 +2659,11 @@ open: yes
 id: occasional-bookshop-streatham
 name: Occasional Bookshop
 address: 93 Streatham Vale, SW16 5SQ
-description: Second-hand book and record shop with limited opening hours.
+description: Closed down around the end of 2023, this was a second-hand book and record shop with limited opening hours.
 photo: https://www.flickr.com/photos/90117465@N00/53128762212/
 lat: 51.41573149768574
 long: -0.13903665862048661
-open: yes
+open: no
 checked: August 2023
 ---
 id: offside-books-kilburn
