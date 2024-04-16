@@ -882,7 +882,7 @@ address: 7 Cecil Court, Covent Garden, WC2N 4EZ
 description: First editions at a wide range of prices, with a special focus on travel books, literature, and early printing (especially Greek and Latin classics) as well as antique maps and atlases printed c. 1500-1950.  Located on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/grepnold/51126514445/
 londonbooks: http://londonbooks.tumblr.com/post/142170258461/
-bluestocking: https://www.bluestockingbooks.co.uk/single-post/2019/03/02/Secret-1-The-first-bookshop-uncovered
+bluestocking: http://web.archive.org/web/20190414140332/https://www.bluestockingbooks.co.uk/single-post/2019/03/02/Secret-1-The-first-bookshop-uncovered
 website: http://bryarsandbryars.co.uk/
 phone: 020 7836 1910
 lat: 51.510703
@@ -1082,6 +1082,14 @@ new: unknown
 secondhand: unknown
 charity: no
 open: no
+---
+id: clerkenwells
+name: Clerkenwells
+address: 68a Compton Street, EC1V 0BN
+description: Bookshop and coffee shop.
+lat: 51.524644
+long: -0.102468
+open: yes
 ---
 id: collinge-and-clark
 name: Collinge and Clark
@@ -1361,15 +1369,15 @@ open: no
 id: european-bookshop-south-kensington
 name: European Bookshop
 address: 123 Gloucester Road, South Kensington, SW7 4TE
-description: Previously at 5 Warwick Street, Soho, but moved to South Kensington by March 2016.</p><p>Its new premises were previously occupied by another bookshop run by publishing company Slightly Foxed (from Autumn 2009 to January 2016), and before that by the Gloucester Road Bookshop.</p>
-website: http://www.europeanbookshop.com/
+description: Previously at 5 Warwick Street, Soho, but moved to South Kensington by March 2016.  It closed at this location by early 2024.</p><p>Its South Kensington premises were previously occupied by another bookshop run by publishing company Slightly Foxed (from Autumn 2009 to January 2016), and before that by the Gloucester Road Bookshop.</p>
+photo: https://www.flickr.com/photos/brighton/26132338758
 londonbooks: http://londonbooks.tumblr.com/post/114062186071/
 lat: 51.493176
 long: -0.181575
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: faction-bookshop-lee
 name: Faction Bookshop
@@ -1463,7 +1471,7 @@ id: fosters-bookshop-chiswick
 name: Foster Books
 address: 183 Chiswick High Road, W4 2DR.
 description: Second-hand and antiquarian.
-website: https://fosterbooks.chrislands.com/
+website: https://www.fosterbooks.co.uk/
 twitter: fostersbookshop
 rgl: https://london.randomness.org.uk/wiki.cgi?Foster_Books,_W4_2DR
 photo: https://www.flickr.com/photos/kake_pugh/2493085533/
@@ -1478,8 +1486,8 @@ checked: April 2021
 id: foyles-charing-cross-road
 name: Foyles at Charing Cross Road (incorporating Grant and Cutler)
 address: 107 Charing Cross Road, WC2H 0DT
-description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from there to number 107.  It also incorporates <a href="http://www.grantandcutler.com/">Grant and Cutler</a>, a specialist foreign-language bookseller.
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1011
+description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from there to number 107.  It also incorporates Grant and Cutler, a specialist foreign-language bookseller.
+website: https://www.foyles.co.uk/shops/london-charing-cross-road
 twitter: Foyles
 tol: http://www.tiredoflondontiredoflife.com/2014/06/browse-books-at-new-foyles.html
 dg: http://diamondgeezer.blogspot.co.uk/2014/06/new-foyles.html
@@ -1494,7 +1502,6 @@ id: foyles-pancras-road
 name: Foyles at St Pancras International
 address: Unit 8A, St Pancras Station, Euston Road, N1C 4QL
 description: Now closed; was a branch of Foyles inside St Pancras International itself.  It closed in late July or early August 2014.
-website: http://www.foyles.co.uk/
 photo: https://www.flickr.com/photos/rjw1/8269863312/
 twitter: Foyles
 long: -0.125334
@@ -1509,7 +1516,7 @@ id: foyles-southbank
 name: Foyles at Royal Festival Hall
 address: Southbank Centre, SE1 8XX
 description: Opened in June 2005. This branch of Foyles is right next to the river, and in the summer there are deckchairs outside for a river view. It sells fiction, children’s books, and non-fiction including travel, biography, philosophy, and cookery, as well as magazines, gifts, and DVDs. There’s step-free access to all areas of the shop.
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1010
+website: https://www.foyles.co.uk/shops/london-royal-festival-hall
 photo: https://www.flickr.com/photos/kake_pugh/2672916162/
 twitter: Foyles
 phone: 020 7440 3212
@@ -1526,7 +1533,7 @@ name: Foyles at Waterloo Station
 address: Unit 22, Lower Concourse, London Waterloo Station, SE1 8SW
 description: A small Foyles branch in Waterloo Station. Most of the fiction is on the mezzanine level, and there is no lift.
 photo: https://www.flickr.com/photos/kake_pugh/48707771846/
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1019
+website: https://www.foyles.co.uk/shops/london-waterloo
 londonse1: http://www.london-se1.co.uk/news/view/7394
 twitter: Foyles
 phone: 020 3206 2680
@@ -1541,8 +1548,7 @@ checked: September 2019
 id: foyles-westfield
 name: Foyles at Westfield White City
 address: Unit 2054, Westfield White City, W12 7GE
-description: The Westfield White City branch of Foyles. Sells fiction including children’s books and bestsellers, and non-fiction including biography, travel, history, business, sport, cookery, art, and fashion. Also stocks audiobooks, book tokens, gifts, stationery, cards, and wrapping paper. There’s step-free access to all areas of the shop.
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1012
+description: The Westfield White City branch of Foyles sold fiction including children’s books and bestsellers, and non-fiction including biography, travel, history, business, sport, cookery, art, and fashion.  It also stocked audiobooks, book tokens, gifts, stationery, cards, and wrapping paper.  There was step-free access to all areas of the shop.  It <a href="http://web.archive.org/web/20150629113425/http://www.thebookseller.com/news/foyles-close-westfield-branch">closed down</a> in January 2015 due to redevelopment of that part of the shopping centre.
 twitter: Foyles
 phone: 020 3206 2656
 long: -0.221658
@@ -1550,7 +1556,7 @@ lat: 51.507446
 new: yes
 secondhand: no
 charity: no
-open: yes
+open: no
 checked: July 2013
 ---
 id: foyles-westfield-stratford
@@ -1558,7 +1564,7 @@ name: Foyles at Westfield Stratford City
 address: 74-75 Lower Ground Floor, The Arcade, Westfield Stratford City, E20 1EH
 photo: https://www.flickr.com/photos/rjw1/15011149393/
 description: The Westfield Stratford City branch of Foyles. It includes a children’s area, and there’s step-free access to all areas of the shop.
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1016
+website: https://www.foyles.co.uk/shops/london-stratford
 twitter: Foyles
 phone: 020 3206 2671
 long: -0.0054387153
@@ -1572,7 +1578,6 @@ checked: October 2014
 id: foyles-one-new-change
 name: Foyles at One New Change
 address: One New Change, 25 Upper Cheapside Passage, EC2V 6AG
-website: http://www.foyles.co.uk/
 twitter: Foyles
 description: A branch of Foyles in the One New Change shopping centre; it <a href="http://web.archive.org/web/20220110134432/https://www.thebookseller.com/news/foyles-close-one-new-change-today">closed for good</a> in November 2011.
 londonist: http://londonist.com/2010/11/biblio-text_foyles_one_new_change.php
@@ -2174,7 +2179,6 @@ checked: August 2015
 id: k-k-outlet-hoxton
 name: K K Outlet
 address: 42 Hoxton Square, N1 6PB
-website: http://www.kkoutlet.com/
 description: Bookshop and gallery which <a href="https://www.creativereview.co.uk/kk-outlet-returns-with-vans-store-takeover/">closed down in 2018</a>.
 londonbooks: http://londonbooks.tumblr.com/post/150576849227/
 lat: 51.527284
@@ -2358,7 +2362,7 @@ checked: March 2015
 id: maggs-bros-bloomsbury
 name: Maggs Bros (Bloomsbury)
 address: 48 Bedford Square, Bloomsbury, WC1B 3DR
-website: http://www.maggs.com/
+website: https://www.maggs.com/
 twitter: MaggsBros
 phone: 020 7493 7160
 description: Rare books and manuscripts.  It also has <a href="/shops/maggs-bros-mayfair.html">a branch in Mayfair</a>.
@@ -2371,7 +2375,7 @@ open: yes
 id: maggs-bros-mayfair
 name: Maggs Bros (Mayfair)
 address: 46 Curzon Street, Mayfair, W1J 7UH
-website: http://www.maggs.com/
+website: https://www.maggs.com/
 twitter: MaggsBros
 phone: 020 7493 7160
 description: Rare books and manuscripts.  Originally at 50 Berkeley Square, it moved to 46 Curzon Street in November 2015.  In May 2017, it also opened <a href="/shops/maggs-bros-bloomsbury.html">new premises</a> in Bloomsbury.
@@ -3382,7 +3386,7 @@ address: 14 Smith's Court, Soho, W1D 7DQ
 website: https://thesecondshelf.com/
 twitter: SecondShelfBks
 description: Focuses on rare books, first editions, and manuscripts by women.
-bluestocking: https://www.bluestockingbooks.co.uk/single-post/2019/04/05/Secret-2-The-new-kid-on-the-block
+bluestocking: https://web.archive.org/web/20231128165900/https://www.bluestockingbooks.co.uk/single-post/2019/04/05/secret-2-the-new-kid-on-the-block
 lat: 51.511545
 long: -0.13497774
 new: unknown
