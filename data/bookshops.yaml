@@ -121,7 +121,7 @@ new: no
 secondhand: yes
 lat: 51.512268
 long: -0.128467
-checked: April 2008
+checked: November 2024
 charity: no
 open: yes
 ---
@@ -368,7 +368,7 @@ name: Blackwell's (Holborn)
 address: 50 High Holborn, WC1V 6EP
 website: https://blackwells.co.uk/
 phone: 020 7292 5100
-description: Previously at 100 Charing Cross Road, but <a href="https://www.thebookseller.com/news/look-inside-new-blackwells-holborn">relocated to Holborn</a> in 2014/2015.
+description: Previously at 100 Charing Cross Road, but <a href="https://www.thebookseller.com/news/look-inside-new-blackwells-holborn">relocated to Holborn</a> in 2014/2015. In 2022 the Blackwells chain was acquired by Waterstones.
 photo: https://www.flickr.com/photos/kake_pugh/44223965235/
 lat: 51.518250
 long: -0.11488263
@@ -605,19 +605,34 @@ checked: December 2012
 ---
 id: books-for-amnesty
 name: Books For Amnesty
-address: 181 King Street, W6 9JT
+address: 175 King Street, W6 9JT
 phone: 020 8222 8158
-website: https://www.amnesty.org.uk/amnesty-bookshop-hammersmith
-description: Secondhand bookshop with profits going to Amnesty International.  Previously at 139b King Street (<a href="http://www.flickr.com/photos/kake_pugh/3649058402/">photo</a>); moved to 181 King Street in 2015.
+website: https://www.amnesty.org.uk/second-hand-bookshop-hammersmith
+description: Secondhand bookshop with profits going to Amnesty International. Previously at 139b King Street (<a href="http://www.flickr.com/photos/kake_pugh/3649058402/">photo</a>); moved to 181 King Street in 2015, then to 175 King Street (date unknown).
 rgl: https://london.randomness.org.uk/wiki.cgi?Books_For_Amnesty,_W6_9JT
-photo: https://www.flickr.com/photos/kake_pugh/24888632979/
-lat: 51.492630
-long: -0.23344700
-new: unknown
+photo: https://www.flickr.com/photos/herzbube/54137951125/in/album-72177720321925824/
+lat: 51.4925571
+long: -0.2355067
+new: no
 secondhand: yes
 charity: yes
 open: yes
-checked: February 2016
+checked: November 2024
+---
+id: books-for-amnesty-kentish-town
+name: Books For Amnesty
+address: 308 Kentish Town Road, NW5 2TH
+phone: 0207 4280134
+website: https://www.amnesty.org.uk/second-hand-bookshop-kentish-town
+description: Secondhand bookshop with profits going to Amnesty International.
+photo: https://www.flickr.com/photos/herzbube/54137951135/in/album-72177720321925824/
+lat: 51.5515936
+long: -0.1433362
+new: no
+secondhand: yes
+charity: yes
+open: yes
+checked: November 2024
 ---
 id: books-for-children-hornsey
 name: Books For Children
@@ -1137,6 +1152,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: November 2024
 ---
 id: daunt-books-hampstead
 name: Daunt Books (Hampstead)
@@ -1432,10 +1448,11 @@ address: 179 Shaftesbury Avenue, WC2H 8JR
 website: http://forbiddenplanet.com/WhereWeAre.html
 long: -0.127265
 lat: 51.515205
-new: unknown
+new: yes
 secondhand: unknown
 charity: no
 open: yes
+checked: November 2024
 ---
 id: fosters-bookshop-chiswick
 name: Fosters Bookshop
@@ -1454,7 +1471,7 @@ open: yes
 id: foyles-charing-cross-road
 name: Foyles at Charing Cross Road (incorporating Grant and Cutler)
 address: 107 Charing Cross Road, WC2H 0DT
-description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from there to number 107.  It also incorporates <a href="http://www.grantandcutler.com/">Grant and Cutler</a>, a specialist foreign-language bookseller.
+description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from there to number 107.  It also incorporates <a href="http://www.grantandcutler.com/">Grant and Cutler</a>, a specialist foreign-language bookseller. In 2018 the Foyles chain was acquired by Waterstones.
 website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1011
 twitter: Foyles
 tol: http://www.tiredoflondontiredoflife.com/2014/06/browse-books-at-new-foyles.html
@@ -1465,6 +1482,7 @@ new: yes
 secondhand: no
 charity: no
 open: yes
+checked: November 2024
 ---
 id: foyles-pancras-road
 name: Foyles at St Pancras International
@@ -1773,10 +1791,11 @@ photo: https://www.flickr.com/photos/kake_pugh/2445597342/
 londonbooks: http://londonbooks.tumblr.com/post/117709762571/
 long: -0.128531
 lat: 51.512348
-new: unknown
-secondhand: unknown
+new: no
+secondhand: yes
 charity: no
 open: yes
+checked: November 2024
 ---
 id: henry-stokes-and-co
 name: Henry Stokes and Co
@@ -1882,11 +1901,11 @@ website: http://www.hurlinghambooks.com/
 photo: https://www.flickr.com/photos/kake_pugh/3842267881/
 long: -0.210092
 lat: 51.468086
-new: unknown
-secondhand: unknown
+new: no
+secondhand: yes
 charity: no
 open: yes
-checked: May 2017
+checked: November 2024
 ---
 id: ian-allan-bookshop-lower-marsh
 name: Ian Allan Bookshop
@@ -2056,11 +2075,11 @@ rgl: https://london.randomness.org.uk/wiki.cgi?Judd_Books
 photo: https://www.flickr.com/photos/kake_pugh/28328314406/
 long: -0.125499
 lat: 51.525970
-new: unknown
-secondhand: unknown
+new: no
+secondhand: yes
 charity: no
 open: yes
-checked: July 2016
+checked: November 2024
 ---
 id: junk-shop-greenwich
 name: Junk Shop
@@ -2702,16 +2721,16 @@ checked: June 2009
 ---
 id: owl-bookshop
 name: Owl Bookshop
-address: 209 Kentish Town Road, NW5 2JU
+address: 207-209 Kentish Town Road, NW5 2JU
 twitter: OwlBookshop
-long: -0.141900
-lat: 51.547215
+long: -0.1442833
+lat: 51.5472073
 photo: https://www.flickr.com/photos/kake_pugh/8200332731/
-new: unknown
+new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: October 2017
+checked: November 2024
 ---
 id: oxfam-books-and-music-kentish-town
 name: Oxfam Books and Music (Kentish Town Road)
@@ -2719,11 +2738,11 @@ address: 166 Kentish Town Road, NW5 2AG.
 long: -0.141470
 lat: 51.547001
 photo: https://www.flickr.com/photos/kake_pugh/8200329747/
-new: unknown
+new: no
 secondhand: yes
 charity: yes
 open: yes
-checked: November 2012
+checked: November 2024
 ---
 id: oxfam-books-and-music-crouch-end
 name: Oxfam Books and Music (Crouch End)
@@ -3397,11 +3416,11 @@ tol: http://www.tiredoflondontiredoflife.com/2011/06/buy-books-at-skoob.html
 londonbooks: http://londonbooks.tumblr.com/post/110187297861/skoob-books-wc1n-id-heard-good-things-but-i-was
 long: -0.123903
 lat: 51.524128
-new: unknown
-secondhand: unknown
+new: no
+secondhand: yes
 charity: no
 open: yes
-checked: December 2012
+checked: November 2024
 ---
 id: sims-reed
 name: Sims Reed
@@ -3980,13 +3999,15 @@ checked: April 2017
 id: waterstones-gower-street
 name: Waterstones (Gower Street)
 address: 82 Gower Street, WC1E 6EQ
+description: The second hand section can be found in the basement.
 website: http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200006
 lat: 51.522376
 long: -0.13244131
 new: yes
-secondhand: unknown
+secondhand: yes
 charity: no
 open: yes
+checked: November 2024
 ---
 id: waterstones-greenwich
 name: Waterstones (Greenwich)
