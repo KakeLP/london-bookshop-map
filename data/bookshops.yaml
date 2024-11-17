@@ -428,7 +428,7 @@ id: book-and-comic-exchange
 name: Book and Comic Exchange
 address: 14 Pembridge Road, W11 3HL
 description: Closed down by April 2017.
-topfloorflat: http://www.thetopfloorflat.com/2009/03/book-and-comic-exchange-in-notting-hill/
+topfloorflat: http://web.archive.org/web/20160223145822/http://www.thetopfloorflat.com/2009/03/book-and-comic-exchange-in-notting-hill/
 londonbooks: http://londonbooks.tumblr.com/post/139716563601/
 photo: https://www.flickr.com/photos/kake_pugh/9892234965/
 lat: 51.509609
@@ -1324,7 +1324,7 @@ open: no
 id: brick-lane-bookshop
 name: Brick Lane Bookshop
 address: 166 Brick Lane, E1 6RU
-website: http://www.bricklanebookshop.org/
+website: https://bricklanebookshop.org/
 twitter: BrickLaneBooks
 londonist: http://londonist.com/2009/06/biblio-text_eastside_books.php
 description: Previously known as Eastside Books (<a href="http://flickr.com/photos/kake_pugh/2476108271/">photo</a>).
@@ -2253,7 +2253,7 @@ id: librairie-la-page
 name: Librairie La Page
 address: 7 Harrington Road, SW7 3ES
 description: French-language books.
-website: http://www.librairielapage.com/
+website: https://www.librairielapage.com/
 lat: 51.494011
 long: -0.17524575
 new: unknown
@@ -2816,13 +2816,13 @@ checked: April 2016
 id: oxfam-books-and-music-marylebone
 name: Oxfam Books and Music (Marylebone)
 address: 91 Marylebone High Street, W1U 4RB
-website: http://www.oxfammarylebone.co.uk/
+description: Previously <a href="http://web.archive.org/web/20121021172832/http://www.oxfammarylebone.co.uk/">specialising in books and music</a>, this seems to now be just a regular Oxfam branch.
 long: -0.151920
 lat: 51.520054
 new: unknown
 secondhand: unknown
 charity: yes
-open: yes
+open: no
 ---
 id: oxfam-bookshop-ealing
 name: Oxfam Bookshop (Ealing)
