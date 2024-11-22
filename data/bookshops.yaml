@@ -3,7 +3,7 @@ name: 30th Century Comics
 description: Vintage comic and book shop.
 address: 18 Lower Richmond Road, Putney, SW15 1JP
 locales: Putney, SW15
-website: http://30thcenturycomics.co.uk/
+website: https://30thcenturycomics.co.uk/
 phone: 020 8788 2052
 lat: 51.467219
 long: -0.21823445
@@ -30,19 +30,19 @@ open: yes
 id: alice-through-the-looking-glass-cecil-court
 name: Alice Through The Looking Glass
 address: 14 Cecil Court, Covent Garden, WC2N 4HE
-description: First editions and rare illustrated editions relating to Lewis Carroll's Alice.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30519769222/
-website: http://alicelooking.co.uk/
+description: First editions and rare illustrated editions relating to Lewis Carroll's Alice.  Located on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+photo: https://www.flickr.com/photos/grepnold/51125140947/
+website: https://alicelooking.co.uk/
 phone: 020 7836 8854
 lat: 51.510747
 long: -0.127826
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: alligators-mouth-richmond
 name: The Alligator's Mouth
 address: 2a Church Court, Richmond, TW9 1JL
-website: http://www.thealligatorsmouth.co.uk/
+website: https://www.thealligatorsmouth.co.uk/
 twitter: AlligatorsMouth
 phone: 020 8948 6775
 photo: https://www.flickr.com/photos/kake_pugh/33814046704/
@@ -56,17 +56,15 @@ id: all-you-read-is-love-leytonstone
 name: All You Read Is Love
 address: 877 Leytonstone High Road, E11 1HR
 locales: E11, Leytonstone
-description: Bookshop, cafe, and bar.  Originally a pop-up, now permanent.
-website: http://www.allyoureadislove.com/
-twitter: AllYouReadLove
-elweguardian: http://www.guardian-series.co.uk/news/11711953.Danish_siblings_bring_Scandinavian_book_cafe_to_Leytonstone/
-leytonstoner: http://www.leytonstoner.london/2015/02/23/read-love-really/
+description: This was a bookshop, cafe, and bar.  It <a href="https://twitter.com/allyoureadlove/status/987997402555731968">closed permanently</a> in April 2018.
+elweguardian: https://www.guardian-series.co.uk/news/11711953.Danish_siblings_bring_Scandinavian_book_cafe_to_Leytonstone/
+leytonstoner: https://www.leytonstoner.london/2015/02/23/read-love-really/
 lat: 51.570393
 long: 0.014117271
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: alpha-book-company-romford
 name: Alpha Book Company
@@ -114,9 +112,9 @@ checked: July 2013
 id: any-amount-of-books
 name: Any Amount of Books
 address: 56 Charing Cross Road
-website: http://www.anyamountofbooks.com/
+website: https://www.anyamountofbooks.com/
 rgl: https://london.randomness.org.uk/wiki.cgi?Any_Amount_Of_Books
-photo: https://www.flickr.com/photos/ruudboy/1269876498/
+photo: https://www.flickr.com/photos/grepnold/51126515565/
 new: no
 secondhand: yes
 lat: 51.512268
@@ -127,18 +125,17 @@ open: yes
 ---
 id: a-place-in-space-croydon
 name: A Place In Space
-address: 96 Church Street, CR0 1RD
-description: Comics and graphic novels.  It was previously across the road at number 101 (<a href="http://www.flickr.com/photos/kake_pugh/6883401397/">photo</a>), but moved to number 96 around 2012-2013.
-website: http://stores.ebay.co.uk/A-PLACE-IN-SPACE
-photo: https://www.flickr.com/photos/kake_pugh/8479158457/
-cgc: http://croydon.randomness.org.uk/wiki.cgi?A_Place_In_Space,_101_Church_Street
-lat: 51.373889
-long: -0.104669
+address: 96 Drummond Road, Croydon, CR0 1TX
+description: Comics and graphic novels.  It was previously located around the corner on Church Street; first at number 101 (<a href="https://www.flickr.com/photos/kake_pugh/6883401397/">photo</a>) and then at number 96 from around 2012-2013 (<a href="https://www.flickr.com/photos/kake_pugh/8479158457/">photo</a>).
+website: https://shop.aplaceinspace.co.uk/
+photo: https://www.flickr.com/photos/rjw1/52662377197/
+lat: 51.3743508
+long: -0.1047798
 new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: May 2016
+checked: March 2023
 ---
 id: archive-bookstore
 name: Archive Bookstore
@@ -171,7 +168,7 @@ checked: October 2018
 id: artwords
 name: Artwords
 address: 69 Rivington Street, EC2A 3QQ
-website: http://www.artwords.co.uk/aboutus/
+website: https://www.artwords.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/28124749104/
 londonist: http://londonist.com/2009/09/biblio-text_artwords.php
 lat: 51.526207
@@ -201,12 +198,11 @@ checked: February 2013
 id: bookshop-at-chelsea-harbour-design-centre
 name: The Bookshop At
 address: Chelsea Harbour Design Centre, Harbour Road, Fulham, SW10 0XE
-description: Lifestyle and design books.
-website: http://www.thebookshopat.com/
+description: Seems to have closed down by early 2024.  Used to sell lifestyle and design books.
 londonbooks: http://londonbooks.tumblr.com/post/152805543532/
 lat: 51.476402
 long: -0.18341133
-open: yes
+open: no
 ---
 id: jos-bookshop-chingford
 name: Jo's Bookshop
@@ -232,10 +228,11 @@ lat: 51.545675
 long: -0.48007880
 photo: https://www.flickr.com/photos/kake_pugh/38600397081/
 londonbooks: http://londonbooks.tumblr.com/post/151875367111/barnards-bookshop-ub8-at-the-end-of-the
+description: According to an Uxbridge FM interview with the owner, Graeme Mitchell (<a href="https://www.facebook.com/UxbridgeFM/videos/3042610225961444/">posted to Facebook on 6 December 2021</a>), Barnard's Bookshop closed permanently at the end of Saturday 11 December 2021 due to his and his business partner’s retirement.
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: November 2017
 ---
 id: barnes-bookshop
@@ -431,7 +428,7 @@ id: book-and-comic-exchange
 name: Book and Comic Exchange
 address: 14 Pembridge Road, W11 3HL
 description: Closed down by April 2017.
-topfloorflat: http://www.thetopfloorflat.com/2009/03/book-and-comic-exchange-in-notting-hill/
+topfloorflat: http://web.archive.org/web/20160223145822/http://www.thetopfloorflat.com/2009/03/book-and-comic-exchange-in-notting-hill/
 londonbooks: http://londonbooks.tumblr.com/post/139716563601/
 photo: https://www.flickr.com/photos/kake_pugh/9892234965/
 lat: 51.509609
@@ -512,12 +509,13 @@ open: yes
 id: bookends
 name: Bookends
 address: 108 Charing Cross Road, WC2H 0JN
+description: Closed down by July 2012, according to Google Street View.
 lat: 51.514393
 long: -0.129583
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: book-haus
 name: Book Haus
@@ -536,7 +534,7 @@ open: yes
 id: bookmarks
 name: Bookmarks
 address: 1 Bloomsbury Street, WC1B 3QE
-website: http://www.bookmarksbookshop.co.uk/cgi/store/bookmark.cgi
+website: https://bookmarksbookshop.co.uk/
 twitter: Bookmarks_books
 rgl: https://london.randomness.org.uk/wiki.cgi?Bookmarks,_WC1B_3QE
 thebookguide: http://web.archive.org/web/20170708034058/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2609
@@ -545,7 +543,7 @@ lat: 51.517155
 long: -0.127351
 new: unknown
 secondhand: unknown
-checked: October 2018
+checked: April 2021
 charity: no
 open: yes
 ---
@@ -587,7 +585,7 @@ open: no
 id: bookseller-crow-on-the-hill
 name: Bookseller Crow On The Hill
 address: 50 Westow Street, SE19 3AF
-website: http://www.booksellercrow.com/
+website: https://booksellercrow.co.uk/
 londonist: http://londonist.com/2009/05/biblio-text_bookseller_crow_on_the_1.php
 photo: https://www.flickr.com/photos/kake_pugh/8252068163/
 phone: 020 8771 8831
@@ -714,6 +712,19 @@ secondhand: yes
 charity: no
 open: no
 ---
+id: books-peckham
+name: Books Peckham
+address: 20 Maxted Road, Peckham, SE15 4LF
+website: https://books-peckham.com/
+description: Zines and second-hand paperbacks.  Entrance on Oglander Road.
+lat: 51.465810
+long: -0.072653
+new: yes
+secondhand: yes
+charity: no
+open: yes
+checked: April 2021
+---
 id: bookstop
 name: Bookstop
 address: 375 Upper Richmond Road, SW14 7NX
@@ -755,13 +766,13 @@ id: book-warehouse-islington
 name: Book Warehouse (Islington)
 address: 28 Upper Street, Islington, N1 0PN
 photo: https://www.flickr.com/photos/kake_pugh/26472508031/
-website: http://www.thebookwarehouse.co.uk/
+description: According to Google Street View, this closed down by September 2017.
 lat: 51.534484
 long: -0.10530312
 new: yes
 secondhand: no
 charity: no
-open: yes
+open: no
 checked: April 2016
 ---
 id: book-warehouse-notting-hill
@@ -840,10 +851,11 @@ charity: yes
 open: yes
 ---
 id: brixton-bookmongers
-name: Brixton Bookmongers
+name: Book Mongers
 address: 439 Coldharbour Lane, SW9 8LN
 website: http://www.bookmongers.com/
 rgl: https://london.randomness.org.uk/wiki.cgi?Brixton_Book_Mongers
+brixtonblog: https://brixtonblog.com/2022/02/brixtons-magical-shop-of-books-cats-and-dogs/
 photo: https://www.flickr.com/photos/kake_pugh/2809290205/
 lat: 51.461426
 long: -0.113833
@@ -882,10 +894,10 @@ open: yes
 id: bryars-and-bryars-cecil-court
 name: Bryars & Bryars
 address: 7 Cecil Court, Covent Garden, WC2N 4EZ
-description: First editions at a wide range of prices, with a special focus on travel books, literature, and early printing (especially Greek and Latin classics) as well as antique maps and atlases printed c. 1500-1950.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30004560154/
+description: First editions at a wide range of prices, with a special focus on travel books, literature, and early printing (especially Greek and Latin classics) as well as antique maps and atlases printed c. 1500-1950.  Located on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+photo: https://www.flickr.com/photos/grepnold/51126514445/
 londonbooks: http://londonbooks.tumblr.com/post/142170258461/
-bluestocking: https://www.bluestockingbooks.co.uk/single-post/2019/03/02/Secret-1-The-first-bookshop-uncovered
+bluestocking: http://web.archive.org/web/20190414140332/https://www.bluestockingbooks.co.uk/single-post/2019/03/02/Secret-1-The-first-bookshop-uncovered
 website: http://bryarsandbryars.co.uk/
 phone: 020 7836 1910
 lat: 51.510703
@@ -894,7 +906,7 @@ new: unknown
 secondhand: yes
 charity: no
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: calder-bookshop-southwark
 name: Calder Bookshop
@@ -1018,9 +1030,10 @@ checked: August 2013
 ---
 id: chorleywood-bookshop
 name: Chorleywood Bookshop
-address: 4 New Parade, WD3 5NJ
-website: http://www.chorleywoodbookshop.co.uk/
+address: 7 New Parade, WD3 5NJ
+website: https://chilternbookshops.co.uk/contact/chorleywood-shop/
 photo: https://www.flickr.com/photos/kake_pugh/9439748984/
+description: Previously at 4 New Parade (pictured), it <a href="https://www.facebook.com/ChorleywoodBookshop/photos/a.771505836229768/3892494177464236/">moved to number 7</a> in March 2021 (see also <a href="https://mailchi.mp/cwbookshop/were-on-the-move">newsletter announcement</a>).
 lat: 51.65512
 long: -0.52173
 new: unknown
@@ -1085,6 +1098,14 @@ secondhand: unknown
 charity: no
 open: no
 ---
+id: clerkenwells
+name: Clerkenwells
+address: 68a Compton Street, EC1V 0BN
+description: Bookshop and coffee shop.
+lat: 51.524644
+long: -0.102468
+open: yes
+---
 id: collinge-and-clark
 name: Collinge and Clark
 address: 13 Leigh Street, WC1H 9EW
@@ -1098,6 +1119,15 @@ secondhand: unknown
 charity: no
 open: yes
 checked: December 2012
+---
+id: common-press-shoreditch
+name: The Common Press
+address: 118 Bethnal Green Road, E2 6DG
+description: Focuses on books from marginalised writers.
+website: https://www.commonpress.co.uk/
+lat: 51.524666
+long: -0.0719639
+open: yes
 ---
 id: copperfields
 name: Copperfield's
@@ -1261,7 +1291,7 @@ open: yes
 id: dulwich-books
 name: Dulwich Books
 address: 6 Croxted Road, SE21 8SW
-website: http://www.dulwichbooks.co.uk/
+website: https://dulwichbooks.co.uk/
 twitter: DulwichBooks
 long: -0.090444
 lat: 51.436676
@@ -1310,7 +1340,7 @@ open: no
 id: brick-lane-bookshop
 name: Brick Lane Bookshop
 address: 166 Brick Lane, E1 6RU
-website: http://www.bricklanebookshop.org/
+website: https://bricklanebookshop.org/
 twitter: BrickLaneBooks
 londonist: http://londonist.com/2009/06/biblio-text_eastside_books.php
 description: Previously known as Eastside Books (<a href="http://flickr.com/photos/kake_pugh/2476108271/">photo</a>).
@@ -1342,7 +1372,6 @@ checked: August 2016
 id: epping-bookshop
 name: Epping Bookshop
 address: 71 High Street, CM16 4BA
-website: http://epping-bookshop.co.uk/
 rgl: https://london.randomness.org.uk/wiki.cgi?Epping_Bookshop
 photo: https://www.flickr.com/photos/kake_pugh/2904726201/
 description: Closed down in late 2015.
@@ -1356,15 +1385,15 @@ open: no
 id: european-bookshop-south-kensington
 name: European Bookshop
 address: 123 Gloucester Road, South Kensington, SW7 4TE
-description: Previously at 5 Warwick Street, Soho, but moved to South Kensington by March 2016.</p><p>Its new premises were previously occupied by another bookshop run by publishing company Slightly Foxed (from Autumn 2009 to January 2016), and before that by the Gloucester Road Bookshop.</p>
-website: http://www.europeanbookshop.com/
+description: Previously at 5 Warwick Street, Soho, but moved to South Kensington by March 2016.  It closed at this location by early 2024.</p><p>Its South Kensington premises were previously occupied by another bookshop run by publishing company Slightly Foxed (from Autumn 2009 to January 2016), and before that by the Gloucester Road Bookshop.</p>
+photo: https://www.flickr.com/photos/brighton/26132338758
 londonbooks: http://londonbooks.tumblr.com/post/114062186071/
 lat: 51.493176
 long: -0.181575
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: faction-bookshop-lee
 name: Faction Bookshop
@@ -1421,18 +1450,19 @@ address: 44 Eagle Street, Holborn, WC1R 4FS
 locales: WC1, Holborn
 website: http://www.foliosociety.com/
 twitter: FolioSociety
-phone: 020 7400 4200
+photo: https://www.flickr.com/photos/paularchivist/27272307906/
 londonbooks: http://londonbooks.tumblr.com/post/151553396476/the-folio-society-wc1r-near-holborn-on-eagle
+description: The bricks-and-mortar shop <a href="http://web.archive.org/web/20161125165158/http://www.foliosociety.com/pages/bookshop-sale">closed down in December 2016</a>, with sales continuing online only.
 lat: 51.518774
 long: -0.11753802
-open: yes
+open: no
 ---
 id: forbidden-planet-croydon
 name: Forbidden Planet (Croydon)
 address: 43 Church Street, CR0 1RH
 description: Comics and graphic novels.  Previously located at 175 North End, CR0 1TP, but moved to Church Street in late 2011.
 website: http://www.forbiddenplanet.co.uk/
-photo: https://www.flickr.com/photos/kake_pugh/7616724606/
+photo: https://www.flickr.com/photos/kake_pugh/49243432962/
 cgc: http://croydon.randomness.org.uk/wiki.cgi?Forbidden_Planet,_43_Church_Street
 lat: 51.3733010355549
 long: -0.10271086892913
@@ -1440,7 +1470,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: September 2016
+checked: March 2023
 ---
 id: forbidden-planet-shaftesbury-avenue
 name: Forbidden Planet (Shaftesbury Avenue)
@@ -1455,11 +1485,12 @@ open: yes
 checked: November 2024
 ---
 id: fosters-bookshop-chiswick
-name: Fosters Bookshop
+name: Foster Books
 address: 183 Chiswick High Road, W4 2DR.
 description: Second-hand and antiquarian.
+website: https://www.fosterbooks.co.uk/
 twitter: fostersbookshop
-rgl: https://london.randomness.org.uk/wiki.cgi?Fosters_Bookshop,_W4_2DR
+rgl: https://london.randomness.org.uk/wiki.cgi?Foster_Books,_W4_2DR
 photo: https://www.flickr.com/photos/kake_pugh/2493085533/
 long: -0.257106
 lat: 51.492378
@@ -1467,12 +1498,13 @@ new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: April 2021
 ---
 id: foyles-charing-cross-road
 name: Foyles at Charing Cross Road (incorporating Grant and Cutler)
 address: 107 Charing Cross Road, WC2H 0DT
-description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from there to number 107.  It also incorporates <a href="http://www.grantandcutler.com/">Grant and Cutler</a>, a specialist foreign-language bookseller. In 2018 the Foyles chain was acquired by Waterstones.
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1011
+description: Founded in 1903 and on Charing Cross Road since 1906, this is the flagship Foyles store.  It's used several addresses on this road.  Its longest stint was at numbers 113–119, but in early June 2014 it moved from there to number 107.  It also incorporates Grant and Cutler, a specialist foreign-language bookseller. In 2018 the Foyles chain was acquired by Waterstones.
+website: https://www.foyles.co.uk/shops/london-charing-cross-road
 twitter: Foyles
 tol: http://www.tiredoflondontiredoflife.com/2014/06/browse-books-at-new-foyles.html
 dg: http://diamondgeezer.blogspot.co.uk/2014/06/new-foyles.html
@@ -1488,7 +1520,6 @@ id: foyles-pancras-road
 name: Foyles at St Pancras International
 address: Unit 8A, St Pancras Station, Euston Road, N1C 4QL
 description: Now closed; was a branch of Foyles inside St Pancras International itself.  It closed in late July or early August 2014.
-website: http://www.foyles.co.uk/
 photo: https://www.flickr.com/photos/rjw1/8269863312/
 twitter: Foyles
 long: -0.125334
@@ -1503,7 +1534,7 @@ id: foyles-southbank
 name: Foyles at Royal Festival Hall
 address: Southbank Centre, SE1 8XX
 description: Opened in June 2005. This branch of Foyles is right next to the river, and in the summer there are deckchairs outside for a river view. It sells fiction, children’s books, and non-fiction including travel, biography, philosophy, and cookery, as well as magazines, gifts, and DVDs. There’s step-free access to all areas of the shop.
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1010
+website: https://www.foyles.co.uk/shops/london-royal-festival-hall
 photo: https://www.flickr.com/photos/kake_pugh/2672916162/
 twitter: Foyles
 phone: 020 7440 3212
@@ -1520,7 +1551,7 @@ name: Foyles at Waterloo Station
 address: Unit 22, Lower Concourse, London Waterloo Station, SE1 8SW
 description: A small Foyles branch in Waterloo Station. Most of the fiction is on the mezzanine level, and there is no lift.
 photo: https://www.flickr.com/photos/kake_pugh/48707771846/
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1019
+website: https://www.foyles.co.uk/shops/london-waterloo
 londonse1: http://www.london-se1.co.uk/news/view/7394
 twitter: Foyles
 phone: 020 3206 2680
@@ -1535,8 +1566,7 @@ checked: September 2019
 id: foyles-westfield
 name: Foyles at Westfield White City
 address: Unit 2054, Westfield White City, W12 7GE
-description: The Westfield White City branch of Foyles. Sells fiction including children’s books and bestsellers, and non-fiction including biography, travel, history, business, sport, cookery, art, and fashion. Also stocks audiobooks, book tokens, gifts, stationery, cards, and wrapping paper. There’s step-free access to all areas of the shop.
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1012
+description: The Westfield White City branch of Foyles sold fiction including children’s books and bestsellers, and non-fiction including biography, travel, history, business, sport, cookery, art, and fashion.  It also stocked audiobooks, book tokens, gifts, stationery, cards, and wrapping paper.  There was step-free access to all areas of the shop.  It <a href="http://web.archive.org/web/20150629113425/http://www.thebookseller.com/news/foyles-close-westfield-branch">closed down</a> in January 2015 due to redevelopment of that part of the shopping centre.
 twitter: Foyles
 phone: 020 3206 2656
 long: -0.221658
@@ -1544,7 +1574,7 @@ lat: 51.507446
 new: yes
 secondhand: no
 charity: no
-open: yes
+open: no
 checked: July 2013
 ---
 id: foyles-westfield-stratford
@@ -1552,7 +1582,7 @@ name: Foyles at Westfield Stratford City
 address: 74-75 Lower Ground Floor, The Arcade, Westfield Stratford City, E20 1EH
 photo: https://www.flickr.com/photos/rjw1/15011149393/
 description: The Westfield Stratford City branch of Foyles. It includes a children’s area, and there’s step-free access to all areas of the shop.
-website: http://www.foyles.co.uk/Public/Stores/Detail.aspx?storeid=1016
+website: https://www.foyles.co.uk/shops/london-stratford
 twitter: Foyles
 phone: 020 3206 2671
 long: -0.0054387153
@@ -1566,9 +1596,8 @@ checked: October 2014
 id: foyles-one-new-change
 name: Foyles at One New Change
 address: One New Change, 25 Upper Cheapside Passage, EC2V 6AG
-website: http://www.foyles.co.uk/
 twitter: Foyles
-description: A branch of Foyles in the One New Change shopping centre; it <a href="http://www.thebookseller.com/news/foyles-close-one-new-change-today.html">closed for good</a> in November 2011.
+description: A branch of Foyles in the One New Change shopping centre; it <a href="http://web.archive.org/web/20220110134432/https://www.thebookseller.com/news/foyles-close-one-new-change-today">closed for good</a> in November 2011.
 londonist: http://londonist.com/2010/11/biblio-text_foyles_one_new_change.php
 long: -0.096640
 lat: 51.514397
@@ -1638,8 +1667,8 @@ checked: May 2014
 id: goldsboro-books-cecil-court
 name: Goldsboro Books
 address: 23-27 Cecil Court, Covent Garden, WC2N 4EZ
-description: Specialist in signed modern first editions.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30548378421/
+description: Specialist in signed modern first editions.  Located on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+photo: https://www.flickr.com/photos/grepnold/51125703111/
 website: http://www.goldsborobooks.com/
 phone: 020 7497 9230
 lat: 51.510686
@@ -1648,7 +1677,7 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: gosh
 name: Gosh
@@ -1692,7 +1721,7 @@ id: guanghwa-books
 name: Guanghwa Books
 address: 112 Shaftesbury Avenue, Chinatown, W1D 5EJ
 description: Books in both Chinese and English.
-website: http://www.cypressbooks.com/howtofindus.php
+website: https://cypressbooks.com/
 photo: https://www.flickr.com/photos/kake_pugh/26512600106/
 description: Previously at 7 Newport Place, WC2H 7JR.
 lat: 51.512340
@@ -1784,15 +1813,15 @@ checked: July 2013
 ---
 id: henry-pordes-books-charing-cross-road
 name: Henry Pordes Books
-address: 58-60 Charing Cross Road, WC2H 0BB
-description: Second-hand, antiquarian, and out-of-print books.
+address: 72 Charing Cross Road, WC2H 0BB
+description: Second-hand, antiquarian, and out-of-print books.  It was previously at 58-60 Charing Cross Road (<a href="https://www.flickr.com/photos/kake_pugh/2445597342/">photo</a>), but it moved into the old premises of Quinto/Francis Edwards at number 72 after the latter's lease expired in 2020.
 website: http://www.henrypordesbooks.com/
-photo: https://www.flickr.com/photos/kake_pugh/2445597342/
+photo: https://www.flickr.com/photos/grepnold/51125704426/
 londonbooks: http://londonbooks.tumblr.com/post/117709762571/
-long: -0.128531
-lat: 51.512348
-new: no
-secondhand: yes
+lat: 51.512472
+long: -0.128624
+new: unknown
+secondhand: unknown
 charity: no
 open: yes
 checked: November 2024
@@ -1800,14 +1829,13 @@ checked: November 2024
 id: henry-stokes-and-co
 name: Henry Stokes and Co
 address: 58 Elizabeth Street, SW1W 9PB
-description: "a carefully chosen selection of the best new titles in biography and fiction [...] Books as presents are also very important at Stokes and all the most interesting recently published decorating, gardening, cookery and wine, and travel books are stocked."
-website: http://www.henrystokes.co.uk/
+description: Closed down by May 2016, according to Google Street View.
 long: -0.151320
 lat: 51.494038
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: herne-hill-books
 name: Herne Hill Books
@@ -1869,16 +1897,18 @@ checked: August 2013
 id: house-of-hodge
 name: House Of Hodge
 address: 174 Blackstock Road, N5 1HA
-description: Charity bookshop.  The frontage has no sign except for an old one reading 'A Wilsher & Son'.
+description: Charity bookshop.
 andrewwhitehead: http://www.andrewwhitehead.net/1/post/2012/09/charity-begins-at-the-bookshop.html
 photo: https://www.flickr.com/photos/kake_pugh/9335707588/
+website: http://houseofhodge.org/
+phone: 020 8127 4765
 lat: 51.560016
 long: -0.09872
 new: unknown
 secondhand: yes
 charity: yes
 open: yes
-checked: July 2013
+checked: October 2020
 ---
 id: housmans-booksellers
 name: Housmans Booksellers
@@ -1909,9 +1939,8 @@ checked: November 2024
 ---
 id: ian-allan-bookshop-lower-marsh
 name: Ian Allan Bookshop
-address: 45-46 Lower Marsh, SE1 7RG.
-description: Specialists in transport and military — books, DVDs, models, etc.
-website: http://www.ianallanpublishing.com/our-shops.htm
+address: 45-46 Lower Marsh, SE1 7RG
+description: <a href="http://web.archive.org/web/20201101120100/http://www.ianallanpublishing.com/">Closed down at the end of October 2020</a>. It used to specialise in transport and military — books, DVDs, models, etc.
 photo: https://www.flickr.com/photos/kake_pugh/38359523531/
 londonbooks: http://londonbooks.tumblr.com/post/121042294003/
 long: -0.111923
@@ -1919,7 +1948,7 @@ lat: 51.501049
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: November 2017
 ---
 id: ibis-bookshop
@@ -2168,31 +2197,29 @@ checked: August 2015
 id: k-k-outlet-hoxton
 name: K K Outlet
 address: 42 Hoxton Square, N1 6PB
-website: http://www.kkoutlet.com/
-description: Bookshop and gallery.
+description: Bookshop and gallery which <a href="https://www.creativereview.co.uk/kk-outlet-returns-with-vans-store-takeover/">closed down in 2018</a>.
 londonbooks: http://londonbooks.tumblr.com/post/150576849227/
 lat: 51.527284
 long: -0.080649599
-open: yes
+open: no
 ---
 id: koenig-books-charing-cross-road
 name: Koenig Books (Charing Cross Road)
-address: 80 Charing Cross Road.
-website: http://www.koenigbooks.co.uk/
-phone: 020 7240 8190
+address: 80 Charing Cross Road
+description: According to Google Street View, this closed down by August 2019.
 photo: https://www.flickr.com/photos/kake_pugh/2445616864/
 long: -0.128757
 lat: 51.512714
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: October 2014
 ---
 id: koenig-books-serpentine
 name: Koenig Books (Serpentine Gallery)
 address: Serpentine Gallery, Kensington Gardens, W2 3XA
-website: http://www.serpentinegallery.org/bookshop.html
+website: https://www.serpentinegalleries.org/visit/the-serpentine-shop/
 lat: 51.504718
 long: -0.17497578
 new: unknown
@@ -2244,7 +2271,7 @@ id: librairie-la-page
 name: Librairie La Page
 address: 7 Harrington Road, SW7 3ES
 description: French-language books.
-website: http://www.librairielapage.com/
+website: https://www.librairielapage.com/
 lat: 51.494011
 long: -0.17524575
 new: unknown
@@ -2283,7 +2310,7 @@ id: lloyds-of-kew
 name: Lloyd's of Kew
 address: 9 Mortlake Terrace, Kew, TW9 3DT
 photo: https://flickr.com/photos/kake_pugh/2704615672/
-robaroundbooks: http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/
+robaroundbooks: http://web.archive.org/web/20170610045601/http://robaroundbooks.com/2009/06/bookshelf-of-the-week-lloyds-of-kew-surrey/
 londonbooks: http://londonbooks.tumblr.com/post/117107607906/
 thebookguide: http://web.archive.org/web/20170811033237/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2615
 flickr: http://www.flickr.com/photos/53264755@N00/sets/72157594520880134/
@@ -2298,7 +2325,7 @@ id: london-review-of-books
 name: London Review Bookshop
 address: 14 Bury Place, WC1A 2JL
 photo: https://www.flickr.com/photos/kake_pugh/2724084824/
-website: http://www.lrbshop.co.uk/
+website: https://www.londonreviewbookshop.co.uk/
 twitter: LRBbookshop
 londonist: http://londonist.com/2009/05/biblio-text_london_review_bookshop.php
 long: -0.124062
@@ -2325,20 +2352,20 @@ id: lucky-seven-stoke-newington
 name: Lucky Seven
 address: 127 Stoke Newington Church Street, N16 0UH
 rgl: https://london.randomness.org.uk/wiki.cgi?Lucky_Seven,_Stoke_Newington
-description: Mostly records, but some secondhand books too.  Previously known as Ocean Books.  Ocean Books <a href="http://www.stereostokey.com/2009/08/ocean-books-stoke-newington-closed/">closed in August 2009</a> and the site is now occupied by Lucky Seven.
+description: Now closed.  It mostly sold records, but had some secondhand books too.
 photo: https://www.flickr.com/photos/55935853@N00/8281035314/
 long: -0.081035
 lat: 51.561733
 new: no
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: December 2012
 ---
 id: lutyens-and-rubinstein
 name: Lutyens and Rubinstein
 address: 21 Kensington Park Road, W11 2EU
-website: http://www.lutyensrubinstein.co.uk/bookshop-homepage/
+website: https://landrbookshop.co.uk/
 twitter: LandRBookshop
 photo: https://www.flickr.com/photos/kake_pugh/16742839461/
 tol: http://www.tiredoflondontiredoflife.com/2010/06/browse-for-books-at-lutyens-and.html
@@ -2353,7 +2380,7 @@ checked: March 2015
 id: maggs-bros-bloomsbury
 name: Maggs Bros (Bloomsbury)
 address: 48 Bedford Square, Bloomsbury, WC1B 3DR
-website: http://www.maggs.com/
+website: https://www.maggs.com/
 twitter: MaggsBros
 phone: 020 7493 7160
 description: Rare books and manuscripts.  It also has <a href="/shops/maggs-bros-mayfair.html">a branch in Mayfair</a>.
@@ -2366,7 +2393,7 @@ open: yes
 id: maggs-bros-mayfair
 name: Maggs Bros (Mayfair)
 address: 46 Curzon Street, Mayfair, W1J 7UH
-website: http://www.maggs.com/
+website: https://www.maggs.com/
 twitter: MaggsBros
 phone: 020 7493 7160
 description: Rare books and manuscripts.  Originally at 50 Berkeley Square, it moved to 46 Curzon Street in November 2015.  In May 2017, it also opened <a href="/shops/maggs-bros-bloomsbury.html">new premises</a> in Bloomsbury.
@@ -2374,6 +2401,19 @@ londonbooks: http://londonbooks.tumblr.com/post/140559056526/
 lat: 51.506799
 long: -0.14655684
 new: unknown
+secondhand: yes
+charity: no
+open: yes
+---
+id: maghreb-bookshop
+name: Maghreb Bookshop
+address: 45 Burton Street, WC1H 9AL
+website: http://www.maghreb-studies-association.co.uk/en/shophome.html
+description: New, rare, and out-of-print books on the Maghreb, the Middle East, Islam, and Africa.
+photo: https://www.flickr.com/photos/rjw1/8268822289/
+lat: 51.526869
+long: -0.128341
+new: yes
 secondhand: yes
 charity: no
 open: yes
@@ -2403,23 +2443,21 @@ open: no
 id: marchmont-bookshop
 name: Marchmont Bookshop
 address: 39 Burton Street, WC1H 9AL
-description: All secondhand.  Specialises in Middle-Eastern and African subjects, but also has some general stock.
+description: Closed down by May 2014, according to Google Street View.
 bibliophilicblogger: http://bibliophilicblogger.blogspot.com/2009/04/londons-second-hand-bookshops-no-2.html
-photo: https://www.flickr.com/photos/rjw1/8268822289/
-long: -0.128231
-lat: 51.526836
+lat: 51.526657
+long: -0.128113
 new: no
 secondhand: yes
 charity: no
-open: yes
-checked: December 2012
+open: no
 ---
 id: marchpane-cecil-court
 name: Marchpane
 address: 16 Cecil Court, Covent Garden, WC2N 4HE
-description: Specialist in rare children's and illustrated books.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Specialist in rare children's and illustrated books.  Located on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 londonbooks: http://londonbooks.tumblr.com/post/120350699321/
-photo: https://www.flickr.com/photos/kake_pugh/30519768352/
+photo: https://www.flickr.com/photos/grepnold/51126515020/
 phone: 020 7836 8661
 lat: 51.510745
 long: -0.127881
@@ -2427,7 +2465,7 @@ new: unknown
 secondhand: yes
 charity: no
 open: yes
-checked: January 2019
+checked: April 2021
 ---
 id: marcus-campbell-art-books
 name: Marcus Campbell Art Books
@@ -2444,17 +2482,14 @@ open: yes
 id: material-shoreditch
 name: Material
 address: 3 Rivington Street, Shoreditch, EC2A 3DT
-phone: 020 7739 1900
-website: http://materialmaterial.com/
-twitter: materialgallery
-description: Focused on design, food, and children's books.
+description: Focused on design, food, and children's books.  Now closed, and the building has been demolished.
 photo: https://www.flickr.com/photos/kake_pugh/28710525116/
 lat: 51.526113
 long: -0.083169535
 new: yes
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: July 2016
 ---
 id: metropolitan-books
@@ -2502,7 +2537,7 @@ name: Muswell Hill Bookshop
 address: 72 Fortis Green Road, N10 3HN
 website: http://www.muswellhillbookshop.com/
 twitter: muswellhillbks
-londonist: http://londonist.com/2009/02/biblio-text_muswell_hill_bookshop.php
+londonist: https://londonist.com/2009/02/biblio-text_muswell_hill_bookshop
 photo: https://www.flickr.com/photos/kake_pugh/9460767036/
 long: -0.146041
 lat: 51.590096
@@ -2554,7 +2589,6 @@ open: yes
 id: naval-maritime-books-greenwich
 name: Naval and Maritime Books
 address: 66 Royal Hill, SE10 8RT
-website: http://www.navalandmaritimebooks.com/
 photo: https://www.flickr.com/photos/kake_pugh/48694255242/
 tol: http://www.tiredoflondontiredoflife.com/2010/05/shop-for-nautical-novels-at-maritime.html
 londonbooks: http://londonbooks.tumblr.com/post/134650567296/
@@ -2607,14 +2641,18 @@ id: nomad-books-fulham
 name: Nomad Books
 address: 781 Fulham Road, SW6 5HA
 twitter: NomadBooks
+website: https://nomadbooks.co.uk/
 yelp: http://www.yelp.co.uk/biz/nomad-books-london
 londonbooks: http://londonbooks.tumblr.com/post/130213493036/
+photo: https://www.flickr.com/photos/kake_pugh/52690490856/
+description: Opened in 1990.  They have a large collection of children’s books as well as adults', and they sell books in French as well as English.  The shop is all on one level with no steps and wide enough aisles for a large wheelchair.
 long: -0.203891
 lat: 51.476494
 new: unknown
 secondhand: unknown
 charity: no
 open: yes
+checked: February 2023
 ---
 id: notting-hill-books
 name: Notting Hill Books
@@ -2640,37 +2678,47 @@ secondhand: unknown
 charity: no
 open: yes
 ---
+id: occasional-bookshop-streatham
+name: Occasional Bookshop
+address: 93 Streatham Vale, SW16 5SQ
+description: Closed down around the end of 2023, this was a second-hand book and record shop with limited opening hours.
+photo: https://www.flickr.com/photos/90117465@N00/53128762212/
+lat: 51.41573149768574
+long: -0.13903665862048661
+open: no
+checked: August 2023
+---
 id: offside-books-kilburn
 name: Offside Books
 address: 92 Willesden Lane, Kilburn, NW6 7TA
-website: http://www.offsidebooks.com/
 twitter: OffSideBooks
 photo: https://www.flickr.com/photos/kake_pugh/16052383778/
 londonbooks: http://londonbooks.tumblr.com/post/123906715931/
+description: Closed down <a href="https://twitter.com/OffSideBooks/status/1568979505749934081">in late 2022</a>, initially possibly temporarily, but <a href="https://twitter.com/OffSideBooks/status/1626131886035673088">the owner confirmed later</a> that the closure was permanent.
 lat: 51.540944
 long: -0.20223239
 new: yes
 secondhand: yes
 charity: no
-open: yes
+open: no
+checked: April 2021
 ---
 id: old-bookshop-enfield
 name: The Old Bookshop
 address: 36 Gordon Road, EN2 0PZ
-website: http://www.fjwarnes.co.uk/
-description: Open by appointment only.
+description: Almost certainly closed (if you know otherwise, please let us know).  It was open by appointment only, in any case.
 long: -0.082709
 lat: 51.660278
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: old-operating-theatre-bookshops
 name: The Old Operating Theatre Bookshop
 address: 9a St. Thomas's Street, SE1 9RY
 description: Small bookshop attached to the Old Operating Theatre Museum.
-website: http://oldoperatingtheatre.com/visiting-us/gift-shop
+website: http://oldoperatingtheatre.com/
 lat: 51.504969
 long: -0.088619784
 new: yes
@@ -2773,7 +2821,7 @@ id: oxfam-books-and-music-islington
 name: Oxfam Books and Music (Islington)
 address: 48 Upper Street, Islington, N1 0PN
 photo: https://www.flickr.com/photos/kake_pugh/26446250952/
-website: http://www.oxfam.org.uk/shop/local-shops/oxfam-books-music-islington
+website: https://www.oxfam.org.uk/shops/oxfam-books-music-islington/
 twitter: OxfamBooksN1
 lat: 51.535108
 long: -0.10455479
@@ -2786,13 +2834,13 @@ checked: April 2016
 id: oxfam-books-and-music-marylebone
 name: Oxfam Books and Music (Marylebone)
 address: 91 Marylebone High Street, W1U 4RB
-website: http://www.oxfammarylebone.co.uk/
+description: Previously <a href="http://web.archive.org/web/20121021172832/http://www.oxfammarylebone.co.uk/">specialising in books and music</a>, this seems to now be just a regular Oxfam branch.
 long: -0.151920
 lat: 51.520054
 new: unknown
 secondhand: unknown
 charity: yes
-open: yes
+open: no
 ---
 id: oxfam-bookshop-ealing
 name: Oxfam Bookshop (Ealing)
@@ -2811,13 +2859,13 @@ name: Oxfam Bookshop (Bloomsbury)
 address: 12 Bloomsbury Street, WC1B 3QA
 photo: https://www.flickr.com/photos/kake_pugh/45135846401/
 website: http://oxfambloomsburybooks.wordpress.com/
-long: -0.127394
-lat: 51.517605
+lat: 51.517409
+long: -0.127265
 new: unknown
 secondhand: unknown
 charity: yes
 open: yes
-checked: October 2018
+checked: April 2021
 ---
 id: oxfam-bookshop-portobello-road
 name: Oxfam Bookshop (Portobello Road)
@@ -2879,6 +2927,18 @@ secondhand: unknown
 charity: yes
 open: yes
 ---
+id: oxfam-bookshop-herne-hill
+name: Oxfam Bookshop (Herne Hill)
+address: 9 Half Moon Lane, Herne Hill, SE24 9JU
+photo: https://www.flickr.com/photos/90117465@N00/53137665407/
+lat: 51.453039
+long: -0.10045974
+new: unknown
+secondhand: unknown
+charity: yes
+open: yes
+checked: August 2023
+---
 id: oxfam-bookshop-blackheath
 name: Oxfam Bookshop (Blackheath)
 address: 68 Tranquil Vale, SE3 0BN
@@ -2895,7 +2955,7 @@ address: 378 Muswell Hill Broadway, N10 1DJ
 phone: 0208 8835171
 lat: 51.5915
 long: -0.14255
-website: http://www.oxfam.org.uk/shop/local-shops/oxfam-bookshop-muswell-hill
+website: https://www.oxfam.org.uk/shops/oxfam-books-music-islington/
 photo: https://www.flickr.com/photos/kake_pugh/9460759018/
 new: unknown
 secondhand: unknown
@@ -2909,7 +2969,7 @@ address: 2 College Approach, Greenwich, SE10 9HY
 phone: 020 8305 1656
 lat: 51.481775
 long: -0.0097440630
-website: http://www.oxfam.org.uk/shop/local-shops/oxfam-bookshop-greenwich
+website: https://www.oxfam.org.uk/shops/oxfam-bookshop-greenwich/
 photo: https://www.flickr.com/photos/kake_pugh/13143992413/
 new: unknown
 secondhand: yes
@@ -2920,13 +2980,11 @@ checked: March 2014
 id: pages-of-cheshire-street
 name: Pages of Cheshire Street
 address: 5 Cheshire Street, Shoreditch, E2 6ED
-website: https://pagescheshirestreet.co.uk/
-phone: 020 7059 0273
 photo: https://www.flickr.com/photos/kake_pugh/48451564466/
-description: Sister shop to <a href="pages-of-hackney.html">Pages of Hackney</a>; this one stocks books by female, trans, and gender diverse authors.  The premises were previously occupied by a French and English bookshop called Caravanserail, which <a href="https://twitter.com/_caravanserail_/status/1115657927958855680">closed down</a> in April 2019 (see <a href="http://spitalfieldslife.com/2018/03/22/at-caravanserail/">Spitalfields Life article</a>).
+description: This was a sister shop to <a href="pages-of-hackney.html">Pages of Hackney</a>, stocking books by female, trans, and gender diverse authors.  The premises were previously occupied by a French and English bookshop called Caravanserail, which <a href="https://twitter.com/_caravanserail_/status/1115657927958855680">closed down</a> in April 2019 (see <a href="http://spitalfieldslife.com/2018/03/22/at-caravanserail/">Spitalfields Life article</a>).  Pages of Cheshire Street itself <a href="https://twitter.com/pagescheshirest/status/1242019968285396994">closed down in March 2020</a>.
 lat: 51.523541
 long: -0.070959717
-open: yes
+open: no
 checked: August 2019
 ---
 id: pages-of-fun-westminster
@@ -2965,24 +3023,22 @@ open: no
 ---
 id: paper-and-cup-bow
 name: Paper & Cup (Bow)
-description: Second branch of the coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  This one opened in early 2013.  The <a href="http://londonbookshops.org/shops/paper-and-cup-shoreditch.html">original branch</a> is in Shoreditch.
+description: This has now closed, but was the second branch of the coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  It opened in early 2013, but according to Google Street View it closed down again by April 2017.  The <a href="http://londonbookshops.org/shops/paper-and-cup-shoreditch.html">original branch in Shoreditch</a> remained open.
 address: 83 St Paul's Way, E3 4AJ
-website: http://www.paperandcup.co.uk/
-twitter: PaperAndCup
 photo: https://www.flickr.com/photos/kake_pugh/31334166375/
 lat: 51.518015
 long: -0.026976
 new: unknown
 secondhand: unknown
 charity: unknown
-open: yes
+open: no
 checked: November 2016
 ---
 id: paper-and-cup-shoreditch
 name: Paper & Cup (Shoreditch)
-description: Coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  There's also <a href="http://londonbookshops.org/shops/paper-and-cup-bow.html">another branch</a> in Bow.
+description: Coffee shop and book shop run by the <a href="http://www.sct.org.uk/">Spitalfields Crypt Trust</a>.  There also used to be <a href="http://londonbookshops.org/shops/paper-and-cup-bow.html">another branch</a> in Bow, but that one has now closed.
 address: 18 Calvert Avenue, E2 7JP
-website: http://www.paperandcup.co.uk/
+website: https://www.sct.org.uk/social-enterprises/paper-cup/
 twitter: PaperAndCup
 lat: 51.526171
 long: -0.0763295
@@ -3037,16 +3093,15 @@ open: yes
 id: peter-ellis-cecil-court
 name: Peter Ellis
 address: 18 Cecil Court, Covent Garden, WC2N 4HE
-description: Modern first editions and general antiquarian stock.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: The Peter Ellis shop that was previously on Cecil Court has now closed.  However, as of early 2021 the owner is <a href="https://biblio.co.uk/bookstore/peter-ellis-bookseller-london">still trading from his home</a>.  Modern first editions and general antiquarian stock.
 photo: https://www.flickr.com/photos/kake_pugh/30004558214/
 website: http://www.peterellisbooks.com/
-phone: 020 7836 8880
 lat: 51.510744
 long: -0.127945
 new: unknown
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: October 2016
 ---
 id: peter-harrington-chelsea
@@ -3088,14 +3143,14 @@ checked: May 2017
 id: photo-books-international
 name: Photo Books International
 address: 99 Judd Street, WC1H 9NE
-website: http://www.pbi-books.com/
 photo: https://www.flickr.com/photos/kake_pugh/4620238904/
+description: Closed down by May 2014, according to Google Street View.
 long: -0.125034
 lat: 51.527557
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: December 2012
 ---
 id: pickled-pepper-books-crouch-end
@@ -3125,15 +3180,14 @@ open: yes
 id: pleasures-of-past-times-cecil-court
 name: Pleasures Of Past Times
 address: 11 Cecil Court, Covent Garden, WC2N 4EZ
-description: Books relating to the performing arts, including magic/conjuring.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Now closed.  It previously traded in books relating to the performing arts, including magic/conjuring, and was located on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30004561204/
-phone: 020 7836 1142
 lat: 51.510701
 long: -0.127602
 new: unknown
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: October 2016
 ---
 id: primrose-hill-books
@@ -3178,20 +3232,21 @@ new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: July 2013
+checked: April 2021
 ---
 id: quinto-charing-cross-road
 name: Quinto
-address: 72 Charing Cross Road, WC2H 0BB
+address: 48A Charing Cross Road, WC2H 0BB
 website: http://quintobookshop.co.uk/
 twitter: QuintoBookshop
-description: It used to be at 48A Charing Cross Road (<a href="http://www.flickr.com/photos/kake_pugh/2391466584/">photo</a>), but moved to number 72 on 23 March 2010.  The building also houses a branch of <a href="http://www.francisedwards.co.uk/">Francis Edwards</a>.
-long: -0.128671
-lat: 51.512608
+photo: http://www.flickr.com/photos/kake_pugh/2391466584/
+description: Previously at 48A Charing Cross Road (pictured), it moved to number 72 on 23 March 2010.  In March 2020 it <a href="https://quinto-bookshop.co.uk/about/">moved online only</a> after expiry of its lease, and Henry Pordes Books took over number 72.  <a href="http://www.francisedwards.co.uk/">Francis Edwards</a>, which had shared number 72 with Quinto, continued to trade from its Hay-on-Wye premises only.
+lat: 51.511779
+long: -0.128402
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: r-a-gekoski
 name: R A Gekoski
@@ -3208,7 +3263,7 @@ open: yes
 id: red-cross-palmers-green
 name: Red Cross Bookshop
 address: 385 Green Lanes, Palmers Green, N13 4JG
-website: http://www.redcross.org.uk/Where-we-work/In-the-UK/Southern-England/London/LocalServices/Shop?dpid=e7206e66-fd85-4f3c-93ff-431174225402
+website: https://www.redcross.org.uk/shop/find-a-charity-shop/palmers-green-bookshop
 lat: 51.619625
 long: -0.10709
 yelp: http://www.yelp.co.uk/biz/british-red-cross-bookshop-london
@@ -3250,20 +3305,18 @@ open: yes
 id: ripley-and-lambert-dalston
 name: Ripley & Lambert
 address: 542 Kingsland Road, Dalston, E8 4AH
-website: https://www.ripleyandlambert.com/
-twitter: RipAndLamb
-description: Specialist film bookshop and cafe.
+description: "Now closed; was a specialist film bookshop and cafe.  As of July 2021, a notice on its website</a> states: \"We are deeply saddened to announce that unfortunately, due to the effects of the pandemic and the ongoing restrictions, Ripley and Lambert has had to close permanently.\"  (See also <a href=\"http://web.archive.org/web/20210731091018/https://twitter.com/ripandlamb/status/1371915873750032389\">Tweet from March 2021</a>.)"
 hackneycitizen: https://www.hackneycitizen.co.uk/2019/10/14/ripley-and-lambert-dalston-cafe-film/
 lat: 51.544760
 long: -0.075832352
-open: yes
+open: no
 ---
 id: ripping-yarn
 name: Ripping Yarns
 address: 355 Archway Road, N6 4EJ
 website: http://www.rippingyarns.co.uk/
 description: "Secondhand bookshop specialising in collectable children's and illustrated books.  It closed down on 20 September 2015 due to an unexpected rent increase, but will continue to operate online."
-photo: https://www.flickr.com/photos/bagelmouse/4700001855/
+photo: https://www.flickr.com/photos/philgyford/127647176/
 long: -0.148144
 lat: 51.577885
 new: no
@@ -3351,7 +3404,7 @@ address: 14 Smith's Court, Soho, W1D 7DQ
 website: https://thesecondshelf.com/
 twitter: SecondShelfBks
 description: Focuses on rare books, first editions, and manuscripts by women.
-bluestocking: https://www.bluestockingbooks.co.uk/single-post/2019/04/05/Secret-2-The-new-kid-on-the-block
+bluestocking: https://web.archive.org/web/20231128165900/https://www.bluestockingbooks.co.uk/single-post/2019/04/05/secret-2-the-new-kid-on-the-block
 lat: 51.511545
 long: -0.13497774
 new: unknown
@@ -3361,7 +3414,6 @@ open: yes
 id: shalimar-kennington
 name: Shalimar
 address: 38 Kennington Lane, SE11 4LS
-website: http://www.indianbooksuk.com/
 description: Bookshop and distributor specialising in African, South Asian, and Caribbean books, including children's books.
 kenningtonrunoff: http://kenningtonrunoff.com/shalimar/
 lat: 51.491043
@@ -3385,7 +3437,7 @@ checked: July 2013
 id: shepherds-victoria
 name: Shepherds (Victoria)
 address: 76 Rochester Row, SW1P 1JU
-website: http://www.bookbinding.co.uk/Shepherds%20contacts.htm
+website: http://www.bookbinding.co.uk/
 description: Specialises in fine bindings.
 long: -0.13695051
 lat: 51.494105
@@ -3425,7 +3477,7 @@ checked: November 2024
 id: sims-reed
 name: Sims Reed
 address: 43a Duke Street, SW1Y 6DD
-website: http://books.simsreed.com/
+website: https://books.simsreed.com/
 photo: https://www.flickr.com/photos/rjw1/14226889399/
 lat: 51.507106
 long: -0.13764480
@@ -3440,7 +3492,7 @@ name: SOAS Bookshop
 address: Thornhaugh Street, WC1H 0XG
 description: The bookshop of the School of Oriental and African Studies in Bloomsbury (though it's open to the public), run by Arthur Probsthain Oriental and African Bookshop.
 photo: https://www.flickr.com/photos/kake_pugh/4684461261/
-website: http://www.soas.ac.uk/visitors/bookshop/
+website: https://www.soas.ac.uk/
 long: -0.129304
 lat: 51.522377
 new: unknown
@@ -3454,7 +3506,7 @@ name: The Society Club
 address: 12 Ingestre Place, W1F 0JF
 photo: https://www.flickr.com/photos/kake_pugh/26265698930/
 description: <a href="http://westendextra.com/article/chapter-closes-on-the-society-club-in-soho">Closed down in mid-2017</a>; was a bookshop, gallery, teashop, and bar.
-ft: http://howtospendit.ft.com/personal-luxuries/6785-the-society-club
+ft: http://web.archive.org/web/20140812091201/http://howtospendit.ft.com/personal-luxuries/6785-the-society-club
 foodiebugle: http://web.archive.org/web/20160927192137/http://thefoodiebugle.com/article/eating-out/the-society-club
 lauraashley: http://web.archive.org/web/20170415141203/http://www.lauraashley.com/blog/uncategorized/the-society-club/
 pandorian: http://web.archive.org/web/20131125163524/http://thepandorian.com:80/2012/09/the-society-club/
@@ -3484,12 +3536,13 @@ name: Soho's Original Bookshop
 address: 124 Middlesex Street, E1 7HY
 photo: https://www.flickr.com/photos/kake_pugh/3750386544/
 yelp: http://www.yelp.co.uk/biz/soho-original-bookshop-london
+description: Closed down by May 2014, according to Google Street View.
 long: -0.079136
 lat: 51.518185
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: July 2009
 ---
 id: sokol-books-chelsea
@@ -3578,27 +3631,27 @@ address: 95 Bell Street, NW1 6TL.
 website: http://www.95bellstreet.com/
 photo: https://www.flickr.com/photos/kake_pugh/3685320785/
 londonbooks: http://londonbooks.tumblr.com/post/117416231601/
-long: -0.165696
-lat: 51.522190
+description: This shop <a href="https://twitter.com/fostersbookshop/status/664726107225260032">closed around the end of 2015</a>, but its sister shop <a href="fosters-bookshop-chiswick.html">on Chiswick High Road</a> continued to trade.
+lat: 51.522076
+long: -0.165878
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: July 2009
 ---
 id: stephen-poole-fine-books-cecil-court
 name: Stephen Poole Fine Books
 address: 10 Cecil Court, Covent Garden, WC2N 4HE
-description: Specialist in modern first editions.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+description: Now closed.  Previously a specialist in modern first editions located on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
 photo: https://www.flickr.com/photos/kake_pugh/30519769202/
 londonbooks: http://londonbooks.tumblr.com/post/119937790910/
-phone: 020 7836 0999
 lat: 51.510749
 long: -0.127703
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: stoke-newington-bargain-bookshop
 name: Stoke Newington Bargain Bookshop
@@ -3675,7 +3728,7 @@ checked: August 2016
 id: taschen
 name: Taschen
 address: 12 Duke Of York Square, SW3 4LY
-website: http://www.taschen.com/pages/en/stores/19915.store_london.1.htm
+website: https://www.taschen.com/en/stores/london
 lat: 51.491451
 long: -0.15940450
 new: unknown
@@ -3697,8 +3750,8 @@ open: yes
 id: tenderbooks-cecil-court
 name: Tenderbooks
 address: 6 Cecil Court, Covent Garden, WC2N 4HE
-description: Art bookshop located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30004559434/
+description: Art bookshop located on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+photo: https://www.flickr.com/photos/grepnold/51125451899/
 website: http://tenderbooks.co.uk/
 phone: 020 7379 9464
 londonbooks: http://londonbooks.tumblr.com/post/150252714005/
@@ -3723,24 +3776,22 @@ checked: September 2013
 id: tindley-and-everett-cecil-court
 name: Tindley and Everett
 address: 4 Cecil Court, Covent Garden, WC2N 4HE
-description: Specialist in 20th century literature.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30519770152/
+description: Specialist in 20th century literature.  Located on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+photo: https://www.flickr.com/photos/grepnold/51125702791/
 londonbooks: http://londonbooks.tumblr.com/post/151231035166/
 lat: 51.510752
 long: -0.127362
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: ti-pi-tin-stoke-newington
 name: Ti Pi Tin
 address: 47 Stoke Newington High Street, N16 8EL
-website: http://www.tipitin.com/
-twitter: tipitinbooks
-description: Independently- and self-published artists' books and zines.
+description: According to Google Street View, this closed down by September 2020.  It previously sold independently-published and self-published artists' books and zines.
 londonbooks: http://londonbooks.tumblr.com/post/145447149806/
 lat: 51.558527
 long: -0.074460402
-open: yes
+open: no
 ---
 id: travelling-through-waterloo
 name: Travelling Through...
@@ -3760,8 +3811,8 @@ checked: November 2017
 id: travis-and-emery-cecil-court
 name: Travis & Emery
 address: 17 Cecil Court, Covent Garden, WC2N 4EZ
-description: New and secondhand sheet music and music-related books.  Located on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30519767242/
+description: New and secondhand sheet music and music-related books.  Located on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+photo: https://www.flickr.com/photos/grepnold/51125613858/
 londonbooks: http://londonbooks.tumblr.com/post/120550908661/
 website: http://www.travis-and-emery.com/
 phone: 020 7240 2129
@@ -3771,7 +3822,7 @@ new: yes
 secondhand: yes
 charity: no
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: treadwells-offstage-books
 name: Treadwell's (and Offstage Books)
@@ -3867,16 +3918,15 @@ open: no
 id: village-bookshop-woodford-green
 name: Village Bookshop (Woodford)
 address: 475 High Road, IG8 0XE
-website: http://www.thevillagebookshop.co.uk/
-twitter: VillageBookshop
 rgl: https://london.randomness.org.uk/wiki.cgi?Village_Bookshop
+description: According to Google Street View, this closed down by August 2020.
 photo: https://www.flickr.com/photos/kake_pugh/34745142864/
 long: 0.021715
 lat: 51.610104
 new: yes
 secondhand: no
 charity: no
-open: yes
+open: no
 checked: June 2017
 ---
 id: village-books-wandsworth-common
@@ -3933,9 +3983,9 @@ open: yes
 id: watermark-books-kings-cross
 name: Watermark Books
 address: King's Cross Station
-description: <a href="https://www.thebookseller.com/news/watermark-kings-cross-close">Closed down at the end of July 2015</a>.
+description: <a href="http://web.archive.org/web/20210224194940/https://www.thebookseller.com/news/watermark-kings-cross-close">Closed down at the end of July 2015</a>.
 tol: http://www.tiredoflondontiredoflife.com/2012/06/buy-books-at-watermark.html
-bookseller: http://www.thebookseller.com/news/watermark-lands-kings-cross.html
+bookseller: http://web.archive.org/web/20141221192903/http://www.thebookseller.com/news/watermark-lands-kings-cross
 lat: 51.532104
 long: -0.123719
 new: yes
@@ -4131,8 +4181,8 @@ checked: September 2017
 id: watkins-books-cecil-court
 name: Watkins Books
 address: 19-21 Cecil Court, Covent Garden, WC2N 4EZ
-description: Esoteric bookshop on <a href="http://cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
-photo: https://www.flickr.com/photos/kake_pugh/30004563224/
+description: Esoteric bookshop on <a href="https://www.cecilcourt.co.uk/">Cecil Court</a>, a small lane running between Charing Cross Road and St Martin's Lane with several other specialist/rare/antiquarian bookshops.
+photo: https://www.flickr.com/photos/grepnold/51125703416/
 londonbooks: http://londonbooks.tumblr.com/post/133260173646/
 website: http://www.watkinsbooks.com/
 phone: 020 7836 2182
@@ -4142,7 +4192,7 @@ new: yes
 secondhand: yes
 charity: no
 open: yes
-checked: October 2016
+checked: April 2021
 ---
 id: wellington-arch-bookshop
 name: Wellington Arch Bookshop
@@ -4158,7 +4208,7 @@ long: -0.15079835
 id: wellspring-bookshop
 name: Wellspring Bookshop
 address: 5 New Oxford Street, WC1A 1BA
-website: http://www.wellspringbookshop.co.uk/
+website: https://www.wellspringbookshop.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/6447218629/
 description: Closed in June 2015, but continued to trade online.
 long: -0.123674
@@ -4172,7 +4222,7 @@ checked: February 2013
 id: west-end-lane-books
 name: West End Lane Books
 address: 277 West End Lane, NW6 1QS
-website: http://welbooks.co.uk/the_shop/
+website: https://www.welbooks.co.uk/
 twitter: WELBooks
 londonist: http://londonist.com/2009/03/biblio-text_west_end_lane_books.php
 tol: http://www.tiredoflondontiredoflife.com/2011/09/buy-books-at-west-end-lane-books.html
@@ -4335,13 +4385,12 @@ checked: April 2017
 id: works-croydon-north-end
 name: The Works (North End, Croydon)
 address: 145-147 North End, Croydon, CR0 1TN
-description: Discount books.
-website: https://www.theworks.co.uk/store/1058_croydon
-cgc: http://croydon.randomness.org.uk/wiki.cgi?The_Works,_145-147_North_End
+description: Branch of a discount bookselling chain; closed down some time between December 2019 and October 2023 (see <a href="https://www.flickr.com/photos/kake_pugh/53228765230/">photo of empty premises in October 2023</a>).
+cgc: http://croydon.randomness.org.uk/wiki.cgi?145-147_North_End
 photo: https://www.flickr.com/photos/kake_pugh/41992827304/
 lat: 51.377547
 long: -0.10238890
-open: yes
+open: no
 checked: June 2018
 ---
 id: works-twickenham
@@ -4375,8 +4424,7 @@ checked: October 2014
 id: amwell-book-company
 name: Amwell Book Company
 address: 53 Amwell Street, EC1R 1UR
-description: Previously at 53 Amwell Street, EC1R 1UR, this bookshop <a href="http://web.archive.org/web/20111004014317/http://www.islingtontribune.com:80/news/2011/sep/amwell-bookshop-loses-battle-survive-hectic-age-online-browsers">closed to drop-in visitors</a> at the beginning of October 2011 and now trades online only.
-website: http://www.amwellbookcompany.co.uk/
+description: Previously at 53 Amwell Street, EC1R 1UR, this bookshop <a href="http://web.archive.org/web/20111004014317/http://www.islingtontribune.com:80/news/2011/sep/amwell-bookshop-loses-battle-survive-hectic-age-online-browsers">closed to drop-in visitors</a> at the beginning of October 2011 and moved to online trading only.
 long: -0.110614
 lat: 51.529465
 open: no

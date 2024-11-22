@@ -1,0 +1,115 @@
+[% subtitle = entity.name | html %]
+[% subtitle_class = "entity_name" %]
+[% INCLUDE header.tt %]
+
+[% IF entity.photo_url %]
+  <div id="entity_info" class="entity_info_with_photo">
+[% ELSE %]
+  <div id="entity_info">
+[% END %]
+  <table>
+  <tr class="entity_status">
+    <th>Status:</th>
+    <td>
+      [% IF entity.open %]
+        Still in existence
+        [% IF entity.checked %]
+          (last checked in [% entity.checked %])
+        [% ELSE %]
+          (as far as we know, but not recently checked)
+        [% END %]
+      [% ELSE %]
+        Closed permanently
+          [% IF entity.closed_date %]([% entity.closed_date | html %])[% END %]
+          [% IF entity.demolished %] and demolished[% END %]
+      [% END %]
+    </td>
+  </tr>
+  <tr class="entity_address">
+    <th>Address:</th>
+    <td>
+      [% entity.address | html %]
+      [% IF entity.os_x AND entity.os_y %]
+        (<a href="https://streetmap.co.uk/map.srf?x=[% entity.os_x | html %]&amp;y=[% entity.os_y | html %]">streetmap</a>)
+      [% END %]
+      [% IF entity.lat_and_long %]
+        (<a href="https://www.openstreetmap.org/?mlat=[% entity.lat | html %]&amp;mlon=[% entity.long | html %]&amp;zoom=15">osm</a>)
+        (<a href="https://maps.google.co.uk/maps?q=[% FILTER replace( '\s', '+' ) %][% node_name %][% END %]@[% entity.lat %],[% entity.long %]&amp;z=15">gmap</a>)
+        (<a href="https://maps.google.co.uk/maps?q=[% entity.lat %],[% entity.long %]&amp;cbll=[% entity.lat %],[% entity.long %]&amp;layer=c&amp;cbp=12,0,,0,5">streetview</a>)
+      [% END %]
+    </td>
+  </tr>
+  [% IF entity.phone %]
+    <tr class="entity_phone">
+      <th>Phone number:</th>
+      <td>[% entity.phone | html %]</td>
+    </tr>
+  [% END %]
+  [% IF entity.website %]
+    <tr class="entity_website">
+      <th>Website:</th>
+      <td><a href="[% entity.website | html %]">Website</a></td>
+    </tr>
+  [% END %]
+  [% IF entity.blog %]
+    <tr class="entity_blog">
+      <th>Blog:</th>
+      <td><a href="[% entity.blog | html %]">Blog</a></td>
+    </tr>
+  [% END %]
+  [% IF entity.twitter %]
+    <tr class="entity_twitter">
+      <th>Twitter:</th>
+      <td><a href="https://twitter.com/[% entity.twitter | html %]">@[% entity.twitter | html %]</a></td>
+    </tr>
+  [% END %]
+  [% IF entity.has_links %]
+    <tr class="entity_links"><th>Links:</th>
+    <td><ul>
+      [% FOREACH link IN entity.links.pairs %]
+        <li><a href="[% link.value | html %]">[% link.key | html %]</a></li>
+      [% END %]
+    </ul></td></tr>
+  [% END %]
+  [% IF entity.description %]
+    <tr class="entity_description">
+      <th>Notes:</th>
+      <td>[% entity.description %]</td>
+    </tr>
+  [% END %]
+  </table>
+</div>
+
+<div id="entity_photo">
+  [% IF entity.photo_url %]
+    <div id="photo">
+      <a href="[% entity.photo | html %]"><img class="entity_photo" src="[% entity.photo_url | html %]" width="[% entity.photo_width | html %]" height="[% entity.photo_height | html %]"></a>
+    </div>
+    [% IF entity.photo_copyright AND entity.photo_license %]
+      <div id="photo_copyright">
+        [% IF entity.photo_license == "https://creativecommons.org/publicdomain/zero/1.0/" %]
+	  <a href="[% entity.photo_license %]">Public domain image</a>
+	[% ELSE %]
+          <a href="[% entity.photo | html %]">Photo &copy;
+          [% entity.photo_copyright | html %]</a>
+          (used under <a href="[% entity.photo_license %]">Creative
+	  Commons</a>)
+	[% END %]
+      </div>
+    [% ELSE %]
+      [% IF entity.photo == "https://www.flickr.com/photos/90117465@N00/53128762212/" OR entity.photo == "https://www.flickr.com/photos/90117465@N00/53137665407/" %]
+        <div id="photo_copyright">
+          <a href="[% entity.photo | html %]">Photo &copy; Bec </a> (used by
+	  permission)
+        </div>
+      [% END %]
+    [% END %]
+    [% IF entity.photo_date %]
+      <div id="entity_photo_date">
+        Photo taken in [% entity.photo_date | html %]
+      </div>
+    [% END %]
+  [% END %]
+</div>
+
+[% INCLUDE footer.tt %]
