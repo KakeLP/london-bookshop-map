@@ -602,15 +602,15 @@ open: yes
 checked: December 2012
 ---
 id: books-for-amnesty
-name: Books For Amnesty
+name: Books For Amnesty (Hammersmith)
 address: 175 King Street, W6 9JT
 phone: 020 8222 8158
 website: https://www.amnesty.org.uk/second-hand-bookshop-hammersmith
-description: Secondhand bookshop with profits going to Amnesty International. Previously at 139b King Street (<a href="http://www.flickr.com/photos/kake_pugh/3649058402/">photo</a>); moved to 181 King Street in 2015, then to 175 King Street (date unknown).
+description: Secondhand bookshop with profits going to Amnesty International. Previously at 139b King Street (<a href="http://www.flickr.com/photos/kake_pugh/3649058402/">photo</a>); moved to 181 King Street in 2015 (<a href="https://www.flickr.com/photos/kake_pugh/24888632979/">photo</a>), then to 175 King Street (date unknown).
 rgl: https://london.randomness.org.uk/wiki.cgi?Books_For_Amnesty,_W6_9JT
 photo: https://www.flickr.com/photos/herzbube/54137951125/in/album-72177720321925824/
-lat: 51.4925571
-long: -0.2355067
+lat: 51.492596
+long: -0.2329170
 new: no
 secondhand: yes
 charity: yes
@@ -618,14 +618,14 @@ open: yes
 checked: November 2024
 ---
 id: books-for-amnesty-kentish-town
-name: Books For Amnesty
+name: Books For Amnesty (Kentish Town)
 address: 308 Kentish Town Road, NW5 2TH
-phone: 0207 4280134
+phone: 020 7428 0134
 website: https://www.amnesty.org.uk/second-hand-bookshop-kentish-town
 description: Secondhand bookshop with profits going to Amnesty International.
 photo: https://www.flickr.com/photos/herzbube/54137951135/in/album-72177720321925824/
-lat: 51.5515936
-long: -0.1433362
+lat: 51.5513973
+long: -0.1406967
 new: no
 secondhand: yes
 charity: yes
@@ -2579,7 +2579,7 @@ name: National Theatre Bookshop
 address: National Theatre, Upper Ground, South Bank, SE1 9PX
 website: https://shop.nationaltheatre.org.uk/
 twitter: NTBookshop
-phone: 0207 452 3456
+phone: 020 7452 3456
 description: Playtexts and specialist performing arts titles.
 londonbooks: http://londonbooks.tumblr.com/post/145799466196/
 lat: 51.506874
@@ -2771,8 +2771,8 @@ id: owl-bookshop
 name: Owl Bookshop
 address: 207-209 Kentish Town Road, NW5 2JU
 twitter: OwlBookshop
-long: -0.1442833
-lat: 51.5472073
+lat: 51.5471991
+long: -0.1416860
 photo: https://www.flickr.com/photos/kake_pugh/8200332731/
 new: yes
 secondhand: unknown
