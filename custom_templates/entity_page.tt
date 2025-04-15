@@ -57,12 +57,6 @@
       <td><a href="[% entity.blog | html %]">Blog</a></td>
     </tr>
   [% END %]
-  [% IF entity.twitter %]
-    <tr class="entity_twitter">
-      <th>Twitter:</th>
-      <td><a href="https://twitter.com/[% entity.twitter | html %]">@[% entity.twitter | html %]</a></td>
-    </tr>
-  [% END %]
   [% IF entity.has_links %]
     <tr class="entity_links"><th>Links:</th>
     <td><ul>
