@@ -282,17 +282,17 @@ phone: 020 8650 9744
 id: belgravia-books
 name: Belgravia Books
 address: 59 Ebury Street, SW1W 0NZ
-website: http://www.belgraviabooks.com/
-twitter: BelgraviaB
+website: http://web.archive.org/web/20220308160730/http://www.belgraviabooks.com/
 reading_matters: http://web.archive.org/web/20120711022026/http://kimbofo.typepad.com/readingmatters/2012/02/a-visit-to-belgravia-books-london.html
 londonbooks: http://londonbooks.tumblr.com/post/127932057861/
+description: This moved around the corner to 12 Eccleston Street in 2021, and then <a href="https://www.instagram.com/p/C30TDv3LjGL/">closed permanently</a> around the start of 2024.
 lat: 51.495122
 long: -0.14798900
 new: yes
 secondhand: no
 checked: February 2012
 charity: no
-open: yes
+open: no
 ---
 id: bernard-quaritch-mayfair
 name: Bernard Quaritch
@@ -1356,7 +1356,7 @@ checked: August 2019
 id: burley-fisher-books-dalston
 name: Burley Fisher Books
 address: 400 Kingsland Road, Dalston, E8 4AA
-website: http://www.burleyfisherbooks.com/
+website: https://burleyfisherbooks.com/
 twitter: BurleyFisher
 phone: 020 7249 2263
 photo: https://www.flickr.com/photos/kake_pugh/28908955995/
@@ -1890,7 +1890,7 @@ lat: 51.579580
 long: -0.12390652
 locales: Crouch End, N8
 photo: https://www.flickr.com/photos/kake_pugh/9461843016/
-hamhigh: http://www.hamhigh.co.uk/news/new-chapter-for-crouch-end-book-store-1-630698
+hamhigh: http://web.archive.org/web/20201125001558/https://www.hamhigh.co.uk/news/new-chapter-for-crouch-end-book-store-1-630698
 open: yes
 checked: August 2013
 ---
@@ -2219,7 +2219,7 @@ checked: October 2014
 id: koenig-books-serpentine
 name: Koenig Books (Serpentine Gallery)
 address: Serpentine Gallery, Kensington Gardens, W2 3XA
-website: https://www.serpentinegalleries.org/visit/the-serpentine-shop/
+website: https://www.serpentinegalleries.org/visit/serpentine-shop/
 lat: 51.504718
 long: -0.17497578
 new: unknown
@@ -2362,20 +2362,19 @@ charity: no
 open: no
 checked: December 2012
 ---
-id: lutyens-and-rubinstein
-name: Lutyens and Rubinstein
+id: daunt-books-notting-hill
+name: Daunt Books (Notting Hill)
 address: 21 Kensington Park Road, W11 2EU
-website: https://landrbookshop.co.uk/
-twitter: LandRBookshop
+website: https://dauntbooks.co.uk/shops/notting-hill/
 photo: https://www.flickr.com/photos/kake_pugh/16742839461/
-tol: http://www.tiredoflondontiredoflife.com/2010/06/browse-for-books-at-lutyens-and.html
+description: Formerly Lutyens &amp; Rubinstein (as pictured here; see <a href="https://www.theguardian.com/books/booksblog/2016/mar/28/interview-with-a-bookstore-londons-lutyens-and-rubinstein"><i>Guardian</i> article</a>), this was <a href="https://www.thebookseller.com/news/daunt-books-takes-over-ownership-of-the-lutyens--rubinstein-bookshop">bought by Daunt Books in 2023</a> and then <a href="https://www.facebook.com/dauntbooks/posts/say-hello-to-our-newest-store-in-notting-hill/1048737433940831/">rebranded to match the rest of the chain</a> in early 2025.
 long: -0.205640
 lat: 51.515060
-new: unknown
+new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: March 2015
+checked: February 2025
 ---
 id: maggs-bros-bloomsbury
 name: Maggs Bros (Bloomsbury)
@@ -2565,7 +2564,7 @@ name: New Beacon Books
 address: 76 Stroud Green Road, N4 3EN
 photo: https://www.flickr.com/photos/kake_pugh/29501365354/
 londonbooks: http://londonbooks.tumblr.com/post/148582872151/
-inews: https://inews.co.uk/essentials/culture/books/best-books-black-history-black-british-authors-recommended-uks-first-black-bookshop/
+inews: http://web.archive.org/web/20170404124157/https://inews.co.uk/essentials/culture/books/best-books-black-history-black-british-authors-recommended-uks-first-black-bookshop/
 long: -0.109885
 lat: 51.568359
 new: unknown
