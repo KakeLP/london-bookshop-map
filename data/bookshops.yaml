@@ -27,6 +27,20 @@ checked: July 2008
 charity: no
 open: yes
 ---
+id: abney-books
+name: Abney Books
+address: 213 Stoke Newington High Street, N16 0LH
+locales: Stoke Newington, N16
+website: https://abneybooks.com/
+description: Second-hand bookshop, opened in September 2024.
+lat: 51.563243
+long: -0.073348
+new: unknown
+secondhand: yes
+checked: April 2025
+charity: no
+open: yes
+---
 id: alice-through-the-looking-glass-cecil-court
 name: Alice Through The Looking Glass
 address: 14 Cecil Court, Covent Garden, WC2N 4HE
@@ -350,6 +364,7 @@ checked: September 2019
 id: black-gull-books-east-finchley
 name: Black Gull Books (East Finchley)
 address: 121 High Road, N2 8AG
+description: Closed down in early 2024 (see <a href="http://www.the-archer.co.uk/archive/2024/2024Mar07.pdf">PDF from the March 2024 issue of The Archer magazine</a>).
 rgl: https://london.randomness.org.uk/wiki.cgi?Black_Gull_Books,_N2_8AG
 photo: https://www.flickr.com/photos/kake_pugh/9458010537/
 lat: 51.590736
@@ -357,7 +372,7 @@ long: -0.164945
 new: no
 secondhand: yes
 charity: no
-open: yes
+open: no
 checked: August 2013
 ---
 id: blackwells-holborn
@@ -879,13 +894,13 @@ open: yes
 ---
 id: brockley-bookshop-crofton-park
 name: Crofton Books
-address: 375 Brockley Road, Crofton Park, SE4 2AG
+address: 315 Brockley Road, SE4 2QZ
 twitter: CroftonBooks
-phone: 020 7998 8387
-description: Vintage bookshop based in Crofton Park Library.
+description: Previously based in Crofton Park Library, but moved to its own space just up the road around 2021.
 thebookguide: http://web.archive.org/web/20170708041825/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=2607
-lat: 51.455444
-long: -0.036611751
+ell: https://www.eastlondonlines.co.uk/2024/12/meet-the-trader-crofton-books-a-bookshop-for-everyone/
+lat: 51.459551
+long: -0.033790
 new: unknown
 secondhand: yes
 charity: no
@@ -2534,16 +2549,17 @@ checked: January 2010
 id: muswell-hill-bookshop
 name: Muswell Hill Bookshop
 address: 72 Fortis Green Road, N10 3HN
-website: http://www.muswellhillbookshop.com/
+website: https://web.archive.org/web/20200111071538/http://www.muswellhillbookshop.com/
 twitter: muswellhillbks
 londonist: https://londonist.com/2009/02/biblio-text_muswell_hill_bookshop
 photo: https://www.flickr.com/photos/kake_pugh/9460767036/
+description: Now closed.  According to Google Street View, by November 2020 it was advertising a closing-down sale, and by April 2021 it had closed.
 long: -0.146041
 lat: 51.590096
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: August 2013
 ---
 id: my-back-pages-balham
