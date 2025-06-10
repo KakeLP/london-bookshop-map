@@ -53,6 +53,16 @@ long: -0.127826
 open: yes
 checked: April 2021
 ---
+id: all-good-bookshop
+name: The All Good Bookshop
+address: 35 Turnpike Lane, Wood Green, N8 0EP
+website: https://allgoodbookshop.co.uk/
+description: Independent bookshop.
+lat: 51.589666
+long: -0.105953
+open: yes
+checked: June 2025
+---
 id: alligators-mouth-richmond
 name: The Alligator's Mouth
 address: 2a Church Court, Richmond, TW9 1JL
@@ -235,6 +245,18 @@ charity: no
 open: yes
 checked: September 2017
 ---
+id: bard-books
+name: Bàrd Books
+address: 341–343 Roman Road, E3 5QR
+website: https://www.wearebardbooks.co.uk/
+description: Independent bookshop with a cafe/bar area and regular events.  Opened in July 2024.
+romanroadldn: https://romanroadlondon.com/bard-books-independent-shop-bow-opens/
+nelondoner: https://www.nelondoner.co.uk/life/05032025-tower-hamlets-bookshop-earns-national-award-nomination-only-eight-months-after-opening
+lat: 51.531029
+long: -0.039680
+open: yes
+checked: June 2025
+---
 id: barnards-bookshop-uxbridge
 name: Barnard's Bookshop
 address: 50 Windsor Street, Uxbridge, UB8 1AB
@@ -335,9 +357,9 @@ id: big-green-bookshop
 name: Big Green Bookshop
 address: Unit 1, Brampton Park Road, Wood Green, N22 6BG
 website: http://www.biggreenbookshop.com/
+description: Physical premises closed down in January 2019, moving to online sales only.
 blog: http://woodgreenbookshop.blogspot.com/
 twitter: BigGreenBooks
-phone: 020 8881 6767
 photo: https://flickr.com/photos/kake_pugh/2570192318/
 rgl: https://london.randomness.org.uk/wiki.cgi?Big_Green_Bookshop
 lat: 51.592432
@@ -346,7 +368,7 @@ new: yes
 secondhand: unknown
 checked: December 2012
 charity: no
-open: yes
+open: no
 ---
 id: black-gull-books-camden
 name: Black Gull Books (Camden)
@@ -3399,6 +3421,17 @@ new: yes
 secondhand: yes
 charity: no
 open: yes
+---
+id: scarlett-letters
+name: The Scarlett Letters
+address: 140 Cambridge Heath Road, Bethnal Green, E1 5QJ
+description: Self-described as “a non-profit community interest company and a proudly radical, independent bookstore dedicated to platforming marginalised voices”.  According to their website, the main trading space is step-free accessible via a ramp.  They also host events and exhibitions.
+website: https://www.scarlettletters.co.uk/
+bethnalgreenldn: https://bethnalgreenlondon.co.uk/the-scarlett-letters-radical-bookshop-cambridge-heath-rd-opens/
+lat: 51.524091
+long: -0.054754
+open: yes
+checked: June 2025
 ---
 id: school-of-life-bloomsbury
 name: School Of Life
