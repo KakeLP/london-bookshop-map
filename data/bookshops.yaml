@@ -375,12 +375,13 @@ name: Black Gull Books (Camden)
 address: 70-71 Camden Lock Place, Camden Lock Market, NW1 8AF
 photo: https://www.flickr.com/photos/kake_pugh/48676221801/
 londonbooks: http://londonbooks.tumblr.com/post/109142890441/black-gull-books-nw1-fight-through-the-crowds
+description: Closed down at some point — the last time we saw it open was September 2019.  It was replaced by “sister shop” Boom Cat Books, but this itself closed down in February 2025 (according to <a href="https://www.instagram.com/p/DNRQEPPIegX/">an Instagram post by the ex-manager of Boom Cat</a>). 
 lat: 51.541279
 long: -0.146556
 new: unknown
 secondhand: unknown
 charity: no
-open: yes
+open: no
 checked: September 2019
 ---
 id: black-gull-books-east-finchley
@@ -892,7 +893,7 @@ name: Book Mongers
 address: 439 Coldharbour Lane, SW9 8LN
 website: http://www.bookmongers.com/
 rgl: https://london.randomness.org.uk/wiki.cgi?Brixton_Book_Mongers
-brixtonblog: https://brixtonblog.com/2022/02/brixtons-magical-shop-of-books-cats-and-dogs/
+brixtonblog: https://web.archive.org/web/20250212130716/https://brixtonblog.com/2022/02/brixtons-magical-shop-of-books-cats-and-dogs/
 photo: https://www.flickr.com/photos/kake_pugh/2809290205/
 lat: 51.461426
 long: -0.113833
@@ -3924,6 +3925,15 @@ charity: no
 open: no
 checked: October 2011
 ---
+id: unsworths-books-walthamstow
+name: Unsworths Books
+address: 74 Hoe Street, Walthamstow, E17 4PG
+lat: 51.589018
+long: -0.019780
+description: Antiquarian and second-hand bookshop.
+secondhand: yes
+open: yes
+---
 id: v-and-a-reading-rooms
 name: V & A Reading Rooms
 address: 8 Exhibition Road, SW7 2HF
@@ -4329,15 +4339,14 @@ checked: October 2013
 id: willesden-bookshop
 name: Willesden Bookshop
 address: c/o 9 Highgate High Street, N6 5JR
-description: Multicultural children's books.  Previously at the Willesden Green Library Centre, 95 High Road, NW10 4QU.
+description: According to Companies House documents, the company behind the Willesden Bookshop was voluntarily wound up in early 2025.  It previously sold multicultural children's books, and was located at the Willesden Green Library Centre, 95 High Road, NW10 4QU, before moving to share premises with the <a href="/shops/highgate-bookshop.html">Highgate Bookshop</a>.
 lat: 51.570242
 long: -0.146111
-website: http://willesdenbookshop.co.uk/
 tol: http://www.tiredoflondontiredoflife.com/2011/12/buy-books-at-willesden-bookshop.html 
 new: yes
 secondhand: unknown
 charity: no
-open: yes
+open: no
 ---
 id: wimbledon-books-and-music
 name: Wimbledon Books
