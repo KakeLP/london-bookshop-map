@@ -3286,18 +3286,31 @@ open: yes
 checked: April 2021
 ---
 id: quinto-charing-cross-road
-name: Quinto
+name: Quinto (Charing Cross Road)
 address: 48A Charing Cross Road, WC2H 0BB
 website: http://quintobookshop.co.uk/
 twitter: QuintoBookshop
 photo: http://www.flickr.com/photos/kake_pugh/2391466584/
-description: Previously at 48A Charing Cross Road (pictured), it moved to number 72 on 23 March 2010.  In March 2020 it <a href="https://quinto-bookshop.co.uk/about/">moved online only</a> after expiry of its lease, and Henry Pordes Books took over number 72.  <a href="http://www.francisedwards.co.uk/">Francis Edwards</a>, which had shared number 72 with Quinto, continued to trade from its Hay-on-Wye premises only.
+description: Previously at 48A Charing Cross Road (pictured), it moved to number 72 on 23 March 2010.  In March 2020 it <a href="http://web.archive.org/web/20210426182312/https://quinto-bookshop.co.uk/about/">moved online only</a> after expiry of its lease, and Henry Pordes Books took over number 72.  <a href="http://www.francisedwards.co.uk/">Francis Edwards</a>, which had shared number 72 with Quinto, continued to trade from its Hay-on-Wye premises only.  However, <a href="http://web.archive.org/web/20250207055942/https://quinto-bookshop.co.uk/about/">in June 2024</a>, Quinto moved back into bricks-and-mortar at <a href="/shops/quinto-leyton.html">new premises in Leyton</a>.
 lat: 51.511779
 long: -0.128402
 new: unknown
 secondhand: unknown
 charity: no
 open: no
+---
+id: quinto-leyton
+name: Quinto Bookshop (Leyton)
+address: 679 Leyton High Road, E10 6RA
+website: https://quinto-bookshop.co.uk/
+lat: 51.571492
+long: -0.008581
+description: Second-hand and collectible books.  Previously operating <a href="/shops/quinto-charing-cross-road.html">on Charing Cross Road</a>.  Reopened here <a href="http://web.archive.org/web/20250207055942/https://quinto-bookshop.co.uk/about/">in June 2024</a>.
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+checked: September 2025
 ---
 id: r-a-gekoski
 name: R A Gekoski
