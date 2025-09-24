@@ -2569,6 +2569,19 @@ charity: no
 open: yes
 checked: January 2010
 ---
+id: muswell-hill-books-and-parlour
+name: Muswell Hill Books and Parlour
+address: 190 Fortis Green Road, Muswell Hill, N10 3DU
+website: https://www.muswellhillbooks.co.uk/
+description: Second-hand books, art, records.  It <a href="https://www.timeout.com/london/news/the-new-second-hand-bookshop-that-has-opened-in-an-old-north-london-funeral-parlour-090925">opened in September 2025</a>.
+lat: 51.591033
+long: -0.148151
+new: unknown
+secondhand: yes
+charity: no
+open: yes
+checked: September 2025
+---
 id: muswell-hill-bookshop
 name: Muswell Hill Bookshop
 address: 72 Fortis Green Road, N10 3HN
