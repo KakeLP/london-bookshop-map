@@ -219,6 +219,30 @@ charity: no
 open: yes
 checked: February 2013
 ---
+id: bookbar-chelsea
+name: BookBar (Chelsea)
+address: 11 Chelsea Manor Street, SW3 3TW
+website: https://www.bookbaruk.com/
+description: Bookshop, wine bar, and events space.  The original branch is <a href="/shops/bookbar-blackstock-road.html">on Blackstock Road</a>.
+lat: 51.488103
+long: -0.168024
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
+id: bookbar-blackstock-road
+name: BookBar (Islington)
+address: 166 Blackstock Road, Highbury, N5 1HA
+website: https://www.bookbaruk.com/
+description: Bookshop, wine bar, and events space.  It also has a branch <a href="/shops/bookbar-chelsea.html">in Chelsea</a>.
+lat: 51.560268
+long: -0.098689
+new: yes
+secondhand: unknown
+charity: no
+open: yes
+---
 id: bookshop-at-chelsea-harbour-design-centre
 name: The Bookshop At
 address: Chelsea Harbour Design Centre, Harbour Road, Fulham, SW10 0XE
