@@ -953,6 +953,15 @@ secondhand: yes
 charity: no
 open: yes
 ---
+id: brunswick-bookshop
+name: Brunswick Bookshop
+address: Unit 18, The Brunswick Centre, WC1N 1AW
+website: http://www.thehouseofbooks.co.uk/
+description: Part of the House of Books group.
+lat: 51.524055
+long: -0.123726
+open: yes
+---
 id: bryars-and-bryars-cecil-court
 name: Bryars & Bryars
 address: 7 Cecil Court, Covent Garden, WC2N 4EZ
@@ -997,6 +1006,15 @@ secondhand: yes
 charity: no
 open: no
 checked: July 2016
+---
+id: camden-town-bookshop
+name: Camden Town Bookshop
+address: 21-22 Chalk Farm Road, NW1 8AG
+website: http://www.thehouseofbooks.co.uk/
+description: Part of the House of Books group.
+lat: 51.542374
+long: -0.146674
+open: yes
 ---
 id: childrens-bookshop-hornsey-road
 name: Children's Bookshop (Hornsey Road)
@@ -1946,15 +1964,31 @@ charity: no
 open: no
 ---
 id: house-of-books
-name: House Of Books
-address: 39 The Broadway, N8 8DT
-lat: 51.579580
-long: -0.12390652
-locales: Crouch End, N8
-photo: https://www.flickr.com/photos/kake_pugh/9461843016/
+name: House Of Books (Crouch End)
+address: 42 The Broadway, N8 9SU
+description: Bookshop in Crouch End.  It was previously located at number 39 (see <a href="https://www.flickr.com/photos/kake_pugh/9461843016/">photo from 2013</a>) and then at number 28, and later at number 42.
+website: http://www.thehouseofbooks.co.uk/
 hamhigh: http://web.archive.org/web/20201125001558/https://www.hamhigh.co.uk/news/new-chapter-for-crouch-end-book-store-1-630698
+lat: 51.579436
+long: -0.123641
+locales: Crouch End, N8
 open: yes
-checked: August 2013
+---
+id: house-of-books-muswell-hill
+name: House Of Books (Muswell Hill)
+address: 123 Muswell Hill Broadway, N10 3RS
+website: http://www.thehouseofbooks.co.uk/
+lat: 51.590467
+long: -0.143484
+open: yes
+---
+id: house-of-books-west-hampstead
+name: House Of Books (West Hampstead)
+address: 184 West End Lane, NW6 1SG
+website: http://www.thehouseofbooks.co.uk/
+lat: 51.549563
+long: -0.191351
+open: yes
 ---
 id: house-of-hodge
 name: House Of Hodge
@@ -3565,8 +3599,8 @@ website: http://www.skoob.com/
 photo: https://www.flickr.com/photos/rjw1/8269893404/
 tol: http://www.tiredoflondontiredoflife.com/2011/06/buy-books-at-skoob.html
 londonbooks: http://londonbooks.tumblr.com/post/110187297861/skoob-books-wc1n-id-heard-good-things-but-i-was
-long: -0.123903
-lat: 51.524128
+lat: 51.525140
+long: -0.124432
 new: no
 secondhand: yes
 charity: no
@@ -3982,6 +4016,15 @@ lat: 51.589018
 long: -0.019780
 description: Antiquarian and second-hand bookshop.
 secondhand: yes
+open: yes
+---
+id: upper-street-bookshop
+name: Upper Street Bookshop
+address: 42 Upper Street, N1 0PN
+website: http://www.thehouseofbooks.co.uk/
+description: Part of the House of Books group.
+lat: 51.534943
+long: -0.104797
 open: yes
 ---
 id: v-and-a-reading-rooms
