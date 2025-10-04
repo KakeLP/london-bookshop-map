@@ -801,14 +801,13 @@ id: book-warehouse-camden-town
 name: Book Warehouse (Camden Town)
 address: 155 Camden High Street, NW1 7JY
 photo: https://www.flickr.com/photos/kake_pugh/21174860282/
-website: http://www.thebookwarehouse.co.uk/
-phone: 020 7482 4375
+description: Closed down, most likely in mid-2017 (Google Street View imagery from June 2017 shows it with a “closing down” sign in the window, and imagery from March 2018 shows a hardware shop in its place).
 lat: 51.538113
 long: -0.14210840
 new: yes
 secondhand: no
 charity: no
-open: yes
+open: no
 checked: September 2015
 ---
 id: book-warehouse-holborn
