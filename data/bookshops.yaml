@@ -190,18 +190,29 @@ open: yes
 checked: October 2018
 ---
 id: artwords
-name: Artwords
-address: 69 Rivington Street, EC2A 3QQ
+name: Artwords (Broadway Market)
+address: 20-22 Broadway Market, E8 4JQ
 website: https://www.artwords.co.uk/
-photo: https://www.flickr.com/photos/kake_pugh/28124749104/
-londonist: http://londonist.com/2009/09/biblio-text_artwords.php
-lat: 51.526207
-long: -0.080917
-new: unknown
+londonist: https://londonist.com/2009/09/biblio-text_artwords
+description: Also has a branch <a href="/shops/artwords-hackney.html">in Hackney</a>.  Previously also had a branch at 69 Rivington Street (<a href="https://www.flickr.com/photos/kake_pugh/28124749104/">photo</a>), but <a href="https://www.instagram.com/p/CTkIPZXisdM/">that one closed down around 2021–2022</a>.
+lat: 51.536180
+long: -0.061889
+new: yes
 secondhand: unknown
 charity: no
 open: yes
-checked: July 2016
+---
+id: artwords-hackney
+name: Artwords (Hackney)
+address: 2-4 Clarence Road, E5 8HB
+website: https://www.artwords.co.uk/
+description: Also has a branch <a href="/shops/artwords.html">on Broadway Market</a>.
+lat: 51.549803
+long: -0.054925
+new: yes
+secondhand: unknown
+charity: no
+open: yes
 ---
 id: atlantis-bookshop
 name: Atlantis Bookshop
@@ -504,16 +515,13 @@ open: no
 id: book-and-kitchen-notting-hill
 name: Book and Kitchen
 address: 31 All Saints Road, Notting Hill, W11 1HE
-website: http://www.bookandkitchen.com/
-twitter: BookandKitchen
-phone: 020 3417 8266
-description: Bookshop, cafe, and art gallery.
+description: Book and Kitchen was a bookshop, cafe, and art gallery.  It <a href="https://www.facebook.com/BookandKitchen/posts/dear-customers-book-and-kitchen-will-be-closing-its-doors-at-its-location-in-not/1065540556913962/">closed down in 2017</a>.
 lat: 51.518492
 long: -0.20431647
 new: yes
 secondhand: yes
 charity: no
-open: yes
+open: no
 ---
 id: book-and-record-bar-west-norwood
 name: The Book and Record Bar
@@ -1797,10 +1805,10 @@ open: yes
 checked: September 2019
 ---
 id: guanghwa-books
-name: Guanghwa Books
+name: Guanghwa Bookshop
 address: 112 Shaftesbury Avenue, Chinatown, W1D 5EJ
 description: Books in both Chinese and English.
-website: https://cypressbooks.com/
+website: https://guanghwa.com/
 photo: https://www.flickr.com/photos/kake_pugh/26512600106/
 description: Previously at 7 Newport Place, WC2H 7JR.
 lat: 51.512340
@@ -3509,12 +3517,11 @@ open: yes
 id: scarlett-letters
 name: The Scarlett Letters
 address: 140 Cambridge Heath Road, Bethnal Green, E1 5QJ
-description: Self-described as “a non-profit community interest company and a proudly radical, independent bookstore dedicated to platforming marginalised voices”.  According to their website, the main trading space is step-free accessible via a ramp.  They also host events and exhibitions.
-website: https://www.scarlettletters.co.uk/
+description: <a href="https://www.the-londoner.co.uk/scarlett-letters-closure-left-wing-bookshop/">Closed down in mid-2025</a>.  It was self-described as “a non-profit community interest company and a proudly radical, independent bookstore dedicated to platforming marginalised voices”.  According to <a href="http://web.archive.org/web/20250301053649/https://www.scarlettletters.co.uk/">their website</a>, the main trading space was step-free accessible via a ramp.  They also hosted events and exhibitions.
 bethnalgreenldn: https://bethnalgreenlondon.co.uk/the-scarlett-letters-radical-bookshop-cambridge-heath-rd-opens/
 lat: 51.524091
 long: -0.054754
-open: yes
+open: no
 checked: June 2025
 ---
 id: school-of-life-bloomsbury
