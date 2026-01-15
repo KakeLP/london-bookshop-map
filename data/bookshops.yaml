@@ -80,7 +80,7 @@ id: all-you-read-is-love-leytonstone
 name: All You Read Is Love
 address: 877 Leytonstone High Road, E11 1HR
 locales: E11, Leytonstone
-description: This was a bookshop, cafe, and bar.  It <a href="https://twitter.com/allyoureadlove/status/987997402555731968">closed permanently</a> in April 2018.
+description: This was a bookshop, cafe, and bar.  It <a href="http://web.archive.org/web/20230115122731/https://twitter.com/allyoureadlove/status/987997402555731968">closed permanently</a> in April 2018.
 elweguardian: https://www.guardian-series.co.uk/news/11711953.Danish_siblings_bring_Scandinavian_book_cafe_to_Leytonstone/
 leytonstoner: https://www.leytonstoner.london/2015/02/23/read-love-really/
 lat: 51.570393
@@ -165,7 +165,7 @@ id: archive-bookstore
 name: Archive Bookstore
 address: 83 Bell Street, NW1 6TB
 description: Secondhand books and sheet music.
-website: http://www.archivebookstore.co.uk/
+website: https://www.archivebookstore.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/3685228953/
 lat: 51.521667
 long: -0.167102
@@ -180,7 +180,6 @@ name: Arthur Probsthain
 address: 41 Great Russell Street, WC1B 3PE
 description: Asian and African books.
 photo: https://www.flickr.com/photos/kake_pugh/45135847061/
-website: https://www.teaandtattle.com/bookshop
 lat: 51.517921
 long: -0.126815
 new: unknown
@@ -218,9 +217,9 @@ id: atlantis-bookshop
 name: Atlantis Bookshop
 address: 49a Museum Street, WC1A 1LY
 description: Allegedly London's oldest independent occult booksellers.
-website: http://www.theatlantisbookshop.com/
-londonist: http://londonist.com/2009/07/biblio-text_atlantis_bookshop.php
-londonbooks: http://londonbooks.tumblr.com/post/126816086946/
+website: https://www.theatlantisbookshop.com/
+londonist: https://londonist.com/2009/07/biblio-text_atlantis_bookshop
+londonbooks: https://londonbooks.tumblr.com/post/126816086946/
 photo: https://www.flickr.com/photos/rjw1/8512079743/
 lat: 51.517597
 long: -0.125227
@@ -2719,7 +2718,7 @@ checked: September 2019
 id: new-cross-learning
 name: New Cross Learning
 address: 283-285 New Cross Road, SE14 6AS
-website: https://newxlearning.org/bookshop/
+website: https://newxlearning.org/
 description: Second-hand bookshop in a community-run space.
 lat: 51.475433
 long: -0.038587198
@@ -3209,7 +3208,7 @@ open: yes
 id: peter-ellis-cecil-court
 name: Peter Ellis
 address: 18 Cecil Court, Covent Garden, WC2N 4HE
-description: The Peter Ellis shop that was previously on Cecil Court has now closed.  However, as of early 2021 the owner is <a href="https://biblio.co.uk/bookstore/peter-ellis-bookseller-london">still trading from his home</a>.  Modern first editions and general antiquarian stock.
+description: The Peter Ellis shop that was previously on Cecil Court has now closed.  However, as of early 2021 the owner was still trading online from his home.  Modern first editions and general antiquarian stock.
 photo: https://www.flickr.com/photos/kake_pugh/30004558214/
 website: http://www.peterellisbooks.com/
 lat: 51.510744
