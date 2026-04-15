@@ -216,7 +216,7 @@ id: atlantis-bookshop
 name: Atlantis Bookshop
 address: 49a Museum Street, WC1A 1LY
 description: Allegedly London's oldest independent occult booksellers.
-website: https://www.theatlantisbookshop.com/
+website: https://theatlantisbookshop.com/
 londonist: https://londonist.com/2009/07/biblio-text_atlantis_bookshop
 londonbooks: https://londonbooks.tumblr.com/post/126816086946/
 photo: https://www.flickr.com/photos/rjw1/8512079743/
@@ -335,7 +335,7 @@ open: yes
 id: beckenham-bookshop
 name: Beckenham Bookshop
 address: 42 High Street, BR3 1AY
-website: http://www.beckenhambooks.com/
+website: https://www.beckenhambooks.com/
 photo: https://www.flickr.com/photos/kake_pugh/6318029673/
 londonbooks: http://londonbooks.tumblr.com/post/142943802761/beckenham-bookshop-br3-here-we-have-a-marvellous
 lat: 51.409573
@@ -3538,15 +3538,14 @@ checked: December 2012
 id: second-shelf-soho
 name: Second Shelf
 address: 14 Smith's Court, Soho, W1D 7DQ
-website: https://thesecondshelf.com/
 twitter: SecondShelfBks
-description: Focuses on rare books, first editions, and manuscripts by women.
+description: The Second Shelf was a small bookshop in Soho focusing on rare books, first editions, and manuscripts by women.  It seems to have closed — as of 2026 the premises are occupied by an art gallery called the Troubadour Gallery.
 bluestocking: https://web.archive.org/web/20231128165900/https://www.bluestockingbooks.co.uk/single-post/2019/04/05/secret-2-the-new-kid-on-the-block
 lat: 51.511545
 long: -0.13497774
 new: unknown
 secondhand: yes
-open: yes
+open: no
 ---
 id: shalimar-kennington
 name: Shalimar
