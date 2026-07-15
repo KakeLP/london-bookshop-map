@@ -150,7 +150,6 @@ id: a-place-in-space-croydon
 name: A Place In Space
 address: 96 Drummond Road, Croydon, CR0 1TX
 description: Comics and graphic novels.  It was previously located around the corner on Church Street; first at number 101 (<a href="https://www.flickr.com/photos/kake_pugh/6883401397/">photo</a>) and then at number 96 from around 2012-2013 (<a href="https://www.flickr.com/photos/kake_pugh/8479158457/">photo</a>).
-website: https://shop.aplaceinspace.co.uk/
 photo: https://www.flickr.com/photos/rjw1/52662377197/
 lat: 51.3743508
 long: -0.1047798
@@ -323,7 +322,6 @@ checked: July 2013
 id: beaumont-travel-books
 name: Beaumont Travel Books
 address: 33 Couthurst Road, SE3 8TN
-website: http://www.abebooks.com/beaumont-travel-books-aba-ilab-london/10321/sf
 bookdealer: http://www.sheila-markham.com/interviews/gabriel-beaumont.html
 lat: 51.478619
 long: 0.026414
@@ -1003,7 +1001,7 @@ address: 4 St Agnes Well, Old Street Station, EC1Y 1BE
 photo: https://www.flickr.com/photos/kake_pugh/28710530426/
 bookseller: https://www.thebookseller.com/news/camden-lock-books-closes-partly-due-business-rates-pressure-1011181
 thebookguide: http://web.archive.org/web/20120718201326/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=1529
-description: <a href="https://twitter.com/camdenlockbooks/status/1155101981544976384">Closed down for good</a> in July 2019.
+description: <a href="http://web.archive.org/web/20190804130937/https://twitter.com/camdenlockbooks/status/1155101981544976384">Closed down for good</a> in July 2019.
 lat: 51.525593
 long: -0.087569
 new: yes
@@ -2148,7 +2146,6 @@ id: jonathan-potter
 name: Jonathan Potter Ltd
 address: 52a George Street, Marylebone, W1U 7EA
 description: Moved to Bath in Autumn 2015.
-website: http://jpmaps.co.uk/
 thebookguide: http://web.archive.org/web/20160806040755/http://www.inprint.co.uk/thebookguide/shops/multi.php?id=892
 lat: 51.517664
 long: -0.15455653
