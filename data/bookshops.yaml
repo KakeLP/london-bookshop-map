@@ -535,8 +535,9 @@ open: yes
 id: bookartbookshop
 name: Bookartbookshop
 address: 17 Pitfield Street, N1 6HB
-website: http://www.bookartbookshop.com/
+website: https://bookartbookshop.bigcartel.com/
 photo: https://www.flickr.com/photos/kake_pugh/28665103991/
+fourcorners: https://www.fourcornersbooks.co.uk/articles/celebrating-bookartbookshop-in-shoreditch/
 londonbooks: http://londonbooks.tumblr.com/post/153771876566/
 lat: 51.527184
 long: -0.083835
@@ -3438,9 +3439,9 @@ open: no
 id: ripping-yarn
 name: Ripping Yarns
 address: 355 Archway Road, N6 4EJ
-website: http://www.rippingyarns.co.uk/
-description: "Secondhand bookshop specialising in collectable children's and illustrated books.  It closed down on 20 September 2015 due to an unexpected rent increase, but will continue to operate online."
+description: "Secondhand bookshop specialising in collectable children's and illustrated books.  It closed down on 20 September 2015 due to an unexpected rent increase, but continued to operate online for several years."
 photo: https://www.flickr.com/photos/philgyford/127647176/
+islingtontribune: https://www.islingtontribune.co.uk/article/actor-turned-booksellers-life-was-the-real-ripping-yarn
 long: -0.148144
 lat: 51.577885
 new: no
@@ -4069,7 +4070,7 @@ open: no
 id: village-bookshop-woodford-green
 name: Village Bookshop (Woodford)
 address: 475 High Road, IG8 0XE
-rgl: https://london.randomness.org.uk/wiki.cgi?Village_Bookshop
+rgl: https://london.randomness.org.uk/wiki.cgi?Village_Bookshop,_IG8_0XE
 description: According to Google Street View, this closed down by August 2020.
 photo: https://www.flickr.com/photos/kake_pugh/34745142864/
 long: 0.021715
